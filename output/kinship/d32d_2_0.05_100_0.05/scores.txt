@@ -1,0 +1,168 @@
+Score for iteration 100
+Hits@1:  0.0627
+Hits@3:  0.1451
+Hits@5:  0.2032
+Hits@10:  0.3099
+Hits@20:  0.5290
+auc:  0.1489
+
+Score for iteration 200
+Hits@1:  0.2416
+Hits@3:  0.4223
+Hits@5:  0.5206
+Hits@10:  0.6695
+Hits@20:  0.8287
+auc:  0.3751
+
+Score for iteration 300
+Hits@1:  0.3736
+Hits@3:  0.6124
+Hits@5:  0.6966
+Hits@10:  0.7959
+Hits@20:  0.8483
+auc:  0.5163
+
+Score for iteration 400
+Hits@1:  0.4157
+Hits@3:  0.6788
+Hits@5:  0.7687
+Hits@10:  0.8792
+Hits@20:  0.9354
+auc:  0.5697
+
+Score for iteration 500
+Hits@1:  0.4092
+Hits@3:  0.7116
+Hits@5:  0.7987
+Hits@10:  0.8998
+Hits@20:  0.9541
+auc:  0.5818
+
+Score for iteration 600
+Hits@1:  0.4504
+Hits@3:  0.7125
+Hits@5:  0.8127
+Hits@10:  0.9101
+Hits@20:  0.9541
+auc:  0.6067
+
+Score for iteration 700
+Hits@1:  0.4232
+Hits@3:  0.7125
+Hits@5:  0.8118
+Hits@10:  0.9120
+Hits@20:  0.9616
+auc:  0.5924
+
+Score for iteration 800
+Hits@1:  0.4382
+Hits@3:  0.7144
+Hits@5:  0.8202
+Hits@10:  0.9213
+Hits@20:  0.9644
+auc:  0.6023
+
+Score for iteration 900
+Hits@1:  0.4410
+Hits@3:  0.7378
+Hits@5:  0.8474
+Hits@10:  0.9270
+Hits@20:  0.9663
+auc:  0.6103
+
+Score for iteration 1000
+Hits@1:  0.4635
+Hits@3:  0.7528
+Hits@5:  0.8446
+Hits@10:  0.9270
+Hits@20:  0.9691
+auc:  0.6268
+
+Score for iteration 1100
+Hits@1:  0.4635
+Hits@3:  0.7500
+Hits@5:  0.8455
+Hits@10:  0.9316
+Hits@20:  0.9682
+auc:  0.6278
+
+Score for iteration 1200
+Hits@1:  0.4522
+Hits@3:  0.7406
+Hits@5:  0.8483
+Hits@10:  0.9316
+Hits@20:  0.9700
+auc:  0.6205
+
+Score for iteration 1300
+Hits@1:  0.4438
+Hits@3:  0.7537
+Hits@5:  0.8380
+Hits@10:  0.9260
+Hits@20:  0.9719
+auc:  0.6168
+
+Score for iteration 1400
+Hits@1:  0.4850
+Hits@3:  0.7584
+Hits@5:  0.8511
+Hits@10:  0.9298
+Hits@20:  0.9691
+auc:  0.6430
+
+Score for iteration 1500
+Hits@1:  0.4616
+Hits@3:  0.7519
+Hits@5:  0.8530
+Hits@10:  0.9298
+Hits@20:  0.9682
+auc:  0.6263
+
+Score for iteration 1600
+Hits@1:  0.4560
+Hits@3:  0.7566
+Hits@5:  0.8511
+Hits@10:  0.9345
+Hits@20:  0.9757
+auc:  0.6270
+
+Score for iteration 1700
+Hits@1:  0.4719
+Hits@3:  0.7575
+Hits@5:  0.8605
+Hits@10:  0.9391
+Hits@20:  0.9757
+auc:  0.6370
+
+Score for iteration 1800
+Hits@1:  0.4644
+Hits@3:  0.7575
+Hits@5:  0.8614
+Hits@10:  0.9382
+Hits@20:  0.9738
+auc:  0.6302
+
+Score for iteration 1900
+Hits@1:  0.4691
+Hits@3:  0.7725
+Hits@5:  0.8652
+Hits@10:  0.9448
+Hits@20:  0.9794
+auc:  0.6379
+
+Score for iteration 2000
+Hits@1:  0.4579
+Hits@3:  0.7584
+Hits@5:  0.8596
+Hits@10:  0.9345
+Hits@20:  0.9747
+auc:  0.6278
+
+Test (beam) scores with best model from output/kinship//d32d_2_0.05_100_0.05/model/model.ckpt
+Hits@1:  0.4879
+Hits@3:  0.7877
+Hits@5:  0.8622
+Hits@10:  0.9367
+Hits@20:  0.9814
+auc:  0.6530
+

@@ -1,0 +1,54 @@
+12/13/2024 07:33:13 PM: [ reading vocab files... ]
+12/13/2024 07:33:13 PM: [ Reading mid to name map ]
+12/13/2024 07:33:13 PM: [ Done.. ]
+12/13/2024 07:33:13 PM: [ Total number of entities 273 ]
+12/13/2024 07:33:13 PM: [ Total number of relations 6 ]
+12/13/2024 07:33:14 PM: [ From /home/jay/anaconda3/envs/rl/lib/python3.7/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer. ]
+12/13/2024 07:33:14 PM: [ From /mnt/d/RL Project/code/model/agent.py:59: LSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is equivalent as tf.keras.layers.LSTMCell, and will be replaced by that in Tensorflow 2.0. ]
+12/13/2024 07:33:14 PM: [ From /mnt/d/RL Project/code/model/agent.py:60: MultiRNNCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is equivalent as tf.keras.layers.StackedRNNCells, and will be replaced by that in Tensorflow 2.0. ]
+12/13/2024 07:33:14 PM: [ Creating TF graph... ]
+12/13/2024 07:33:14 PM: [ From /mnt/d/RL Project/code/model/agent.py:67: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead. ]
+12/13/2024 07:33:14 PM: [ From /mnt/d/RL Project/code/model/agent.py:111: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.random.categorical instead. ]
+12/13/2024 07:33:14 PM: [ From /mnt/d/RL Project/code/model/agent.py:111: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead. ]
+12/13/2024 07:33:14 PM: [ From code/model/trainer.py:148: div (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Deprecated in favor of operator or tf.math.divide. ]
+12/13/2024 07:33:15 PM: [ TF Graph creation done.. ]
+12/13/2024 07:33:16 PM: [ batch_counter:    1, num_hits: 107.0000, avg. reward per batch  0.0418, num_ep_correct   68, avg_ep_correct  0.5312, train loss -0.0114 ]
+12/13/2024 07:33:16 PM: [ Memory usage: 1190452 (kb) ]
+12/13/2024 07:33:17 PM: [ batch_counter:    2, num_hits: 121.0000, avg. reward per batch  0.0473, num_ep_correct   69, avg_ep_correct  0.5391, train loss -0.0232 ]
+12/13/2024 07:33:17 PM: [ Memory usage: 1390940 (kb) ]
+12/13/2024 07:33:17 PM: [ batch_counter:    3, num_hits: 125.0000, avg. reward per batch  0.0488, num_ep_correct   74, avg_ep_correct  0.5781, train loss -0.0345 ]
+12/13/2024 07:33:17 PM: [ Memory usage: 1492312 (kb) ]
+12/13/2024 07:33:18 PM: [ batch_counter:    4, num_hits: 100.0000, avg. reward per batch  0.0391, num_ep_correct   71, avg_ep_correct  0.5547, train loss -0.0448 ]
+12/13/2024 07:33:18 PM: [ Memory usage: 1524552 (kb) ]
+12/13/2024 07:33:19 PM: [ batch_counter:    5, num_hits: 111.0000, avg. reward per batch  0.0434, num_ep_correct   70, avg_ep_correct  0.5469, train loss -0.0557 ]
+12/13/2024 07:33:19 PM: [ Memory usage: 1632060 (kb) ]
+12/13/2024 07:33:19 PM: [ batch_counter:    6, num_hits: 115.0000, avg. reward per batch  0.0449, num_ep_correct   76, avg_ep_correct  0.5938, train loss -0.0662 ]
+12/13/2024 07:33:19 PM: [ Memory usage: 1632060 (kb) ]
+12/13/2024 07:33:20 PM: [ batch_counter:    7, num_hits: 113.0000, avg. reward per batch  0.0441, num_ep_correct   69, avg_ep_correct  0.5391, train loss -0.0762 ]
+12/13/2024 07:33:20 PM: [ Memory usage: 1632060 (kb) ]
+12/13/2024 07:33:21 PM: [ batch_counter:    8, num_hits: 107.0000, avg. reward per batch  0.0418, num_ep_correct   73, avg_ep_correct  0.5703, train loss -0.0861 ]
+12/13/2024 07:33:21 PM: [ Memory usage: 1690528 (kb) ]
+12/13/2024 07:33:22 PM: [ batch_counter:    9, num_hits: 124.0000, avg. reward per batch  0.0484, num_ep_correct   72, avg_ep_correct  0.5625, train loss -0.0959 ]
+12/13/2024 07:33:22 PM: [ Memory usage: 1690528 (kb) ]
+12/13/2024 07:33:22 PM: [ batch_counter:   10, num_hits: 125.0000, avg. reward per batch  0.0488, num_ep_correct   76, avg_ep_correct  0.5938, train loss -0.1058 ]
+12/13/2024 07:33:22 PM: [ Memory usage: 1690528 (kb) ]
+12/13/2024 07:33:23 PM: [ batch_counter:   11, num_hits: 119.0000, avg. reward per batch  0.0465, num_ep_correct   70, avg_ep_correct  0.5469, train loss -0.1154 ]
+12/13/2024 07:33:23 PM: [ Memory usage: 1690528 (kb) ]
+12/13/2024 07:33:24 PM: [ batch_counter:   12, num_hits: 121.0000, avg. reward per batch  0.0473, num_ep_correct   68, avg_ep_correct  0.5312, train loss -0.1250 ]
+12/13/2024 07:33:24 PM: [ Memory usage: 1690528 (kb) ]
+12/13/2024 07:33:25 PM: [ batch_counter:   13, num_hits: 112.0000, avg. reward per batch  0.0437, num_ep_correct   70, avg_ep_correct  0.5469, train loss -0.1344 ]
+12/13/2024 07:33:25 PM: [ Memory usage: 1690528 (kb) ]
