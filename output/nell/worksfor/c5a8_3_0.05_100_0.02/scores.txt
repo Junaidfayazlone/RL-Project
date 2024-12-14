@@ -1,0 +1,8 @@
+Test (beam) scores with best model from output/nell/worksfor/de5b_3_0.05_100_0.02/model/model.ckpt
+Hits@1:  0.6462
+Hits@3:  0.7637
+Hits@5:  0.7956
+Hits@10:  0.8290
+Hits@20:  0.8520
+auc:  0.7141
+

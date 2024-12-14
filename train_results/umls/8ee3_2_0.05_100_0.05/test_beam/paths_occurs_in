@@ -1,0 +1,6036 @@
+experimental_model_of_disease	mental_or_behavioral_dysfunction
+Reward:1
+experimental_model_of_disease	neoplastic_process	mental_or_behavioral_dysfunction
+complicates	occurs_in
+1
+-2.72014914941974
+___
+experimental_model_of_disease	injury_or_poisoning	biomedical_occupation_or_discipline
+co-occurs_with	issue_in
+-1
+-4.759357452392578
+___
+experimental_model_of_disease	injury_or_poisoning	acquired_abnormality
+co-occurs_with	complicates
+-1
+-4.814854621887207
+___
+experimental_model_of_disease	injury_or_poisoning	mental_or_behavioral_dysfunction
+co-occurs_with	complicates
+1
+-4.814854621887207
+___
+experimental_model_of_disease	injury_or_poisoning	pathologic_function
+co-occurs_with	complicates
+-1
+-4.814854621887207
+___
+experimental_model_of_disease	injury_or_poisoning	anatomical_abnormality
+co-occurs_with	complicates
+-1
+-4.814854621887207
+___
+experimental_model_of_disease	injury_or_poisoning	congenital_abnormality
+co-occurs_with	complicates
+-1
+-4.814854621887207
+___
+experimental_model_of_disease	injury_or_poisoning	cell_or_molecular_dysfunction
+co-occurs_with	complicates
+-1
+-4.814854621887207
+___
+experimental_model_of_disease	neoplastic_process	mental_or_behavioral_dysfunction
+degree_of	occurs_in
+1
+-4.833656567730941
+___
+experimental_model_of_disease	congenital_abnormality	human
+co-occurs_with	part_of
+-1
+-5.0004801750183105
+___
+experimental_model_of_disease	congenital_abnormality	vertebrate
+co-occurs_with	part_of
+-1
+-5.0004801750183105
+___
+experimental_model_of_disease	congenital_abnormality	rickettsia_or_chlamydia
+co-occurs_with	part_of
+-1
+-5.0004801750183105
+___
+experimental_model_of_disease	congenital_abnormality	alga
+co-occurs_with	part_of
+-1
+-5.0004801750183105
+___
+experimental_model_of_disease	congenital_abnormality	reptile
+co-occurs_with	part_of
+-1
+-5.0004801750183105
+___
+experimental_model_of_disease	congenital_abnormality	plant
+co-occurs_with	part_of
+-1
+-5.0004801750183105
+___
+experimental_model_of_disease	congenital_abnormality	fish
+co-occurs_with	part_of
+-1
+-5.0004801750183105
+___
+experimental_model_of_disease	congenital_abnormality	amphibian
+co-occurs_with	part_of
+-1
+-5.0004801750183105
+___
+experimental_model_of_disease	congenital_abnormality	archaeon
+co-occurs_with	part_of
+-1
+-5.0004801750183105
+___
+experimental_model_of_disease	congenital_abnormality	invertebrate
+co-occurs_with	part_of
+-1
+-5.0004801750183105
+___
+experimental_model_of_disease	congenital_abnormality	animal
+co-occurs_with	part_of
+-1
+-5.0004801750183105
+___
+experimental_model_of_disease	congenital_abnormality	fungus
+co-occurs_with	part_of
+-1
+-5.0004801750183105
+___
+experimental_model_of_disease	injury_or_poisoning	biomedical_occupation_or_discipline
+complicates	issue_in
+-1
+-5.032087564468384
+___
+experimental_model_of_disease	acquired_abnormality	bacterium
+co-occurs_with	part_of
+-1
+-5.11491060256958
+___
+experimental_model_of_disease	acquired_abnormality	mammal
+co-occurs_with	part_of
+-1
+-5.11491060256958
+___
+experimental_model_of_disease	acquired_abnormality	archaeon
+co-occurs_with	part_of
+-1
+-5.11491060256958
+___
+experimental_model_of_disease	acquired_abnormality	reptile
+co-occurs_with	part_of
+-1
+-5.11491060256958
+___
+experimental_model_of_disease	acquired_abnormality	fish
+co-occurs_with	part_of
+-1
+-5.11491060256958
+___
+experimental_model_of_disease	acquired_abnormality	bird
+co-occurs_with	part_of
+-1
+-5.11491060256958
+___
+experimental_model_of_disease	acquired_abnormality	virus
+co-occurs_with	part_of
+-1
+-5.11491060256958
+___
+experimental_model_of_disease	acquired_abnormality	invertebrate
+co-occurs_with	part_of
+-1
+-5.11491060256958
+___
+experimental_model_of_disease	acquired_abnormality	human
+co-occurs_with	part_of
+-1
+-5.11491060256958
+___
+experimental_model_of_disease	acquired_abnormality	animal
+co-occurs_with	part_of
+-1
+-5.11491060256958
+___
+experimental_model_of_disease	acquired_abnormality	vertebrate
+co-occurs_with	part_of
+-1
+-5.11491060256958
+___
+experimental_model_of_disease	acquired_abnormality	fungus
+co-occurs_with	part_of
+-1
+-5.11491060256958
+___
+experimental_model_of_disease	acquired_abnormality	organism
+co-occurs_with	part_of
+-1
+-5.11491060256958
+___
+experimental_model_of_disease	injury_or_poisoning	mental_or_behavioral_dysfunction
+complicates	complicates
+1
+-5.395782470703125
+___
+experimental_model_of_disease	injury_or_poisoning	cell_or_molecular_dysfunction
+complicates	complicates
+-1
+-5.395782470703125
+___
+experimental_model_of_disease	injury_or_poisoning	congenital_abnormality
+complicates	complicates
+-1
+-5.395782470703125
+___
+experimental_model_of_disease	injury_or_poisoning	pathologic_function
+complicates	complicates
+-1
+-5.395782470703125
+___
+experimental_model_of_disease	injury_or_poisoning	anatomical_abnormality
+complicates	complicates
+-1
+-5.395782470703125
+___
+experimental_model_of_disease	injury_or_poisoning	acquired_abnormality
+complicates	complicates
+-1
+-5.395782470703125
+___
+experimental_model_of_disease	congenital_abnormality	human
+complicates	part_of
+-1
+-5.638687372207642
+___
+experimental_model_of_disease	congenital_abnormality	fungus
+complicates	part_of
+-1
+-5.638687372207642
+___
+experimental_model_of_disease	congenital_abnormality	reptile
+complicates	part_of
+-1
+-5.638687372207642
+___
+experimental_model_of_disease	congenital_abnormality	invertebrate
+complicates	part_of
+-1
+-5.638687372207642
+___
+experimental_model_of_disease	congenital_abnormality	animal
+complicates	part_of
+-1
+-5.638687372207642
+___
+experimental_model_of_disease	congenital_abnormality	amphibian
+complicates	part_of
+-1
+-5.638687372207642
+___
+experimental_model_of_disease	congenital_abnormality	plant
+complicates	part_of
+-1
+-5.638687372207642
+___
+experimental_model_of_disease	congenital_abnormality	fish
+complicates	part_of
+-1
+-5.638687372207642
+___
+experimental_model_of_disease	congenital_abnormality	archaeon
+complicates	part_of
+-1
+-5.638687372207642
+___
+experimental_model_of_disease	congenital_abnormality	alga
+complicates	part_of
+-1
+-5.638687372207642
+___
+experimental_model_of_disease	congenital_abnormality	vertebrate
+complicates	part_of
+-1
+-5.638687372207642
+___
+experimental_model_of_disease	congenital_abnormality	rickettsia_or_chlamydia
+complicates	part_of
+-1
+-5.638687372207642
+___
+experimental_model_of_disease	pathologic_function	natural_phenomenon_or_process
+co-occurs_with	process_of
+-1
+-5.692440986633301
+___
+experimental_model_of_disease	pathologic_function	bacterium
+co-occurs_with	process_of
+-1
+-5.692440986633301
+___
+experimental_model_of_disease	pathologic_function	cell_or_molecular_dysfunction
+co-occurs_with	process_of
+-1
+-5.692440986633301
+___
+experimental_model_of_disease	pathologic_function	bird
+co-occurs_with	process_of
+-1
+-5.692440986633301
+___
+experimental_model_of_disease	pathologic_function	mental_process
+co-occurs_with	process_of
+-1
+-5.692440986633301
+___
+experimental_model_of_disease	pathologic_function	molecular_function
+co-occurs_with	process_of
+-1
+-5.692440986633301
+___
+experimental_model_of_disease	pathologic_function	organism_function
+co-occurs_with	process_of
+-1
+-5.692440986633301
+___
+experimental_model_of_disease	pathologic_function	reptile
+co-occurs_with	process_of
+-1
+-5.692440986633301
+___
+experimental_model_of_disease	pathologic_function	virus
+co-occurs_with	process_of
+-1
+-5.692440986633301
+___
+experimental_model_of_disease	pathologic_function	genetic_function
+co-occurs_with	process_of
+-1
+-5.692440986633301
+___
+experimental_model_of_disease	pathologic_function	cell_function
+co-occurs_with	process_of
+-1
+-5.692440986633301
+___
+experimental_model_of_disease	pathologic_function	alga
+co-occurs_with	process_of
+-1
+-5.692440986633301
+___
+experimental_model_of_disease	pathologic_function	fungus
+co-occurs_with	process_of
+-1
+-5.692440986633301
+___
+experimental_model_of_disease	pathologic_function	rickettsia_or_chlamydia
+co-occurs_with	process_of
+-1
+-5.692440986633301
+___
+experimental_model_of_disease	pathologic_function	mental_or_behavioral_dysfunction
+co-occurs_with	process_of
+1
+-5.692440986633301
+___
+experimental_model_of_disease	pathologic_function	organism
+co-occurs_with	process_of
+-1
+-5.692440986633301
+___
+experimental_model_of_disease	pathologic_function	animal
+co-occurs_with	process_of
+-1
+-5.692440986633301
+___
+experimental_model_of_disease	pathologic_function	physiologic_function
+co-occurs_with	process_of
+-1
+-5.692440986633301
+___
+experimental_model_of_disease	pathologic_function	experimental_model_of_disease
+co-occurs_with	process_of
+-1
+-5.692440986633301
+___
+experimental_model_of_disease	pathologic_function	fish
+co-occurs_with	process_of
+-1
+-5.692440986633301
+___
+experimental_model_of_disease	pathologic_function	organ_or_tissue_function
+co-occurs_with	process_of
+-1
+-5.692440986633301
+___
+experimental_model_of_disease	pathologic_function	vertebrate
+co-occurs_with	process_of
+-1
+-5.692440986633301
+___
+experimental_model_of_disease	pathologic_function	biologic_function
+co-occurs_with	process_of
+-1
+-5.692440986633301
+___
+experimental_model_of_disease	pathologic_function	human
+co-occurs_with	process_of
+-1
+-5.692440986633301
+___
+experimental_model_of_disease	pathologic_function	amphibian
+co-occurs_with	process_of
+-1
+-5.692440986633301
+___
+experimental_model_of_disease	anatomical_abnormality	fish
+complicates	part_of
+-1
+-5.696213722229004
+___
+experimental_model_of_disease	anatomical_abnormality	human
+complicates	part_of
+-1
+-5.696213722229004
+___
+experimental_model_of_disease	anatomical_abnormality	organism
+complicates	part_of
+-1
+-5.696213722229004
+___
+experimental_model_of_disease	anatomical_abnormality	invertebrate
+complicates	part_of
+-1
+-5.696213722229004
+___
+experimental_model_of_disease	anatomical_abnormality	rickettsia_or_chlamydia
+complicates	part_of
+-1
+-5.696213722229004
+___
+experimental_model_of_disease	anatomical_abnormality	alga
+complicates	part_of
+-1
+-5.696213722229004
+___
+experimental_model_of_disease	anatomical_abnormality	plant
+complicates	part_of
+-1
+-5.696213722229004
+___
+experimental_model_of_disease	anatomical_abnormality	virus
+complicates	part_of
+-1
+-5.696213722229004
+___
+experimental_model_of_disease	anatomical_abnormality	amphibian
+complicates	part_of
+-1
+-5.696213722229004
+___
+experimental_model_of_disease	anatomical_abnormality	reptile
+complicates	part_of
+-1
+-5.696213722229004
+___
+experimental_model_of_disease	anatomical_abnormality	archaeon
+complicates	part_of
+-1
+-5.696213722229004
+___
+experimental_model_of_disease	anatomical_abnormality	bird
+complicates	part_of
+-1
+-5.696213722229004
+___
+experimental_model_of_disease	anatomical_abnormality	fungus
+complicates	part_of
+-1
+-5.696213722229004
+___
+experimental_model_of_disease	acquired_abnormality	fish
+complicates	part_of
+-1
+-5.771009922027588
+___
+experimental_model_of_disease	acquired_abnormality	archaeon
+complicates	part_of
+-1
+-5.771009922027588
+___
+experimental_model_of_disease	acquired_abnormality	human
+complicates	part_of
+-1
+-5.771009922027588
+___
+experimental_model_of_disease	acquired_abnormality	reptile
+complicates	part_of
+-1
+-5.771009922027588
+___
+experimental_model_of_disease	acquired_abnormality	animal
+complicates	part_of
+-1
+-5.771009922027588
+___
+experimental_model_of_disease	acquired_abnormality	mammal
+complicates	part_of
+-1
+-5.771009922027588
+___
+experimental_model_of_disease	acquired_abnormality	fungus
+complicates	part_of
+-1
+-5.771009922027588
+___
+experimental_model_of_disease	acquired_abnormality	bacterium
+complicates	part_of
+-1
+-5.771009922027588
+___
+experimental_model_of_disease	acquired_abnormality	organism
+complicates	part_of
+-1
+-5.771009922027588
+___
+#####################
+neoplastic_process	injury_or_poisoning
+Reward:1
+neoplastic_process	cell_or_molecular_dysfunction	neoplastic_process
+co-occurs_with	occurs_in
+-1
+-2.1082870858954266
+___
+neoplastic_process	cell_or_molecular_dysfunction	neoplastic_process
+complicates	occurs_in
+-1
+-2.5820844332920387
+___
+neoplastic_process	disease_or_syndrome	injury_or_poisoning
+complicates	occurs_in
+1
+-2.5821140583138913
+___
+neoplastic_process	experimental_model_of_disease	injury_or_poisoning
+co-occurs_with	occurs_in
+1
+-2.801069915294647
+___
+neoplastic_process	experimental_model_of_disease	neoplastic_process
+co-occurs_with	occurs_in
+-1
+-2.801069915294647
+___
+neoplastic_process	mental_or_behavioral_dysfunction	injury_or_poisoning
+complicates	occurs_in
+1
+-3.27400803565979
+___
+neoplastic_process	mental_or_behavioral_dysfunction	neoplastic_process
+complicates	occurs_in
+-1
+-3.27400803565979
+___
+neoplastic_process	pathologic_function	neoplastic_process
+complicates	occurs_in
+-1
+-3.2742207646369934
+___
+neoplastic_process	pathologic_function	injury_or_poisoning
+complicates	occurs_in
+1
+-3.2742207646369934
+___
+neoplastic_process	injury_or_poisoning	biomedical_occupation_or_discipline
+co-occurs_with	issue_in
+-1
+-4.681984186172485
+___
+neoplastic_process	cell_or_molecular_dysfunction	neoplastic_process
+degree_of	occurs_in
+-1
+-4.6955742260906845
+___
+neoplastic_process	disease_or_syndrome	injury_or_poisoning
+degree_of	occurs_in
+1
+-4.695611702045426
+___
+neoplastic_process	injury_or_poisoning	neoplastic_process
+co-occurs_with	complicates
+-1
+-4.737481594085693
+___
+neoplastic_process	injury_or_poisoning	congenital_abnormality
+co-occurs_with	complicates
+-1
+-4.737481594085693
+___
+neoplastic_process	injury_or_poisoning	acquired_abnormality
+co-occurs_with	complicates
+-1
+-4.737481594085693
+___
+neoplastic_process	injury_or_poisoning	cell_or_molecular_dysfunction
+co-occurs_with	complicates
+-1
+-4.737481594085693
+___
+neoplastic_process	injury_or_poisoning	pathologic_function
+co-occurs_with	complicates
+-1
+-4.737481594085693
+___
+neoplastic_process	injury_or_poisoning	anatomical_abnormality
+co-occurs_with	complicates
+-1
+-4.737481594085693
+___
+neoplastic_process	injury_or_poisoning	injury_or_poisoning
+co-occurs_with	NO_OP
+1
+-4.934642314910889
+___
+neoplastic_process	injury_or_poisoning	biomedical_occupation_or_discipline
+complicates	issue_in
+-1
+-4.9754908084869385
+___
+neoplastic_process	acquired_abnormality	invertebrate
+co-occurs_with	part_of
+-1
+-4.976526737213135
+___
+neoplastic_process	acquired_abnormality	bacterium
+co-occurs_with	part_of
+-1
+-4.976526737213135
+___
+neoplastic_process	acquired_abnormality	fungus
+co-occurs_with	part_of
+-1
+-4.976526737213135
+___
+neoplastic_process	acquired_abnormality	fish
+co-occurs_with	part_of
+-1
+-4.976526737213135
+___
+neoplastic_process	acquired_abnormality	bird
+co-occurs_with	part_of
+-1
+-4.976526737213135
+___
+neoplastic_process	acquired_abnormality	reptile
+co-occurs_with	part_of
+-1
+-4.976526737213135
+___
+neoplastic_process	acquired_abnormality	vertebrate
+co-occurs_with	part_of
+-1
+-4.976526737213135
+___
+neoplastic_process	acquired_abnormality	organism
+co-occurs_with	part_of
+-1
+-4.976526737213135
+___
+neoplastic_process	acquired_abnormality	animal
+co-occurs_with	part_of
+-1
+-4.976526737213135
+___
+neoplastic_process	acquired_abnormality	mammal
+co-occurs_with	part_of
+-1
+-4.976526737213135
+___
+neoplastic_process	acquired_abnormality	archaeon
+co-occurs_with	part_of
+-1
+-4.976526737213135
+___
+neoplastic_process	acquired_abnormality	virus
+co-occurs_with	part_of
+-1
+-4.976526737213135
+___
+neoplastic_process	acquired_abnormality	human
+co-occurs_with	part_of
+-1
+-4.976526737213135
+___
+neoplastic_process	injury_or_poisoning	injury_or_poisoning
+complicates	NO_OP
+1
+-5.1243908405303955
+___
+neoplastic_process	injury_or_poisoning	pathologic_function
+complicates	complicates
+-1
+-5.33918571472168
+___
+neoplastic_process	injury_or_poisoning	congenital_abnormality
+complicates	complicates
+-1
+-5.33918571472168
+___
+neoplastic_process	injury_or_poisoning	acquired_abnormality
+complicates	complicates
+-1
+-5.33918571472168
+___
+neoplastic_process	injury_or_poisoning	anatomical_abnormality
+complicates	complicates
+-1
+-5.33918571472168
+___
+neoplastic_process	injury_or_poisoning	cell_or_molecular_dysfunction
+complicates	complicates
+-1
+-5.33918571472168
+___
+neoplastic_process	injury_or_poisoning	neoplastic_process
+complicates	complicates
+-1
+-5.33918571472168
+___
+neoplastic_process	mental_or_behavioral_dysfunction	injury_or_poisoning
+degree_of	occurs_in
+1
+-5.387452721595764
+___
+neoplastic_process	mental_or_behavioral_dysfunction	neoplastic_process
+degree_of	occurs_in
+-1
+-5.387452721595764
+___
+neoplastic_process	experimental_model_of_disease	injury_or_poisoning
+degree_of	occurs_in
+1
+-5.387664973735809
+___
+neoplastic_process	experimental_model_of_disease	neoplastic_process
+degree_of	occurs_in
+-1
+-5.387664973735809
+___
+neoplastic_process	pathologic_function	neoplastic_process
+degree_of	occurs_in
+-1
+-5.387699127197266
+___
+neoplastic_process	pathologic_function	injury_or_poisoning
+degree_of	occurs_in
+1
+-5.387699127197266
+___
+neoplastic_process	acquired_abnormality	bird
+complicates	part_of
+-1
+-5.632626056671143
+___
+neoplastic_process	acquired_abnormality	fungus
+complicates	part_of
+-1
+-5.632626056671143
+___
+neoplastic_process	acquired_abnormality	vertebrate
+complicates	part_of
+-1
+-5.632626056671143
+___
+neoplastic_process	acquired_abnormality	human
+complicates	part_of
+-1
+-5.632626056671143
+___
+neoplastic_process	acquired_abnormality	animal
+complicates	part_of
+-1
+-5.632626056671143
+___
+neoplastic_process	acquired_abnormality	invertebrate
+complicates	part_of
+-1
+-5.632626056671143
+___
+neoplastic_process	acquired_abnormality	archaeon
+complicates	part_of
+-1
+-5.632626056671143
+___
+neoplastic_process	acquired_abnormality	fish
+complicates	part_of
+-1
+-5.632626056671143
+___
+neoplastic_process	acquired_abnormality	organism
+complicates	part_of
+-1
+-5.632626056671143
+___
+neoplastic_process	acquired_abnormality	bacterium
+complicates	part_of
+-1
+-5.632626056671143
+___
+neoplastic_process	acquired_abnormality	mammal
+complicates	part_of
+-1
+-5.632626056671143
+___
+neoplastic_process	acquired_abnormality	reptile
+complicates	part_of
+-1
+-5.632626056671143
+___
+neoplastic_process	acquired_abnormality	virus
+complicates	part_of
+-1
+-5.632626056671143
+___
+neoplastic_process	disease_or_syndrome	injury_or_poisoning
+precedes	occurs_in
+1
+-5.7634032043861225
+___
+neoplastic_process	acquired_abnormality	biomedical_occupation_or_discipline
+complicates	issue_in
+-1
+-5.781456708908081
+___
+neoplastic_process	acquired_abnormality	occupation_or_discipline
+complicates	issue_in
+-1
+-5.781456708908081
+___
+neoplastic_process	acquired_abnormality	occupation_or_discipline
+co-occurs_with	issue_in
+-1
+-5.7850751876831055
+___
+neoplastic_process	acquired_abnormality	biomedical_occupation_or_discipline
+co-occurs_with	issue_in
+-1
+-5.7850751876831055
+___
+neoplastic_process	acquired_abnormality	anatomical_abnormality
+co-occurs_with	complicates
+-1
+-5.840572357177734
+___
+neoplastic_process	acquired_abnormality	congenital_abnormality
+co-occurs_with	complicates
+-1
+-5.840572357177734
+___
+neoplastic_process	acquired_abnormality	acquired_abnormality
+complicates	NO_OP
+-1
+-5.930356740951538
+___
+neoplastic_process	acquired_abnormality	acquired_abnormality
+co-occurs_with	NO_OP
+-1
+-6.03773307800293
+___
+neoplastic_process	acquired_abnormality	congenital_abnormality
+complicates	complicates
+-1
+-6.145151376724243
+___
+neoplastic_process	acquired_abnormality	anatomical_abnormality
+complicates	complicates
+-1
+-6.145151376724243
+___
+neoplastic_process	injury_or_poisoning	diagnostic_procedure
+co-occurs_with	result_of
+-1
+-6.153575897216797
+___
+neoplastic_process	injury_or_poisoning	therapeutic_or_preventive_procedure
+co-occurs_with	result_of
+-1
+-6.153575897216797
+___
+neoplastic_process	injury_or_poisoning	congenital_abnormality
+co-occurs_with	result_of
+-1
+-6.153575897216797
+___
+neoplastic_process	injury_or_poisoning	physiologic_function
+co-occurs_with	result_of
+-1
+-6.153575897216797
+___
+neoplastic_process	injury_or_poisoning	laboratory_procedure
+co-occurs_with	result_of
+-1
+-6.153575897216797
+___
+neoplastic_process	injury_or_poisoning	organ_or_tissue_function
+co-occurs_with	result_of
+-1
+-6.153575897216797
+___
+neoplastic_process	injury_or_poisoning	acquired_abnormality
+co-occurs_with	result_of
+-1
+-6.153575897216797
+___
+neoplastic_process	injury_or_poisoning	anatomical_abnormality
+co-occurs_with	result_of
+-1
+-6.153575897216797
+___
+neoplastic_process	injury_or_poisoning	biologic_function
+co-occurs_with	result_of
+-1
+-6.153575897216797
+___
+neoplastic_process	injury_or_poisoning	cell_or_molecular_dysfunction
+co-occurs_with	result_of
+-1
+-6.153575897216797
+___
+neoplastic_process	injury_or_poisoning	individual_behavior
+co-occurs_with	result_of
+-1
+-6.153575897216797
+___
+neoplastic_process	injury_or_poisoning	natural_phenomenon_or_process
+co-occurs_with	result_of
+-1
+-6.153575897216797
+___
+neoplastic_process	injury_or_poisoning	behavior
+co-occurs_with	result_of
+-1
+-6.153575897216797
+___
+neoplastic_process	injury_or_poisoning	genetic_function
+co-occurs_with	result_of
+-1
+-6.153575897216797
+___
+neoplastic_process	injury_or_poisoning	pathologic_function
+co-occurs_with	result_of
+-1
+-6.153575897216797
+___
+neoplastic_process	injury_or_poisoning	molecular_function
+co-occurs_with	result_of
+-1
+-6.153575897216797
+___
+neoplastic_process	injury_or_poisoning	human_caused_phenomenon_or_process
+co-occurs_with	result_of
+-1
+-6.153575897216797
+___
+neoplastic_process	injury_or_poisoning	neoplastic_process
+co-occurs_with	result_of
+-1
+-6.153575897216797
+___
+neoplastic_process	injury_or_poisoning	mental_process
+co-occurs_with	result_of
+-1
+-6.153575897216797
+___
+neoplastic_process	injury_or_poisoning	health_care_activity
+co-occurs_with	result_of
+-1
+-6.153575897216797
+___
+neoplastic_process	injury_or_poisoning	organism_function
+co-occurs_with	result_of
+-1
+-6.153575897216797
+___
+neoplastic_process	injury_or_poisoning	social_behavior
+co-occurs_with	result_of
+-1
+-6.153575897216797
+___
+neoplastic_process	mental_or_behavioral_dysfunction	injury_or_poisoning
+precedes	occurs_in
+1
+-6.455868184566498
+___
+neoplastic_process	mental_or_behavioral_dysfunction	neoplastic_process
+precedes	occurs_in
+-1
+-6.455868184566498
+___
+neoplastic_process	experimental_model_of_disease	injury_or_poisoning
+precedes	occurs_in
+1
+-6.455966114997864
+___
+neoplastic_process	experimental_model_of_disease	neoplastic_process
+precedes	occurs_in
+-1
+-6.455966114997864
+___
+neoplastic_process	pathologic_function	neoplastic_process
+precedes	occurs_in
+-1
+-6.455994129180908
+___
+neoplastic_process	pathologic_function	injury_or_poisoning
+precedes	occurs_in
+1
+-6.455994129180908
+___
+neoplastic_process	injury_or_poisoning	congenital_abnormality
+complicates	result_of
+-1
+-6.555087089538574
+___
+neoplastic_process	injury_or_poisoning	laboratory_procedure
+complicates	result_of
+-1
+-6.555087089538574
+___
+#####################
+disease_or_syndrome	mental_or_behavioral_dysfunction
+Reward:1
+disease_or_syndrome	mental_or_behavioral_dysfunction	disease_or_syndrome
+co-occurs_with	occurs_in
+-1
+-2.595102075894829
+___
+disease_or_syndrome	experimental_model_of_disease	disease_or_syndrome
+co-occurs_with	occurs_in
+-1
+-2.5952983002061956
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	disease_or_syndrome
+co-occurs_with	occurs_in
+-1
+-2.595305686118081
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+co-occurs_with	occurs_in
+-1
+-2.595330226176884
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	disease_or_syndrome
+complicates	occurs_in
+-1
+-3.068629644694738
+___
+disease_or_syndrome	experimental_model_of_disease	disease_or_syndrome
+complicates	occurs_in
+-1
+-3.068987285834737
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+complicates	occurs_in
+-1
+-3.069107581744902
+___
+disease_or_syndrome	neoplastic_process	mental_or_behavioral_dysfunction
+co-occurs_with	occurs_in
+1
+-3.2880722880363464
+___
+disease_or_syndrome	neoplastic_process	disease_or_syndrome
+co-occurs_with	occurs_in
+-1
+-3.2880722880363464
+___
+disease_or_syndrome	neoplastic_process	disease_or_syndrome
+complicates	occurs_in
+-1
+-3.7611626386642456
+___
+disease_or_syndrome	neoplastic_process	mental_or_behavioral_dysfunction
+complicates	occurs_in
+1
+-3.7611626386642456
+___
+disease_or_syndrome	experimental_model_of_disease	disease_or_syndrome
+degree_of	occurs_in
+-1
+-5.182478868286125
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+degree_of	occurs_in
+-1
+-5.182607487542555
+___
+disease_or_syndrome	experimental_model_of_disease	disease_or_syndrome
+conceptually_related_to	occurs_in
+-1
+-5.30764736700803
+___
+disease_or_syndrome	congenital_abnormality	fungus
+co-occurs_with	part_of
+-1
+-5.355623960494995
+___
+disease_or_syndrome	congenital_abnormality	vertebrate
+co-occurs_with	part_of
+-1
+-5.355623960494995
+___
+disease_or_syndrome	congenital_abnormality	rickettsia_or_chlamydia
+co-occurs_with	part_of
+-1
+-5.355623960494995
+___
+disease_or_syndrome	congenital_abnormality	alga
+co-occurs_with	part_of
+-1
+-5.355623960494995
+___
+disease_or_syndrome	congenital_abnormality	invertebrate
+co-occurs_with	part_of
+-1
+-5.355623960494995
+___
+disease_or_syndrome	congenital_abnormality	human
+co-occurs_with	part_of
+-1
+-5.355623960494995
+___
+disease_or_syndrome	congenital_abnormality	fish
+co-occurs_with	part_of
+-1
+-5.355623960494995
+___
+disease_or_syndrome	congenital_abnormality	archaeon
+co-occurs_with	part_of
+-1
+-5.355623960494995
+___
+disease_or_syndrome	congenital_abnormality	reptile
+co-occurs_with	part_of
+-1
+-5.355623960494995
+___
+disease_or_syndrome	congenital_abnormality	animal
+co-occurs_with	part_of
+-1
+-5.355623960494995
+___
+disease_or_syndrome	congenital_abnormality	plant
+co-occurs_with	part_of
+-1
+-5.355623960494995
+___
+disease_or_syndrome	congenital_abnormality	amphibian
+co-occurs_with	part_of
+-1
+-5.355623960494995
+___
+disease_or_syndrome	injury_or_poisoning	biomedical_occupation_or_discipline
+complicates	issue_in
+-1
+-5.4009199142456055
+___
+disease_or_syndrome	anatomical_abnormality	plant
+co-occurs_with	part_of
+-1
+-5.415877103805542
+___
+disease_or_syndrome	anatomical_abnormality	human
+co-occurs_with	part_of
+-1
+-5.415877103805542
+___
+disease_or_syndrome	anatomical_abnormality	archaeon
+co-occurs_with	part_of
+-1
+-5.415877103805542
+___
+disease_or_syndrome	anatomical_abnormality	fungus
+co-occurs_with	part_of
+-1
+-5.415877103805542
+___
+disease_or_syndrome	anatomical_abnormality	reptile
+co-occurs_with	part_of
+-1
+-5.415877103805542
+___
+disease_or_syndrome	anatomical_abnormality	invertebrate
+co-occurs_with	part_of
+-1
+-5.415877103805542
+___
+disease_or_syndrome	anatomical_abnormality	virus
+co-occurs_with	part_of
+-1
+-5.415877103805542
+___
+disease_or_syndrome	anatomical_abnormality	fish
+co-occurs_with	part_of
+-1
+-5.415877103805542
+___
+disease_or_syndrome	anatomical_abnormality	bird
+co-occurs_with	part_of
+-1
+-5.415877103805542
+___
+disease_or_syndrome	anatomical_abnormality	rickettsia_or_chlamydia
+co-occurs_with	part_of
+-1
+-5.415877103805542
+___
+disease_or_syndrome	anatomical_abnormality	amphibian
+co-occurs_with	part_of
+-1
+-5.415877103805542
+___
+disease_or_syndrome	anatomical_abnormality	alga
+co-occurs_with	part_of
+-1
+-5.415877103805542
+___
+disease_or_syndrome	anatomical_abnormality	organism
+co-occurs_with	part_of
+-1
+-5.415877103805542
+___
+disease_or_syndrome	acquired_abnormality	archaeon
+co-occurs_with	part_of
+-1
+-5.470498085021973
+___
+disease_or_syndrome	acquired_abnormality	human
+co-occurs_with	part_of
+-1
+-5.470498085021973
+___
+disease_or_syndrome	acquired_abnormality	bacterium
+co-occurs_with	part_of
+-1
+-5.470498085021973
+___
+disease_or_syndrome	acquired_abnormality	fish
+co-occurs_with	part_of
+-1
+-5.470498085021973
+___
+disease_or_syndrome	acquired_abnormality	bird
+co-occurs_with	part_of
+-1
+-5.470498085021973
+___
+disease_or_syndrome	acquired_abnormality	virus
+co-occurs_with	part_of
+-1
+-5.470498085021973
+___
+disease_or_syndrome	acquired_abnormality	animal
+co-occurs_with	part_of
+-1
+-5.470498085021973
+___
+disease_or_syndrome	acquired_abnormality	invertebrate
+co-occurs_with	part_of
+-1
+-5.470498085021973
+___
+disease_or_syndrome	acquired_abnormality	mammal
+co-occurs_with	part_of
+-1
+-5.470498085021973
+___
+disease_or_syndrome	acquired_abnormality	organism
+co-occurs_with	part_of
+-1
+-5.470498085021973
+___
+disease_or_syndrome	acquired_abnormality	fungus
+co-occurs_with	part_of
+-1
+-5.470498085021973
+___
+disease_or_syndrome	acquired_abnormality	reptile
+co-occurs_with	part_of
+-1
+-5.470498085021973
+___
+disease_or_syndrome	acquired_abnormality	vertebrate
+co-occurs_with	part_of
+-1
+-5.470498085021973
+___
+disease_or_syndrome	injury_or_poisoning	acquired_abnormality
+complicates	complicates
+-1
+-5.764614820480347
+___
+disease_or_syndrome	injury_or_poisoning	anatomical_abnormality
+complicates	complicates
+-1
+-5.764614820480347
+___
+disease_or_syndrome	injury_or_poisoning	pathologic_function
+complicates	complicates
+-1
+-5.764614820480347
+___
+disease_or_syndrome	injury_or_poisoning	mental_or_behavioral_dysfunction
+complicates	complicates
+1
+-5.764614820480347
+___
+disease_or_syndrome	injury_or_poisoning	cell_or_molecular_dysfunction
+complicates	complicates
+-1
+-5.764614820480347
+___
+disease_or_syndrome	injury_or_poisoning	congenital_abnormality
+complicates	complicates
+-1
+-5.764614820480347
+___
+disease_or_syndrome	neoplastic_process	disease_or_syndrome
+degree_of	occurs_in
+-1
+-5.874632954597473
+___
+disease_or_syndrome	neoplastic_process	mental_or_behavioral_dysfunction
+degree_of	occurs_in
+1
+-5.874632954597473
+___
+disease_or_syndrome	congenital_abnormality	archaeon
+complicates	part_of
+-1
+-5.996873140335083
+___
+disease_or_syndrome	congenital_abnormality	invertebrate
+complicates	part_of
+-1
+-5.996873140335083
+___
+disease_or_syndrome	congenital_abnormality	amphibian
+complicates	part_of
+-1
+-5.996873140335083
+___
+disease_or_syndrome	congenital_abnormality	animal
+complicates	part_of
+-1
+-5.996873140335083
+___
+disease_or_syndrome	congenital_abnormality	fish
+complicates	part_of
+-1
+-5.996873140335083
+___
+disease_or_syndrome	congenital_abnormality	rickettsia_or_chlamydia
+complicates	part_of
+-1
+-5.996873140335083
+___
+disease_or_syndrome	congenital_abnormality	human
+complicates	part_of
+-1
+-5.996873140335083
+___
+disease_or_syndrome	congenital_abnormality	plant
+complicates	part_of
+-1
+-5.996873140335083
+___
+disease_or_syndrome	congenital_abnormality	reptile
+complicates	part_of
+-1
+-5.996873140335083
+___
+disease_or_syndrome	congenital_abnormality	fungus
+complicates	part_of
+-1
+-5.996873140335083
+___
+disease_or_syndrome	congenital_abnormality	alga
+complicates	part_of
+-1
+-5.996873140335083
+___
+disease_or_syndrome	congenital_abnormality	vertebrate
+complicates	part_of
+-1
+-5.996873140335083
+___
+disease_or_syndrome	anatomical_abnormality	amphibian
+complicates	part_of
+-1
+-6.053921461105347
+___
+disease_or_syndrome	anatomical_abnormality	fish
+complicates	part_of
+-1
+-6.053921461105347
+___
+disease_or_syndrome	anatomical_abnormality	human
+complicates	part_of
+-1
+-6.053921461105347
+___
+disease_or_syndrome	anatomical_abnormality	virus
+complicates	part_of
+-1
+-6.053921461105347
+___
+disease_or_syndrome	anatomical_abnormality	bird
+complicates	part_of
+-1
+-6.053921461105347
+___
+disease_or_syndrome	anatomical_abnormality	organism
+complicates	part_of
+-1
+-6.053921461105347
+___
+disease_or_syndrome	anatomical_abnormality	alga
+complicates	part_of
+-1
+-6.053921461105347
+___
+disease_or_syndrome	anatomical_abnormality	reptile
+complicates	part_of
+-1
+-6.053921461105347
+___
+disease_or_syndrome	anatomical_abnormality	rickettsia_or_chlamydia
+complicates	part_of
+-1
+-6.053921461105347
+___
+disease_or_syndrome	anatomical_abnormality	invertebrate
+complicates	part_of
+-1
+-6.053921461105347
+___
+disease_or_syndrome	anatomical_abnormality	plant
+complicates	part_of
+-1
+-6.053921461105347
+___
+disease_or_syndrome	anatomical_abnormality	archaeon
+complicates	part_of
+-1
+-6.053921461105347
+___
+disease_or_syndrome	anatomical_abnormality	fungus
+complicates	part_of
+-1
+-6.053921461105347
+___
+disease_or_syndrome	acquired_abnormality	vertebrate
+complicates	part_of
+-1
+-6.130518674850464
+___
+disease_or_syndrome	acquired_abnormality	reptile
+complicates	part_of
+-1
+-6.130518674850464
+___
+disease_or_syndrome	acquired_abnormality	organism
+complicates	part_of
+-1
+-6.130518674850464
+___
+disease_or_syndrome	acquired_abnormality	bird
+complicates	part_of
+-1
+-6.130518674850464
+___
+disease_or_syndrome	acquired_abnormality	virus
+complicates	part_of
+-1
+-6.130518674850464
+___
+disease_or_syndrome	acquired_abnormality	bacterium
+complicates	part_of
+-1
+-6.130518674850464
+___
+disease_or_syndrome	acquired_abnormality	human
+complicates	part_of
+-1
+-6.130518674850464
+___
+disease_or_syndrome	acquired_abnormality	archaeon
+complicates	part_of
+-1
+-6.130518674850464
+___
+disease_or_syndrome	acquired_abnormality	animal
+complicates	part_of
+-1
+-6.130518674850464
+___
+disease_or_syndrome	acquired_abnormality	mammal
+complicates	part_of
+-1
+-6.130518674850464
+___
+disease_or_syndrome	acquired_abnormality	fungus
+complicates	part_of
+-1
+-6.130518674850464
+___
+disease_or_syndrome	acquired_abnormality	invertebrate
+complicates	part_of
+-1
+-6.130518674850464
+___
+disease_or_syndrome	acquired_abnormality	fish
+complicates	part_of
+-1
+-6.130518674850464
+___
+disease_or_syndrome	congenital_abnormality	biomedical_occupation_or_discipline
+complicates	issue_in
+-1
+-6.1457037925720215
+___
+#####################
+experimental_model_of_disease	group
+Reward:1
+experimental_model_of_disease	injury_or_poisoning	group
+co-occurs_with	occurs_in
+1
+-2.2460409374762094
+___
+experimental_model_of_disease	congenital_abnormality	group
+co-occurs_with	occurs_in
+1
+-2.2462026792636607
+___
+experimental_model_of_disease	acquired_abnormality	group
+co-occurs_with	occurs_in
+1
+-2.246229852171382
+___
+experimental_model_of_disease	pathologic_function	group
+co-occurs_with	occurs_in
+1
+-2.24661412689602
+___
+experimental_model_of_disease	injury_or_poisoning	group
+complicates	occurs_in
+1
+-2.7188185019476805
+___
+experimental_model_of_disease	congenital_abnormality	group
+complicates	occurs_in
+1
+-2.7192120568361133
+___
+experimental_model_of_disease	anatomical_abnormality	group
+complicates	occurs_in
+1
+-2.719244339794386
+___
+experimental_model_of_disease	acquired_abnormality	group
+complicates	occurs_in
+1
+-2.719300683645997
+___
+experimental_model_of_disease	neoplastic_process	group
+complicates	occurs_in
+1
+-2.7201113016344607
+___
+experimental_model_of_disease	pathologic_function	group
+complicates	occurs_in
+1
+-2.7202957660192624
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	group
+complicates	occurs_in
+1
+-2.720356096397154
+___
+experimental_model_of_disease	disease_or_syndrome	group
+complicates	occurs_in
+1
+-2.7203807272017
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	group
+degree_of	occurs_in
+1
+-4.833321381709538
+___
+experimental_model_of_disease	neoplastic_process	group
+degree_of	occurs_in
+1
+-4.833636216935702
+___
+experimental_model_of_disease	pathologic_function	group
+degree_of	occurs_in
+1
+-4.833814123412594
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	group
+degree_of	occurs_in
+1
+-4.8338681436143816
+___
+experimental_model_of_disease	disease_or_syndrome	group
+degree_of	occurs_in
+1
+-4.833905503968708
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	group
+precedes	occurs_in
+1
+-5.901453345664777
+___
+experimental_model_of_disease	pathologic_function	group
+precedes	occurs_in
+1
+-5.901702636969276
+___
+experimental_model_of_disease	disease_or_syndrome	group
+precedes	occurs_in
+1
+-5.9017480100737885
+___
+experimental_model_of_disease	injury_or_poisoning	group
+manifestation_of	occurs_in
+1
+-10.809247359633446
+___
+experimental_model_of_disease	mental_process	temporal_concept
+manifestation_of	occurs_in
+-1
+-10.816596705466509
+___
+experimental_model_of_disease	molecular_function	temporal_concept
+manifestation_of	occurs_in
+-1
+-10.817391038872302
+___
+experimental_model_of_disease	cell_function	temporal_concept
+manifestation_of	occurs_in
+-1
+-10.817898916080594
+___
+experimental_model_of_disease	neoplastic_process	group
+manifestation_of	occurs_in
+1
+-10.822215840220451
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	group
+manifestation_of	occurs_in
+1
+-10.822815788909793
+___
+experimental_model_of_disease	pathologic_function	group
+manifestation_of	occurs_in
+1
+-10.825415801256895
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	group
+manifestation_of	occurs_in
+1
+-10.826352762058377
+___
+experimental_model_of_disease	disease_or_syndrome	group
+manifestation_of	occurs_in
+1
+-10.82665491849184
+___
+experimental_model_of_disease	injury_or_poisoning	group
+occurs_in	occurs_in
+1
+-11.053739674389362
+___
+experimental_model_of_disease	neoplastic_process	group
+occurs_in	occurs_in
+1
+-11.07518681883812
+___
+experimental_model_of_disease	disease_or_syndrome	group
+occurs_in	occurs_in
+1
+-11.123638361692429
+___
+experimental_model_of_disease	organ_or_tissue_function	organism_function
+manifestation_of	occurs_in
+-1
+-11.50295215845108
+___
+experimental_model_of_disease	organ_or_tissue_function	temporal_concept
+manifestation_of	occurs_in
+-1
+-11.50295215845108
+___
+experimental_model_of_disease	congenital_abnormality	group
+result_of	occurs_in
+1
+-11.716164304874837
+___
+experimental_model_of_disease	anatomical_abnormality	group
+result_of	occurs_in
+1
+-11.717507894150913
+___
+experimental_model_of_disease	acquired_abnormality	group
+result_of	occurs_in
+1
+-11.719106304459274
+___
+experimental_model_of_disease	injury_or_poisoning	group
+result_of	occurs_in
+1
+-11.728896083310246
+___
+experimental_model_of_disease	molecular_function	temporal_concept
+result_of	occurs_in
+-1
+-11.731154037639499
+___
+experimental_model_of_disease	genetic_function	temporal_concept
+result_of	occurs_in
+-1
+-11.732614612206817
+___
+experimental_model_of_disease	cell_function	temporal_concept
+result_of	occurs_in
+-1
+-11.733747160062194
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	group
+result_of	occurs_in
+1
+-11.758386701345444
+___
+experimental_model_of_disease	pathologic_function	group
+result_of	occurs_in
+1
+-11.759362880140543
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	group
+result_of	occurs_in
+1
+-11.76221477985382
+___
+experimental_model_of_disease	disease_or_syndrome	group
+result_of	occurs_in
+1
+-11.763828225433826
+___
+experimental_model_of_disease	molecular_function	temporal_concept
+process_of	occurs_in
+-1
+-11.851563811302185
+___
+experimental_model_of_disease	cell_function	temporal_concept
+process_of	occurs_in
+-1
+-11.852891355752945
+___
+experimental_model_of_disease	mental_process	temporal_concept
+process_of	occurs_in
+-1
+-11.862944960594177
+___
+experimental_model_of_disease	physiologic_function	temporal_concept
+process_of	occurs_in
+-1
+-11.875300198793411
+___
+experimental_model_of_disease	genetic_function	temporal_concept
+process_of	occurs_in
+-1
+-11.877192810177803
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	group
+process_of	occurs_in
+1
+-11.913408666849136
+___
+experimental_model_of_disease	neoplastic_process	group
+process_of	occurs_in
+1
+-11.92929470539093
+___
+experimental_model_of_disease	pathologic_function	group
+process_of	occurs_in
+1
+-11.943189471960068
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	group
+process_of	occurs_in
+1
+-11.944847822189331
+___
+experimental_model_of_disease	pathologic_function	group
+isa	occurs_in
+1
+-11.968868806492537
+___
+experimental_model_of_disease	organism	organism
+process_of	NO_OP
+-1
+-12.073198676109314
+___
+experimental_model_of_disease	pathologic_function	group
+associated_with	occurs_in
+1
+-12.156621918082237
+___
+experimental_model_of_disease	archaeon	archaeon
+process_of	NO_OP
+-1
+-12.350082814693451
+___
+experimental_model_of_disease	human	human
+process_of	NO_OP
+-1
+-12.406780362129211
+___
+experimental_model_of_disease	organ_or_tissue_function	organism_function
+result_of	occurs_in
+-1
+-12.410794913768768
+___
+experimental_model_of_disease	organ_or_tissue_function	temporal_concept
+result_of	occurs_in
+-1
+-12.410794913768768
+___
+experimental_model_of_disease	organ_or_tissue_function	temporal_concept
+process_of	occurs_in
+-1
+-12.453798651695251
+___
+experimental_model_of_disease	organ_or_tissue_function	organism_function
+process_of	occurs_in
+-1
+-12.453798651695251
+___
+experimental_model_of_disease	molecular_function	temporal_concept
+affects	occurs_in
+-1
+-12.600314125418663
+___
+experimental_model_of_disease	cell_function	temporal_concept
+affects	occurs_in
+-1
+-12.607147559523582
+___
+experimental_model_of_disease	mental_process	temporal_concept
+affects	occurs_in
+-1
+-12.61039899289608
+___
+experimental_model_of_disease	behavior	behavior
+result_of	NO_OP
+-1
+-12.678944766521454
+___
+experimental_model_of_disease	mammal	mammal
+process_of	NO_OP
+-1
+-12.7289879322052
+___
+experimental_model_of_disease	neoplastic_process	bacterium
+complicates	process_of
+-1
+-12.744491577148438
+___
+experimental_model_of_disease	neoplastic_process	rickettsia_or_chlamydia
+complicates	process_of
+-1
+-12.744491577148438
+___
+experimental_model_of_disease	neoplastic_process	cell_or_molecular_dysfunction
+complicates	process_of
+-1
+-12.744491577148438
+___
+experimental_model_of_disease	neoplastic_process	physiologic_function
+complicates	process_of
+-1
+-12.744491577148438
+___
+experimental_model_of_disease	neoplastic_process	cell_function
+complicates	process_of
+-1
+-12.744491577148438
+___
+experimental_model_of_disease	neoplastic_process	alga
+complicates	process_of
+-1
+-12.744491577148438
+___
+experimental_model_of_disease	neoplastic_process	vertebrate
+complicates	process_of
+-1
+-12.744491577148438
+___
+experimental_model_of_disease	neoplastic_process	mammal
+complicates	process_of
+-1
+-12.744491577148438
+___
+experimental_model_of_disease	neoplastic_process	fish
+complicates	process_of
+-1
+-12.744491577148438
+___
+experimental_model_of_disease	neoplastic_process	virus
+complicates	process_of
+-1
+-12.744491577148438
+___
+experimental_model_of_disease	neoplastic_process	fungus
+complicates	process_of
+-1
+-12.744491577148438
+___
+experimental_model_of_disease	neoplastic_process	biologic_function
+complicates	process_of
+-1
+-12.744491577148438
+___
+experimental_model_of_disease	neoplastic_process	organ_or_tissue_function
+complicates	process_of
+-1
+-12.744491577148438
+___
+experimental_model_of_disease	neoplastic_process	archaeon
+complicates	process_of
+-1
+-12.744491577148438
+___
+experimental_model_of_disease	neoplastic_process	animal
+complicates	process_of
+-1
+-12.744491577148438
+___
+experimental_model_of_disease	neoplastic_process	mental_process
+complicates	process_of
+-1
+-12.744491577148438
+___
+experimental_model_of_disease	neoplastic_process	natural_phenomenon_or_process
+complicates	process_of
+-1
+-12.744491577148438
+___
+experimental_model_of_disease	neoplastic_process	amphibian
+complicates	process_of
+-1
+-12.744491577148438
+___
+experimental_model_of_disease	neoplastic_process	reptile
+complicates	process_of
+-1
+-12.744491577148438
+___
+experimental_model_of_disease	neoplastic_process	plant
+complicates	process_of
+-1
+-12.744491577148438
+___
+experimental_model_of_disease	neoplastic_process	organism
+complicates	process_of
+-1
+-12.744491577148438
+___
+experimental_model_of_disease	neoplastic_process	pathologic_function
+complicates	process_of
+-1
+-12.744491577148438
+___
+experimental_model_of_disease	pathologic_function	organ_or_tissue_function
+complicates	process_of
+-1
+-12.74467658996582
+___
+experimental_model_of_disease	pathologic_function	bacterium
+complicates	process_of
+-1
+-12.74467658996582
+___
+experimental_model_of_disease	pathologic_function	natural_phenomenon_or_process
+complicates	process_of
+-1
+-12.74467658996582
+___
+experimental_model_of_disease	pathologic_function	rickettsia_or_chlamydia
+complicates	process_of
+-1
+-12.74467658996582
+___
+experimental_model_of_disease	pathologic_function	molecular_function
+complicates	process_of
+-1
+-12.74467658996582
+___
+experimental_model_of_disease	pathologic_function	physiologic_function
+complicates	process_of
+-1
+-12.74467658996582
+___
+experimental_model_of_disease	pathologic_function	vertebrate
+complicates	process_of
+-1
+-12.74467658996582
+___
+experimental_model_of_disease	pathologic_function	animal
+complicates	process_of
+-1
+-12.74467658996582
+___
+experimental_model_of_disease	pathologic_function	amphibian
+complicates	process_of
+-1
+-12.74467658996582
+___
+experimental_model_of_disease	pathologic_function	cell_or_molecular_dysfunction
+complicates	process_of
+-1
+-12.74467658996582
+___
+#####################
+pathologic_function	mental_or_behavioral_dysfunction
+Reward:1
+pathologic_function	neoplastic_process	mental_or_behavioral_dysfunction
+complicates	occurs_in
+1
+-2.596278538228944
+___
+pathologic_function	neoplastic_process	mental_or_behavioral_dysfunction
+degree_of	occurs_in
+1
+-4.709786194958724
+___
+pathologic_function	congenital_abnormality	alga
+co-occurs_with	part_of
+-1
+-4.876609563827515
+___
+pathologic_function	congenital_abnormality	archaeon
+co-occurs_with	part_of
+-1
+-4.876609563827515
+___
+pathologic_function	congenital_abnormality	invertebrate
+co-occurs_with	part_of
+-1
+-4.876609563827515
+___
+pathologic_function	congenital_abnormality	human
+co-occurs_with	part_of
+-1
+-4.876609563827515
+___
+pathologic_function	congenital_abnormality	animal
+co-occurs_with	part_of
+-1
+-4.876609563827515
+___
+pathologic_function	congenital_abnormality	fungus
+co-occurs_with	part_of
+-1
+-4.876609563827515
+___
+pathologic_function	congenital_abnormality	vertebrate
+co-occurs_with	part_of
+-1
+-4.876609563827515
+___
+pathologic_function	congenital_abnormality	plant
+co-occurs_with	part_of
+-1
+-4.876609563827515
+___
+pathologic_function	congenital_abnormality	rickettsia_or_chlamydia
+co-occurs_with	part_of
+-1
+-4.876609563827515
+___
+pathologic_function	congenital_abnormality	reptile
+co-occurs_with	part_of
+-1
+-4.876609563827515
+___
+pathologic_function	congenital_abnormality	fish
+co-occurs_with	part_of
+-1
+-4.876609563827515
+___
+pathologic_function	congenital_abnormality	amphibian
+co-occurs_with	part_of
+-1
+-4.876609563827515
+___
+pathologic_function	anatomical_abnormality	rickettsia_or_chlamydia
+co-occurs_with	part_of
+-1
+-4.937205791473389
+___
+pathologic_function	anatomical_abnormality	alga
+co-occurs_with	part_of
+-1
+-4.937205791473389
+___
+pathologic_function	anatomical_abnormality	amphibian
+co-occurs_with	part_of
+-1
+-4.937205791473389
+___
+pathologic_function	anatomical_abnormality	organism
+co-occurs_with	part_of
+-1
+-4.937205791473389
+___
+pathologic_function	anatomical_abnormality	invertebrate
+co-occurs_with	part_of
+-1
+-4.937205791473389
+___
+pathologic_function	anatomical_abnormality	fungus
+co-occurs_with	part_of
+-1
+-4.937205791473389
+___
+pathologic_function	anatomical_abnormality	virus
+co-occurs_with	part_of
+-1
+-4.937205791473389
+___
+pathologic_function	anatomical_abnormality	reptile
+co-occurs_with	part_of
+-1
+-4.937205791473389
+___
+pathologic_function	anatomical_abnormality	fish
+co-occurs_with	part_of
+-1
+-4.937205791473389
+___
+pathologic_function	anatomical_abnormality	plant
+co-occurs_with	part_of
+-1
+-4.937205791473389
+___
+pathologic_function	anatomical_abnormality	archaeon
+co-occurs_with	part_of
+-1
+-4.937205791473389
+___
+pathologic_function	anatomical_abnormality	human
+co-occurs_with	part_of
+-1
+-4.937205791473389
+___
+pathologic_function	anatomical_abnormality	bird
+co-occurs_with	part_of
+-1
+-4.937205791473389
+___
+pathologic_function	acquired_abnormality	invertebrate
+co-occurs_with	part_of
+-1
+-4.991039991378784
+___
+pathologic_function	acquired_abnormality	fish
+co-occurs_with	part_of
+-1
+-4.991039991378784
+___
+pathologic_function	acquired_abnormality	bird
+co-occurs_with	part_of
+-1
+-4.991039991378784
+___
+pathologic_function	acquired_abnormality	vertebrate
+co-occurs_with	part_of
+-1
+-4.991039991378784
+___
+pathologic_function	acquired_abnormality	reptile
+co-occurs_with	part_of
+-1
+-4.991039991378784
+___
+pathologic_function	acquired_abnormality	mammal
+co-occurs_with	part_of
+-1
+-4.991039991378784
+___
+pathologic_function	acquired_abnormality	animal
+co-occurs_with	part_of
+-1
+-4.991039991378784
+___
+pathologic_function	acquired_abnormality	virus
+co-occurs_with	part_of
+-1
+-4.991039991378784
+___
+pathologic_function	acquired_abnormality	archaeon
+co-occurs_with	part_of
+-1
+-4.991039991378784
+___
+pathologic_function	acquired_abnormality	fungus
+co-occurs_with	part_of
+-1
+-4.991039991378784
+___
+pathologic_function	acquired_abnormality	bacterium
+co-occurs_with	part_of
+-1
+-4.991039991378784
+___
+pathologic_function	acquired_abnormality	organism
+co-occurs_with	part_of
+-1
+-4.991039991378784
+___
+pathologic_function	acquired_abnormality	human
+co-occurs_with	part_of
+-1
+-4.991039991378784
+___
+pathologic_function	congenital_abnormality	fish
+complicates	part_of
+-1
+-5.514816761016846
+___
+pathologic_function	congenital_abnormality	human
+complicates	part_of
+-1
+-5.514816761016846
+___
+pathologic_function	congenital_abnormality	fungus
+complicates	part_of
+-1
+-5.514816761016846
+___
+pathologic_function	congenital_abnormality	reptile
+complicates	part_of
+-1
+-5.514816761016846
+___
+pathologic_function	congenital_abnormality	vertebrate
+complicates	part_of
+-1
+-5.514816761016846
+___
+pathologic_function	congenital_abnormality	animal
+complicates	part_of
+-1
+-5.514816761016846
+___
+pathologic_function	congenital_abnormality	invertebrate
+complicates	part_of
+-1
+-5.514816761016846
+___
+pathologic_function	congenital_abnormality	amphibian
+complicates	part_of
+-1
+-5.514816761016846
+___
+pathologic_function	congenital_abnormality	archaeon
+complicates	part_of
+-1
+-5.514816761016846
+___
+pathologic_function	congenital_abnormality	rickettsia_or_chlamydia
+complicates	part_of
+-1
+-5.514816761016846
+___
+pathologic_function	congenital_abnormality	alga
+complicates	part_of
+-1
+-5.514816761016846
+___
+pathologic_function	congenital_abnormality	plant
+complicates	part_of
+-1
+-5.514816761016846
+___
+pathologic_function	anatomical_abnormality	reptile
+complicates	part_of
+-1
+-5.572343111038208
+___
+pathologic_function	anatomical_abnormality	bird
+complicates	part_of
+-1
+-5.572343111038208
+___
+pathologic_function	anatomical_abnormality	rickettsia_or_chlamydia
+complicates	part_of
+-1
+-5.572343111038208
+___
+pathologic_function	anatomical_abnormality	archaeon
+complicates	part_of
+-1
+-5.572343111038208
+___
+pathologic_function	anatomical_abnormality	virus
+complicates	part_of
+-1
+-5.572343111038208
+___
+pathologic_function	anatomical_abnormality	fungus
+complicates	part_of
+-1
+-5.572343111038208
+___
+pathologic_function	anatomical_abnormality	human
+complicates	part_of
+-1
+-5.572343111038208
+___
+pathologic_function	anatomical_abnormality	fish
+complicates	part_of
+-1
+-5.572343111038208
+___
+pathologic_function	anatomical_abnormality	alga
+complicates	part_of
+-1
+-5.572343111038208
+___
+pathologic_function	anatomical_abnormality	amphibian
+complicates	part_of
+-1
+-5.572343111038208
+___
+pathologic_function	anatomical_abnormality	invertebrate
+complicates	part_of
+-1
+-5.572343111038208
+___
+pathologic_function	anatomical_abnormality	organism
+complicates	part_of
+-1
+-5.572343111038208
+___
+pathologic_function	anatomical_abnormality	plant
+complicates	part_of
+-1
+-5.572343111038208
+___
+pathologic_function	acquired_abnormality	human
+complicates	part_of
+-1
+-5.647139310836792
+___
+pathologic_function	acquired_abnormality	invertebrate
+complicates	part_of
+-1
+-5.647139310836792
+___
+pathologic_function	acquired_abnormality	fungus
+complicates	part_of
+-1
+-5.647139310836792
+___
+pathologic_function	acquired_abnormality	bacterium
+complicates	part_of
+-1
+-5.647139310836792
+___
+pathologic_function	acquired_abnormality	reptile
+complicates	part_of
+-1
+-5.647139310836792
+___
+pathologic_function	acquired_abnormality	archaeon
+complicates	part_of
+-1
+-5.647139310836792
+___
+pathologic_function	acquired_abnormality	animal
+complicates	part_of
+-1
+-5.647139310836792
+___
+pathologic_function	acquired_abnormality	vertebrate
+complicates	part_of
+-1
+-5.647139310836792
+___
+pathologic_function	acquired_abnormality	bird
+complicates	part_of
+-1
+-5.647139310836792
+___
+pathologic_function	acquired_abnormality	mammal
+complicates	part_of
+-1
+-5.647139310836792
+___
+pathologic_function	acquired_abnormality	virus
+complicates	part_of
+-1
+-5.647139310836792
+___
+pathologic_function	acquired_abnormality	fish
+complicates	part_of
+-1
+-5.647139310836792
+___
+pathologic_function	acquired_abnormality	organism
+complicates	part_of
+-1
+-5.647139310836792
+___
+pathologic_function	congenital_abnormality	biomedical_occupation_or_discipline
+complicates	issue_in
+-1
+-5.663647413253784
+___
+pathologic_function	congenital_abnormality	biomedical_occupation_or_discipline
+co-occurs_with	issue_in
+-1
+-5.685158014297485
+___
+pathologic_function	anatomical_abnormality	occupation_or_discipline
+complicates	issue_in
+-1
+-5.7211737632751465
+___
+pathologic_function	congenital_abnormality	acquired_abnormality
+co-occurs_with	complicates
+-1
+-5.740655183792114
+___
+pathologic_function	anatomical_abnormality	occupation_or_discipline
+co-occurs_with	issue_in
+-1
+-5.745754241943359
+___
+pathologic_function	acquired_abnormality	occupation_or_discipline
+complicates	issue_in
+-1
+-5.7959699630737305
+___
+pathologic_function	acquired_abnormality	biomedical_occupation_or_discipline
+complicates	issue_in
+-1
+-5.7959699630737305
+___
+pathologic_function	acquired_abnormality	occupation_or_discipline
+co-occurs_with	issue_in
+-1
+-5.799588441848755
+___
+pathologic_function	acquired_abnormality	biomedical_occupation_or_discipline
+co-occurs_with	issue_in
+-1
+-5.799588441848755
+___
+pathologic_function	anatomical_abnormality	congenital_abnormality
+co-occurs_with	complicates
+-1
+-5.801251649856567
+___
+pathologic_function	anatomical_abnormality	acquired_abnormality
+co-occurs_with	complicates
+-1
+-5.801251649856567
+___
+pathologic_function	congenital_abnormality	congenital_abnormality
+complicates	NO_OP
+-1
+-5.812547445297241
+___
+pathologic_function	acquired_abnormality	congenital_abnormality
+co-occurs_with	complicates
+-1
+-5.855085611343384
+___
+pathologic_function	acquired_abnormality	anatomical_abnormality
+co-occurs_with	complicates
+-1
+-5.855085611343384
+___
+pathologic_function	anatomical_abnormality	anatomical_abnormality
+complicates	NO_OP
+-1
+-5.8700737953186035
+___
+pathologic_function	congenital_abnormality	congenital_abnormality
+co-occurs_with	NO_OP
+-1
+-5.93781590461731
+___
+pathologic_function	acquired_abnormality	acquired_abnormality
+complicates	NO_OP
+-1
+-5.9448699951171875
+___
+pathologic_function	anatomical_abnormality	anatomical_abnormality
+co-occurs_with	NO_OP
+-1
+-5.998412370681763
+___
+pathologic_function	congenital_abnormality	acquired_abnormality
+complicates	complicates
+-1
+-6.027342081069946
+___
+pathologic_function	mental_or_behavioral_dysfunction	organism
+complicates	process_of
+-1
+-6.027456760406494
+___
+pathologic_function	mental_or_behavioral_dysfunction	genetic_function
+complicates	process_of
+-1
+-6.027456760406494
+___
+pathologic_function	mental_or_behavioral_dysfunction	invertebrate
+complicates	process_of
+-1
+-6.027456760406494
+___
+#####################
+organism_function	temporal_concept
+Reward:1
+organism_function	molecular_function	temporal_concept
+co-occurs_with	occurs_in
+1
+-1.1748912531184033
+___
+organism_function	genetic_function	temporal_concept
+co-occurs_with	occurs_in
+1
+-1.1749421205022372
+___
+organism_function	organ_or_tissue_function	temporal_concept
+co-occurs_with	occurs_in
+1
+-1.8676671385765076
+___
+organism_function	organ_or_tissue_function	organism_function
+co-occurs_with	occurs_in
+-1
+-1.8676671385765076
+___
+organism_function	mental_process	temporal_concept
+degree_of	occurs_in
+1
+-3.7618582266150042
+___
+organism_function	mental_process	temporal_concept
+precedes	occurs_in
+1
+-4.829877811658662
+___
+organism_function	molecular_function	temporal_concept
+precedes	occurs_in
+1
+-4.829949270817451
+___
+organism_function	cell_function	temporal_concept
+precedes	occurs_in
+1
+-4.8299495090032
+___
+organism_function	physiologic_function	temporal_concept
+precedes	occurs_in
+1
+-4.830028346274048
+___
+organism_function	genetic_function	temporal_concept
+precedes	occurs_in
+1
+-4.830042636371218
+___
+organism_function	organ_or_tissue_function	temporal_concept
+precedes	occurs_in
+1
+-5.5225712060928345
+___
+organism_function	organ_or_tissue_function	organism_function
+precedes	occurs_in
+-1
+-5.5225712060928345
+___
+organism_function	temporal_concept	temporal_concept
+conceptual_part_of	NO_OP
+1
+-10.247061848640442
+___
+organism_function	molecular_function	temporal_concept
+result_of	occurs_in
+1
+-10.661711005493999
+___
+organism_function	physiologic_function	temporal_concept
+result_of	occurs_in
+1
+-10.662704413756728
+___
+organism_function	genetic_function	temporal_concept
+result_of	occurs_in
+1
+-10.663180271163583
+___
+organism_function	cell_function	temporal_concept
+result_of	occurs_in
+1
+-10.66428617760539
+___
+organism_function	molecular_function	temporal_concept
+process_of	occurs_in
+1
+-10.783663854002953
+___
+organism_function	cell_function	temporal_concept
+process_of	occurs_in
+1
+-10.784960135817528
+___
+organism_function	temporal_concept	occupation_or_discipline
+conceptual_part_of	issue_in
+-1
+-10.78579568862915
+___
+organism_function	temporal_concept	biomedical_occupation_or_discipline
+conceptual_part_of	issue_in
+-1
+-10.78579568862915
+___
+organism_function	physiologic_function	temporal_concept
+process_of	occurs_in
+1
+-10.807361662387848
+___
+organism_function	genetic_function	temporal_concept
+process_of	occurs_in
+1
+-10.809221640229225
+___
+organism_function	mental_process	temporal_concept
+process_of	occurs_in
+1
+-10.83873650431633
+___
+organism_function	physiologic_function	temporal_concept
+isa	occurs_in
+1
+-10.896919911261648
+___
+organism_function	organism	organism
+process_of	NO_OP
+-1
+-11.00146234035492
+___
+organism_function	event	occupation_or_discipline
+isa	issue_in
+-1
+-11.278103411197662
+___
+organism_function	archaeon	archaeon
+process_of	NO_OP
+-1
+-11.278346478939056
+___
+organism_function	organ_or_tissue_function	organism_function
+result_of	occurs_in
+-1
+-11.339530646800995
+___
+organism_function	organ_or_tissue_function	temporal_concept
+result_of	occurs_in
+1
+-11.339530646800995
+___
+organism_function	organ_or_tissue_function	organism_function
+process_of	occurs_in
+-1
+-11.382916569709778
+___
+organism_function	organ_or_tissue_function	temporal_concept
+process_of	occurs_in
+1
+-11.382916569709778
+___
+organism_function	physiologic_function	temporal_concept
+affects	occurs_in
+1
+-11.536011040210724
+___
+organism_function	molecular_function	temporal_concept
+affects	occurs_in
+1
+-11.536035098135471
+___
+organism_function	genetic_function	temporal_concept
+affects	occurs_in
+1
+-11.54252690076828
+___
+organism_function	cell_function	temporal_concept
+affects	occurs_in
+1
+-11.542798973619938
+___
+organism_function	mental_process	temporal_concept
+affects	occurs_in
+1
+-11.546412527561188
+___
+organism_function	fish	fish
+process_of	NO_OP
+-1
+-11.628469705581665
+___
+organism_function	mammal	mammal
+process_of	NO_OP
+-1
+-11.657251596450806
+___
+organism_function	reptile	reptile
+process_of	NO_OP
+-1
+-11.811217904090881
+___
+organism_function	bird	bird
+process_of	NO_OP
+-1
+-11.853842973709106
+___
+organism_function	molecular_function	reptile
+co-occurs_with	process_of
+-1
+-11.91772198677063
+___
+organism_function	molecular_function	bird
+co-occurs_with	process_of
+-1
+-11.91772198677063
+___
+organism_function	molecular_function	experimental_model_of_disease
+co-occurs_with	process_of
+-1
+-11.91772198677063
+___
+organism_function	molecular_function	mammal
+co-occurs_with	process_of
+-1
+-11.91772198677063
+___
+organism_function	molecular_function	disease_or_syndrome
+co-occurs_with	process_of
+-1
+-11.91772198677063
+___
+organism_function	molecular_function	neoplastic_process
+co-occurs_with	process_of
+-1
+-11.91772198677063
+___
+organism_function	molecular_function	alga
+co-occurs_with	process_of
+-1
+-11.91772198677063
+___
+organism_function	molecular_function	biologic_function
+co-occurs_with	process_of
+-1
+-11.91772198677063
+___
+organism_function	molecular_function	physiologic_function
+co-occurs_with	process_of
+-1
+-11.91772198677063
+___
+organism_function	molecular_function	cell_or_molecular_dysfunction
+co-occurs_with	process_of
+-1
+-11.91772198677063
+___
+organism_function	molecular_function	organism
+co-occurs_with	process_of
+-1
+-11.91772198677063
+___
+organism_function	molecular_function	animal
+co-occurs_with	process_of
+-1
+-11.91772198677063
+___
+organism_function	molecular_function	organism_function
+co-occurs_with	process_of
+-1
+-11.91772198677063
+___
+organism_function	molecular_function	mental_process
+co-occurs_with	process_of
+-1
+-11.91772198677063
+___
+organism_function	molecular_function	pathologic_function
+co-occurs_with	process_of
+-1
+-11.91772198677063
+___
+organism_function	molecular_function	plant
+co-occurs_with	process_of
+-1
+-11.91772198677063
+___
+organism_function	molecular_function	human
+co-occurs_with	process_of
+-1
+-11.91772198677063
+___
+organism_function	molecular_function	genetic_function
+co-occurs_with	process_of
+-1
+-11.91772198677063
+___
+organism_function	molecular_function	bacterium
+co-occurs_with	process_of
+-1
+-11.91772198677063
+___
+organism_function	molecular_function	amphibian
+co-occurs_with	process_of
+-1
+-11.91772198677063
+___
+organism_function	molecular_function	vertebrate
+co-occurs_with	process_of
+-1
+-11.91772198677063
+___
+organism_function	molecular_function	mental_or_behavioral_dysfunction
+co-occurs_with	process_of
+-1
+-11.91772198677063
+___
+organism_function	molecular_function	rickettsia_or_chlamydia
+co-occurs_with	process_of
+-1
+-11.91772198677063
+___
+organism_function	molecular_function	virus
+co-occurs_with	process_of
+-1
+-11.91772198677063
+___
+organism_function	molecular_function	organ_or_tissue_function
+co-occurs_with	process_of
+-1
+-11.91772198677063
+___
+organism_function	molecular_function	natural_phenomenon_or_process
+co-occurs_with	process_of
+-1
+-11.91772198677063
+___
+organism_function	molecular_function	fish
+co-occurs_with	process_of
+-1
+-11.91772198677063
+___
+organism_function	genetic_function	alga
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	genetic_function	rickettsia_or_chlamydia
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	genetic_function	bacterium
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	genetic_function	mammal
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	genetic_function	amphibian
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	genetic_function	mental_process
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	genetic_function	human
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	genetic_function	disease_or_syndrome
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	genetic_function	animal
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	genetic_function	experimental_model_of_disease
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	genetic_function	virus
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	genetic_function	archaeon
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	genetic_function	organism
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	genetic_function	neoplastic_process
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	genetic_function	molecular_function
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	genetic_function	organism_function
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	genetic_function	invertebrate
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	genetic_function	fungus
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	genetic_function	physiologic_function
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	genetic_function	vertebrate
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	genetic_function	mental_or_behavioral_dysfunction
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	genetic_function	reptile
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	genetic_function	biologic_function
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	genetic_function	fish
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	genetic_function	bird
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	genetic_function	cell_or_molecular_dysfunction
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	genetic_function	natural_phenomenon_or_process
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	genetic_function	pathologic_function
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	genetic_function	plant
+co-occurs_with	process_of
+-1
+-11.9177725315094
+___
+organism_function	amphibian	amphibian
+process_of	NO_OP
+-1
+-12.003343343734741
+___
+organism_function	event	event
+isa	NO_OP
+-1
+-12.028867959976196
+___
+organism_function	temporal_concept	mental_process
+conceptual_part_of	result_of
+-1
+-12.037784576416016
+___
+#####################
+cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+Reward:1
+cell_or_molecular_dysfunction	neoplastic_process	mental_or_behavioral_dysfunction
+complicates	occurs_in
+1
+-2.9610828061122447
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	biomedical_occupation_or_discipline
+co-occurs_with	issue_in
+-1
+-5.000291109085083
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	cell_or_molecular_dysfunction
+co-occurs_with	complicates
+-1
+-5.055788278579712
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	acquired_abnormality
+co-occurs_with	complicates
+-1
+-5.055788278579712
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	pathologic_function
+co-occurs_with	complicates
+-1
+-5.055788278579712
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	mental_or_behavioral_dysfunction
+co-occurs_with	complicates
+1
+-5.055788278579712
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	congenital_abnormality
+co-occurs_with	complicates
+-1
+-5.055788278579712
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	anatomical_abnormality
+co-occurs_with	complicates
+-1
+-5.055788278579712
+___
+cell_or_molecular_dysfunction	congenital_abnormality	archaeon
+co-occurs_with	part_of
+-1
+-5.241413831710815
+___
+cell_or_molecular_dysfunction	congenital_abnormality	alga
+co-occurs_with	part_of
+-1
+-5.241413831710815
+___
+cell_or_molecular_dysfunction	congenital_abnormality	reptile
+co-occurs_with	part_of
+-1
+-5.241413831710815
+___
+cell_or_molecular_dysfunction	congenital_abnormality	vertebrate
+co-occurs_with	part_of
+-1
+-5.241413831710815
+___
+cell_or_molecular_dysfunction	congenital_abnormality	invertebrate
+co-occurs_with	part_of
+-1
+-5.241413831710815
+___
+cell_or_molecular_dysfunction	congenital_abnormality	human
+co-occurs_with	part_of
+-1
+-5.241413831710815
+___
+cell_or_molecular_dysfunction	congenital_abnormality	fish
+co-occurs_with	part_of
+-1
+-5.241413831710815
+___
+cell_or_molecular_dysfunction	congenital_abnormality	fungus
+co-occurs_with	part_of
+-1
+-5.241413831710815
+___
+cell_or_molecular_dysfunction	congenital_abnormality	animal
+co-occurs_with	part_of
+-1
+-5.241413831710815
+___
+cell_or_molecular_dysfunction	congenital_abnormality	rickettsia_or_chlamydia
+co-occurs_with	part_of
+-1
+-5.241413831710815
+___
+cell_or_molecular_dysfunction	congenital_abnormality	plant
+co-occurs_with	part_of
+-1
+-5.241413831710815
+___
+cell_or_molecular_dysfunction	congenital_abnormality	amphibian
+co-occurs_with	part_of
+-1
+-5.241413831710815
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	biomedical_occupation_or_discipline
+complicates	issue_in
+-1
+-5.273021221160889
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	fungus
+co-occurs_with	part_of
+-1
+-5.3020100593566895
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	plant
+co-occurs_with	part_of
+-1
+-5.3020100593566895
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	invertebrate
+co-occurs_with	part_of
+-1
+-5.3020100593566895
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	virus
+co-occurs_with	part_of
+-1
+-5.3020100593566895
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	human
+co-occurs_with	part_of
+-1
+-5.3020100593566895
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	bird
+co-occurs_with	part_of
+-1
+-5.3020100593566895
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	rickettsia_or_chlamydia
+co-occurs_with	part_of
+-1
+-5.3020100593566895
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	reptile
+co-occurs_with	part_of
+-1
+-5.3020100593566895
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	alga
+co-occurs_with	part_of
+-1
+-5.3020100593566895
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	fish
+co-occurs_with	part_of
+-1
+-5.3020100593566895
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	archaeon
+co-occurs_with	part_of
+-1
+-5.3020100593566895
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	organism
+co-occurs_with	part_of
+-1
+-5.3020100593566895
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	amphibian
+co-occurs_with	part_of
+-1
+-5.3020100593566895
+___
+cell_or_molecular_dysfunction	acquired_abnormality	reptile
+co-occurs_with	part_of
+-1
+-5.355844259262085
+___
+cell_or_molecular_dysfunction	acquired_abnormality	fungus
+co-occurs_with	part_of
+-1
+-5.355844259262085
+___
+cell_or_molecular_dysfunction	acquired_abnormality	fish
+co-occurs_with	part_of
+-1
+-5.355844259262085
+___
+cell_or_molecular_dysfunction	acquired_abnormality	mammal
+co-occurs_with	part_of
+-1
+-5.355844259262085
+___
+cell_or_molecular_dysfunction	acquired_abnormality	organism
+co-occurs_with	part_of
+-1
+-5.355844259262085
+___
+cell_or_molecular_dysfunction	acquired_abnormality	bird
+co-occurs_with	part_of
+-1
+-5.355844259262085
+___
+cell_or_molecular_dysfunction	acquired_abnormality	bacterium
+co-occurs_with	part_of
+-1
+-5.355844259262085
+___
+cell_or_molecular_dysfunction	acquired_abnormality	archaeon
+co-occurs_with	part_of
+-1
+-5.355844259262085
+___
+cell_or_molecular_dysfunction	acquired_abnormality	invertebrate
+co-occurs_with	part_of
+-1
+-5.355844259262085
+___
+cell_or_molecular_dysfunction	acquired_abnormality	animal
+co-occurs_with	part_of
+-1
+-5.355844259262085
+___
+cell_or_molecular_dysfunction	acquired_abnormality	vertebrate
+co-occurs_with	part_of
+-1
+-5.355844259262085
+___
+cell_or_molecular_dysfunction	acquired_abnormality	virus
+co-occurs_with	part_of
+-1
+-5.355844259262085
+___
+cell_or_molecular_dysfunction	acquired_abnormality	human
+co-occurs_with	part_of
+-1
+-5.355844259262085
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	congenital_abnormality
+complicates	complicates
+-1
+-5.63671612739563
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	acquired_abnormality
+complicates	complicates
+-1
+-5.63671612739563
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	cell_or_molecular_dysfunction
+complicates	complicates
+-1
+-5.63671612739563
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	anatomical_abnormality
+complicates	complicates
+-1
+-5.63671612739563
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	mental_or_behavioral_dysfunction
+complicates	complicates
+1
+-5.63671612739563
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	pathologic_function
+complicates	complicates
+-1
+-5.63671612739563
+___
+cell_or_molecular_dysfunction	congenital_abnormality	amphibian
+complicates	part_of
+-1
+-5.8796210289001465
+___
+cell_or_molecular_dysfunction	congenital_abnormality	invertebrate
+complicates	part_of
+-1
+-5.8796210289001465
+___
+cell_or_molecular_dysfunction	congenital_abnormality	alga
+complicates	part_of
+-1
+-5.8796210289001465
+___
+cell_or_molecular_dysfunction	congenital_abnormality	vertebrate
+complicates	part_of
+-1
+-5.8796210289001465
+___
+cell_or_molecular_dysfunction	congenital_abnormality	fungus
+complicates	part_of
+-1
+-5.8796210289001465
+___
+cell_or_molecular_dysfunction	congenital_abnormality	plant
+complicates	part_of
+-1
+-5.8796210289001465
+___
+cell_or_molecular_dysfunction	congenital_abnormality	reptile
+complicates	part_of
+-1
+-5.8796210289001465
+___
+cell_or_molecular_dysfunction	congenital_abnormality	rickettsia_or_chlamydia
+complicates	part_of
+-1
+-5.8796210289001465
+___
+cell_or_molecular_dysfunction	congenital_abnormality	archaeon
+complicates	part_of
+-1
+-5.8796210289001465
+___
+cell_or_molecular_dysfunction	congenital_abnormality	animal
+complicates	part_of
+-1
+-5.8796210289001465
+___
+cell_or_molecular_dysfunction	congenital_abnormality	fish
+complicates	part_of
+-1
+-5.8796210289001465
+___
+cell_or_molecular_dysfunction	congenital_abnormality	human
+complicates	part_of
+-1
+-5.8796210289001465
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	molecular_function
+co-occurs_with	process_of
+-1
+-5.91484808921814
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	organ_or_tissue_function
+co-occurs_with	process_of
+-1
+-5.91484808921814
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	animal
+co-occurs_with	process_of
+-1
+-5.91484808921814
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	invertebrate
+co-occurs_with	process_of
+-1
+-5.91484808921814
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	rickettsia_or_chlamydia
+co-occurs_with	process_of
+-1
+-5.91484808921814
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	amphibian
+co-occurs_with	process_of
+-1
+-5.91484808921814
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	physiologic_function
+co-occurs_with	process_of
+-1
+-5.91484808921814
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	organism_function
+co-occurs_with	process_of
+-1
+-5.91484808921814
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	biologic_function
+co-occurs_with	process_of
+-1
+-5.91484808921814
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	human
+co-occurs_with	process_of
+-1
+-5.91484808921814
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	bird
+co-occurs_with	process_of
+-1
+-5.91484808921814
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	alga
+co-occurs_with	process_of
+-1
+-5.91484808921814
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	mental_process
+co-occurs_with	process_of
+-1
+-5.91484808921814
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	archaeon
+co-occurs_with	process_of
+-1
+-5.91484808921814
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	reptile
+co-occurs_with	process_of
+-1
+-5.91484808921814
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	cell_function
+co-occurs_with	process_of
+-1
+-5.91484808921814
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	virus
+co-occurs_with	process_of
+-1
+-5.91484808921814
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	cell_or_molecular_dysfunction
+co-occurs_with	process_of
+-1
+-5.91484808921814
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	organism
+co-occurs_with	process_of
+-1
+-5.91484808921814
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	fungus
+co-occurs_with	process_of
+-1
+-5.91484808921814
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	mammal
+co-occurs_with	process_of
+-1
+-5.91484808921814
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	pathologic_function
+co-occurs_with	process_of
+-1
+-5.91484808921814
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	plant
+co-occurs_with	process_of
+-1
+-5.91484808921814
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	mental_or_behavioral_dysfunction
+co-occurs_with	process_of
+1
+-5.91484808921814
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	genetic_function
+co-occurs_with	process_of
+-1
+-5.91484808921814
+___
+cell_or_molecular_dysfunction	pathologic_function	bacterium
+co-occurs_with	process_of
+-1
+-5.933374643325806
+___
+cell_or_molecular_dysfunction	pathologic_function	reptile
+co-occurs_with	process_of
+-1
+-5.933374643325806
+___
+cell_or_molecular_dysfunction	pathologic_function	rickettsia_or_chlamydia
+co-occurs_with	process_of
+-1
+-5.933374643325806
+___
+cell_or_molecular_dysfunction	pathologic_function	virus
+co-occurs_with	process_of
+-1
+-5.933374643325806
+___
+cell_or_molecular_dysfunction	pathologic_function	cell_function
+co-occurs_with	process_of
+-1
+-5.933374643325806
+___
+cell_or_molecular_dysfunction	pathologic_function	physiologic_function
+co-occurs_with	process_of
+-1
+-5.933374643325806
+___
+cell_or_molecular_dysfunction	pathologic_function	mental_or_behavioral_dysfunction
+co-occurs_with	process_of
+1
+-5.933374643325806
+___
+cell_or_molecular_dysfunction	pathologic_function	organism
+co-occurs_with	process_of
+-1
+-5.933374643325806
+___
+cell_or_molecular_dysfunction	pathologic_function	animal
+co-occurs_with	process_of
+-1
+-5.933374643325806
+___
+cell_or_molecular_dysfunction	pathologic_function	natural_phenomenon_or_process
+co-occurs_with	process_of
+-1
+-5.933374643325806
+___
+#####################
+experimental_model_of_disease	age_group
+Reward:1
+experimental_model_of_disease	injury_or_poisoning	age_group
+co-occurs_with	occurs_in
+1
+-2.2460409374762094
+___
+experimental_model_of_disease	congenital_abnormality	age_group
+co-occurs_with	occurs_in
+1
+-2.246202917624032
+___
+experimental_model_of_disease	pathologic_function	age_group
+co-occurs_with	occurs_in
+1
+-2.246614246047102
+___
+experimental_model_of_disease	injury_or_poisoning	age_group
+complicates	occurs_in
+1
+-2.7188185019476805
+___
+experimental_model_of_disease	congenital_abnormality	age_group
+complicates	occurs_in
+1
+-2.719211818592157
+___
+experimental_model_of_disease	anatomical_abnormality	age_group
+complicates	occurs_in
+1
+-2.719244339794386
+___
+experimental_model_of_disease	neoplastic_process	age_group
+complicates	occurs_in
+1
+-2.720111420727335
+___
+experimental_model_of_disease	pathologic_function	age_group
+complicates	occurs_in
+1
+-2.7202961230650544
+___
+experimental_model_of_disease	disease_or_syndrome	age_group
+complicates	occurs_in
+1
+-2.720380846178159
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	age_group
+degree_of	occurs_in
+1
+-4.833321143640205
+___
+experimental_model_of_disease	neoplastic_process	age_group
+degree_of	occurs_in
+1
+-4.833636216935702
+___
+experimental_model_of_disease	pathologic_function	age_group
+degree_of	occurs_in
+1
+-4.833814242505468
+___
+experimental_model_of_disease	disease_or_syndrome	age_group
+degree_of	occurs_in
+1
+-4.833905622945167
+___
+experimental_model_of_disease	acquired_abnormality	archaeon
+co-occurs_with	part_of
+-1
+-5.107895612716675
+___
+experimental_model_of_disease	acquired_abnormality	vertebrate
+co-occurs_with	part_of
+-1
+-5.107895612716675
+___
+experimental_model_of_disease	acquired_abnormality	bacterium
+co-occurs_with	part_of
+-1
+-5.107895612716675
+___
+experimental_model_of_disease	acquired_abnormality	fish
+co-occurs_with	part_of
+-1
+-5.107895612716675
+___
+experimental_model_of_disease	acquired_abnormality	virus
+co-occurs_with	part_of
+-1
+-5.107895612716675
+___
+experimental_model_of_disease	acquired_abnormality	bird
+co-occurs_with	part_of
+-1
+-5.107895612716675
+___
+experimental_model_of_disease	acquired_abnormality	reptile
+co-occurs_with	part_of
+-1
+-5.107895612716675
+___
+experimental_model_of_disease	acquired_abnormality	mammal
+co-occurs_with	part_of
+-1
+-5.107895612716675
+___
+experimental_model_of_disease	acquired_abnormality	invertebrate
+co-occurs_with	part_of
+-1
+-5.107895612716675
+___
+experimental_model_of_disease	acquired_abnormality	fungus
+co-occurs_with	part_of
+-1
+-5.107895612716675
+___
+experimental_model_of_disease	acquired_abnormality	animal
+co-occurs_with	part_of
+-1
+-5.107895612716675
+___
+experimental_model_of_disease	acquired_abnormality	organism
+co-occurs_with	part_of
+-1
+-5.107895612716675
+___
+experimental_model_of_disease	acquired_abnormality	human
+co-occurs_with	part_of
+-1
+-5.107895612716675
+___
+experimental_model_of_disease	acquired_abnormality	fish
+complicates	part_of
+-1
+-5.759989023208618
+___
+experimental_model_of_disease	acquired_abnormality	bacterium
+complicates	part_of
+-1
+-5.759989023208618
+___
+experimental_model_of_disease	acquired_abnormality	organism
+complicates	part_of
+-1
+-5.759989023208618
+___
+experimental_model_of_disease	acquired_abnormality	human
+complicates	part_of
+-1
+-5.759989023208618
+___
+experimental_model_of_disease	acquired_abnormality	archaeon
+complicates	part_of
+-1
+-5.759989023208618
+___
+experimental_model_of_disease	acquired_abnormality	animal
+complicates	part_of
+-1
+-5.759989023208618
+___
+experimental_model_of_disease	acquired_abnormality	invertebrate
+complicates	part_of
+-1
+-5.759989023208618
+___
+experimental_model_of_disease	acquired_abnormality	bird
+complicates	part_of
+-1
+-5.759989023208618
+___
+experimental_model_of_disease	acquired_abnormality	vertebrate
+complicates	part_of
+-1
+-5.759989023208618
+___
+experimental_model_of_disease	acquired_abnormality	reptile
+complicates	part_of
+-1
+-5.759989023208618
+___
+experimental_model_of_disease	acquired_abnormality	fungus
+complicates	part_of
+-1
+-5.759989023208618
+___
+experimental_model_of_disease	acquired_abnormality	virus
+complicates	part_of
+-1
+-5.759989023208618
+___
+experimental_model_of_disease	acquired_abnormality	mammal
+complicates	part_of
+-1
+-5.759989023208618
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	age_group
+precedes	occurs_in
+1
+-5.901453464815859
+___
+experimental_model_of_disease	pathologic_function	age_group
+precedes	occurs_in
+1
+-5.90170275606215
+___
+experimental_model_of_disease	disease_or_syndrome	age_group
+precedes	occurs_in
+1
+-5.901748248259537
+___
+experimental_model_of_disease	acquired_abnormality	occupation_or_discipline
+complicates	issue_in
+-1
+-5.908819675445557
+___
+experimental_model_of_disease	acquired_abnormality	biomedical_occupation_or_discipline
+complicates	issue_in
+-1
+-5.908819675445557
+___
+experimental_model_of_disease	acquired_abnormality	biomedical_occupation_or_discipline
+co-occurs_with	issue_in
+-1
+-5.9164440631866455
+___
+experimental_model_of_disease	acquired_abnormality	occupation_or_discipline
+co-occurs_with	issue_in
+-1
+-5.9164440631866455
+___
+experimental_model_of_disease	acquired_abnormality	anatomical_abnormality
+co-occurs_with	complicates
+-1
+-5.9719414710998535
+___
+experimental_model_of_disease	acquired_abnormality	congenital_abnormality
+co-occurs_with	complicates
+-1
+-5.9719414710998535
+___
+experimental_model_of_disease	acquired_abnormality	acquired_abnormality
+complicates	NO_OP
+-1
+-6.057719707489014
+___
+experimental_model_of_disease	acquired_abnormality	acquired_abnormality
+co-occurs_with	NO_OP
+-1
+-6.169102191925049
+___
+experimental_model_of_disease	acquired_abnormality	anatomical_abnormality
+complicates	complicates
+-1
+-6.272514343261719
+___
+experimental_model_of_disease	acquired_abnormality	congenital_abnormality
+complicates	complicates
+-1
+-6.272514343261719
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	biologic_function
+complicates	process_of
+-1
+-6.4416344165802
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	rickettsia_or_chlamydia
+complicates	process_of
+-1
+-6.4416344165802
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	vertebrate
+complicates	process_of
+-1
+-6.4416344165802
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	fungus
+complicates	process_of
+-1
+-6.4416344165802
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	experimental_model_of_disease
+complicates	process_of
+-1
+-6.4416344165802
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	cell_function
+complicates	process_of
+-1
+-6.4416344165802
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	reptile
+complicates	process_of
+-1
+-6.4416344165802
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	organism_function
+complicates	process_of
+-1
+-6.4416344165802
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	archaeon
+complicates	process_of
+-1
+-6.4416344165802
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	alga
+complicates	process_of
+-1
+-6.4416344165802
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	fish
+complicates	process_of
+-1
+-6.4416344165802
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	bacterium
+complicates	process_of
+-1
+-6.4416344165802
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	pathologic_function
+complicates	process_of
+-1
+-6.4416344165802
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	amphibian
+complicates	process_of
+-1
+-6.4416344165802
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	mammal
+complicates	process_of
+-1
+-6.4416344165802
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	virus
+complicates	process_of
+-1
+-6.4416344165802
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	genetic_function
+complicates	process_of
+-1
+-6.4416344165802
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	plant
+complicates	process_of
+-1
+-6.4416344165802
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	organism
+complicates	process_of
+-1
+-6.4416344165802
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	animal
+complicates	process_of
+-1
+-6.4416344165802
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	organ_or_tissue_function
+complicates	process_of
+-1
+-6.4416344165802
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	invertebrate
+complicates	process_of
+-1
+-6.4416344165802
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	molecular_function
+complicates	process_of
+-1
+-6.4416344165802
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	mental_process
+complicates	process_of
+-1
+-6.4416344165802
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	immunologic_factor
+complicates	produces
+-1
+-6.473994255065918
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	vitamin
+complicates	produces
+-1
+-6.473994255065918
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	body_substance
+complicates	produces
+-1
+-6.473994255065918
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	receptor
+complicates	produces
+-1
+-6.473994255065918
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	neuroreactive_substance_or_biogenic_amine
+complicates	produces
+-1
+-6.473994255065918
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	hormone
+complicates	produces
+-1
+-6.473994255065918
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	biologically_active_substance
+complicates	produces
+-1
+-6.473994255065918
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	enzyme
+complicates	produces
+-1
+-6.473994255065918
+___
+experimental_model_of_disease	acquired_abnormality	anatomical_abnormality
+co-occurs_with	co-occurs_with
+-1
+-6.7429633140563965
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	biomedical_occupation_or_discipline
+complicates	issue_in
+-1
+-6.767056941986084
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	occupation_or_discipline
+complicates	issue_in
+-1
+-6.767056941986084
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	cell_or_molecular_dysfunction
+complicates	NO_OP
+-1
+-6.915956974029541
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	congenital_abnormality
+complicates	complicates
+-1
+-7.130751609802246
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	acquired_abnormality
+complicates	complicates
+-1
+-7.130751609802246
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	experimental_model_of_disease
+complicates	complicates
+-1
+-7.130751609802246
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	anatomical_abnormality
+complicates	complicates
+-1
+-7.130751609802246
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	pathologic_function
+complicates	complicates
+-1
+-7.130751609802246
+___
+experimental_model_of_disease	acquired_abnormality	health_care_activity
+co-occurs_with	result_of
+-1
+-7.388035774230957
+___
+experimental_model_of_disease	acquired_abnormality	natural_phenomenon_or_process
+co-occurs_with	result_of
+-1
+-7.388035774230957
+___
+experimental_model_of_disease	acquired_abnormality	therapeutic_or_preventive_procedure
+co-occurs_with	result_of
+-1
+-7.388035774230957
+___
+experimental_model_of_disease	acquired_abnormality	experimental_model_of_disease
+co-occurs_with	result_of
+-1
+-7.388035774230957
+___
+experimental_model_of_disease	acquired_abnormality	cell_or_molecular_dysfunction
+co-occurs_with	result_of
+-1
+-7.388035774230957
+___
+experimental_model_of_disease	acquired_abnormality	cell_function
+co-occurs_with	result_of
+-1
+-7.388035774230957
+___
+experimental_model_of_disease	acquired_abnormality	organ_or_tissue_function
+co-occurs_with	result_of
+-1
+-7.388035774230957
+___
+#####################
+disease_or_syndrome	neoplastic_process
+Reward:1
+disease_or_syndrome	neoplastic_process	disease_or_syndrome
+co-occurs_with	occurs_in
+-1
+-2.5952234845026396
+___
+disease_or_syndrome	neoplastic_process	disease_or_syndrome
+complicates	occurs_in
+-1
+-3.068839722312987
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	neoplastic_process
+co-occurs_with	occurs_in
+1
+-3.2880236506462097
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	disease_or_syndrome
+co-occurs_with	occurs_in
+-1
+-3.2880236506462097
+___
+disease_or_syndrome	experimental_model_of_disease	neoplastic_process
+co-occurs_with	occurs_in
+1
+-3.288109838962555
+___
+disease_or_syndrome	experimental_model_of_disease	disease_or_syndrome
+co-occurs_with	occurs_in
+-1
+-3.288109838962555
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	neoplastic_process
+co-occurs_with	occurs_in
+1
+-3.288120925426483
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	disease_or_syndrome
+co-occurs_with	occurs_in
+-1
+-3.288120925426483
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+co-occurs_with	occurs_in
+-1
+-3.288124740123749
+___
+disease_or_syndrome	pathologic_function	neoplastic_process
+co-occurs_with	occurs_in
+1
+-3.288124740123749
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	neoplastic_process
+complicates	occurs_in
+1
+-3.7610833048820496
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	disease_or_syndrome
+complicates	occurs_in
+-1
+-3.7610833048820496
+___
+disease_or_syndrome	experimental_model_of_disease	neoplastic_process
+complicates	occurs_in
+1
+-3.7612388730049133
+___
+disease_or_syndrome	experimental_model_of_disease	disease_or_syndrome
+complicates	occurs_in
+-1
+-3.7612388730049133
+___
+disease_or_syndrome	pathologic_function	neoplastic_process
+complicates	occurs_in
+1
+-3.7612969875335693
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+complicates	occurs_in
+-1
+-3.7612969875335693
+___
+disease_or_syndrome	neoplastic_process	disease_or_syndrome
+degree_of	occurs_in
+-1
+-5.182331905467436
+___
+disease_or_syndrome	congenital_abnormality	human
+co-occurs_with	part_of
+-1
+-5.36334228515625
+___
+disease_or_syndrome	congenital_abnormality	vertebrate
+co-occurs_with	part_of
+-1
+-5.36334228515625
+___
+disease_or_syndrome	congenital_abnormality	alga
+co-occurs_with	part_of
+-1
+-5.36334228515625
+___
+disease_or_syndrome	congenital_abnormality	animal
+co-occurs_with	part_of
+-1
+-5.36334228515625
+___
+disease_or_syndrome	congenital_abnormality	rickettsia_or_chlamydia
+co-occurs_with	part_of
+-1
+-5.36334228515625
+___
+disease_or_syndrome	congenital_abnormality	archaeon
+co-occurs_with	part_of
+-1
+-5.36334228515625
+___
+disease_or_syndrome	congenital_abnormality	invertebrate
+co-occurs_with	part_of
+-1
+-5.36334228515625
+___
+disease_or_syndrome	congenital_abnormality	fungus
+co-occurs_with	part_of
+-1
+-5.36334228515625
+___
+disease_or_syndrome	congenital_abnormality	plant
+co-occurs_with	part_of
+-1
+-5.36334228515625
+___
+disease_or_syndrome	congenital_abnormality	reptile
+co-occurs_with	part_of
+-1
+-5.36334228515625
+___
+disease_or_syndrome	congenital_abnormality	fish
+co-occurs_with	part_of
+-1
+-5.36334228515625
+___
+disease_or_syndrome	congenital_abnormality	amphibian
+co-occurs_with	part_of
+-1
+-5.36334228515625
+___
+disease_or_syndrome	injury_or_poisoning	biomedical_occupation_or_discipline
+complicates	issue_in
+-1
+-5.400920152664185
+___
+disease_or_syndrome	anatomical_abnormality	archaeon
+co-occurs_with	part_of
+-1
+-5.415877103805542
+___
+disease_or_syndrome	anatomical_abnormality	fish
+co-occurs_with	part_of
+-1
+-5.415877103805542
+___
+disease_or_syndrome	anatomical_abnormality	fungus
+co-occurs_with	part_of
+-1
+-5.415877103805542
+___
+disease_or_syndrome	anatomical_abnormality	alga
+co-occurs_with	part_of
+-1
+-5.415877103805542
+___
+disease_or_syndrome	anatomical_abnormality	human
+co-occurs_with	part_of
+-1
+-5.415877103805542
+___
+disease_or_syndrome	anatomical_abnormality	virus
+co-occurs_with	part_of
+-1
+-5.415877103805542
+___
+disease_or_syndrome	anatomical_abnormality	reptile
+co-occurs_with	part_of
+-1
+-5.415877103805542
+___
+disease_or_syndrome	anatomical_abnormality	invertebrate
+co-occurs_with	part_of
+-1
+-5.415877103805542
+___
+disease_or_syndrome	anatomical_abnormality	bird
+co-occurs_with	part_of
+-1
+-5.415877103805542
+___
+disease_or_syndrome	anatomical_abnormality	rickettsia_or_chlamydia
+co-occurs_with	part_of
+-1
+-5.415877103805542
+___
+disease_or_syndrome	anatomical_abnormality	organism
+co-occurs_with	part_of
+-1
+-5.415877103805542
+___
+disease_or_syndrome	anatomical_abnormality	amphibian
+co-occurs_with	part_of
+-1
+-5.415877103805542
+___
+disease_or_syndrome	anatomical_abnormality	plant
+co-occurs_with	part_of
+-1
+-5.415877103805542
+___
+disease_or_syndrome	acquired_abnormality	reptile
+co-occurs_with	part_of
+-1
+-5.470498085021973
+___
+disease_or_syndrome	acquired_abnormality	animal
+co-occurs_with	part_of
+-1
+-5.470498085021973
+___
+disease_or_syndrome	acquired_abnormality	human
+co-occurs_with	part_of
+-1
+-5.470498085021973
+___
+disease_or_syndrome	acquired_abnormality	mammal
+co-occurs_with	part_of
+-1
+-5.470498085021973
+___
+disease_or_syndrome	acquired_abnormality	fungus
+co-occurs_with	part_of
+-1
+-5.470498085021973
+___
+disease_or_syndrome	acquired_abnormality	archaeon
+co-occurs_with	part_of
+-1
+-5.470498085021973
+___
+disease_or_syndrome	acquired_abnormality	fish
+co-occurs_with	part_of
+-1
+-5.470498085021973
+___
+disease_or_syndrome	acquired_abnormality	bird
+co-occurs_with	part_of
+-1
+-5.470498085021973
+___
+disease_or_syndrome	acquired_abnormality	organism
+co-occurs_with	part_of
+-1
+-5.470498085021973
+___
+disease_or_syndrome	acquired_abnormality	invertebrate
+co-occurs_with	part_of
+-1
+-5.470498085021973
+___
+disease_or_syndrome	acquired_abnormality	vertebrate
+co-occurs_with	part_of
+-1
+-5.470498085021973
+___
+disease_or_syndrome	acquired_abnormality	bacterium
+co-occurs_with	part_of
+-1
+-5.470498085021973
+___
+disease_or_syndrome	acquired_abnormality	virus
+co-occurs_with	part_of
+-1
+-5.470498085021973
+___
+disease_or_syndrome	injury_or_poisoning	neoplastic_process
+complicates	complicates
+1
+-5.764614820480347
+___
+disease_or_syndrome	injury_or_poisoning	cell_or_molecular_dysfunction
+complicates	complicates
+-1
+-5.764614820480347
+___
+disease_or_syndrome	injury_or_poisoning	congenital_abnormality
+complicates	complicates
+-1
+-5.764614820480347
+___
+disease_or_syndrome	injury_or_poisoning	acquired_abnormality
+complicates	complicates
+-1
+-5.764614820480347
+___
+disease_or_syndrome	injury_or_poisoning	pathologic_function
+complicates	complicates
+-1
+-5.764614820480347
+___
+disease_or_syndrome	injury_or_poisoning	anatomical_abnormality
+complicates	complicates
+-1
+-5.764614820480347
+___
+disease_or_syndrome	experimental_model_of_disease	neoplastic_process
+degree_of	occurs_in
+1
+-5.874706447124481
+___
+disease_or_syndrome	experimental_model_of_disease	disease_or_syndrome
+degree_of	occurs_in
+-1
+-5.874706447124481
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+degree_of	occurs_in
+-1
+-5.874769568443298
+___
+disease_or_syndrome	pathologic_function	neoplastic_process
+degree_of	occurs_in
+1
+-5.874769568443298
+___
+disease_or_syndrome	experimental_model_of_disease	disease_or_syndrome
+conceptually_related_to	occurs_in
+-1
+-5.999624490737915
+___
+disease_or_syndrome	experimental_model_of_disease	neoplastic_process
+conceptually_related_to	occurs_in
+1
+-5.999624490737915
+___
+disease_or_syndrome	congenital_abnormality	human
+complicates	part_of
+-1
+-6.009134769439697
+___
+disease_or_syndrome	congenital_abnormality	amphibian
+complicates	part_of
+-1
+-6.009134769439697
+___
+disease_or_syndrome	congenital_abnormality	invertebrate
+complicates	part_of
+-1
+-6.009134769439697
+___
+disease_or_syndrome	congenital_abnormality	fish
+complicates	part_of
+-1
+-6.009134769439697
+___
+disease_or_syndrome	congenital_abnormality	reptile
+complicates	part_of
+-1
+-6.009134769439697
+___
+disease_or_syndrome	congenital_abnormality	animal
+complicates	part_of
+-1
+-6.009134769439697
+___
+disease_or_syndrome	congenital_abnormality	plant
+complicates	part_of
+-1
+-6.009134769439697
+___
+disease_or_syndrome	congenital_abnormality	rickettsia_or_chlamydia
+complicates	part_of
+-1
+-6.009134769439697
+___
+disease_or_syndrome	congenital_abnormality	vertebrate
+complicates	part_of
+-1
+-6.009134769439697
+___
+disease_or_syndrome	congenital_abnormality	alga
+complicates	part_of
+-1
+-6.009134769439697
+___
+disease_or_syndrome	congenital_abnormality	fungus
+complicates	part_of
+-1
+-6.009134769439697
+___
+disease_or_syndrome	congenital_abnormality	archaeon
+complicates	part_of
+-1
+-6.009134769439697
+___
+disease_or_syndrome	anatomical_abnormality	reptile
+complicates	part_of
+-1
+-6.053921461105347
+___
+disease_or_syndrome	anatomical_abnormality	plant
+complicates	part_of
+-1
+-6.053921461105347
+___
+disease_or_syndrome	anatomical_abnormality	invertebrate
+complicates	part_of
+-1
+-6.053921461105347
+___
+disease_or_syndrome	anatomical_abnormality	fungus
+complicates	part_of
+-1
+-6.053921461105347
+___
+disease_or_syndrome	anatomical_abnormality	fish
+complicates	part_of
+-1
+-6.053921461105347
+___
+disease_or_syndrome	anatomical_abnormality	bird
+complicates	part_of
+-1
+-6.053921461105347
+___
+disease_or_syndrome	anatomical_abnormality	amphibian
+complicates	part_of
+-1
+-6.053921461105347
+___
+disease_or_syndrome	anatomical_abnormality	human
+complicates	part_of
+-1
+-6.053921461105347
+___
+disease_or_syndrome	anatomical_abnormality	archaeon
+complicates	part_of
+-1
+-6.053921461105347
+___
+disease_or_syndrome	anatomical_abnormality	organism
+complicates	part_of
+-1
+-6.053921461105347
+___
+disease_or_syndrome	anatomical_abnormality	alga
+complicates	part_of
+-1
+-6.053921461105347
+___
+disease_or_syndrome	anatomical_abnormality	virus
+complicates	part_of
+-1
+-6.053921461105347
+___
+disease_or_syndrome	anatomical_abnormality	rickettsia_or_chlamydia
+complicates	part_of
+-1
+-6.053921461105347
+___
+disease_or_syndrome	acquired_abnormality	mammal
+complicates	part_of
+-1
+-6.130518674850464
+___
+disease_or_syndrome	acquired_abnormality	animal
+complicates	part_of
+-1
+-6.130518674850464
+___
+disease_or_syndrome	acquired_abnormality	fungus
+complicates	part_of
+-1
+-6.130518674850464
+___
+disease_or_syndrome	acquired_abnormality	virus
+complicates	part_of
+-1
+-6.130518674850464
+___
+disease_or_syndrome	acquired_abnormality	human
+complicates	part_of
+-1
+-6.130518674850464
+___
+disease_or_syndrome	acquired_abnormality	reptile
+complicates	part_of
+-1
+-6.130518674850464
+___
+disease_or_syndrome	acquired_abnormality	bacterium
+complicates	part_of
+-1
+-6.130518674850464
+___
+#####################
+cell_or_molecular_dysfunction	injury_or_poisoning
+Reward:1
+cell_or_molecular_dysfunction	pathologic_function	injury_or_poisoning
+co-occurs_with	occurs_in
+1
+-2.487549689714797
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	injury_or_poisoning
+co-occurs_with	occurs_in
+1
+-2.487550404504873
+___
+cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction	injury_or_poisoning
+complicates	occurs_in
+1
+-2.960809627780691
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	injury_or_poisoning
+complicates	occurs_in
+1
+-2.961191104608588
+___
+cell_or_molecular_dysfunction	pathologic_function	injury_or_poisoning
+complicates	occurs_in
+1
+-2.9612381095066667
+___
+cell_or_molecular_dysfunction	disease_or_syndrome	injury_or_poisoning
+complicates	occurs_in
+1
+-2.961338776163757
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	biomedical_occupation_or_discipline
+co-occurs_with	issue_in
+-1
+-4.967454671859741
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	cell_or_molecular_dysfunction
+co-occurs_with	complicates
+-1
+-5.02295184135437
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	congenital_abnormality
+co-occurs_with	complicates
+-1
+-5.02295184135437
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	anatomical_abnormality
+co-occurs_with	complicates
+-1
+-5.02295184135437
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	acquired_abnormality
+co-occurs_with	complicates
+-1
+-5.02295184135437
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	pathologic_function
+co-occurs_with	complicates
+-1
+-5.02295184135437
+___
+cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction	injury_or_poisoning
+degree_of	occurs_in
+1
+-5.074262300739065
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	injury_or_poisoning
+degree_of	occurs_in
+1
+-5.074690425535664
+___
+cell_or_molecular_dysfunction	pathologic_function	injury_or_poisoning
+degree_of	occurs_in
+1
+-5.07475515792612
+___
+cell_or_molecular_dysfunction	disease_or_syndrome	injury_or_poisoning
+degree_of	occurs_in
+1
+-5.074853319558315
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	injury_or_poisoning
+co-occurs_with	NO_OP
+1
+-5.2201128005981445
+___
+cell_or_molecular_dysfunction	congenital_abnormality	invertebrate
+co-occurs_with	part_of
+-1
+-5.247862100601196
+___
+cell_or_molecular_dysfunction	congenital_abnormality	rickettsia_or_chlamydia
+co-occurs_with	part_of
+-1
+-5.247862100601196
+___
+cell_or_molecular_dysfunction	congenital_abnormality	amphibian
+co-occurs_with	part_of
+-1
+-5.247862100601196
+___
+cell_or_molecular_dysfunction	congenital_abnormality	archaeon
+co-occurs_with	part_of
+-1
+-5.247862100601196
+___
+cell_or_molecular_dysfunction	congenital_abnormality	alga
+co-occurs_with	part_of
+-1
+-5.247862100601196
+___
+cell_or_molecular_dysfunction	congenital_abnormality	reptile
+co-occurs_with	part_of
+-1
+-5.247862100601196
+___
+cell_or_molecular_dysfunction	congenital_abnormality	vertebrate
+co-occurs_with	part_of
+-1
+-5.247862100601196
+___
+cell_or_molecular_dysfunction	congenital_abnormality	fungus
+co-occurs_with	part_of
+-1
+-5.247862100601196
+___
+cell_or_molecular_dysfunction	congenital_abnormality	fish
+co-occurs_with	part_of
+-1
+-5.247862100601196
+___
+cell_or_molecular_dysfunction	congenital_abnormality	human
+co-occurs_with	part_of
+-1
+-5.247862100601196
+___
+cell_or_molecular_dysfunction	congenital_abnormality	plant
+co-occurs_with	part_of
+-1
+-5.247862100601196
+___
+cell_or_molecular_dysfunction	congenital_abnormality	animal
+co-occurs_with	part_of
+-1
+-5.247862100601196
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	biomedical_occupation_or_discipline
+complicates	issue_in
+-1
+-5.269106149673462
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	archaeon
+co-occurs_with	part_of
+-1
+-5.294605493545532
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	amphibian
+co-occurs_with	part_of
+-1
+-5.294605493545532
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	bird
+co-occurs_with	part_of
+-1
+-5.294605493545532
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	reptile
+co-occurs_with	part_of
+-1
+-5.294605493545532
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	fish
+co-occurs_with	part_of
+-1
+-5.294605493545532
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	alga
+co-occurs_with	part_of
+-1
+-5.294605493545532
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	organism
+co-occurs_with	part_of
+-1
+-5.294605493545532
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	fungus
+co-occurs_with	part_of
+-1
+-5.294605493545532
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	plant
+co-occurs_with	part_of
+-1
+-5.294605493545532
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	human
+co-occurs_with	part_of
+-1
+-5.294605493545532
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	rickettsia_or_chlamydia
+co-occurs_with	part_of
+-1
+-5.294605493545532
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	invertebrate
+co-occurs_with	part_of
+-1
+-5.294605493545532
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	virus
+co-occurs_with	part_of
+-1
+-5.294605493545532
+___
+cell_or_molecular_dysfunction	acquired_abnormality	reptile
+co-occurs_with	part_of
+-1
+-5.34882926940918
+___
+cell_or_molecular_dysfunction	acquired_abnormality	fish
+co-occurs_with	part_of
+-1
+-5.34882926940918
+___
+cell_or_molecular_dysfunction	acquired_abnormality	bird
+co-occurs_with	part_of
+-1
+-5.34882926940918
+___
+cell_or_molecular_dysfunction	acquired_abnormality	invertebrate
+co-occurs_with	part_of
+-1
+-5.34882926940918
+___
+cell_or_molecular_dysfunction	acquired_abnormality	vertebrate
+co-occurs_with	part_of
+-1
+-5.34882926940918
+___
+cell_or_molecular_dysfunction	acquired_abnormality	organism
+co-occurs_with	part_of
+-1
+-5.34882926940918
+___
+cell_or_molecular_dysfunction	acquired_abnormality	bacterium
+co-occurs_with	part_of
+-1
+-5.34882926940918
+___
+cell_or_molecular_dysfunction	acquired_abnormality	human
+co-occurs_with	part_of
+-1
+-5.34882926940918
+___
+cell_or_molecular_dysfunction	acquired_abnormality	archaeon
+co-occurs_with	part_of
+-1
+-5.34882926940918
+___
+cell_or_molecular_dysfunction	acquired_abnormality	virus
+co-occurs_with	part_of
+-1
+-5.34882926940918
+___
+cell_or_molecular_dysfunction	acquired_abnormality	fungus
+co-occurs_with	part_of
+-1
+-5.34882926940918
+___
+cell_or_molecular_dysfunction	acquired_abnormality	mammal
+co-occurs_with	part_of
+-1
+-5.34882926940918
+___
+cell_or_molecular_dysfunction	acquired_abnormality	animal
+co-occurs_with	part_of
+-1
+-5.34882926940918
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	injury_or_poisoning
+complicates	NO_OP
+1
+-5.418006181716919
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	anatomical_abnormality
+complicates	complicates
+-1
+-5.632800817489624
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	pathologic_function
+complicates	complicates
+-1
+-5.632800817489624
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	congenital_abnormality
+complicates	complicates
+-1
+-5.632800817489624
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	cell_or_molecular_dysfunction
+complicates	complicates
+-1
+-5.632800817489624
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	acquired_abnormality
+complicates	complicates
+-1
+-5.632800817489624
+___
+cell_or_molecular_dysfunction	congenital_abnormality	vertebrate
+complicates	part_of
+-1
+-5.889095067977905
+___
+cell_or_molecular_dysfunction	congenital_abnormality	human
+complicates	part_of
+-1
+-5.889095067977905
+___
+cell_or_molecular_dysfunction	congenital_abnormality	rickettsia_or_chlamydia
+complicates	part_of
+-1
+-5.889095067977905
+___
+cell_or_molecular_dysfunction	congenital_abnormality	alga
+complicates	part_of
+-1
+-5.889095067977905
+___
+cell_or_molecular_dysfunction	congenital_abnormality	fish
+complicates	part_of
+-1
+-5.889095067977905
+___
+cell_or_molecular_dysfunction	congenital_abnormality	invertebrate
+complicates	part_of
+-1
+-5.889095067977905
+___
+cell_or_molecular_dysfunction	congenital_abnormality	animal
+complicates	part_of
+-1
+-5.889095067977905
+___
+cell_or_molecular_dysfunction	congenital_abnormality	archaeon
+complicates	part_of
+-1
+-5.889095067977905
+___
+cell_or_molecular_dysfunction	congenital_abnormality	reptile
+complicates	part_of
+-1
+-5.889095067977905
+___
+cell_or_molecular_dysfunction	congenital_abnormality	fungus
+complicates	part_of
+-1
+-5.889095067977905
+___
+cell_or_molecular_dysfunction	congenital_abnormality	plant
+complicates	part_of
+-1
+-5.889095067977905
+___
+cell_or_molecular_dysfunction	congenital_abnormality	amphibian
+complicates	part_of
+-1
+-5.889095067977905
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	fungus
+complicates	part_of
+-1
+-5.925265312194824
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	organism
+complicates	part_of
+-1
+-5.925265312194824
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	rickettsia_or_chlamydia
+complicates	part_of
+-1
+-5.925265312194824
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	bird
+complicates	part_of
+-1
+-5.925265312194824
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	alga
+complicates	part_of
+-1
+-5.925265312194824
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	archaeon
+complicates	part_of
+-1
+-5.925265312194824
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	amphibian
+complicates	part_of
+-1
+-5.925265312194824
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	virus
+complicates	part_of
+-1
+-5.925265312194824
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	reptile
+complicates	part_of
+-1
+-5.925265312194824
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	fish
+complicates	part_of
+-1
+-5.925265312194824
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	invertebrate
+complicates	part_of
+-1
+-5.925265312194824
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	human
+complicates	part_of
+-1
+-5.925265312194824
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	plant
+complicates	part_of
+-1
+-5.925265312194824
+___
+cell_or_molecular_dysfunction	acquired_abnormality	fungus
+complicates	part_of
+-1
+-6.000922679901123
+___
+cell_or_molecular_dysfunction	acquired_abnormality	archaeon
+complicates	part_of
+-1
+-6.000922679901123
+___
+cell_or_molecular_dysfunction	acquired_abnormality	virus
+complicates	part_of
+-1
+-6.000922679901123
+___
+cell_or_molecular_dysfunction	acquired_abnormality	animal
+complicates	part_of
+-1
+-6.000922679901123
+___
+cell_or_molecular_dysfunction	acquired_abnormality	organism
+complicates	part_of
+-1
+-6.000922679901123
+___
+cell_or_molecular_dysfunction	acquired_abnormality	human
+complicates	part_of
+-1
+-6.000922679901123
+___
+cell_or_molecular_dysfunction	acquired_abnormality	bacterium
+complicates	part_of
+-1
+-6.000922679901123
+___
+cell_or_molecular_dysfunction	acquired_abnormality	invertebrate
+complicates	part_of
+-1
+-6.000922679901123
+___
+cell_or_molecular_dysfunction	acquired_abnormality	fish
+complicates	part_of
+-1
+-6.000922679901123
+___
+cell_or_molecular_dysfunction	acquired_abnormality	vertebrate
+complicates	part_of
+-1
+-6.000922679901123
+___
+cell_or_molecular_dysfunction	acquired_abnormality	mammal
+complicates	part_of
+-1
+-6.000922679901123
+___
+cell_or_molecular_dysfunction	acquired_abnormality	bird
+complicates	part_of
+-1
+-6.000922679901123
+___
+cell_or_molecular_dysfunction	acquired_abnormality	reptile
+complicates	part_of
+-1
+-6.000922679901123
+___
+#####################
+acquired_abnormality	age_group
+Reward:1
+acquired_abnormality	anatomical_abnormality	age_group
+co-occurs_with	occurs_in
+1
+-0.8124096067913342
+___
+acquired_abnormality	congenital_abnormality	age_group
+complicates	occurs_in
+1
+-1.2854220732697286
+___
+acquired_abnormality	anatomical_abnormality	age_group
+complicates	occurs_in
+1
+-1.2854566188179888
+___
+acquired_abnormality	mental_process	temporal_concept
+manifestation_of	occurs_in
+-1
+-9.38468698784709
+___
+acquired_abnormality	molecular_function	temporal_concept
+manifestation_of	occurs_in
+-1
+-9.384816508740187
+___
+acquired_abnormality	organ_or_tissue_function	organism_function
+manifestation_of	occurs_in
+-1
+-10.069418907165527
+___
+acquired_abnormality	organ_or_tissue_function	temporal_concept
+manifestation_of	occurs_in
+-1
+-10.069418907165527
+___
+acquired_abnormality	disease_or_syndrome	injury_or_poisoning
+manifestation_of	occurs_in
+-1
+-10.076648771762848
+___
+acquired_abnormality	disease_or_syndrome	age_group
+manifestation_of	occurs_in
+1
+-10.076648771762848
+___
+acquired_abnormality	cell_or_molecular_dysfunction	disease_or_syndrome
+manifestation_of	occurs_in
+-1
+-10.076824069023132
+___
+acquired_abnormality	cell_or_molecular_dysfunction	neoplastic_process
+manifestation_of	occurs_in
+-1
+-10.076824069023132
+___
+acquired_abnormality	congenital_abnormality	age_group
+result_of	occurs_in
+1
+-10.282731578685343
+___
+acquired_abnormality	anatomical_abnormality	age_group
+result_of	occurs_in
+1
+-10.284235754981637
+___
+acquired_abnormality	molecular_function	temporal_concept
+result_of	occurs_in
+-1
+-10.299636153504252
+___
+acquired_abnormality	mental_process	temporal_concept
+result_of	occurs_in
+-1
+-10.300722043961287
+___
+acquired_abnormality	cell_function	temporal_concept
+result_of	occurs_in
+-1
+-10.302211325615644
+___
+acquired_abnormality	neoplastic_process	age_group
+manifestation_of	occurs_in
+1
+-10.475629448890686
+___
+acquired_abnormality	neoplastic_process	disease_or_syndrome
+manifestation_of	occurs_in
+-1
+-10.475629448890686
+___
+acquired_abnormality	neoplastic_process	mental_or_behavioral_dysfunction
+manifestation_of	occurs_in
+-1
+-10.475629448890686
+___
+acquired_abnormality	experimental_model_of_disease	disease_or_syndrome
+manifestation_of	occurs_in
+-1
+-10.47657322883606
+___
+acquired_abnormality	experimental_model_of_disease	injury_or_poisoning
+manifestation_of	occurs_in
+-1
+-10.47657322883606
+___
+acquired_abnormality	experimental_model_of_disease	neoplastic_process
+manifestation_of	occurs_in
+-1
+-10.47657322883606
+___
+acquired_abnormality	mental_or_behavioral_dysfunction	neoplastic_process
+manifestation_of	occurs_in
+-1
+-10.761230826377869
+___
+acquired_abnormality	mental_or_behavioral_dysfunction	age_group
+manifestation_of	occurs_in
+1
+-10.761230826377869
+___
+acquired_abnormality	mental_or_behavioral_dysfunction	disease_or_syndrome
+manifestation_of	occurs_in
+-1
+-10.761230826377869
+___
+acquired_abnormality	mental_or_behavioral_dysfunction	injury_or_poisoning
+manifestation_of	occurs_in
+-1
+-10.761230826377869
+___
+acquired_abnormality	physical_object	occupation_or_discipline
+isa	issue_in
+-1
+-10.916028559207916
+___
+acquired_abnormality	organ_or_tissue_function	organism_function
+result_of	occurs_in
+-1
+-10.977455794811249
+___
+acquired_abnormality	organ_or_tissue_function	temporal_concept
+result_of	occurs_in
+-1
+-10.977455794811249
+___
+acquired_abnormality	disease_or_syndrome	injury_or_poisoning
+result_of	occurs_in
+-1
+-11.003350853919983
+___
+acquired_abnormality	disease_or_syndrome	age_group
+result_of	occurs_in
+1
+-11.003350853919983
+___
+acquired_abnormality	cell_or_molecular_dysfunction	neoplastic_process
+result_of	occurs_in
+-1
+-11.004076302051544
+___
+acquired_abnormality	cell_or_molecular_dysfunction	disease_or_syndrome
+result_of	occurs_in
+-1
+-11.004076302051544
+___
+acquired_abnormality	health_care_activity	health_care_activity
+result_of	NO_OP
+-1
+-11.04478931427002
+___
+acquired_abnormality	molecular_function	temporal_concept
+affects	occurs_in
+-1
+-11.173960246145725
+___
+acquired_abnormality	genetic_function	temporal_concept
+affects	occurs_in
+-1
+-11.180452048778534
+___
+acquired_abnormality	cell_function	temporal_concept
+affects	occurs_in
+-1
+-11.180724121630192
+___
+acquired_abnormality	individual_behavior	social_behavior
+result_of	process_of
+-1
+-11.34857428073883
+___
+acquired_abnormality	behavior	behavior
+result_of	NO_OP
+-1
+-11.354835987091064
+___
+acquired_abnormality	neoplastic_process	mental_or_behavioral_dysfunction
+result_of	occurs_in
+-1
+-11.390367865562439
+___
+acquired_abnormality	neoplastic_process	disease_or_syndrome
+result_of	occurs_in
+-1
+-11.390367865562439
+___
+acquired_abnormality	neoplastic_process	age_group
+result_of	occurs_in
+1
+-11.390367865562439
+___
+acquired_abnormality	experimental_model_of_disease	neoplastic_process
+result_of	occurs_in
+-1
+-11.393969893455505
+___
+acquired_abnormality	experimental_model_of_disease	injury_or_poisoning
+result_of	occurs_in
+-1
+-11.393969893455505
+___
+acquired_abnormality	experimental_model_of_disease	disease_or_syndrome
+result_of	occurs_in
+-1
+-11.393969893455505
+___
+acquired_abnormality	entity	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-11.43443250656128
+___
+acquired_abnormality	entity	occupation_or_discipline
+isa	issue_in
+-1
+-11.43443250656128
+___
+acquired_abnormality	congenital_abnormality	reptile
+complicates	part_of
+-1
+-11.48639452457428
+___
+acquired_abnormality	congenital_abnormality	vertebrate
+complicates	part_of
+-1
+-11.48639452457428
+___
+acquired_abnormality	congenital_abnormality	alga
+complicates	part_of
+-1
+-11.48639452457428
+___
+acquired_abnormality	congenital_abnormality	plant
+complicates	part_of
+-1
+-11.48639452457428
+___
+acquired_abnormality	congenital_abnormality	rickettsia_or_chlamydia
+complicates	part_of
+-1
+-11.48639452457428
+___
+acquired_abnormality	congenital_abnormality	invertebrate
+complicates	part_of
+-1
+-11.48639452457428
+___
+acquired_abnormality	congenital_abnormality	fungus
+complicates	part_of
+-1
+-11.48639452457428
+___
+acquired_abnormality	congenital_abnormality	amphibian
+complicates	part_of
+-1
+-11.48639452457428
+___
+acquired_abnormality	congenital_abnormality	archaeon
+complicates	part_of
+-1
+-11.48639452457428
+___
+acquired_abnormality	congenital_abnormality	human
+complicates	part_of
+-1
+-11.48639452457428
+___
+acquired_abnormality	congenital_abnormality	animal
+complicates	part_of
+-1
+-11.48639452457428
+___
+acquired_abnormality	congenital_abnormality	fish
+complicates	part_of
+-1
+-11.48639452457428
+___
+acquired_abnormality	anatomical_abnormality	organism
+complicates	part_of
+-1
+-11.48642885684967
+___
+acquired_abnormality	anatomical_abnormality	fungus
+complicates	part_of
+-1
+-11.48642885684967
+___
+acquired_abnormality	anatomical_abnormality	plant
+complicates	part_of
+-1
+-11.48642885684967
+___
+acquired_abnormality	anatomical_abnormality	invertebrate
+complicates	part_of
+-1
+-11.48642885684967
+___
+acquired_abnormality	anatomical_abnormality	bird
+complicates	part_of
+-1
+-11.48642885684967
+___
+acquired_abnormality	anatomical_abnormality	rickettsia_or_chlamydia
+complicates	part_of
+-1
+-11.48642885684967
+___
+acquired_abnormality	anatomical_abnormality	alga
+complicates	part_of
+-1
+-11.48642885684967
+___
+acquired_abnormality	anatomical_abnormality	archaeon
+complicates	part_of
+-1
+-11.48642885684967
+___
+acquired_abnormality	anatomical_abnormality	human
+complicates	part_of
+-1
+-11.48642885684967
+___
+acquired_abnormality	anatomical_abnormality	fish
+complicates	part_of
+-1
+-11.48642885684967
+___
+acquired_abnormality	anatomical_abnormality	amphibian
+complicates	part_of
+-1
+-11.48642885684967
+___
+acquired_abnormality	anatomical_abnormality	virus
+complicates	part_of
+-1
+-11.48642885684967
+___
+acquired_abnormality	anatomical_abnormality	reptile
+complicates	part_of
+-1
+-11.48642885684967
+___
+acquired_abnormality	population_group	classification
+occurs_in	uses
+-1
+-11.54366660118103
+___
+acquired_abnormality	population_group	intellectual_product
+occurs_in	uses
+-1
+-11.54366660118103
+___
+acquired_abnormality	population_group	drug_delivery_device
+occurs_in	uses
+-1
+-11.54366660118103
+___
+acquired_abnormality	population_group	manufactured_object
+occurs_in	uses
+-1
+-11.54366660118103
+___
+acquired_abnormality	population_group	clinical_drug
+occurs_in	uses
+-1
+-11.54366660118103
+___
+acquired_abnormality	population_group	research_device
+occurs_in	uses
+-1
+-11.54366660118103
+___
+acquired_abnormality	health_care_activity	occupation_or_discipline
+result_of	issue_in
+-1
+-11.584859728813171
+___
+acquired_abnormality	congenital_abnormality	biomedical_occupation_or_discipline
+complicates	issue_in
+-1
+-11.63522493839264
+___
+acquired_abnormality	anatomical_abnormality	occupation_or_discipline
+complicates	issue_in
+-1
+-11.63525927066803
+___
+acquired_abnormality	patient_or_disabled_group	classification
+occurs_in	uses
+-1
+-11.663033962249756
+___
+acquired_abnormality	patient_or_disabled_group	intellectual_product
+occurs_in	uses
+-1
+-11.663033962249756
+___
+acquired_abnormality	patient_or_disabled_group	manufactured_object
+occurs_in	uses
+-1
+-11.663033962249756
+___
+acquired_abnormality	patient_or_disabled_group	regulation_or_law
+occurs_in	uses
+-1
+-11.663033962249756
+___
+acquired_abnormality	patient_or_disabled_group	drug_delivery_device
+occurs_in	uses
+-1
+-11.663033962249756
+___
+acquired_abnormality	patient_or_disabled_group	medical_device
+occurs_in	uses
+-1
+-11.663033962249756
+___
+acquired_abnormality	patient_or_disabled_group	clinical_drug
+occurs_in	uses
+-1
+-11.663033962249756
+___
+acquired_abnormality	group	regulation_or_law
+occurs_in	uses
+-1
+-11.663350820541382
+___
+acquired_abnormality	group	research_device
+occurs_in	uses
+-1
+-11.663350820541382
+___
+acquired_abnormality	group	manufactured_object
+occurs_in	uses
+-1
+-11.663350820541382
+___
+acquired_abnormality	group	drug_delivery_device
+occurs_in	uses
+-1
+-11.663350820541382
+___
+acquired_abnormality	group	clinical_drug
+occurs_in	uses
+-1
+-11.663350820541382
+___
+acquired_abnormality	group	medical_device
+occurs_in	uses
+-1
+-11.663350820541382
+___
+acquired_abnormality	group	intellectual_product
+occurs_in	uses
+-1
+-11.663350820541382
+___
+acquired_abnormality	physical_object	physical_object
+isa	NO_OP
+-1
+-11.66679310798645
+___
+acquired_abnormality	family_group	research_device
+occurs_in	uses
+-1
+-11.671337604522705
+___
+acquired_abnormality	family_group	manufactured_object
+occurs_in	uses
+-1
+-11.671337604522705
+___
+acquired_abnormality	family_group	regulation_or_law
+occurs_in	uses
+-1
+-11.671337604522705
+___
+acquired_abnormality	family_group	drug_delivery_device
+occurs_in	uses
+-1
+-11.671337604522705
+___
+#####################
+disease_or_syndrome	patient_or_disabled_group
+Reward:1
+disease_or_syndrome	congenital_abnormality	patient_or_disabled_group
+co-occurs_with	occurs_in
+1
+-2.594860644559958
+___
+disease_or_syndrome	anatomical_abnormality	patient_or_disabled_group
+co-occurs_with	occurs_in
+1
+-2.5948736351856496
+___
+disease_or_syndrome	acquired_abnormality	patient_or_disabled_group
+co-occurs_with	occurs_in
+1
+-2.5948878174240235
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	disease_or_syndrome
+co-occurs_with	occurs_in
+-1
+-2.5950969523401
+___
+disease_or_syndrome	injury_or_poisoning	patient_or_disabled_group
+complicates	occurs_in
+1
+-3.0674813532677945
+___
+disease_or_syndrome	congenital_abnormality	patient_or_disabled_group
+complicates	occurs_in
+1
+-3.067875263048336
+___
+disease_or_syndrome	anatomical_abnormality	patient_or_disabled_group
+complicates	occurs_in
+1
+-3.06790718837874
+___
+disease_or_syndrome	acquired_abnormality	patient_or_disabled_group
+complicates	occurs_in
+1
+-3.067965914204251
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	disease_or_syndrome
+complicates	occurs_in
+-1
+-3.068602146813646
+___
+disease_or_syndrome	neoplastic_process	disease_or_syndrome
+co-occurs_with	occurs_in
+-1
+-3.288067638874054
+___
+disease_or_syndrome	neoplastic_process	patient_or_disabled_group
+co-occurs_with	occurs_in
+1
+-3.288067638874054
+___
+disease_or_syndrome	experimental_model_of_disease	patient_or_disabled_group
+co-occurs_with	occurs_in
+1
+-3.288094937801361
+___
+disease_or_syndrome	experimental_model_of_disease	disease_or_syndrome
+co-occurs_with	occurs_in
+-1
+-3.288094937801361
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	patient_or_disabled_group
+co-occurs_with	occurs_in
+1
+-3.288106143474579
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	disease_or_syndrome
+co-occurs_with	occurs_in
+-1
+-3.288106143474579
+___
+disease_or_syndrome	pathologic_function	patient_or_disabled_group
+co-occurs_with	occurs_in
+1
+-3.288108766078949
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+co-occurs_with	occurs_in
+-1
+-3.288108766078949
+___
+disease_or_syndrome	neoplastic_process	patient_or_disabled_group
+complicates	occurs_in
+1
+-3.7611438035964966
+___
+disease_or_syndrome	neoplastic_process	disease_or_syndrome
+complicates	occurs_in
+-1
+-3.7611438035964966
+___
+disease_or_syndrome	experimental_model_of_disease	patient_or_disabled_group
+complicates	occurs_in
+1
+-3.7611981630325317
+___
+disease_or_syndrome	experimental_model_of_disease	disease_or_syndrome
+complicates	occurs_in
+-1
+-3.7611981630325317
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+complicates	occurs_in
+-1
+-3.7612540125846863
+___
+disease_or_syndrome	pathologic_function	patient_or_disabled_group
+complicates	occurs_in
+1
+-3.7612540125846863
+___
+disease_or_syndrome	neoplastic_process	patient_or_disabled_group
+degree_of	occurs_in
+1
+-5.874622821807861
+___
+disease_or_syndrome	neoplastic_process	disease_or_syndrome
+degree_of	occurs_in
+-1
+-5.874622821807861
+___
+disease_or_syndrome	experimental_model_of_disease	disease_or_syndrome
+degree_of	occurs_in
+-1
+-5.874671757221222
+___
+disease_or_syndrome	experimental_model_of_disease	patient_or_disabled_group
+degree_of	occurs_in
+1
+-5.874671757221222
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+degree_of	occurs_in
+-1
+-5.874733090400696
+___
+disease_or_syndrome	pathologic_function	patient_or_disabled_group
+degree_of	occurs_in
+1
+-5.874733090400696
+___
+disease_or_syndrome	experimental_model_of_disease	patient_or_disabled_group
+conceptually_related_to	occurs_in
+1
+-5.999561369419098
+___
+disease_or_syndrome	experimental_model_of_disease	disease_or_syndrome
+conceptually_related_to	occurs_in
+-1
+-5.999561369419098
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	disease_or_syndrome
+precedes	occurs_in
+-1
+-6.2501420433982275
+___
+disease_or_syndrome	experimental_model_of_disease	disease_or_syndrome
+precedes	occurs_in
+-1
+-6.942992210388184
+___
+disease_or_syndrome	experimental_model_of_disease	patient_or_disabled_group
+precedes	occurs_in
+1
+-6.942992210388184
+___
+disease_or_syndrome	pathologic_function	patient_or_disabled_group
+precedes	occurs_in
+1
+-6.943031311035156
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+precedes	occurs_in
+-1
+-6.943031311035156
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	patient_or_disabled_group
+precedes	occurs_in
+1
+-6.943035244941711
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	disease_or_syndrome
+precedes	occurs_in
+-1
+-6.943035244941711
+___
+disease_or_syndrome	injury_or_poisoning	patient_or_disabled_group
+manifestation_of	occurs_in
+1
+-11.15796736581251
+___
+disease_or_syndrome	mental_process	temporal_concept
+manifestation_of	occurs_in
+-1
+-11.165669523179531
+___
+disease_or_syndrome	molecular_function	temporal_concept
+manifestation_of	occurs_in
+-1
+-11.166395544074476
+___
+disease_or_syndrome	cell_function	temporal_concept
+manifestation_of	occurs_in
+-1
+-11.166903246194124
+___
+disease_or_syndrome	genetic_function	temporal_concept
+manifestation_of	occurs_in
+-1
+-11.167804967612028
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	disease_or_syndrome
+manifestation_of	occurs_in
+-1
+-11.172960009425879
+___
+disease_or_syndrome	injury_or_poisoning	patient_or_disabled_group
+occurs_in	occurs_in
+1
+-11.402555748820305
+___
+disease_or_syndrome	organ_or_tissue_function	organism_function
+manifestation_of	occurs_in
+-1
+-11.851818263530731
+___
+disease_or_syndrome	organ_or_tissue_function	temporal_concept
+manifestation_of	occurs_in
+-1
+-11.851818263530731
+___
+disease_or_syndrome	experimental_model_of_disease	patient_or_disabled_group
+manifestation_of	occurs_in
+1
+-11.85603803396225
+___
+disease_or_syndrome	experimental_model_of_disease	disease_or_syndrome
+manifestation_of	occurs_in
+-1
+-11.85603803396225
+___
+disease_or_syndrome	pathologic_function	patient_or_disabled_group
+manifestation_of	occurs_in
+1
+-11.856789112091064
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+manifestation_of	occurs_in
+-1
+-11.856789112091064
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	disease_or_syndrome
+manifestation_of	occurs_in
+-1
+-11.8571195602417
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	patient_or_disabled_group
+manifestation_of	occurs_in
+1
+-11.8571195602417
+___
+disease_or_syndrome	congenital_abnormality	patient_or_disabled_group
+result_of	occurs_in
+1
+-12.064888859167695
+___
+disease_or_syndrome	anatomical_abnormality	patient_or_disabled_group
+result_of	occurs_in
+1
+-12.066246954724193
+___
+disease_or_syndrome	acquired_abnormality	patient_or_disabled_group
+result_of	occurs_in
+1
+-12.067976622842252
+___
+disease_or_syndrome	molecular_function	temporal_concept
+result_of	occurs_in
+-1
+-12.080504804849625
+___
+disease_or_syndrome	genetic_function	temporal_concept
+result_of	occurs_in
+-1
+-12.081964368000627
+___
+disease_or_syndrome	cell_function	temporal_concept
+result_of	occurs_in
+-1
+-12.08309612981975
+___
+disease_or_syndrome	molecular_function	temporal_concept
+process_of	occurs_in
+-1
+-12.201387748122215
+___
+disease_or_syndrome	cell_function	temporal_concept
+process_of	occurs_in
+-1
+-12.202713742852211
+___
+disease_or_syndrome	mental_process	temporal_concept
+process_of	occurs_in
+-1
+-12.212885022163391
+___
+disease_or_syndrome	physiologic_function	temporal_concept
+process_of	occurs_in
+-1
+-12.225224316120148
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	disease_or_syndrome
+process_of	occurs_in
+-1
+-12.266460657119751
+___
+disease_or_syndrome	organism	organism
+process_of	NO_OP
+-1
+-12.421855330467224
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	disease_or_syndrome
+associated_with	occurs_in
+-1
+-12.549602910876274
+___
+disease_or_syndrome	event	occupation_or_discipline
+isa	issue_in
+-1
+-12.698496401309967
+___
+disease_or_syndrome	archaeon	archaeon
+process_of	NO_OP
+-1
+-12.698739469051361
+___
+disease_or_syndrome	human	human
+process_of	NO_OP
+-1
+-12.755437016487122
+___
+disease_or_syndrome	organ_or_tissue_function	organism_function
+result_of	occurs_in
+-1
+-12.759843468666077
+___
+disease_or_syndrome	organ_or_tissue_function	temporal_concept
+result_of	occurs_in
+-1
+-12.759843468666077
+___
+disease_or_syndrome	neoplastic_process	disease_or_syndrome
+result_of	occurs_in
+-1
+-12.771732866764069
+___
+disease_or_syndrome	neoplastic_process	patient_or_disabled_group
+result_of	occurs_in
+1
+-12.771732866764069
+___
+disease_or_syndrome	experimental_model_of_disease	patient_or_disabled_group
+result_of	occurs_in
+1
+-12.776111364364624
+___
+disease_or_syndrome	experimental_model_of_disease	disease_or_syndrome
+result_of	occurs_in
+-1
+-12.776111364364624
+___
+disease_or_syndrome	pathologic_function	patient_or_disabled_group
+result_of	occurs_in
+1
+-12.77729618549347
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+result_of	occurs_in
+-1
+-12.77729618549347
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	disease_or_syndrome
+result_of	occurs_in
+-1
+-12.778484165668488
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	patient_or_disabled_group
+result_of	occurs_in
+1
+-12.778484165668488
+___
+disease_or_syndrome	organ_or_tissue_function	temporal_concept
+process_of	occurs_in
+-1
+-12.803166329860687
+___
+disease_or_syndrome	organ_or_tissue_function	organism_function
+process_of	occurs_in
+-1
+-12.803166329860687
+___
+disease_or_syndrome	health_care_activity	health_care_activity
+result_of	NO_OP
+-1
+-12.806962788105011
+___
+disease_or_syndrome	experimental_model_of_disease	patient_or_disabled_group
+process_of	occurs_in
+1
+-12.841658532619476
+___
+disease_or_syndrome	experimental_model_of_disease	disease_or_syndrome
+process_of	occurs_in
+-1
+-12.841658532619476
+___
+disease_or_syndrome	neoplastic_process	patient_or_disabled_group
+process_of	occurs_in
+1
+-12.857437372207642
+___
+disease_or_syndrome	neoplastic_process	disease_or_syndrome
+process_of	occurs_in
+-1
+-12.857437372207642
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	patient_or_disabled_group
+process_of	occurs_in
+1
+-12.86612617969513
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	disease_or_syndrome
+process_of	occurs_in
+-1
+-12.86612617969513
+___
+disease_or_syndrome	pathologic_function	patient_or_disabled_group
+isa	occurs_in
+1
+-13.008022546768188
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+isa	occurs_in
+-1
+-13.008022546768188
+___
+disease_or_syndrome	behavior	behavior
+result_of	NO_OP
+-1
+-13.027601420879364
+___
+disease_or_syndrome	fish	fish
+process_of	NO_OP
+-1
+-13.04886269569397
+___
+disease_or_syndrome	mammal	mammal
+process_of	NO_OP
+-1
+-13.07764458656311
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	invertebrate
+complicates	process_of
+-1
+-13.09298300743103
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	fish
+complicates	process_of
+-1
+-13.09298300743103
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	organism_function
+complicates	process_of
+-1
+-13.09298300743103
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	amphibian
+complicates	process_of
+-1
+-13.09298300743103
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	pathologic_function
+complicates	process_of
+-1
+-13.09298300743103
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	vertebrate
+complicates	process_of
+-1
+-13.09298300743103
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	human
+complicates	process_of
+-1
+-13.09298300743103
+___
+#####################

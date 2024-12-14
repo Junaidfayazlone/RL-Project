@@ -1,0 +1,46 @@
+_wandb:
+    value:
+        cli_version: 0.18.7
+        m: []
+        python_version: 3.7.12
+        t:
+            "1":
+                - 3
+                - 55
+            "2":
+                - 3
+                - 55
+            "3":
+                - 2
+                - 13
+                - 16
+                - 23
+                - 55
+            "4": 3.7.12
+            "5": 0.18.7
+            "8":
+                - 5
+            "12": 0.18.7
+            "13": linux-x86_64
+Lambda:
+    value: 0.02
+batch_size:
+    value: 128
+beta:
+    value: 0.05
+dataset:
+    value: umls_inv
+embedding_size:
+    value: 50
+hidden_size:
+    value: 50
+path_length:
+    value: 3
+total_iterations:
+    value: 3000
+train_entity_embeddings:
+    value: 0
+train_relation_embeddings:
+    value: 1
+use_entity_embeddings:
+    value: 0

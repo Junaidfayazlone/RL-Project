@@ -1,0 +1,17 @@
+{"time":"2024-12-14T05:26:48.257995448+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-14T05:26:48.258006128+05:30","level":"INFO","msg":"created symlink","path":"/home/sgsharma/Documents/sem3/rl/project/MINERVA/wandb/run-20241214_052648-w7pfbg7r/logs/debug-core.log"}
+{"time":"2024-12-14T05:26:48.362788714+05:30","level":"INFO","msg":"created new stream","id":"w7pfbg7r"}
+{"time":"2024-12-14T05:26:48.362812969+05:30","level":"INFO","msg":"stream: started","id":"w7pfbg7r"}
+{"time":"2024-12-14T05:26:48.362896352+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"w7pfbg7r"}
+{"time":"2024-12-14T05:26:48.362910448+05:30","level":"INFO","msg":"handler: started","stream_id":"w7pfbg7r"}
+{"time":"2024-12-14T05:26:48.362898466+05:30","level":"INFO","msg":"sender: started","stream_id":"w7pfbg7r"}
+{"time":"2024-12-14T05:26:48.909459931+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-14T06:16:47.141638278+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-14T06:16:47.142426442+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-14T06:16:48.142251015+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.391921152},{"desc":"uploading wandb-summary.json","runtime_seconds":0.36529671,"progress":"196B/196B"},{"desc":"uploading config.yaml","runtime_seconds":0.056113813,"progress":"810B/810B"},{"desc":"uploading output.log","runtime_seconds":0.056097834,"progress":"797.5KB/797.5KB"}],"total_operations":4}}
+{"time":"2024-12-14T06:16:51.175961336+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-14T06:16:52.526224485+05:30","level":"INFO","msg":"stream: closing","id":"w7pfbg7r"}
+{"time":"2024-12-14T06:16:52.526257225+05:30","level":"INFO","msg":"handler: closed","stream_id":"w7pfbg7r"}
+{"time":"2024-12-14T06:16:52.526269778+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"w7pfbg7r"}
+{"time":"2024-12-14T06:16:52.526303019+05:30","level":"INFO","msg":"sender: closed","stream_id":"w7pfbg7r"}
+{"time":"2024-12-14T06:16:52.526331962+05:30","level":"INFO","msg":"stream: closed","id":"w7pfbg7r"}

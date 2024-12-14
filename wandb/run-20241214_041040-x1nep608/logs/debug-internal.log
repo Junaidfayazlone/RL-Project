@@ -1,0 +1,17 @@
+{"time":"2024-12-14T04:10:40.0319531+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-14T04:10:40.031962617+05:30","level":"INFO","msg":"created symlink","path":"/home/sgsharma/Documents/sem3/rl/project/MINERVA/wandb/run-20241214_041040-x1nep608/logs/debug-core.log"}
+{"time":"2024-12-14T04:10:40.136509962+05:30","level":"INFO","msg":"created new stream","id":"x1nep608"}
+{"time":"2024-12-14T04:10:40.136527684+05:30","level":"INFO","msg":"stream: started","id":"x1nep608"}
+{"time":"2024-12-14T04:10:40.136614153+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"x1nep608"}
+{"time":"2024-12-14T04:10:40.136810084+05:30","level":"INFO","msg":"sender: started","stream_id":"x1nep608"}
+{"time":"2024-12-14T04:10:40.136859374+05:30","level":"INFO","msg":"handler: started","stream_id":"x1nep608"}
+{"time":"2024-12-14T04:10:40.744479972+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-14T05:14:54.720529655+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-14T05:14:54.721025338+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-14T05:14:55.722015086+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.368272498},{"desc":"uploading wandb-summary.json","runtime_seconds":0.338858282,"progress":"197B/197B"},{"desc":"uploading config.yaml","runtime_seconds":0.027853671,"progress":"814B/814B"},{"desc":"uploading output.log","runtime_seconds":0.027825659,"progress":"464.0KB/1.2MB"}],"total_operations":4}}
+{"time":"2024-12-14T05:14:59.059157731+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-14T05:15:00.39561474+05:30","level":"INFO","msg":"stream: closing","id":"x1nep608"}
+{"time":"2024-12-14T05:15:00.395651158+05:30","level":"INFO","msg":"handler: closed","stream_id":"x1nep608"}
+{"time":"2024-12-14T05:15:00.395665123+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"x1nep608"}
+{"time":"2024-12-14T05:15:00.395710597+05:30","level":"INFO","msg":"sender: closed","stream_id":"x1nep608"}
+{"time":"2024-12-14T05:15:00.395752604+05:30","level":"INFO","msg":"stream: closed","id":"x1nep608"}

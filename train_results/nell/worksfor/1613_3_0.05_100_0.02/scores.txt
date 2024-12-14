@@ -1,0 +1,8 @@
+Test (beam) scores with best model from /home/sgsharma/Documents/sem3/rl/project/MINERVA/train_results/nell/worksfor/c879_3_0.05_100_0.02/model/model.ckpt
+Hits@1:  0.5688
+Hits@3:  0.7232
+Hits@5:  0.7622
+Hits@10:  0.7981
+Hits@20:  0.8204
+auc:  0.6578
+

@@ -1,0 +1,41 @@
+12/14/2024 03:58:16 AM: [ reading vocab files... ]
+12/14/2024 03:58:16 AM: [ Reading mid to name map ]
+12/14/2024 03:58:16 AM: [ Done.. ]
+12/14/2024 03:58:16 AM: [ Total number of entities 75494 ]
+12/14/2024 03:58:16 AM: [ Total number of relations 404 ]
+12/14/2024 03:58:16 AM: [ Skipping training ]
+12/14/2024 03:58:16 AM: [ Loading model from /home/sgsharma/Documents/sem3/rl/project/MINERVA/train_results/nell/worksfor/c879_3_0.05_100_0.02/model/model.ckpt ]
+12/14/2024 03:58:16 AM: [ From /home/sgsharma/anaconda3/envs/minerva/lib/python3.7/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer. ]
+12/14/2024 03:58:16 AM: [ From /home/sgsharma/Documents/sem3/rl/project/MINERVA/code/model/agent.py:60: LSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is equivalent as tf.keras.layers.LSTMCell, and will be replaced by that in Tensorflow 2.0. ]
+12/14/2024 03:58:16 AM: [ From /home/sgsharma/Documents/sem3/rl/project/MINERVA/code/model/agent.py:61: MultiRNNCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is equivalent as tf.keras.layers.StackedRNNCells, and will be replaced by that in Tensorflow 2.0. ]
+12/14/2024 03:58:22 AM: [ Creating TF graph... ]
+12/14/2024 03:58:22 AM: [ From /home/sgsharma/Documents/sem3/rl/project/MINERVA/code/model/agent.py:68: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead. ]
+12/14/2024 03:58:22 AM: [ From /home/sgsharma/Documents/sem3/rl/project/MINERVA/code/model/agent.py:112: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.random.categorical instead. ]
+12/14/2024 03:58:22 AM: [ From /home/sgsharma/Documents/sem3/rl/project/MINERVA/code/model/agent.py:112: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead. ]
+12/14/2024 03:58:22 AM: [ From code/model/trainer.py:62: div (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Deprecated in favor of operator or tf.math.divide. ]
+12/14/2024 03:58:22 AM: [ TF Graph creation done.. ]
+12/14/2024 03:58:22 AM: [ From /home/sgsharma/anaconda3/envs/minerva/lib/python3.7/site-packages/tensorflow/python/training/saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix. ]
+12/14/2024 03:58:22 AM: [ Restoring parameters from /home/sgsharma/Documents/sem3/rl/project/MINERVA/train_results/nell/worksfor/c879_3_0.05_100_0.02/model/model.ckpt ]
+12/14/2024 03:58:53 AM: [ [ printing paths at train_results/nell/worksfor/1613_3_0.05_100_0.02/test_beam/ ] ]
+12/14/2024 03:58:54 AM: [ Hits@1:  0.5688 ]
+12/14/2024 03:58:54 AM: [ Hits@3:  0.7232 ]
+12/14/2024 03:58:54 AM: [ Hits@5:  0.7622 ]
+12/14/2024 03:58:54 AM: [ Hits@10:  0.7981 ]
+12/14/2024 03:58:54 AM: [ Hits@20:  0.8204 ]
+12/14/2024 03:58:54 AM: [ auc:  0.6578 ]

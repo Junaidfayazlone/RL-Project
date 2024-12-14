@@ -1,0 +1,503 @@
+self_help_or_relief_organization	educational_activity
+Reward:1
+self_help_or_relief_organization	self_help_or_relief_organization	educational_activity
+NO_OP	location_of
+1
+-0.011202674824744463
+___
+self_help_or_relief_organization	self_help_or_relief_organization	patient_or_disabled_group
+NO_OP	manages
+-1
+-5.807401341851801
+___
+self_help_or_relief_organization	organization	educational_activity
+isa	carries_out
+1
+-6.8736103043193
+___
+self_help_or_relief_organization	entity	entity
+isa	NO_OP
+-1
+-6.975136660039425
+___
+self_help_or_relief_organization	conceptual_entity	conceptual_entity
+isa	NO_OP
+-1
+-6.983560130000114
+___
+self_help_or_relief_organization	patient_or_disabled_group	social_behavior
+manages	exhibits
+-1
+-7.857048273086548
+___
+self_help_or_relief_organization	patient_or_disabled_group	behavior
+manages	exhibits
+-1
+-7.857048273086548
+___
+self_help_or_relief_organization	patient_or_disabled_group	individual_behavior
+manages	exhibits
+-1
+-7.857048273086548
+___
+self_help_or_relief_organization	self_help_or_relief_organization	self_help_or_relief_organization
+NO_OP	NO_OP
+-1
+-8.483118695672601
+___
+self_help_or_relief_organization	governmental_or_regulatory_activity	occupation_or_discipline
+carries_out	method_of
+-1
+-8.564242199063301
+___
+self_help_or_relief_organization	biomedical_occupation_or_discipline	biomedical_occupation_or_discipline
+issue_in	NO_OP
+-1
+-9.065252773463726
+___
+self_help_or_relief_organization	occupation_or_discipline	occupation_or_discipline
+issue_in	NO_OP
+-1
+-9.065252892207354
+___
+self_help_or_relief_organization	self_help_or_relief_organization	biomedical_occupation_or_discipline
+NO_OP	issue_in
+-1
+-9.13208739226684
+___
+self_help_or_relief_organization	self_help_or_relief_organization	occupation_or_discipline
+NO_OP	issue_in
+-1
+-9.13208739226684
+___
+self_help_or_relief_organization	governmental_or_regulatory_activity	occupation_or_discipline
+location_of	method_of
+-1
+-9.137787729501724
+___
+self_help_or_relief_organization	educational_activity	biomedical_occupation_or_discipline
+location_of	method_of
+-1
+-9.765279769897461
+___
+self_help_or_relief_organization	educational_activity	occupation_or_discipline
+location_of	method_of
+-1
+-9.765279769897461
+___
+self_help_or_relief_organization	occupational_activity	occupation_or_discipline
+location_of	method_of
+-1
+-9.786890089511871
+___
+self_help_or_relief_organization	occupational_activity	biomedical_occupation_or_discipline
+location_of	method_of
+-1
+-9.786890089511871
+___
+self_help_or_relief_organization	self_help_or_relief_organization	conceptual_entity
+NO_OP	isa
+-1
+-9.871364278253168
+___
+self_help_or_relief_organization	self_help_or_relief_organization	organization
+NO_OP	isa
+-1
+-9.871364278253168
+___
+self_help_or_relief_organization	self_help_or_relief_organization	entity
+NO_OP	isa
+-1
+-9.871364278253168
+___
+self_help_or_relief_organization	entity	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-9.891600847244263
+___
+self_help_or_relief_organization	entity	occupation_or_discipline
+isa	issue_in
+-1
+-9.891600847244263
+___
+self_help_or_relief_organization	conceptual_entity	occupation_or_discipline
+isa	issue_in
+-1
+-9.900024175643921
+___
+self_help_or_relief_organization	conceptual_entity	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-9.900024175643921
+___
+self_help_or_relief_organization	self_help_or_relief_organization	intellectual_product
+NO_OP	produces
+-1
+-9.930576962884516
+___
+self_help_or_relief_organization	self_help_or_relief_organization	classification
+NO_OP	produces
+-1
+-9.930576962884516
+___
+self_help_or_relief_organization	self_help_or_relief_organization	regulation_or_law
+NO_OP	produces
+-1
+-9.930576962884516
+___
+self_help_or_relief_organization	classification	classification
+produces	NO_OP
+-1
+-10.287383139133453
+___
+self_help_or_relief_organization	molecular_biology_research_technique	mental_process
+carries_out	affects
+-1
+-10.31175708770752
+___
+self_help_or_relief_organization	patient_or_disabled_group	activity
+manages	performs
+-1
+-10.39522671699524
+___
+self_help_or_relief_organization	patient_or_disabled_group	social_behavior
+manages	performs
+-1
+-10.39522671699524
+___
+self_help_or_relief_organization	patient_or_disabled_group	machine_activity
+manages	performs
+-1
+-10.39522671699524
+___
+self_help_or_relief_organization	patient_or_disabled_group	behavior
+manages	performs
+-1
+-10.39522671699524
+___
+self_help_or_relief_organization	patient_or_disabled_group	educational_activity
+manages	performs
+1
+-10.39522671699524
+___
+self_help_or_relief_organization	patient_or_disabled_group	daily_or_recreational_activity
+manages	performs
+-1
+-10.39522671699524
+___
+self_help_or_relief_organization	classification	occupation_or_discipline
+produces	issue_in
+-1
+-10.437687456607819
+___
+self_help_or_relief_organization	intellectual_product	intellectual_product
+produces	NO_OP
+-1
+-10.683263897895813
+___
+self_help_or_relief_organization	intellectual_product	biomedical_occupation_or_discipline
+produces	issue_in
+-1
+-10.833568215370178
+___
+self_help_or_relief_organization	intellectual_product	occupation_or_discipline
+produces	issue_in
+-1
+-10.833568215370178
+___
+self_help_or_relief_organization	health_care_activity	molecular_function
+carries_out	affects
+-1
+-10.871580123901367
+___
+self_help_or_relief_organization	health_care_activity	pathologic_function
+carries_out	affects
+-1
+-10.871580123901367
+___
+self_help_or_relief_organization	health_care_activity	neoplastic_process
+carries_out	affects
+-1
+-10.871580123901367
+___
+self_help_or_relief_organization	health_care_activity	organ_or_tissue_function
+carries_out	affects
+-1
+-10.871580123901367
+___
+self_help_or_relief_organization	health_care_activity	physiologic_function
+carries_out	affects
+-1
+-10.871580123901367
+___
+self_help_or_relief_organization	health_care_activity	biologic_function
+carries_out	affects
+-1
+-10.871580123901367
+___
+self_help_or_relief_organization	health_care_activity	genetic_function
+carries_out	affects
+-1
+-10.871580123901367
+___
+self_help_or_relief_organization	health_care_activity	experimental_model_of_disease
+carries_out	affects
+-1
+-10.871580123901367
+___
+self_help_or_relief_organization	health_care_activity	cell_function
+carries_out	affects
+-1
+-10.871580123901367
+___
+self_help_or_relief_organization	health_care_activity	disease_or_syndrome
+carries_out	affects
+-1
+-10.871580123901367
+___
+self_help_or_relief_organization	health_care_activity	organism_function
+carries_out	affects
+-1
+-10.871580123901367
+___
+self_help_or_relief_organization	therapeutic_or_preventive_procedure	neoplastic_process
+carries_out	affects
+-1
+-11.266604661941528
+___
+self_help_or_relief_organization	therapeutic_or_preventive_procedure	organ_or_tissue_function
+carries_out	affects
+-1
+-11.266604661941528
+___
+self_help_or_relief_organization	therapeutic_or_preventive_procedure	molecular_function
+carries_out	affects
+-1
+-11.266604661941528
+___
+self_help_or_relief_organization	therapeutic_or_preventive_procedure	pathologic_function
+carries_out	affects
+-1
+-11.266604661941528
+___
+self_help_or_relief_organization	therapeutic_or_preventive_procedure	genetic_function
+carries_out	affects
+-1
+-11.266604661941528
+___
+self_help_or_relief_organization	therapeutic_or_preventive_procedure	biologic_function
+carries_out	affects
+-1
+-11.266604661941528
+___
+self_help_or_relief_organization	therapeutic_or_preventive_procedure	physiologic_function
+carries_out	affects
+-1
+-11.266604661941528
+___
+self_help_or_relief_organization	therapeutic_or_preventive_procedure	mental_or_behavioral_dysfunction
+carries_out	affects
+-1
+-11.266604661941528
+___
+self_help_or_relief_organization	therapeutic_or_preventive_procedure	organism_function
+carries_out	affects
+-1
+-11.266604661941528
+___
+self_help_or_relief_organization	therapeutic_or_preventive_procedure	experimental_model_of_disease
+carries_out	affects
+-1
+-11.266604661941528
+___
+self_help_or_relief_organization	therapeutic_or_preventive_procedure	cell_or_molecular_dysfunction
+carries_out	affects
+-1
+-11.266604661941528
+___
+self_help_or_relief_organization	health_care_activity	organ_or_tissue_function
+location_of	affects
+-1
+-11.452814817428589
+___
+self_help_or_relief_organization	health_care_activity	physiologic_function
+location_of	affects
+-1
+-11.452814817428589
+___
+self_help_or_relief_organization	health_care_activity	biologic_function
+location_of	affects
+-1
+-11.452814817428589
+___
+self_help_or_relief_organization	health_care_activity	neoplastic_process
+location_of	affects
+-1
+-11.452814817428589
+___
+self_help_or_relief_organization	health_care_activity	organism_function
+location_of	affects
+-1
+-11.452814817428589
+___
+self_help_or_relief_organization	health_care_activity	genetic_function
+location_of	affects
+-1
+-11.452814817428589
+___
+self_help_or_relief_organization	health_care_activity	cell_function
+location_of	affects
+-1
+-11.452814817428589
+___
+self_help_or_relief_organization	health_care_activity	experimental_model_of_disease
+location_of	affects
+-1
+-11.452814817428589
+___
+self_help_or_relief_organization	health_care_activity	pathologic_function
+location_of	affects
+-1
+-11.452814817428589
+___
+self_help_or_relief_organization	health_care_activity	molecular_function
+location_of	affects
+-1
+-11.452814817428589
+___
+self_help_or_relief_organization	health_care_activity	disease_or_syndrome
+location_of	affects
+-1
+-11.452814817428589
+___
+self_help_or_relief_organization	therapeutic_or_preventive_procedure	disease_or_syndrome
+location_of	complicates
+-1
+-11.486976623535156
+___
+self_help_or_relief_organization	therapeutic_or_preventive_procedure	cell_or_molecular_dysfunction
+location_of	complicates
+-1
+-11.486976623535156
+___
+self_help_or_relief_organization	therapeutic_or_preventive_procedure	organism_function
+location_of	complicates
+-1
+-11.486976623535156
+___
+self_help_or_relief_organization	therapeutic_or_preventive_procedure	molecular_function
+location_of	complicates
+-1
+-11.486976623535156
+___
+self_help_or_relief_organization	therapeutic_or_preventive_procedure	organ_or_tissue_function
+location_of	complicates
+-1
+-11.486976623535156
+___
+self_help_or_relief_organization	therapeutic_or_preventive_procedure	physiologic_function
+location_of	complicates
+-1
+-11.486976623535156
+___
+self_help_or_relief_organization	therapeutic_or_preventive_procedure	mental_or_behavioral_dysfunction
+location_of	complicates
+-1
+-11.486976623535156
+___
+self_help_or_relief_organization	therapeutic_or_preventive_procedure	genetic_function
+location_of	complicates
+-1
+-11.486976623535156
+___
+self_help_or_relief_organization	therapeutic_or_preventive_procedure	biologic_function
+location_of	complicates
+-1
+-11.486976623535156
+___
+self_help_or_relief_organization	therapeutic_or_preventive_procedure	neoplastic_process
+location_of	complicates
+-1
+-11.486976623535156
+___
+self_help_or_relief_organization	therapeutic_or_preventive_procedure	experimental_model_of_disease
+location_of	complicates
+-1
+-11.486976623535156
+___
+self_help_or_relief_organization	conceptual_entity	entity
+isa	isa
+-1
+-11.653297901153564
+___
+self_help_or_relief_organization	governmental_or_regulatory_activity	event
+carries_out	isa
+-1
+-11.68685793876648
+___
+self_help_or_relief_organization	governmental_or_regulatory_activity	activity
+carries_out	isa
+-1
+-11.68685793876648
+___
+self_help_or_relief_organization	diagnostic_procedure	physiologic_function
+carries_out	affects
+-1
+-11.693381309509277
+___
+self_help_or_relief_organization	diagnostic_procedure	biologic_function
+carries_out	affects
+-1
+-11.693381309509277
+___
+self_help_or_relief_organization	diagnostic_procedure	cell_function
+carries_out	affects
+-1
+-11.693381309509277
+___
+self_help_or_relief_organization	diagnostic_procedure	patient_or_disabled_group
+carries_out	affects
+-1
+-11.693381309509277
+___
+self_help_or_relief_organization	diagnostic_procedure	mental_process
+carries_out	affects
+-1
+-11.693381309509277
+___
+self_help_or_relief_organization	diagnostic_procedure	disease_or_syndrome
+carries_out	affects
+-1
+-11.693381309509277
+___
+self_help_or_relief_organization	diagnostic_procedure	molecular_function
+carries_out	affects
+-1
+-11.693381309509277
+___
+self_help_or_relief_organization	diagnostic_procedure	organ_or_tissue_function
+carries_out	affects
+-1
+-11.693381309509277
+___
+self_help_or_relief_organization	diagnostic_procedure	mental_or_behavioral_dysfunction
+carries_out	affects
+-1
+-11.693381309509277
+___
+self_help_or_relief_organization	diagnostic_procedure	genetic_function
+carries_out	affects
+-1
+-11.693381309509277
+___
+self_help_or_relief_organization	diagnostic_procedure	organism_function
+carries_out	affects
+-1
+-11.693381309509277
+___
+self_help_or_relief_organization	diagnostic_procedure	neoplastic_process
+carries_out	affects
+-1
+-11.693381309509277
+___
+#####################

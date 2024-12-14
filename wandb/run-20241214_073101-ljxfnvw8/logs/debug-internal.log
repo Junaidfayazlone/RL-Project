@@ -1,0 +1,8 @@
+{"time":"2024-12-14T07:31:01.213651839+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-14T07:31:01.213662589+05:30","level":"INFO","msg":"created symlink","path":"/home/sgsharma/Documents/sem3/rl/project/MINERVA/wandb/run-20241214_073101-ljxfnvw8/logs/debug-core.log"}
+{"time":"2024-12-14T07:31:01.320034231+05:30","level":"INFO","msg":"created new stream","id":"ljxfnvw8"}
+{"time":"2024-12-14T07:31:01.320052805+05:30","level":"INFO","msg":"stream: started","id":"ljxfnvw8"}
+{"time":"2024-12-14T07:31:01.320062723+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ljxfnvw8"}
+{"time":"2024-12-14T07:31:01.320081398+05:30","level":"INFO","msg":"handler: started","stream_id":"ljxfnvw8"}
+{"time":"2024-12-14T07:31:01.320103579+05:30","level":"INFO","msg":"sender: started","stream_id":"ljxfnvw8"}
+{"time":"2024-12-14T07:31:01.73274831+05:30","level":"INFO","msg":"Starting system monitor"}

@@ -8,6 +8,7 @@ import logging
 import numpy as np
 import tensorflow as tf
 from code.model.agent import Agent
+from code.options import read_options
 from code.model.environment import env
 import codecs
 from collections import defaultdict
@@ -17,96 +18,9 @@ import sys
 from code.model.baseline import ReactiveBaseline
 from code.model.nell_eval import nell_eval
 from scipy.special import logsumexp as lse
-import argparse
-import uuid
-import os
-from pprint import pprint
+
 import wandb
-
-tf.compat.v1.disable_v2_behavior()
-
-wandb.init(
-    # set the wandb project where this run will be logged
-    project="my-awesome-project",
-
-    # track hyperparameters and run metadata
-    config={
-    "learning_rate": 0.02,
-    "architecture": "LSTM",
-    "dataset": "countries-S1",
-    "epochs": 10,
-    }
-)
-def read_options():
-    parser = argparse.ArgumentParser()
-
-    parser.add_argument("--data_input_dir", default="", type=str)
-    parser.add_argument("--input_file", default="train.txt", type=str)
-    parser.add_argument("--create_vocab", default=0, type=int)
-    parser.add_argument("--vocab_dir", default="", type=str)
-    parser.add_argument("--max_num_actions", default=200, type=int)
-    parser.add_argument("--path_length", default=3, type=int)
-    parser.add_argument("--hidden_size", default=50, type=int)
-    parser.add_argument("--embedding_size", default=50, type=int)
-    parser.add_argument("--batch_size", default=128, type=int)
-    parser.add_argument("--grad_clip_norm", default=5, type=int)
-    parser.add_argument("--l2_reg_const", default=1e-2, type=float)
-    parser.add_argument("--learning_rate", default=1e-3, type=float)
-    parser.add_argument("--beta", default=1e-2, type=float)
-    parser.add_argument("--positive_reward", default=1.0, type=float)
-    parser.add_argument("--negative_reward", default=0, type=float)
-    parser.add_argument("--gamma", default=1, type=float)
-    parser.add_argument("--log_dir", default="./logs/", type=str)
-    parser.add_argument("--log_file_name", default="reward.txt", type=str)
-    parser.add_argument("--output_file", default="", type=str)
-    parser.add_argument("--num_rollouts", default=20, type=int)
-    parser.add_argument("--test_rollouts", default=100, type=int)
-    parser.add_argument("--LSTM_layers", default=1, type=int)
-    parser.add_argument("--model_dir", default='', type=str)
-    parser.add_argument("--base_output_dir", default='', type=str)
-    parser.add_argument("--total_iterations", default=2000, type=int)
-
-    parser.add_argument("--Lambda", default=0.0, type=float)
-    parser.add_argument("--pool", default="max", type=str)
-    parser.add_argument("--eval_every", default=100, type=int)
-    parser.add_argument("--use_entity_embeddings", default=0, type=int)
-    parser.add_argument("--train_entity_embeddings", default=0, type=int)
-    parser.add_argument("--train_relation_embeddings", default=1, type=int)
-    parser.add_argument("--model_load_dir", default="", type=str)
-    parser.add_argument("--load_model", default=0, type=int)
-    parser.add_argument("--nell_evaluation", default=0, type=int)
-    # parser.add_argument("--nell_query", default='all', type=str)
-
-    parsed = vars(parser.parse_args())
-    parsed['input_files'] = [parsed['data_input_dir'] + '/' + parsed['input_file']]
-
-    parsed['use_entity_embeddings'] = (parsed['use_entity_embeddings'] == 1)
-    parsed['train_entity_embeddings'] = (parsed['train_entity_embeddings'] == 1)
-    parsed['train_relation_embeddings'] = (parsed['train_relation_embeddings'] == 1)
-
-    parsed['pretrained_embeddings_action'] = ""
-    parsed['pretrained_embeddings_entity'] = ""
-
-    parsed['output_dir'] = parsed['base_output_dir'] + '/' + str(uuid.uuid4())[:4]+'_'+str(parsed['path_length'])+'_'+str(parsed['beta'])+'_'+str(parsed['test_rollouts'])+'_'+str(parsed['Lambda'])
-
-    parsed['model_dir'] = parsed['output_dir']+'/'+ 'model/'
-
-    parsed['load_model'] = (parsed['load_model'] == 1)
-
-    ##Logger##
-    parsed['path_logger_file'] = parsed['output_dir']
-    parsed['log_file_name'] = parsed['output_dir'] +'/log.txt'
-    os.makedirs(parsed['output_dir'])
-    os.mkdir(parsed['model_dir'])
-    with open(parsed['output_dir']+'/config.txt', 'w') as out:
-        pprint(parsed, stream=out)
-
-    # print and return
-    maxLen = max([len(ii) for ii in parsed.keys()])
-    fmtString = '\t%' + str(maxLen) + 's : %s'
-    print('Arguments:')
-    for keyPair in sorted(parsed.items()): print(fmtString % keyPair)
-    return parsed
+wandb.login(key=os.getenv("WANDB_API_KEY"))
 
 logger = logging.getLogger()
 logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
@@ -297,6 +211,24 @@ class Trainer(object):
         # pdb.set_trace()
         fetches, feeds, feed_dict = self.gpu_io_setup()
 
+        wandb.init(
+            project="RL_PROJECT_GROUP_14",
+            name="WN18RR",
+
+            config={
+                "dataset": "wn18rr",
+                "total_iterations": 3000,
+                "path_length": 3,
+                "hidden_size": 50,
+                "embedding_size": 50,
+                "batch_size": 128,
+                "beta": 0.05,
+                "Lambda": 0.02,
+                "use_entity_embeddings": 0,
+                "train_entity_embeddings": 0,
+                "train_relation_embeddings": 1
+        })
+
         train_loss = 0.0
         start_time = time.time()
         self.batch_counter = 0
@@ -339,20 +271,27 @@ class Trainer(object):
             avg_reward = np.mean(rewards)
             # now reshape the reward to [orig_batch_size, num_rollouts], I want to calculate for how many of the
             # entity pair, atleast one of the path get to the right answer
-            reward_reshape = np.reshape(rewards,(self.batch_size, self.num_rollouts))  # [orig_batch, num_rollouts]
+            reward_reshape = np.reshape(rewards, (self.batch_size, self.num_rollouts))  # [orig_batch, num_rollouts]
             reward_reshape = np.sum(reward_reshape, axis=1)  # [orig_batch]
             reward_reshape = (reward_reshape > 0)
             num_ep_correct = np.sum(reward_reshape)
             if np.isnan(train_loss):
                 raise ArithmeticError("Error in computing loss")
+            
+            # wnb log
+            wandb.log({
+                "num_hits": np.sum(rewards),
+                "avg_reward": avg_reward,
+                "num_ep_correct": num_ep_correct,
+                # "avg_ep_correct": (num_ep_correct / self.batch_size),
+                "train_loss": train_loss
+            })
 
             logger.info("batch_counter: {0:4d}, num_hits: {1:7.4f}, avg. reward per batch {2:7.4f}, "
                         "num_ep_correct {3:4d}, avg_ep_correct {4:7.4f}, train loss {5:7.4f}".
                         format(self.batch_counter, np.sum(rewards), avg_reward, num_ep_correct,
                                (num_ep_correct / self.batch_size),
                                train_loss))
-            
-            wandb.log({"avg_reward per Batch": avg_reward, "num_ep_correct": num_ep_correct})
 
             if self.batch_counter%self.eval_every == 0:
                 with open(self.output_dir + '/scores.txt', 'a') as score_file:
@@ -369,6 +308,8 @@ class Trainer(object):
             gc.collect()
             if self.batch_counter >= self.total_iterations:
                 break
+
+        wandb.finish()
 
     def test(self, sess, beam=False, print_paths=False, save_model = True, auc = False):
         batch_counter = 0
@@ -673,5 +614,8 @@ if __name__ == '__main__':
 
         trainer.test(sess, beam=True, print_paths=True, save_model=False)
 
+
+        print(options['nell_evaluation'])
         if options['nell_evaluation'] == 1:
             nell_eval(path_logger_file + "/" + "test_beam/" + "pathsanswers", trainer.data_input_dir+'/sort_test.pairs' )
+

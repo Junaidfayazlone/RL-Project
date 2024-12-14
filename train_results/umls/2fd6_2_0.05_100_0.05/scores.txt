@@ -1,0 +1,8 @@
+Test (beam) scores with best model from /home/sgsharma/Documents/sem3/rl/project/MINERVA/train_results/umls/8ee3_2_0.05_100_0.05/model/model.ckpt
+Hits@1:  0.6778
+Hits@3:  0.8986
+Hits@5:  0.9123
+Hits@10:  0.9198
+Hits@20:  0.9380
+auc:  0.7884
+

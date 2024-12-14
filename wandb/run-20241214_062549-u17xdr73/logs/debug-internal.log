@@ -1,0 +1,17 @@
+{"time":"2024-12-14T06:25:49.443338855+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-14T06:25:49.443358061+05:30","level":"INFO","msg":"created symlink","path":"/home/sgsharma/Documents/sem3/rl/project/MINERVA/wandb/run-20241214_062549-u17xdr73/logs/debug-core.log"}
+{"time":"2024-12-14T06:25:49.548951937+05:30","level":"INFO","msg":"created new stream","id":"u17xdr73"}
+{"time":"2024-12-14T06:25:49.548972254+05:30","level":"INFO","msg":"stream: started","id":"u17xdr73"}
+{"time":"2024-12-14T06:25:49.548985779+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"u17xdr73"}
+{"time":"2024-12-14T06:25:49.548988083+05:30","level":"INFO","msg":"handler: started","stream_id":"u17xdr73"}
+{"time":"2024-12-14T06:25:49.54901882+05:30","level":"INFO","msg":"sender: started","stream_id":"u17xdr73"}
+{"time":"2024-12-14T06:25:49.950188994+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-14T07:21:18.765553869+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-14T07:21:18.769464038+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-14T07:21:19.763769373+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.357980789},{"desc":"uploading wandb-summary.json","runtime_seconds":0.336856477}],"total_operations":2}}
+{"time":"2024-12-14T07:21:22.229138971+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-14T07:21:23.851427932+05:30","level":"INFO","msg":"stream: closing","id":"u17xdr73"}
+{"time":"2024-12-14T07:21:23.851468717+05:30","level":"INFO","msg":"handler: closed","stream_id":"u17xdr73"}
+{"time":"2024-12-14T07:21:23.851494905+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"u17xdr73"}
+{"time":"2024-12-14T07:21:23.851763211+05:30","level":"INFO","msg":"sender: closed","stream_id":"u17xdr73"}
+{"time":"2024-12-14T07:21:23.851792194+05:30","level":"INFO","msg":"stream: closed","id":"u17xdr73"}

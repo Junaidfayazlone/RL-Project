@@ -1,0 +1,2515 @@
+nucleotide_sequence	nucleic_acid_nucleoside_or_nucleotide
+Reward:0
+nucleotide_sequence	gene_or_genome	body_substance
+property_of	contains
+-1
+-2.962231094483286
+___
+nucleotide_sequence	gene_or_genome	organism_function
+property_of	affects
+-1
+-3.101142341736704
+___
+nucleotide_sequence	gene_or_genome	mental_process
+property_of	affects
+-1
+-3.101142341736704
+___
+nucleotide_sequence	gene_or_genome	genetic_function
+property_of	affects
+-1
+-3.101142341736704
+___
+nucleotide_sequence	gene_or_genome	cell_function
+property_of	affects
+-1
+-3.101142341736704
+___
+nucleotide_sequence	gene_or_genome	physiologic_function
+property_of	affects
+-1
+-3.101142341736704
+___
+nucleotide_sequence	gene_or_genome	molecular_function
+property_of	affects
+-1
+-3.101142341736704
+___
+nucleotide_sequence	gene_or_genome	bacterium
+property_of	part_of
+-1
+-3.148105795029551
+___
+nucleotide_sequence	gene_or_genome	rickettsia_or_chlamydia
+property_of	part_of
+-1
+-3.148105795029551
+___
+nucleotide_sequence	gene_or_genome	invertebrate
+property_of	part_of
+-1
+-3.148105795029551
+___
+nucleotide_sequence	gene_or_genome	amphibian
+property_of	part_of
+-1
+-3.148105795029551
+___
+nucleotide_sequence	gene_or_genome	human
+property_of	part_of
+-1
+-3.148105795029551
+___
+nucleotide_sequence	gene_or_genome	cell
+property_of	part_of
+-1
+-3.148105795029551
+___
+nucleotide_sequence	gene_or_genome	organism
+property_of	part_of
+-1
+-3.148105795029551
+___
+nucleotide_sequence	gene_or_genome	virus
+property_of	part_of
+-1
+-3.148105795029551
+___
+nucleotide_sequence	gene_or_genome	fish
+property_of	part_of
+-1
+-3.148105795029551
+___
+nucleotide_sequence	gene_or_genome	bird
+property_of	part_of
+-1
+-3.148105795029551
+___
+nucleotide_sequence	gene_or_genome	mammal
+property_of	part_of
+-1
+-3.148105795029551
+___
+nucleotide_sequence	gene_or_genome	fungus
+property_of	part_of
+-1
+-3.148105795029551
+___
+nucleotide_sequence	gene_or_genome	archaeon
+property_of	part_of
+-1
+-3.148105795029551
+___
+nucleotide_sequence	gene_or_genome	animal
+property_of	part_of
+-1
+-3.148105795029551
+___
+nucleotide_sequence	gene_or_genome	alga
+property_of	part_of
+-1
+-3.148105795029551
+___
+nucleotide_sequence	gene_or_genome	steroid
+property_of	produces
+-1
+-6.2821289845742285
+___
+nucleotide_sequence	gene_or_genome	carbohydrate
+property_of	produces
+-1
+-6.2821289845742285
+___
+nucleotide_sequence	gene_or_genome	lipid
+property_of	produces
+-1
+-6.2821289845742285
+___
+nucleotide_sequence	gene_or_genome	biologically_active_substance
+property_of	produces
+-1
+-6.2821289845742285
+___
+nucleotide_sequence	gene_or_genome	hormone
+property_of	produces
+-1
+-6.2821289845742285
+___
+nucleotide_sequence	gene_or_genome	eicosanoid
+property_of	produces
+-1
+-6.2821289845742285
+___
+nucleotide_sequence	gene_or_genome	organic_chemical
+property_of	produces
+-1
+-6.2821289845742285
+___
+nucleotide_sequence	gene_or_genome	organophosphorus_compound
+property_of	produces
+-1
+-6.2821289845742285
+___
+nucleotide_sequence	gene_or_genome	immunologic_factor
+property_of	produces
+-1
+-6.2821289845742285
+___
+nucleotide_sequence	gene_or_genome	enzyme
+property_of	produces
+-1
+-6.2821289845742285
+___
+nucleotide_sequence	gene_or_genome	neuroreactive_substance_or_biogenic_amine
+property_of	produces
+-1
+-6.2821289845742285
+___
+nucleotide_sequence	gene_or_genome	receptor
+property_of	produces
+-1
+-6.2821289845742285
+___
+nucleotide_sequence	gene_or_genome	amino_acid_peptide_or_protein
+property_of	produces
+-1
+-6.2821289845742285
+___
+nucleotide_sequence	gene_or_genome	fully_formed_anatomical_structure
+property_of	isa
+-1
+-6.49790113652125
+___
+nucleotide_sequence	gene_or_genome	physical_object
+property_of	isa
+-1
+-6.49790113652125
+___
+nucleotide_sequence	gene_or_genome	anatomical_structure
+property_of	isa
+-1
+-6.49790113652125
+___
+nucleotide_sequence	mental_process	organism_function
+result_of	degree_of
+-1
+-6.803240358829498
+___
+nucleotide_sequence	entity	entity
+isa	NO_OP
+-1
+-7.968902883119881
+___
+nucleotide_sequence	conceptual_entity	conceptual_entity
+isa	NO_OP
+-1
+-7.973920932970941
+___
+nucleotide_sequence	nucleotide_sequence	nucleotide_sequence
+NO_OP	NO_OP
+-1
+-7.995473504066467
+___
+nucleotide_sequence	spatial_concept	spatial_concept
+isa	NO_OP
+-1
+-8.254878968000412
+___
+nucleotide_sequence	mental_process	physiologic_function
+result_of	precedes
+-1
+-8.260543823242188
+___
+nucleotide_sequence	mental_process	molecular_function
+result_of	precedes
+-1
+-8.260543823242188
+___
+nucleotide_sequence	mental_process	genetic_function
+result_of	precedes
+-1
+-8.260543823242188
+___
+nucleotide_sequence	idea_or_concept	idea_or_concept
+isa	NO_OP
+-1
+-8.325086116790771
+___
+nucleotide_sequence	nucleotide_sequence	mental_process
+NO_OP	result_of
+-1
+-8.4819256067276
+___
+nucleotide_sequence	gene_or_genome	genetic_function
+property_of	carries_out
+-1
+-8.745143587235361
+___
+nucleotide_sequence	gene_or_genome	molecular_function
+property_of	carries_out
+-1
+-8.745143587235361
+___
+nucleotide_sequence	gene_or_genome	biomedical_occupation_or_discipline
+property_of	issue_in
+-1
+-8.816616708878428
+___
+nucleotide_sequence	spatial_concept	mental_process
+isa	result_of
+-1
+-9.385599851608276
+___
+nucleotide_sequence	idea_or_concept	mental_process
+isa	result_of
+-1
+-9.455806970596313
+___
+nucleotide_sequence	mental_process	experimental_model_of_disease
+result_of	process_of
+-1
+-10.163651466369629
+___
+nucleotide_sequence	mental_process	cell_function
+result_of	process_of
+-1
+-10.163651466369629
+___
+nucleotide_sequence	mental_process	animal
+result_of	process_of
+-1
+-10.163651466369629
+___
+nucleotide_sequence	mental_process	biologic_function
+result_of	process_of
+-1
+-10.163651466369629
+___
+nucleotide_sequence	mental_process	organism_function
+result_of	process_of
+-1
+-10.163651466369629
+___
+nucleotide_sequence	mental_process	pathologic_function
+result_of	process_of
+-1
+-10.163651466369629
+___
+nucleotide_sequence	mental_process	mammal
+result_of	process_of
+-1
+-10.163651466369629
+___
+nucleotide_sequence	mental_process	genetic_function
+result_of	process_of
+-1
+-10.163651466369629
+___
+nucleotide_sequence	mental_process	neoplastic_process
+result_of	process_of
+-1
+-10.163651466369629
+___
+nucleotide_sequence	mental_process	natural_phenomenon_or_process
+result_of	process_of
+-1
+-10.163651466369629
+___
+nucleotide_sequence	mental_process	organism
+result_of	process_of
+-1
+-10.163651466369629
+___
+nucleotide_sequence	mental_process	fish
+result_of	process_of
+-1
+-10.163651466369629
+___
+nucleotide_sequence	mental_process	physiologic_function
+result_of	process_of
+-1
+-10.163651466369629
+___
+nucleotide_sequence	mental_process	molecular_function
+result_of	process_of
+-1
+-10.163651466369629
+___
+nucleotide_sequence	mental_process	archaeon
+result_of	process_of
+-1
+-10.163651466369629
+___
+nucleotide_sequence	mental_process	mental_or_behavioral_dysfunction
+result_of	process_of
+-1
+-10.163651466369629
+___
+nucleotide_sequence	mental_process	cell_or_molecular_dysfunction
+result_of	process_of
+-1
+-10.163651466369629
+___
+nucleotide_sequence	mental_process	amphibian
+result_of	process_of
+-1
+-10.163651466369629
+___
+nucleotide_sequence	mental_process	disease_or_syndrome
+result_of	process_of
+-1
+-10.163651466369629
+___
+nucleotide_sequence	mental_process	reptile
+result_of	process_of
+-1
+-10.163651466369629
+___
+nucleotide_sequence	nucleotide_sequence	idea_or_concept
+NO_OP	isa
+-1
+-10.554773807525635
+___
+nucleotide_sequence	nucleotide_sequence	spatial_concept
+NO_OP	isa
+-1
+-10.554773807525635
+___
+nucleotide_sequence	nucleotide_sequence	entity
+NO_OP	isa
+-1
+-10.554773807525635
+___
+nucleotide_sequence	nucleotide_sequence	conceptual_entity
+NO_OP	isa
+-1
+-10.554773807525635
+___
+nucleotide_sequence	idea_or_concept	behavior
+isa	conceptual_part_of
+-1
+-10.576830625534058
+___
+nucleotide_sequence	mental_process	behavior
+result_of	affects
+-1
+-11.679617404937744
+___
+nucleotide_sequence	mental_process	cell_function
+result_of	affects
+-1
+-11.679617404937744
+___
+nucleotide_sequence	mental_process	mental_or_behavioral_dysfunction
+result_of	affects
+-1
+-11.679617404937744
+___
+nucleotide_sequence	mental_process	physiologic_function
+result_of	affects
+-1
+-11.679617404937744
+___
+nucleotide_sequence	mental_process	human
+result_of	affects
+-1
+-11.679617404937744
+___
+nucleotide_sequence	mental_process	fish
+result_of	affects
+-1
+-11.679617404937744
+___
+nucleotide_sequence	mental_process	individual_behavior
+result_of	affects
+-1
+-11.679617404937744
+___
+nucleotide_sequence	mental_process	archaeon
+result_of	affects
+-1
+-11.679617404937744
+___
+nucleotide_sequence	mental_process	genetic_function
+result_of	affects
+-1
+-11.679617404937744
+___
+nucleotide_sequence	mental_process	alga
+result_of	affects
+-1
+-11.679617404937744
+___
+nucleotide_sequence	mental_process	clinical_attribute
+result_of	affects
+-1
+-11.679617404937744
+___
+nucleotide_sequence	mental_process	amphibian
+result_of	affects
+-1
+-11.679617404937744
+___
+nucleotide_sequence	mental_process	organ_or_tissue_function
+result_of	affects
+-1
+-11.679617404937744
+___
+nucleotide_sequence	mental_process	experimental_model_of_disease
+result_of	affects
+-1
+-11.679617404937744
+___
+nucleotide_sequence	mental_process	organism
+result_of	affects
+-1
+-11.679617404937744
+___
+nucleotide_sequence	mental_process	rickettsia_or_chlamydia
+result_of	affects
+-1
+-11.679617404937744
+___
+nucleotide_sequence	mental_process	plant
+result_of	affects
+-1
+-11.679617404937744
+___
+nucleotide_sequence	mental_process	mammal
+result_of	affects
+-1
+-11.679617404937744
+___
+nucleotide_sequence	mental_process	reptile
+result_of	affects
+-1
+-11.679617404937744
+___
+nucleotide_sequence	mental_process	disease_or_syndrome
+result_of	affects
+-1
+-11.679617404937744
+___
+nucleotide_sequence	mental_process	cell_or_molecular_dysfunction
+result_of	affects
+-1
+-11.679617404937744
+___
+nucleotide_sequence	mental_process	biologic_function
+result_of	affects
+-1
+-11.679617404937744
+___
+#####################
+group_attribute	family_group
+Reward:1
+group_attribute	population_group	family_group
+property_of	interacts_with
+1
+-1.6160111632198095
+___
+group_attribute	professional_or_occupational_group	family_group
+property_of	interacts_with
+1
+-1.6198253007605672
+___
+group_attribute	age_group	drug_delivery_device
+property_of	produces
+-1
+-4.1192790269851685
+___
+group_attribute	age_group	intellectual_product
+property_of	produces
+-1
+-4.1192790269851685
+___
+group_attribute	age_group	medical_device
+property_of	produces
+-1
+-4.1192790269851685
+___
+group_attribute	age_group	classification
+property_of	produces
+-1
+-4.1192790269851685
+___
+group_attribute	age_group	manufactured_object
+property_of	produces
+-1
+-4.1192790269851685
+___
+group_attribute	age_group	clinical_drug
+property_of	produces
+-1
+-4.1192790269851685
+___
+group_attribute	patient_or_disabled_group	regulation_or_law
+property_of	produces
+-1
+-4.184862494468689
+___
+group_attribute	patient_or_disabled_group	research_device
+property_of	produces
+-1
+-4.184862494468689
+___
+group_attribute	patient_or_disabled_group	intellectual_product
+property_of	produces
+-1
+-4.184862494468689
+___
+group_attribute	patient_or_disabled_group	manufactured_object
+property_of	produces
+-1
+-4.184862494468689
+___
+group_attribute	patient_or_disabled_group	classification
+property_of	produces
+-1
+-4.184862494468689
+___
+group_attribute	patient_or_disabled_group	clinical_drug
+property_of	produces
+-1
+-4.184862494468689
+___
+group_attribute	patient_or_disabled_group	drug_delivery_device
+property_of	produces
+-1
+-4.184862494468689
+___
+group_attribute	group	classification
+property_of	produces
+-1
+-4.207897782325745
+___
+group_attribute	group	clinical_drug
+property_of	produces
+-1
+-4.207897782325745
+___
+group_attribute	group	regulation_or_law
+property_of	produces
+-1
+-4.207897782325745
+___
+group_attribute	group	drug_delivery_device
+property_of	produces
+-1
+-4.207897782325745
+___
+group_attribute	group	intellectual_product
+property_of	produces
+-1
+-4.207897782325745
+___
+group_attribute	group	medical_device
+property_of	produces
+-1
+-4.207897782325745
+___
+group_attribute	group	manufactured_object
+property_of	produces
+-1
+-4.207897782325745
+___
+group_attribute	age_group	conceptual_entity
+property_of	isa
+-1
+-4.33505117893219
+___
+group_attribute	age_group	entity
+property_of	isa
+-1
+-4.33505117893219
+___
+group_attribute	patient_or_disabled_group	entity
+property_of	isa
+-1
+-4.4006346464157104
+___
+group_attribute	patient_or_disabled_group	conceptual_entity
+property_of	isa
+-1
+-4.4006346464157104
+___
+group_attribute	group	entity
+property_of	isa
+-1
+-4.423669934272766
+___
+group_attribute	group	conceptual_entity
+property_of	isa
+-1
+-4.423669934272766
+___
+group_attribute	age_group	research_device
+property_of	uses
+-1
+-5.07193648815155
+___
+group_attribute	age_group	drug_delivery_device
+property_of	uses
+-1
+-5.07193648815155
+___
+group_attribute	age_group	regulation_or_law
+property_of	uses
+-1
+-5.07193648815155
+___
+group_attribute	age_group	medical_device
+property_of	uses
+-1
+-5.07193648815155
+___
+group_attribute	age_group	intellectual_product
+property_of	uses
+-1
+-5.07193648815155
+___
+group_attribute	age_group	classification
+property_of	uses
+-1
+-5.07193648815155
+___
+group_attribute	age_group	clinical_drug
+property_of	uses
+-1
+-5.07193648815155
+___
+group_attribute	age_group	manufactured_object
+property_of	uses
+-1
+-5.07193648815155
+___
+group_attribute	patient_or_disabled_group	classification
+property_of	uses
+-1
+-5.137519955635071
+___
+group_attribute	patient_or_disabled_group	medical_device
+property_of	uses
+-1
+-5.137519955635071
+___
+group_attribute	patient_or_disabled_group	intellectual_product
+property_of	uses
+-1
+-5.137519955635071
+___
+group_attribute	patient_or_disabled_group	manufactured_object
+property_of	uses
+-1
+-5.137519955635071
+___
+group_attribute	patient_or_disabled_group	drug_delivery_device
+property_of	uses
+-1
+-5.137519955635071
+___
+group_attribute	patient_or_disabled_group	clinical_drug
+property_of	uses
+-1
+-5.137519955635071
+___
+group_attribute	patient_or_disabled_group	regulation_or_law
+property_of	uses
+-1
+-5.137519955635071
+___
+group_attribute	group	research_device
+property_of	uses
+-1
+-5.1605552434921265
+___
+group_attribute	group	manufactured_object
+property_of	uses
+-1
+-5.1605552434921265
+___
+group_attribute	group	drug_delivery_device
+property_of	uses
+-1
+-5.1605552434921265
+___
+group_attribute	group	clinical_drug
+property_of	uses
+-1
+-5.1605552434921265
+___
+group_attribute	group	regulation_or_law
+property_of	uses
+-1
+-5.1605552434921265
+___
+group_attribute	group	medical_device
+property_of	uses
+-1
+-5.1605552434921265
+___
+group_attribute	group	intellectual_product
+property_of	uses
+-1
+-5.1605552434921265
+___
+group_attribute	age_group	governmental_or_regulatory_activity
+property_of	performs
+-1
+-6.124901175498962
+___
+group_attribute	age_group	educational_activity
+property_of	performs
+-1
+-6.124901175498962
+___
+group_attribute	age_group	activity
+property_of	performs
+-1
+-6.124901175498962
+___
+group_attribute	age_group	diagnostic_procedure
+property_of	performs
+-1
+-6.124901175498962
+___
+group_attribute	age_group	occupational_activity
+property_of	performs
+-1
+-6.124901175498962
+___
+group_attribute	age_group	individual_behavior
+property_of	performs
+-1
+-6.124901175498962
+___
+group_attribute	age_group	laboratory_procedure
+property_of	performs
+-1
+-6.124901175498962
+___
+group_attribute	age_group	health_care_activity
+property_of	performs
+-1
+-6.124901175498962
+___
+group_attribute	age_group	behavior
+property_of	performs
+-1
+-6.124901175498962
+___
+group_attribute	age_group	therapeutic_or_preventive_procedure
+property_of	performs
+-1
+-6.124901175498962
+___
+group_attribute	age_group	research_activity
+property_of	performs
+-1
+-6.124901175498962
+___
+group_attribute	patient_or_disabled_group	behavior
+property_of	performs
+-1
+-6.190484404563904
+___
+group_attribute	patient_or_disabled_group	health_care_activity
+property_of	performs
+-1
+-6.190484404563904
+___
+group_attribute	patient_or_disabled_group	therapeutic_or_preventive_procedure
+property_of	performs
+-1
+-6.190484404563904
+___
+group_attribute	patient_or_disabled_group	machine_activity
+property_of	performs
+-1
+-6.190484404563904
+___
+group_attribute	patient_or_disabled_group	activity
+property_of	performs
+-1
+-6.190484404563904
+___
+group_attribute	patient_or_disabled_group	social_behavior
+property_of	performs
+-1
+-6.190484404563904
+___
+group_attribute	patient_or_disabled_group	daily_or_recreational_activity
+property_of	performs
+-1
+-6.190484404563904
+___
+group_attribute	patient_or_disabled_group	molecular_biology_research_technique
+property_of	performs
+-1
+-6.190484404563904
+___
+group_attribute	patient_or_disabled_group	educational_activity
+property_of	performs
+-1
+-6.190484404563904
+___
+group_attribute	patient_or_disabled_group	diagnostic_procedure
+property_of	performs
+-1
+-6.190484404563904
+___
+group_attribute	patient_or_disabled_group	research_activity
+property_of	performs
+-1
+-6.190484404563904
+___
+group_attribute	patient_or_disabled_group	laboratory_procedure
+property_of	performs
+-1
+-6.190484404563904
+___
+group_attribute	group	social_behavior
+property_of	performs
+-1
+-6.21351945400238
+___
+group_attribute	group	laboratory_procedure
+property_of	performs
+-1
+-6.21351945400238
+___
+group_attribute	group	educational_activity
+property_of	performs
+-1
+-6.21351945400238
+___
+group_attribute	group	governmental_or_regulatory_activity
+property_of	performs
+-1
+-6.21351945400238
+___
+group_attribute	group	activity
+property_of	performs
+-1
+-6.21351945400238
+___
+group_attribute	group	research_activity
+property_of	performs
+-1
+-6.21351945400238
+___
+group_attribute	group	diagnostic_procedure
+property_of	performs
+-1
+-6.21351945400238
+___
+group_attribute	group	health_care_activity
+property_of	performs
+-1
+-6.21351945400238
+___
+group_attribute	group	individual_behavior
+property_of	performs
+-1
+-6.21351945400238
+___
+group_attribute	group	molecular_biology_research_technique
+property_of	performs
+-1
+-6.21351945400238
+___
+group_attribute	group	occupational_activity
+property_of	performs
+-1
+-6.21351945400238
+___
+group_attribute	group	daily_or_recreational_activity
+property_of	performs
+-1
+-6.21351945400238
+___
+group_attribute	group	therapeutic_or_preventive_procedure
+property_of	performs
+-1
+-6.21351945400238
+___
+group_attribute	group	behavior
+property_of	performs
+-1
+-6.21351945400238
+___
+group_attribute	age_group	occupation_or_discipline
+property_of	issue_in
+-1
+-6.653766512870789
+___
+group_attribute	patient_or_disabled_group	biomedical_occupation_or_discipline
+property_of	issue_in
+-1
+-6.719350218772888
+___
+group_attribute	group	biomedical_occupation_or_discipline
+property_of	issue_in
+-1
+-6.742385268211365
+___
+group_attribute	group	occupation_or_discipline
+property_of	issue_in
+-1
+-6.742385268211365
+___
+group_attribute	age_group	individual_behavior
+property_of	exhibits
+-1
+-7.279521346092224
+___
+group_attribute	patient_or_disabled_group	individual_behavior
+property_of	exhibits
+-1
+-7.3451045751571655
+___
+group_attribute	patient_or_disabled_group	social_behavior
+property_of	exhibits
+-1
+-7.3451045751571655
+___
+group_attribute	patient_or_disabled_group	behavior
+property_of	exhibits
+-1
+-7.3451045751571655
+___
+group_attribute	group	social_behavior
+property_of	exhibits
+-1
+-7.3681401014328
+___
+group_attribute	group	behavior
+property_of	exhibits
+-1
+-7.3681401014328
+___
+group_attribute	professional_or_occupational_group	health_care_related_organization
+property_of	manages
+-1
+-8.52097737789154
+___
+group_attribute	professional_or_occupational_group	professional_society
+property_of	manages
+-1
+-8.52097737789154
+___
+group_attribute	professional_or_occupational_group	organization
+property_of	manages
+-1
+-8.52097737789154
+___
+#####################
+organism_attribute	mammal
+Reward:1
+organism_attribute	clinical_attribute	mammal
+degree_of	property_of
+1
+-0.44635998841840774
+___
+organism_attribute	alga	mammal
+property_of	interacts_with
+1
+-3.668729554017773
+___
+organism_attribute	plant	mammal
+property_of	interacts_with
+1
+-3.6687717335298657
+___
+organism_attribute	vertebrate	mammal
+property_of	interacts_with
+1
+-3.668812243267894
+___
+organism_attribute	fish	mammal
+property_of	interacts_with
+1
+-3.669192358967848
+___
+organism_attribute	amphibian	mammal
+property_of	interacts_with
+1
+-3.669211771863047
+___
+organism_attribute	reptile	mammal
+property_of	interacts_with
+1
+-3.6692339234868996
+___
+organism_attribute	invertebrate	mammal
+property_of	interacts_with
+1
+-3.673542604316026
+___
+organism_attribute	fungus	mammal
+property_of	interacts_with
+1
+-3.6750455629080534
+___
+organism_attribute	virus	mammal
+property_of	interacts_with
+1
+-3.6770242573693395
+___
+organism_attribute	bacterium	mammal
+property_of	interacts_with
+1
+-3.6781248720362782
+___
+organism_attribute	rickettsia_or_chlamydia	mammal
+property_of	interacts_with
+1
+-3.678583350032568
+___
+organism_attribute	human	physical_object
+property_of	isa
+-1
+-3.8964256644248962
+___
+organism_attribute	archaeon	entity
+property_of	isa
+-1
+-4.455264627933502
+___
+organism_attribute	archaeon	physical_object
+property_of	isa
+-1
+-4.455264627933502
+___
+organism_attribute	bird	entity
+property_of	isa
+-1
+-4.524671912193298
+___
+organism_attribute	bird	physical_object
+property_of	isa
+-1
+-4.524671912193298
+___
+organism_attribute	human	occupation_or_discipline
+property_of	issue_in
+-1
+-6.21514105796814
+___
+organism_attribute	archaeon	occupation_or_discipline
+property_of	issue_in
+-1
+-6.773979902267456
+___
+organism_attribute	archaeon	biomedical_occupation_or_discipline
+property_of	issue_in
+-1
+-6.773979902267456
+___
+organism_attribute	human	individual_behavior
+property_of	exhibits
+-1
+-6.840895891189575
+___
+organism_attribute	human	behavior
+property_of	exhibits
+-1
+-6.840895891189575
+___
+organism_attribute	human	social_behavior
+property_of	exhibits
+-1
+-6.840895891189575
+___
+organism_attribute	bird	biomedical_occupation_or_discipline
+property_of	issue_in
+-1
+-6.843387126922607
+___
+organism_attribute	bird	occupation_or_discipline
+property_of	issue_in
+-1
+-6.843387126922607
+___
+organism_attribute	bird	individual_behavior
+property_of	exhibits
+-1
+-7.469141960144043
+___
+organism_attribute	bird	social_behavior
+property_of	exhibits
+-1
+-7.469141960144043
+___
+organism_attribute	bird	behavior
+property_of	exhibits
+-1
+-7.469141960144043
+___
+organism_attribute	clinical_attribute	clinical_attribute
+degree_of	NO_OP
+-1
+-9.25400885939598
+___
+organism_attribute	organism_function	mental_process
+measurement_of	degree_of
+-1
+-9.356093317270279
+___
+organism_attribute	clinical_attribute	mental_process
+degree_of	manifestation_of
+-1
+-9.430922120809555
+___
+organism_attribute	clinical_attribute	organism_function
+degree_of	manifestation_of
+-1
+-9.430922120809555
+___
+organism_attribute	clinical_attribute	physiologic_function
+degree_of	manifestation_of
+-1
+-9.430922120809555
+___
+organism_attribute	clinical_attribute	cell_function
+degree_of	manifestation_of
+-1
+-9.430922120809555
+___
+organism_attribute	clinical_attribute	genetic_function
+degree_of	manifestation_of
+-1
+-9.430922120809555
+___
+organism_attribute	invertebrate	disease_or_syndrome
+property_of	causes
+-1
+-10.12765884399414
+___
+organism_attribute	invertebrate	cell_or_molecular_dysfunction
+property_of	causes
+-1
+-10.12765884399414
+___
+organism_attribute	invertebrate	mental_or_behavioral_dysfunction
+property_of	causes
+-1
+-10.12765884399414
+___
+organism_attribute	fungus	neoplastic_process
+property_of	causes
+-1
+-10.129161834716797
+___
+organism_attribute	fungus	mental_or_behavioral_dysfunction
+property_of	causes
+-1
+-10.129161834716797
+___
+organism_attribute	fungus	experimental_model_of_disease
+property_of	causes
+-1
+-10.129161834716797
+___
+organism_attribute	fungus	cell_or_molecular_dysfunction
+property_of	causes
+-1
+-10.129161834716797
+___
+organism_attribute	virus	disease_or_syndrome
+property_of	causes
+-1
+-10.13114070892334
+___
+organism_attribute	virus	mental_or_behavioral_dysfunction
+property_of	causes
+-1
+-10.13114070892334
+___
+organism_attribute	virus	experimental_model_of_disease
+property_of	causes
+-1
+-10.13114070892334
+___
+organism_attribute	virus	cell_or_molecular_dysfunction
+property_of	causes
+-1
+-10.13114070892334
+___
+organism_attribute	virus	neoplastic_process
+property_of	causes
+-1
+-10.13114070892334
+___
+organism_attribute	bacterium	pathologic_function
+property_of	causes
+-1
+-10.132241249084473
+___
+organism_attribute	bacterium	experimental_model_of_disease
+property_of	causes
+-1
+-10.132241249084473
+___
+organism_attribute	bacterium	mental_or_behavioral_dysfunction
+property_of	causes
+-1
+-10.132241249084473
+___
+organism_attribute	bacterium	neoplastic_process
+property_of	causes
+-1
+-10.132241249084473
+___
+organism_attribute	bacterium	disease_or_syndrome
+property_of	causes
+-1
+-10.132241249084473
+___
+organism_attribute	bacterium	cell_or_molecular_dysfunction
+property_of	causes
+-1
+-10.132241249084473
+___
+organism_attribute	rickettsia_or_chlamydia	experimental_model_of_disease
+property_of	causes
+-1
+-10.132699489593506
+___
+organism_attribute	rickettsia_or_chlamydia	pathologic_function
+property_of	causes
+-1
+-10.132699489593506
+___
+organism_attribute	rickettsia_or_chlamydia	neoplastic_process
+property_of	causes
+-1
+-10.132699489593506
+___
+organism_attribute	rickettsia_or_chlamydia	mental_or_behavioral_dysfunction
+property_of	causes
+-1
+-10.132699489593506
+___
+organism_attribute	rickettsia_or_chlamydia	disease_or_syndrome
+property_of	causes
+-1
+-10.132699489593506
+___
+organism_attribute	rickettsia_or_chlamydia	cell_or_molecular_dysfunction
+property_of	causes
+-1
+-10.132699489593506
+___
+organism_attribute	physiologic_function	molecular_function
+measurement_of	precedes
+-1
+-10.21740210056305
+___
+organism_attribute	physiologic_function	cell_function
+measurement_of	precedes
+-1
+-10.21740210056305
+___
+organism_attribute	physiologic_function	organism_function
+measurement_of	precedes
+-1
+-10.21740210056305
+___
+organism_attribute	mental_process	organism_function
+result_of	degree_of
+-1
+-10.342257261276245
+___
+organism_attribute	human_caused_phenomenon_or_process	human_caused_phenomenon_or_process
+result_of	NO_OP
+-1
+-10.676310181617737
+___
+organism_attribute	clinical_attribute	neoplastic_process
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	molecular_function
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	natural_phenomenon_or_process
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	biologic_function
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	cell_or_molecular_dysfunction
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	mental_or_behavioral_dysfunction
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	cell_function
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	injury_or_poisoning
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	phenomenon_or_process
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	mental_process
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	organism_function
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	pathologic_function
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	disease_or_syndrome
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	experimental_model_of_disease
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	environmental_effect_of_humans
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	physiologic_function
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	organ_or_tissue_function
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	mental_process	organism_function
+manifestation_of	degree_of
+-1
+-10.769362211227417
+___
+organism_attribute	environmental_effect_of_humans	environmental_effect_of_humans
+result_of	NO_OP
+-1
+-10.815561056137085
+___
+organism_attribute	organ_or_tissue_function	physiologic_function
+measurement_of	precedes
+-1
+-10.89541220664978
+___
+organism_attribute	organ_or_tissue_function	genetic_function
+measurement_of	precedes
+-1
+-10.89541220664978
+___
+organism_attribute	organ_or_tissue_function	molecular_function
+measurement_of	precedes
+-1
+-10.89541220664978
+___
+organism_attribute	organ_or_tissue_function	cell_function
+measurement_of	precedes
+-1
+-10.89541220664978
+___
+organism_attribute	organ_or_tissue_function	mental_process
+measurement_of	precedes
+-1
+-10.89541220664978
+___
+organism_attribute	organ_or_tissue_function	organism_function
+measurement_of	precedes
+-1
+-10.89541220664978
+___
+organism_attribute	cell_function	organism_function
+measurement_of	precedes
+-1
+-10.89776062965393
+___
+organism_attribute	cell_function	organ_or_tissue_function
+measurement_of	precedes
+-1
+-10.89776062965393
+___
+organism_attribute	cell_function	physiologic_function
+measurement_of	precedes
+-1
+-10.89776062965393
+___
+organism_attribute	cell_function	mental_process
+measurement_of	precedes
+-1
+-10.89776062965393
+___
+organism_attribute	cell_function	genetic_function
+measurement_of	precedes
+-1
+-10.89776062965393
+___
+organism_attribute	cell_function	molecular_function
+measurement_of	precedes
+-1
+-10.89776062965393
+___
+organism_attribute	phenomenon_or_process	phenomenon_or_process
+result_of	NO_OP
+-1
+-10.89799177646637
+___
+organism_attribute	genetic_function	cell_function
+measurement_of	precedes
+-1
+-10.898169040679932
+___
+organism_attribute	genetic_function	organ_or_tissue_function
+measurement_of	precedes
+-1
+-10.898169040679932
+___
+organism_attribute	genetic_function	molecular_function
+measurement_of	precedes
+-1
+-10.898169040679932
+___
+organism_attribute	genetic_function	organism_function
+measurement_of	precedes
+-1
+-10.898169040679932
+___
+#####################
+organism_attribute	organism
+Reward:1
+organism_attribute	clinical_attribute	organism
+degree_of	property_of
+1
+-0.44635998841840774
+___
+organism_attribute	alga	organism
+property_of	interacts_with
+1
+-3.668729554017773
+___
+organism_attribute	plant	organism
+property_of	interacts_with
+1
+-3.6691933117690496
+___
+organism_attribute	vertebrate	organism
+property_of	interacts_with
+1
+-3.6692338043940254
+___
+organism_attribute	archaeon	organism
+property_of	interacts_with
+1
+-3.66961102175992
+___
+organism_attribute	amphibian	organism
+property_of	interacts_with
+1
+-3.669633164536208
+___
+organism_attribute	reptile	organism
+property_of	interacts_with
+1
+-3.66965530696325
+___
+organism_attribute	bird	organism
+property_of	interacts_with
+1
+-3.6696775677846745
+___
+organism_attribute	invertebrate	organism
+property_of	interacts_with
+1
+-3.6739624133333564
+___
+organism_attribute	virus	organism
+property_of	interacts_with
+1
+-3.6770241390913725
+___
+organism_attribute	bacterium	organism
+property_of	interacts_with
+1
+-3.6781249903142452
+___
+organism_attribute	rickettsia_or_chlamydia	organism
+property_of	interacts_with
+1
+-3.679000931791961
+___
+organism_attribute	human	organism
+property_of	isa
+1
+-4.481984734535217
+___
+organism_attribute	human	physical_object
+property_of	isa
+-1
+-4.481984734535217
+___
+organism_attribute	fish	entity
+property_of	isa
+-1
+-4.832556843757629
+___
+organism_attribute	fish	organism
+property_of	isa
+1
+-4.832556843757629
+___
+organism_attribute	fish	physical_object
+property_of	isa
+-1
+-4.832556843757629
+___
+organism_attribute	fungus	neoplastic_process
+property_of	causes
+-1
+-5.192543864250183
+___
+organism_attribute	fungus	experimental_model_of_disease
+property_of	causes
+-1
+-5.192543864250183
+___
+organism_attribute	fungus	mental_or_behavioral_dysfunction
+property_of	causes
+-1
+-5.192543864250183
+___
+organism_attribute	fungus	cell_or_molecular_dysfunction
+property_of	causes
+-1
+-5.192543864250183
+___
+organism_attribute	fungus	organism
+property_of	isa
+1
+-6.508993148803711
+___
+organism_attribute	fungus	entity
+property_of	isa
+-1
+-6.508993148803711
+___
+organism_attribute	human	occupation_or_discipline
+property_of	issue_in
+-1
+-6.8007001876831055
+___
+organism_attribute	fish	occupation_or_discipline
+property_of	issue_in
+-1
+-7.151272296905518
+___
+organism_attribute	human	behavior
+property_of	exhibits
+-1
+-7.426455020904541
+___
+organism_attribute	human	social_behavior
+property_of	exhibits
+-1
+-7.426455020904541
+___
+organism_attribute	human	individual_behavior
+property_of	exhibits
+-1
+-7.426455020904541
+___
+organism_attribute	fish	behavior
+property_of	exhibits
+-1
+-7.777027130126953
+___
+organism_attribute	fish	social_behavior
+property_of	exhibits
+-1
+-7.777027130126953
+___
+organism_attribute	fungus	biomedical_occupation_or_discipline
+property_of	issue_in
+-1
+-8.82770824432373
+___
+organism_attribute	fungus	occupation_or_discipline
+property_of	issue_in
+-1
+-8.82770824432373
+___
+organism_attribute	clinical_attribute	clinical_attribute
+degree_of	NO_OP
+-1
+-9.25400885939598
+___
+organism_attribute	organism_function	mental_process
+measurement_of	degree_of
+-1
+-9.356093317270279
+___
+organism_attribute	clinical_attribute	genetic_function
+degree_of	manifestation_of
+-1
+-9.430922120809555
+___
+organism_attribute	clinical_attribute	organism_function
+degree_of	manifestation_of
+-1
+-9.430922120809555
+___
+organism_attribute	clinical_attribute	cell_function
+degree_of	manifestation_of
+-1
+-9.430922120809555
+___
+organism_attribute	clinical_attribute	mental_process
+degree_of	manifestation_of
+-1
+-9.430922120809555
+___
+organism_attribute	clinical_attribute	physiologic_function
+degree_of	manifestation_of
+-1
+-9.430922120809555
+___
+organism_attribute	invertebrate	cell_or_molecular_dysfunction
+property_of	causes
+-1
+-10.128078937530518
+___
+organism_attribute	invertebrate	mental_or_behavioral_dysfunction
+property_of	causes
+-1
+-10.128078937530518
+___
+organism_attribute	invertebrate	disease_or_syndrome
+property_of	causes
+-1
+-10.128078937530518
+___
+organism_attribute	virus	cell_or_molecular_dysfunction
+property_of	causes
+-1
+-10.13114070892334
+___
+organism_attribute	virus	experimental_model_of_disease
+property_of	causes
+-1
+-10.13114070892334
+___
+organism_attribute	virus	neoplastic_process
+property_of	causes
+-1
+-10.13114070892334
+___
+organism_attribute	virus	disease_or_syndrome
+property_of	causes
+-1
+-10.13114070892334
+___
+organism_attribute	virus	mental_or_behavioral_dysfunction
+property_of	causes
+-1
+-10.13114070892334
+___
+organism_attribute	bacterium	pathologic_function
+property_of	causes
+-1
+-10.132241249084473
+___
+organism_attribute	bacterium	cell_or_molecular_dysfunction
+property_of	causes
+-1
+-10.132241249084473
+___
+organism_attribute	bacterium	disease_or_syndrome
+property_of	causes
+-1
+-10.132241249084473
+___
+organism_attribute	bacterium	neoplastic_process
+property_of	causes
+-1
+-10.132241249084473
+___
+organism_attribute	bacterium	mental_or_behavioral_dysfunction
+property_of	causes
+-1
+-10.132241249084473
+___
+organism_attribute	bacterium	experimental_model_of_disease
+property_of	causes
+-1
+-10.132241249084473
+___
+organism_attribute	rickettsia_or_chlamydia	cell_or_molecular_dysfunction
+property_of	causes
+-1
+-10.133117198944092
+___
+organism_attribute	rickettsia_or_chlamydia	mental_or_behavioral_dysfunction
+property_of	causes
+-1
+-10.133117198944092
+___
+organism_attribute	rickettsia_or_chlamydia	disease_or_syndrome
+property_of	causes
+-1
+-10.133117198944092
+___
+organism_attribute	rickettsia_or_chlamydia	experimental_model_of_disease
+property_of	causes
+-1
+-10.133117198944092
+___
+organism_attribute	rickettsia_or_chlamydia	pathologic_function
+property_of	causes
+-1
+-10.133117198944092
+___
+organism_attribute	rickettsia_or_chlamydia	neoplastic_process
+property_of	causes
+-1
+-10.133117198944092
+___
+organism_attribute	physiologic_function	molecular_function
+measurement_of	precedes
+-1
+-10.217591166496277
+___
+organism_attribute	physiologic_function	organism_function
+measurement_of	precedes
+-1
+-10.217591166496277
+___
+organism_attribute	physiologic_function	cell_function
+measurement_of	precedes
+-1
+-10.217591166496277
+___
+organism_attribute	mental_process	organism_function
+result_of	degree_of
+-1
+-10.342257261276245
+___
+organism_attribute	human_caused_phenomenon_or_process	human_caused_phenomenon_or_process
+result_of	NO_OP
+-1
+-10.676310181617737
+___
+organism_attribute	clinical_attribute	phenomenon_or_process
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	physiologic_function
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	disease_or_syndrome
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	natural_phenomenon_or_process
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	organism_function
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	mental_process
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	environmental_effect_of_humans
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	pathologic_function
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	organ_or_tissue_function
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	molecular_function
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	cell_or_molecular_dysfunction
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	injury_or_poisoning
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	experimental_model_of_disease
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	neoplastic_process
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	cell_function
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	mental_or_behavioral_dysfunction
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	clinical_attribute	biologic_function
+degree_of	result_of
+-1
+-10.71001872420311
+___
+organism_attribute	mental_process	organism_function
+manifestation_of	degree_of
+-1
+-10.769362151622772
+___
+organism_attribute	environmental_effect_of_humans	environmental_effect_of_humans
+result_of	NO_OP
+-1
+-10.815561056137085
+___
+organism_attribute	organ_or_tissue_function	genetic_function
+measurement_of	precedes
+-1
+-10.89607834815979
+___
+organism_attribute	organ_or_tissue_function	mental_process
+measurement_of	precedes
+-1
+-10.89607834815979
+___
+organism_attribute	organ_or_tissue_function	organism_function
+measurement_of	precedes
+-1
+-10.89607834815979
+___
+organism_attribute	organ_or_tissue_function	molecular_function
+measurement_of	precedes
+-1
+-10.89607834815979
+___
+organism_attribute	organ_or_tissue_function	physiologic_function
+measurement_of	precedes
+-1
+-10.89607834815979
+___
+organism_attribute	organ_or_tissue_function	cell_function
+measurement_of	precedes
+-1
+-10.89607834815979
+___
+organism_attribute	cell_function	organ_or_tissue_function
+measurement_of	precedes
+-1
+-10.89785635471344
+___
+organism_attribute	cell_function	mental_process
+measurement_of	precedes
+-1
+-10.89785635471344
+___
+organism_attribute	cell_function	molecular_function
+measurement_of	precedes
+-1
+-10.89785635471344
+___
+organism_attribute	cell_function	organism_function
+measurement_of	precedes
+-1
+-10.89785635471344
+___
+organism_attribute	cell_function	physiologic_function
+measurement_of	precedes
+-1
+-10.89785635471344
+___
+organism_attribute	cell_function	genetic_function
+measurement_of	precedes
+-1
+-10.89785635471344
+___
+organism_attribute	phenomenon_or_process	phenomenon_or_process
+result_of	NO_OP
+-1
+-10.89799177646637
+___
+organism_attribute	genetic_function	cell_function
+measurement_of	precedes
+-1
+-10.898169040679932
+___
+organism_attribute	genetic_function	physiologic_function
+measurement_of	precedes
+-1
+-10.898169040679932
+___
+organism_attribute	genetic_function	mental_process
+measurement_of	precedes
+-1
+-10.898169040679932
+___
+organism_attribute	genetic_function	organ_or_tissue_function
+measurement_of	precedes
+-1
+-10.898169040679932
+___
+#####################
+clinical_attribute	bacterium
+Reward:1
+clinical_attribute	alga	bacterium
+property_of	interacts_with
+1
+-2.645257244905224
+___
+clinical_attribute	fungus	bacterium
+property_of	interacts_with
+1
+-2.651573372539133
+___
+clinical_attribute	virus	bacterium
+property_of	interacts_with
+1
+-2.6535518299788237
+___
+clinical_attribute	rickettsia_or_chlamydia	bacterium
+property_of	interacts_with
+1
+-2.655111040920019
+___
+clinical_attribute	organism	entity
+property_of	isa
+-1
+-2.8244417756795883
+___
+clinical_attribute	plant	entity
+property_of	isa
+-1
+-2.832185819745064
+___
+clinical_attribute	mammal	physical_object
+property_of	isa
+-1
+-2.8674778640270233
+___
+clinical_attribute	human	physical_object
+property_of	isa
+-1
+-2.8729533553123474
+___
+clinical_attribute	vertebrate	entity
+property_of	isa
+-1
+-2.908737987279892
+___
+clinical_attribute	archaeon	entity
+property_of	isa
+-1
+-3.4317923188209534
+___
+clinical_attribute	archaeon	physical_object
+property_of	isa
+-1
+-3.4317923188209534
+___
+clinical_attribute	fish	physical_object
+property_of	isa
+-1
+-3.4349101781845093
+___
+clinical_attribute	fish	entity
+property_of	isa
+-1
+-3.4349101781845093
+___
+clinical_attribute	amphibian	physical_object
+property_of	isa
+-1
+-3.4554673433303833
+___
+clinical_attribute	amphibian	entity
+property_of	isa
+-1
+-3.4554673433303833
+___
+clinical_attribute	animal	entity
+property_of	isa
+-1
+-3.4785948991775513
+___
+clinical_attribute	animal	physical_object
+property_of	isa
+-1
+-3.4785948991775513
+___
+clinical_attribute	bird	physical_object
+property_of	isa
+-1
+-3.5011996030807495
+___
+clinical_attribute	bird	entity
+property_of	isa
+-1
+-3.5011996030807495
+___
+clinical_attribute	organism	occupation_or_discipline
+property_of	issue_in
+-1
+-5.143157005310059
+___
+clinical_attribute	organism	biomedical_occupation_or_discipline
+property_of	issue_in
+-1
+-5.143157005310059
+___
+clinical_attribute	plant	biomedical_occupation_or_discipline
+property_of	issue_in
+-1
+-5.1509010791778564
+___
+clinical_attribute	plant	occupation_or_discipline
+property_of	issue_in
+-1
+-5.1509010791778564
+___
+clinical_attribute	mammal	biomedical_occupation_or_discipline
+property_of	issue_in
+-1
+-5.186193227767944
+___
+clinical_attribute	mammal	occupation_or_discipline
+property_of	issue_in
+-1
+-5.186193227767944
+___
+clinical_attribute	human	occupation_or_discipline
+property_of	issue_in
+-1
+-5.191668748855591
+___
+clinical_attribute	vertebrate	occupation_or_discipline
+property_of	issue_in
+-1
+-5.227453231811523
+___
+clinical_attribute	vertebrate	biomedical_occupation_or_discipline
+property_of	issue_in
+-1
+-5.227453231811523
+___
+clinical_attribute	archaeon	biomedical_occupation_or_discipline
+property_of	issue_in
+-1
+-5.750507593154907
+___
+clinical_attribute	archaeon	occupation_or_discipline
+property_of	issue_in
+-1
+-5.750507593154907
+___
+clinical_attribute	fish	occupation_or_discipline
+property_of	issue_in
+-1
+-5.753625392913818
+___
+clinical_attribute	amphibian	occupation_or_discipline
+property_of	issue_in
+-1
+-5.7741827964782715
+___
+clinical_attribute	amphibian	biomedical_occupation_or_discipline
+property_of	issue_in
+-1
+-5.7741827964782715
+___
+clinical_attribute	animal	biomedical_occupation_or_discipline
+property_of	issue_in
+-1
+-5.7973103523254395
+___
+clinical_attribute	animal	occupation_or_discipline
+property_of	issue_in
+-1
+-5.7973103523254395
+___
+clinical_attribute	mammal	social_behavior
+property_of	exhibits
+-1
+-5.81194806098938
+___
+clinical_attribute	human	individual_behavior
+property_of	exhibits
+-1
+-5.817423582077026
+___
+clinical_attribute	human	social_behavior
+property_of	exhibits
+-1
+-5.817423582077026
+___
+clinical_attribute	human	behavior
+property_of	exhibits
+-1
+-5.817423582077026
+___
+clinical_attribute	bird	occupation_or_discipline
+property_of	issue_in
+-1
+-5.819914817810059
+___
+clinical_attribute	bird	biomedical_occupation_or_discipline
+property_of	issue_in
+-1
+-5.819914817810059
+___
+clinical_attribute	vertebrate	behavior
+property_of	exhibits
+-1
+-5.853208065032959
+___
+clinical_attribute	vertebrate	social_behavior
+property_of	exhibits
+-1
+-5.853208065032959
+___
+clinical_attribute	fish	behavior
+property_of	exhibits
+-1
+-6.379380226135254
+___
+clinical_attribute	fish	social_behavior
+property_of	exhibits
+-1
+-6.379380226135254
+___
+clinical_attribute	amphibian	behavior
+property_of	exhibits
+-1
+-6.399937629699707
+___
+clinical_attribute	animal	behavior
+property_of	exhibits
+-1
+-6.423065185546875
+___
+clinical_attribute	animal	individual_behavior
+property_of	exhibits
+-1
+-6.423065185546875
+___
+clinical_attribute	bird	social_behavior
+property_of	exhibits
+-1
+-6.445669651031494
+___
+clinical_attribute	bird	individual_behavior
+property_of	exhibits
+-1
+-6.445669651031494
+___
+clinical_attribute	bird	behavior
+property_of	exhibits
+-1
+-6.445669651031494
+___
+clinical_attribute	mental_process	organism_function
+measurement_of	degree_of
+-1
+-8.212322384119034
+___
+clinical_attribute	organism_function	mental_process
+measurement_of	degree_of
+-1
+-8.332620531320572
+___
+clinical_attribute	fungus	neoplastic_process
+property_of	causes
+-1
+-9.105689525604248
+___
+clinical_attribute	fungus	cell_or_molecular_dysfunction
+property_of	causes
+-1
+-9.105689525604248
+___
+clinical_attribute	fungus	mental_or_behavioral_dysfunction
+property_of	causes
+-1
+-9.105689525604248
+___
+clinical_attribute	fungus	experimental_model_of_disease
+property_of	causes
+-1
+-9.105689525604248
+___
+clinical_attribute	virus	cell_or_molecular_dysfunction
+property_of	causes
+-1
+-9.107668399810791
+___
+clinical_attribute	virus	experimental_model_of_disease
+property_of	causes
+-1
+-9.107668399810791
+___
+clinical_attribute	virus	disease_or_syndrome
+property_of	causes
+-1
+-9.107668399810791
+___
+clinical_attribute	virus	neoplastic_process
+property_of	causes
+-1
+-9.107668399810791
+___
+clinical_attribute	virus	mental_or_behavioral_dysfunction
+property_of	causes
+-1
+-9.107668399810791
+___
+clinical_attribute	rickettsia_or_chlamydia	disease_or_syndrome
+property_of	causes
+-1
+-9.109227180480957
+___
+clinical_attribute	rickettsia_or_chlamydia	cell_or_molecular_dysfunction
+property_of	causes
+-1
+-9.109227180480957
+___
+clinical_attribute	rickettsia_or_chlamydia	neoplastic_process
+property_of	causes
+-1
+-9.109227180480957
+___
+clinical_attribute	rickettsia_or_chlamydia	mental_or_behavioral_dysfunction
+property_of	causes
+-1
+-9.109227180480957
+___
+clinical_attribute	rickettsia_or_chlamydia	pathologic_function
+property_of	causes
+-1
+-9.109227180480957
+___
+clinical_attribute	rickettsia_or_chlamydia	experimental_model_of_disease
+property_of	causes
+-1
+-9.109227180480957
+___
+clinical_attribute	physiologic_function	cell_function
+measurement_of	precedes
+-1
+-9.19411826133728
+___
+clinical_attribute	physiologic_function	organism_function
+measurement_of	precedes
+-1
+-9.19411826133728
+___
+clinical_attribute	physiologic_function	molecular_function
+measurement_of	precedes
+-1
+-9.19411826133728
+___
+clinical_attribute	mental_process	organism_function
+result_of	degree_of
+-1
+-9.300392866134644
+___
+clinical_attribute	plant	receptor
+property_of	location_of
+-1
+-9.301249504089355
+___
+clinical_attribute	plant	enzyme
+property_of	location_of
+-1
+-9.301249504089355
+___
+clinical_attribute	plant	vitamin
+property_of	location_of
+-1
+-9.301249504089355
+___
+clinical_attribute	plant	neuroreactive_substance_or_biogenic_amine
+property_of	location_of
+-1
+-9.301249504089355
+___
+clinical_attribute	plant	hormone
+property_of	location_of
+-1
+-9.301249504089355
+___
+clinical_attribute	plant	immunologic_factor
+property_of	location_of
+-1
+-9.301249504089355
+___
+clinical_attribute	organism_function	mental_process
+result_of	degree_of
+-1
+-9.578731894493103
+___
+clinical_attribute	mental_process	organism_function
+manifestation_of	degree_of
+-1
+-9.739671409130096
+___
+clinical_attribute	environmental_effect_of_humans	environmental_effect_of_humans
+result_of	NO_OP
+-1
+-9.792088270187378
+___
+clinical_attribute	cell_function	organ_or_tissue_function
+measurement_of	precedes
+-1
+-9.874383687973022
+___
+clinical_attribute	cell_function	mental_process
+measurement_of	precedes
+-1
+-9.874383687973022
+___
+clinical_attribute	cell_function	organism_function
+measurement_of	precedes
+-1
+-9.874383687973022
+___
+clinical_attribute	cell_function	molecular_function
+measurement_of	precedes
+-1
+-9.874383687973022
+___
+clinical_attribute	cell_function	physiologic_function
+measurement_of	precedes
+-1
+-9.874383687973022
+___
+clinical_attribute	cell_function	genetic_function
+measurement_of	precedes
+-1
+-9.874383687973022
+___
+clinical_attribute	phenomenon_or_process	phenomenon_or_process
+result_of	NO_OP
+-1
+-9.874518990516663
+___
+clinical_attribute	genetic_function	organ_or_tissue_function
+measurement_of	precedes
+-1
+-9.874696254730225
+___
+clinical_attribute	genetic_function	mental_process
+measurement_of	precedes
+-1
+-9.874696254730225
+___
+clinical_attribute	genetic_function	organism_function
+measurement_of	precedes
+-1
+-9.874696254730225
+___
+clinical_attribute	genetic_function	molecular_function
+measurement_of	precedes
+-1
+-9.874696254730225
+___
+clinical_attribute	genetic_function	cell_function
+measurement_of	precedes
+-1
+-9.874696254730225
+___
+clinical_attribute	genetic_function	physiologic_function
+measurement_of	precedes
+-1
+-9.874696254730225
+___
+clinical_attribute	disease_or_syndrome	pathologic_function
+result_of	degree_of
+-1
+-9.975255012512207
+___
+clinical_attribute	disease_or_syndrome	neoplastic_process
+result_of	degree_of
+-1
+-9.975255012512207
+___
+clinical_attribute	disease_or_syndrome	experimental_model_of_disease
+result_of	degree_of
+-1
+-9.975255012512207
+___
+clinical_attribute	mental_or_behavioral_dysfunction	neoplastic_process
+result_of	degree_of
+-1
+-10.019022583961487
+___
+clinical_attribute	mental_or_behavioral_dysfunction	experimental_model_of_disease
+result_of	degree_of
+-1
+-10.019022583961487
+___
+clinical_attribute	mental_or_behavioral_dysfunction	pathologic_function
+result_of	degree_of
+-1
+-10.019022583961487
+___
+#####################

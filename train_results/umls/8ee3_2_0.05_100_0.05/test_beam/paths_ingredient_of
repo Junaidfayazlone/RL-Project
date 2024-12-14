@@ -1,0 +1,2012 @@
+organophosphorus_compound	clinical_drug
+Reward:1
+organophosphorus_compound	chemical	clinical_drug
+interacts_with	ingredient_of
+1
+-2.639914750423486
+___
+organophosphorus_compound	chemical_viewed_functionally	clinical_drug
+interacts_with	ingredient_of
+1
+-2.6399148696254997
+___
+organophosphorus_compound	lipid	clinical_drug
+interacts_with	ingredient_of
+1
+-2.6399263132443593
+___
+organophosphorus_compound	biomedical_or_dental_material	clinical_drug
+interacts_with	ingredient_of
+1
+-2.6399273860770336
+___
+organophosphorus_compound	eicosanoid	clinical_drug
+interacts_with	ingredient_of
+1
+-2.6399377567322517
+___
+organophosphorus_compound	indicator_reagent_or_diagnostic_aid	clinical_drug
+interacts_with	ingredient_of
+1
+-2.6399387103519985
+___
+organophosphorus_compound	inorganic_chemical	clinical_drug
+interacts_with	ingredient_of
+1
+-2.6399389487560256
+___
+organophosphorus_compound	receptor	clinical_drug
+interacts_with	ingredient_of
+1
+-2.6399413327962975
+___
+organophosphorus_compound	vitamin	clinical_drug
+interacts_with	ingredient_of
+1
+-2.639941809604352
+___
+organophosphorus_compound	enzyme	clinical_drug
+interacts_with	ingredient_of
+1
+-2.6399526569075533
+___
+organophosphorus_compound	immunologic_factor	clinical_drug
+interacts_with	ingredient_of
+1
+-2.639953372112359
+___
+organophosphorus_compound	pharmacologic_substance	clinical_drug
+interacts_with	ingredient_of
+1
+-2.6399738743784837
+___
+organophosphorus_compound	antibiotic	clinical_drug
+interacts_with	ingredient_of
+1
+-2.6399842445534887
+___
+organophosphorus_compound	hormone	physical_object
+interacts_with	isa
+-1
+-4.505855083465576
+___
+organophosphorus_compound	hormone	chemical
+interacts_with	isa
+-1
+-4.505855083465576
+___
+organophosphorus_compound	hormone	chemical_viewed_functionally
+interacts_with	isa
+-1
+-4.505855083465576
+___
+organophosphorus_compound	hormone	substance
+interacts_with	isa
+-1
+-4.505855083465576
+___
+organophosphorus_compound	hormone	entity
+interacts_with	isa
+-1
+-4.505855083465576
+___
+organophosphorus_compound	hormone	occupation_or_discipline
+interacts_with	issue_in
+-1
+-6.9377665519714355
+___
+organophosphorus_compound	hormone	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-6.9377665519714355
+___
+organophosphorus_compound	hormone	body_part_organ_or_organ_component
+interacts_with	disrupts
+-1
+-7.299901485443115
+___
+organophosphorus_compound	hormone	embryonic_structure
+interacts_with	disrupts
+-1
+-7.299901485443115
+___
+organophosphorus_compound	hormone	gene_or_genome
+interacts_with	disrupts
+-1
+-7.299901485443115
+___
+organophosphorus_compound	hormone	organism_function
+interacts_with	disrupts
+-1
+-7.299901485443115
+___
+organophosphorus_compound	hormone	organ_or_tissue_function
+interacts_with	disrupts
+-1
+-7.299901485443115
+___
+organophosphorus_compound	hormone	fully_formed_anatomical_structure
+interacts_with	disrupts
+-1
+-7.299901485443115
+___
+organophosphorus_compound	hormone	cell_function
+interacts_with	disrupts
+-1
+-7.299901485443115
+___
+organophosphorus_compound	hormone	mental_process
+interacts_with	disrupts
+-1
+-7.299901485443115
+___
+organophosphorus_compound	hormone	physiologic_function
+interacts_with	disrupts
+-1
+-7.299901485443115
+___
+organophosphorus_compound	hormone	genetic_function
+interacts_with	disrupts
+-1
+-7.299901485443115
+___
+organophosphorus_compound	hormone	molecular_function
+interacts_with	disrupts
+-1
+-7.299901485443115
+___
+organophosphorus_compound	hormone	cell_component
+interacts_with	disrupts
+-1
+-7.299901485443115
+___
+organophosphorus_compound	hormone	cell_or_molecular_dysfunction
+interacts_with	complicates
+-1
+-7.849828720092773
+___
+organophosphorus_compound	hormone	molecular_function
+interacts_with	complicates
+-1
+-7.849828720092773
+___
+organophosphorus_compound	hormone	organ_or_tissue_function
+interacts_with	complicates
+-1
+-7.849828720092773
+___
+organophosphorus_compound	hormone	cell_function
+interacts_with	complicates
+-1
+-7.849828720092773
+___
+organophosphorus_compound	hormone	mental_process
+interacts_with	complicates
+-1
+-7.849828720092773
+___
+organophosphorus_compound	hormone	congenital_abnormality
+interacts_with	complicates
+-1
+-7.849828720092773
+___
+organophosphorus_compound	hormone	organism_function
+interacts_with	complicates
+-1
+-7.849828720092773
+___
+organophosphorus_compound	hormone	disease_or_syndrome
+interacts_with	complicates
+-1
+-7.849828720092773
+___
+organophosphorus_compound	hormone	neoplastic_process
+interacts_with	complicates
+-1
+-7.849828720092773
+___
+organophosphorus_compound	hormone	genetic_function
+interacts_with	complicates
+-1
+-7.849828720092773
+___
+organophosphorus_compound	hormone	anatomical_abnormality
+interacts_with	complicates
+-1
+-7.849828720092773
+___
+organophosphorus_compound	hormone	acquired_abnormality
+interacts_with	complicates
+-1
+-7.849828720092773
+___
+organophosphorus_compound	hormone	pathologic_function
+interacts_with	complicates
+-1
+-7.849828720092773
+___
+organophosphorus_compound	hormone	injury_or_poisoning
+interacts_with	complicates
+-1
+-7.849828720092773
+___
+organophosphorus_compound	hormone	experimental_model_of_disease
+interacts_with	complicates
+-1
+-7.849828720092773
+___
+organophosphorus_compound	substance	clinical_drug
+isa	ingredient_of
+1
+-8.729652515190537
+___
+organophosphorus_compound	chemical	clinical_drug
+isa	ingredient_of
+1
+-8.729709845603793
+___
+organophosphorus_compound	physical_object	occupation_or_discipline
+isa	issue_in
+-1
+-8.729938419477548
+___
+organophosphorus_compound	entity	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-9.422876358032227
+___
+organophosphorus_compound	entity	occupation_or_discipline
+isa	issue_in
+-1
+-9.422876358032227
+___
+organophosphorus_compound	chemical_viewed_structurally	physical_object
+isa	isa
+-1
+-10.208958864212036
+___
+organophosphorus_compound	chemical_viewed_structurally	substance
+isa	isa
+-1
+-10.208958864212036
+___
+organophosphorus_compound	chemical_viewed_structurally	chemical
+isa	isa
+-1
+-10.208958864212036
+___
+organophosphorus_compound	chemical_viewed_structurally	entity
+isa	isa
+-1
+-10.208958864212036
+___
+organophosphorus_compound	hormone	natural_phenomenon_or_process
+interacts_with	affects
+-1
+-10.795463562011719
+___
+organophosphorus_compound	hormone	disease_or_syndrome
+interacts_with	affects
+-1
+-10.795463562011719
+___
+organophosphorus_compound	hormone	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-10.795463562011719
+___
+organophosphorus_compound	hormone	physiologic_function
+interacts_with	affects
+-1
+-10.795463562011719
+___
+organophosphorus_compound	hormone	neoplastic_process
+interacts_with	affects
+-1
+-10.795463562011719
+___
+organophosphorus_compound	hormone	organism_function
+interacts_with	affects
+-1
+-10.795463562011719
+___
+organophosphorus_compound	hormone	molecular_function
+interacts_with	affects
+-1
+-10.795463562011719
+___
+organophosphorus_compound	hormone	organ_or_tissue_function
+interacts_with	affects
+-1
+-10.795463562011719
+___
+organophosphorus_compound	hormone	cell_function
+interacts_with	affects
+-1
+-10.795463562011719
+___
+organophosphorus_compound	hormone	pathologic_function
+interacts_with	affects
+-1
+-10.795463562011719
+___
+organophosphorus_compound	hormone	mental_or_behavioral_dysfunction
+interacts_with	affects
+-1
+-10.795463562011719
+___
+organophosphorus_compound	chemical_viewed_structurally	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-11.229866027832031
+___
+organophosphorus_compound	hormone	indicator_reagent_or_diagnostic_aid
+interacts_with	interacts_with
+-1
+-12.96090316772461
+___
+organophosphorus_compound	hormone	immunologic_factor
+interacts_with	interacts_with
+-1
+-12.96090316772461
+___
+organophosphorus_compound	hormone	chemical
+interacts_with	interacts_with
+-1
+-12.96090316772461
+___
+organophosphorus_compound	hormone	hazardous_or_poisonous_substance
+interacts_with	interacts_with
+-1
+-12.96090316772461
+___
+organophosphorus_compound	hormone	neoplastic_process
+interacts_with	causes
+-1
+-13.209699630737305
+___
+organophosphorus_compound	hormone	disease_or_syndrome
+interacts_with	causes
+-1
+-13.209699630737305
+___
+organophosphorus_compound	hormone	injury_or_poisoning
+interacts_with	causes
+-1
+-13.209699630737305
+___
+organophosphorus_compound	hormone	acquired_abnormality
+interacts_with	causes
+-1
+-13.209699630737305
+___
+organophosphorus_compound	hormone	pathologic_function
+interacts_with	causes
+-1
+-13.209699630737305
+___
+organophosphorus_compound	hormone	cell_or_molecular_dysfunction
+interacts_with	causes
+-1
+-13.209699630737305
+___
+organophosphorus_compound	hormone	anatomical_abnormality
+interacts_with	causes
+-1
+-13.209699630737305
+___
+organophosphorus_compound	hormone	mental_or_behavioral_dysfunction
+interacts_with	causes
+-1
+-13.209699630737305
+___
+organophosphorus_compound	hormone	experimental_model_of_disease
+interacts_with	causes
+-1
+-13.209699630737305
+___
+organophosphorus_compound	hormone	congenital_abnormality
+interacts_with	causes
+-1
+-13.209699630737305
+___
+organophosphorus_compound	injury_or_poisoning	event
+causes	isa
+-1
+-13.529325176030397
+___
+organophosphorus_compound	chemical_viewed_functionally	chemical
+interacts_with	isa
+-1
+-14.015557289123535
+___
+organophosphorus_compound	chemical_viewed_functionally	substance
+interacts_with	isa
+-1
+-14.015557289123535
+___
+organophosphorus_compound	chemical	entity
+interacts_with	isa
+-1
+-14.015557289123535
+___
+organophosphorus_compound	chemical_viewed_functionally	physical_object
+interacts_with	isa
+-1
+-14.015557289123535
+___
+organophosphorus_compound	chemical	physical_object
+interacts_with	isa
+-1
+-14.015557289123535
+___
+organophosphorus_compound	chemical	substance
+interacts_with	isa
+-1
+-14.015557289123535
+___
+organophosphorus_compound	lipid	chemical_viewed_structurally
+interacts_with	isa
+-1
+-14.015568733215332
+___
+organophosphorus_compound	lipid	organic_chemical
+interacts_with	isa
+-1
+-14.015568733215332
+___
+organophosphorus_compound	lipid	physical_object
+interacts_with	isa
+-1
+-14.015568733215332
+___
+organophosphorus_compound	lipid	chemical
+interacts_with	isa
+-1
+-14.015568733215332
+___
+organophosphorus_compound	biomedical_or_dental_material	entity
+interacts_with	isa
+-1
+-14.015569686889648
+___
+organophosphorus_compound	biomedical_or_dental_material	substance
+interacts_with	isa
+-1
+-14.015569686889648
+___
+organophosphorus_compound	biomedical_or_dental_material	chemical_viewed_functionally
+interacts_with	isa
+-1
+-14.015569686889648
+___
+organophosphorus_compound	biomedical_or_dental_material	physical_object
+interacts_with	isa
+-1
+-14.015569686889648
+___
+organophosphorus_compound	eicosanoid	physical_object
+interacts_with	isa
+-1
+-14.015580177307129
+___
+organophosphorus_compound	eicosanoid	chemical
+interacts_with	isa
+-1
+-14.015580177307129
+___
+organophosphorus_compound	eicosanoid	substance
+interacts_with	isa
+-1
+-14.015580177307129
+___
+#####################
+chemical_viewed_structurally	clinical_drug
+Reward:1
+chemical_viewed_structurally	chemical	clinical_drug
+interacts_with	ingredient_of
+1
+-2.996230840053613
+___
+chemical_viewed_structurally	organic_chemical	clinical_drug
+interacts_with	ingredient_of
+1
+-2.9962434757071605
+___
+chemical_viewed_structurally	biomedical_or_dental_material	clinical_drug
+interacts_with	ingredient_of
+1
+-2.9962434757071605
+___
+chemical_viewed_structurally	eicosanoid	clinical_drug
+interacts_with	ingredient_of
+1
+-2.9962538463623787
+___
+chemical_viewed_structurally	steroid	clinical_drug
+interacts_with	ingredient_of
+1
+-2.9962539655643923
+___
+chemical_viewed_structurally	indicator_reagent_or_diagnostic_aid	clinical_drug
+interacts_with	ingredient_of
+1
+-2.9962547999821254
+___
+chemical_viewed_structurally	nucleic_acid_nucleoside_or_nucleotide	clinical_drug
+interacts_with	ingredient_of
+1
+-2.996254919184139
+___
+chemical_viewed_structurally	inorganic_chemical	clinical_drug
+interacts_with	ingredient_of
+1
+-2.9962550383861526
+___
+chemical_viewed_structurally	biologically_active_substance	clinical_drug
+interacts_with	ingredient_of
+1
+-2.9962565880123293
+___
+chemical_viewed_structurally	receptor	clinical_drug
+interacts_with	ingredient_of
+1
+-2.9962574224264245
+___
+chemical_viewed_structurally	vitamin	clinical_drug
+interacts_with	ingredient_of
+1
+-2.996257899234479
+___
+chemical_viewed_structurally	neuroreactive_substance_or_biogenic_amine	clinical_drug
+interacts_with	ingredient_of
+1
+-2.9962586144465604
+___
+chemical_viewed_structurally	enzyme	clinical_drug
+interacts_with	ingredient_of
+1
+-2.9962687465376803
+___
+chemical_viewed_structurally	pharmacologic_substance	clinical_drug
+interacts_with	ingredient_of
+1
+-2.9962899640086107
+___
+chemical_viewed_structurally	antibiotic	clinical_drug
+interacts_with	ingredient_of
+1
+-2.9963003341836156
+___
+chemical_viewed_structurally	element_ion_or_isotope	chemical
+interacts_with	isa
+-1
+-4.628191232681274
+___
+chemical_viewed_structurally	element_ion_or_isotope	entity
+interacts_with	isa
+-1
+-4.628191232681274
+___
+chemical_viewed_structurally	element_ion_or_isotope	substance
+interacts_with	isa
+-1
+-4.628191232681274
+___
+chemical_viewed_structurally	element_ion_or_isotope	physical_object
+interacts_with	isa
+-1
+-4.628191232681274
+___
+chemical_viewed_structurally	element_ion_or_isotope	chemical_viewed_structurally
+interacts_with	isa
+-1
+-4.628191232681274
+___
+chemical_viewed_structurally	organophosphorus_compound	chemical
+interacts_with	isa
+-1
+-4.629032254219055
+___
+chemical_viewed_structurally	organophosphorus_compound	chemical_viewed_structurally
+interacts_with	isa
+-1
+-4.629032254219055
+___
+chemical_viewed_structurally	organophosphorus_compound	substance
+interacts_with	isa
+-1
+-4.629032254219055
+___
+chemical_viewed_structurally	organophosphorus_compound	physical_object
+interacts_with	isa
+-1
+-4.629032254219055
+___
+chemical_viewed_structurally	organophosphorus_compound	entity
+interacts_with	isa
+-1
+-4.629032254219055
+___
+chemical_viewed_structurally	amino_acid_peptide_or_protein	substance
+interacts_with	isa
+-1
+-4.645381808280945
+___
+chemical_viewed_structurally	amino_acid_peptide_or_protein	physical_object
+interacts_with	isa
+-1
+-4.645381808280945
+___
+chemical_viewed_structurally	amino_acid_peptide_or_protein	chemical
+interacts_with	isa
+-1
+-4.645381808280945
+___
+chemical_viewed_structurally	amino_acid_peptide_or_protein	organic_chemical
+interacts_with	isa
+-1
+-4.645381808280945
+___
+chemical_viewed_structurally	amino_acid_peptide_or_protein	entity
+interacts_with	isa
+-1
+-4.645381808280945
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	substance
+interacts_with	isa
+-1
+-4.655362129211426
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	physical_object
+interacts_with	isa
+-1
+-4.655362129211426
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	chemical
+interacts_with	isa
+-1
+-4.655362129211426
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	entity
+interacts_with	isa
+-1
+-4.655362129211426
+___
+chemical_viewed_structurally	hormone	entity
+interacts_with	isa
+-1
+-4.862171173095703
+___
+chemical_viewed_structurally	hormone	physical_object
+interacts_with	isa
+-1
+-4.862171173095703
+___
+chemical_viewed_structurally	hormone	substance
+interacts_with	isa
+-1
+-4.862171173095703
+___
+chemical_viewed_structurally	hormone	chemical_viewed_functionally
+interacts_with	isa
+-1
+-4.862171173095703
+___
+chemical_viewed_structurally	hormone	chemical
+interacts_with	isa
+-1
+-4.862171173095703
+___
+chemical_viewed_structurally	element_ion_or_isotope	occupation_or_discipline
+interacts_with	issue_in
+-1
+-7.060102939605713
+___
+chemical_viewed_structurally	organophosphorus_compound	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-7.060943603515625
+___
+chemical_viewed_structurally	amino_acid_peptide_or_protein	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-7.077293395996094
+___
+chemical_viewed_structurally	amino_acid_peptide_or_protein	occupation_or_discipline
+interacts_with	issue_in
+-1
+-7.077293395996094
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-7.087273597717285
+___
+chemical_viewed_structurally	hormone	occupation_or_discipline
+interacts_with	issue_in
+-1
+-7.2940826416015625
+___
+chemical_viewed_structurally	hormone	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-7.2940826416015625
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	genetic_function
+interacts_with	disrupts
+-1
+-7.449408531188965
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	tissue
+interacts_with	disrupts
+-1
+-7.449408531188965
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	cell_function
+interacts_with	disrupts
+-1
+-7.449408531188965
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	body_part_organ_or_organ_component
+interacts_with	disrupts
+-1
+-7.449408531188965
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	fully_formed_anatomical_structure
+interacts_with	disrupts
+-1
+-7.449408531188965
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	organism_function
+interacts_with	disrupts
+-1
+-7.449408531188965
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	gene_or_genome
+interacts_with	disrupts
+-1
+-7.449408531188965
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	physiologic_function
+interacts_with	disrupts
+-1
+-7.449408531188965
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	molecular_function
+interacts_with	disrupts
+-1
+-7.449408531188965
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	cell
+interacts_with	disrupts
+-1
+-7.449408531188965
+___
+chemical_viewed_structurally	hormone	fully_formed_anatomical_structure
+interacts_with	disrupts
+-1
+-7.656217575073242
+___
+chemical_viewed_structurally	hormone	organ_or_tissue_function
+interacts_with	disrupts
+-1
+-7.656217575073242
+___
+chemical_viewed_structurally	hormone	body_part_organ_or_organ_component
+interacts_with	disrupts
+-1
+-7.656217575073242
+___
+chemical_viewed_structurally	hormone	cell_component
+interacts_with	disrupts
+-1
+-7.656217575073242
+___
+chemical_viewed_structurally	hormone	embryonic_structure
+interacts_with	disrupts
+-1
+-7.656217575073242
+___
+chemical_viewed_structurally	hormone	organism_function
+interacts_with	disrupts
+-1
+-7.656217575073242
+___
+chemical_viewed_structurally	hormone	physiologic_function
+interacts_with	disrupts
+-1
+-7.656217575073242
+___
+chemical_viewed_structurally	hormone	cell_function
+interacts_with	disrupts
+-1
+-7.656217575073242
+___
+chemical_viewed_structurally	hormone	gene_or_genome
+interacts_with	disrupts
+-1
+-7.656217575073242
+___
+chemical_viewed_structurally	hormone	mental_process
+interacts_with	disrupts
+-1
+-7.656217575073242
+___
+chemical_viewed_structurally	hormone	genetic_function
+interacts_with	disrupts
+-1
+-7.656217575073242
+___
+chemical_viewed_structurally	hormone	molecular_function
+interacts_with	disrupts
+-1
+-7.656217575073242
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	cell_function
+interacts_with	complicates
+-1
+-7.999335765838623
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	mental_process
+interacts_with	complicates
+-1
+-7.999335765838623
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	biologic_function
+interacts_with	complicates
+-1
+-7.999335765838623
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	organism_function
+interacts_with	complicates
+-1
+-7.999335765838623
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	cell_or_molecular_dysfunction
+interacts_with	complicates
+-1
+-7.999335765838623
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	physiologic_function
+interacts_with	complicates
+-1
+-7.999335765838623
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	injury_or_poisoning
+interacts_with	complicates
+-1
+-7.999335765838623
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	organ_or_tissue_function
+interacts_with	complicates
+-1
+-7.999335765838623
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	mental_or_behavioral_dysfunction
+interacts_with	complicates
+-1
+-7.999335765838623
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	disease_or_syndrome
+interacts_with	complicates
+-1
+-7.999335765838623
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	acquired_abnormality
+interacts_with	complicates
+-1
+-7.999335765838623
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	molecular_function
+interacts_with	complicates
+-1
+-7.999335765838623
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	pathologic_function
+interacts_with	complicates
+-1
+-7.999335765838623
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	genetic_function
+interacts_with	complicates
+-1
+-7.999335765838623
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	experimental_model_of_disease
+interacts_with	complicates
+-1
+-7.999335765838623
+___
+chemical_viewed_structurally	hormone	cell_or_molecular_dysfunction
+interacts_with	complicates
+-1
+-8.2061448097229
+___
+chemical_viewed_structurally	hormone	genetic_function
+interacts_with	complicates
+-1
+-8.2061448097229
+___
+chemical_viewed_structurally	hormone	pathologic_function
+interacts_with	complicates
+-1
+-8.2061448097229
+___
+chemical_viewed_structurally	hormone	mental_process
+interacts_with	complicates
+-1
+-8.2061448097229
+___
+chemical_viewed_structurally	hormone	organism_function
+interacts_with	complicates
+-1
+-8.2061448097229
+___
+chemical_viewed_structurally	hormone	organ_or_tissue_function
+interacts_with	complicates
+-1
+-8.2061448097229
+___
+chemical_viewed_structurally	hormone	cell_function
+interacts_with	complicates
+-1
+-8.2061448097229
+___
+chemical_viewed_structurally	hormone	acquired_abnormality
+interacts_with	complicates
+-1
+-8.2061448097229
+___
+chemical_viewed_structurally	hormone	disease_or_syndrome
+interacts_with	complicates
+-1
+-8.2061448097229
+___
+chemical_viewed_structurally	hormone	injury_or_poisoning
+interacts_with	complicates
+-1
+-8.2061448097229
+___
+chemical_viewed_structurally	hormone	anatomical_abnormality
+interacts_with	complicates
+-1
+-8.2061448097229
+___
+chemical_viewed_structurally	hormone	congenital_abnormality
+interacts_with	complicates
+-1
+-8.2061448097229
+___
+chemical_viewed_structurally	hormone	neoplastic_process
+interacts_with	complicates
+-1
+-8.2061448097229
+___
+chemical_viewed_structurally	hormone	experimental_model_of_disease
+interacts_with	complicates
+-1
+-8.2061448097229
+___
+chemical_viewed_structurally	hormone	molecular_function
+interacts_with	complicates
+-1
+-8.2061448097229
+___
+chemical_viewed_structurally	substance	clinical_drug
+isa	ingredient_of
+1
+-9.085969081657822
+___
+chemical_viewed_structurally	chemical	clinical_drug
+isa	ingredient_of
+1
+-9.086026412071078
+___
+#####################
+hormone	clinical_drug
+Reward:1
+hormone	chemical	clinical_drug
+interacts_with	ingredient_of
+1
+-1.38931930002218
+___
+hormone	indicator_reagent_or_diagnostic_aid	clinical_drug
+interacts_with	ingredient_of
+1
+-1.3893432599506923
+___
+hormone	immunologic_factor	clinical_drug
+interacts_with	ingredient_of
+1
+-1.3893579217110528
+___
+hormone	hazardous_or_poisonous_substance	chemical
+interacts_with	isa
+-1
+-3.0484505891799927
+___
+hormone	hazardous_or_poisonous_substance	physical_object
+interacts_with	isa
+-1
+-3.0484505891799927
+___
+hormone	hazardous_or_poisonous_substance	substance
+interacts_with	isa
+-1
+-3.0484505891799927
+___
+hormone	hazardous_or_poisonous_substance	entity
+interacts_with	isa
+-1
+-3.0484505891799927
+___
+hormone	hazardous_or_poisonous_substance	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.480362057685852
+___
+hormone	hazardous_or_poisonous_substance	tissue
+interacts_with	disrupts
+-1
+-5.842496991157532
+___
+hormone	hazardous_or_poisonous_substance	cell
+interacts_with	disrupts
+-1
+-5.842496991157532
+___
+hormone	hazardous_or_poisonous_substance	fully_formed_anatomical_structure
+interacts_with	disrupts
+-1
+-5.842496991157532
+___
+hormone	hazardous_or_poisonous_substance	gene_or_genome
+interacts_with	disrupts
+-1
+-5.842496991157532
+___
+hormone	hazardous_or_poisonous_substance	genetic_function
+interacts_with	disrupts
+-1
+-5.842496991157532
+___
+hormone	hazardous_or_poisonous_substance	cell_function
+interacts_with	disrupts
+-1
+-5.842496991157532
+___
+hormone	hazardous_or_poisonous_substance	organism_function
+interacts_with	disrupts
+-1
+-5.842496991157532
+___
+hormone	hazardous_or_poisonous_substance	physiologic_function
+interacts_with	disrupts
+-1
+-5.842496991157532
+___
+hormone	hazardous_or_poisonous_substance	body_part_organ_or_organ_component
+interacts_with	disrupts
+-1
+-5.842496991157532
+___
+hormone	hazardous_or_poisonous_substance	molecular_function
+interacts_with	disrupts
+-1
+-5.842496991157532
+___
+hormone	hazardous_or_poisonous_substance	biologic_function
+interacts_with	complicates
+-1
+-6.39242422580719
+___
+hormone	hazardous_or_poisonous_substance	experimental_model_of_disease
+interacts_with	complicates
+-1
+-6.39242422580719
+___
+hormone	hazardous_or_poisonous_substance	molecular_function
+interacts_with	complicates
+-1
+-6.39242422580719
+___
+hormone	hazardous_or_poisonous_substance	mental_process
+interacts_with	complicates
+-1
+-6.39242422580719
+___
+hormone	hazardous_or_poisonous_substance	disease_or_syndrome
+interacts_with	complicates
+-1
+-6.39242422580719
+___
+hormone	hazardous_or_poisonous_substance	injury_or_poisoning
+interacts_with	complicates
+-1
+-6.39242422580719
+___
+hormone	hazardous_or_poisonous_substance	organism_function
+interacts_with	complicates
+-1
+-6.39242422580719
+___
+hormone	hazardous_or_poisonous_substance	physiologic_function
+interacts_with	complicates
+-1
+-6.39242422580719
+___
+hormone	hazardous_or_poisonous_substance	pathologic_function
+interacts_with	complicates
+-1
+-6.39242422580719
+___
+hormone	hazardous_or_poisonous_substance	organ_or_tissue_function
+interacts_with	complicates
+-1
+-6.39242422580719
+___
+hormone	hazardous_or_poisonous_substance	cell_function
+interacts_with	complicates
+-1
+-6.39242422580719
+___
+hormone	hazardous_or_poisonous_substance	mental_or_behavioral_dysfunction
+interacts_with	complicates
+-1
+-6.39242422580719
+___
+hormone	hazardous_or_poisonous_substance	genetic_function
+interacts_with	complicates
+-1
+-6.39242422580719
+___
+hormone	hazardous_or_poisonous_substance	acquired_abnormality
+interacts_with	complicates
+-1
+-6.39242422580719
+___
+hormone	hazardous_or_poisonous_substance	cell_or_molecular_dysfunction
+interacts_with	complicates
+-1
+-6.39242422580719
+___
+hormone	substance	clinical_drug
+isa	ingredient_of
+1
+-7.479056945579941
+___
+hormone	chemical	clinical_drug
+isa	ingredient_of
+1
+-7.479114275993197
+___
+hormone	chemical_viewed_functionally	clinical_drug
+isa	ingredient_of
+1
+-7.479114752743044
+___
+hormone	physical_object	occupation_or_discipline
+isa	issue_in
+-1
+-7.479342849866953
+___
+hormone	entity	occupation_or_discipline
+isa	issue_in
+-1
+-8.17228078842163
+___
+hormone	entity	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-8.17228078842163
+___
+hormone	hazardous_or_poisonous_substance	pathologic_function
+interacts_with	affects
+-1
+-9.338059544563293
+___
+hormone	hazardous_or_poisonous_substance	genetic_function
+interacts_with	affects
+-1
+-9.338059544563293
+___
+hormone	hazardous_or_poisonous_substance	mental_process
+interacts_with	affects
+-1
+-9.338059544563293
+___
+hormone	hazardous_or_poisonous_substance	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-9.338059544563293
+___
+hormone	hazardous_or_poisonous_substance	cell_function
+interacts_with	affects
+-1
+-9.338059544563293
+___
+hormone	hazardous_or_poisonous_substance	experimental_model_of_disease
+interacts_with	affects
+-1
+-9.338059544563293
+___
+hormone	hazardous_or_poisonous_substance	biologic_function
+interacts_with	affects
+-1
+-9.338059544563293
+___
+hormone	hazardous_or_poisonous_substance	organism_function
+interacts_with	affects
+-1
+-9.338059544563293
+___
+hormone	hazardous_or_poisonous_substance	physiologic_function
+interacts_with	affects
+-1
+-9.338059544563293
+___
+hormone	hazardous_or_poisonous_substance	natural_phenomenon_or_process
+interacts_with	affects
+-1
+-9.338059544563293
+___
+hormone	hazardous_or_poisonous_substance	organ_or_tissue_function
+interacts_with	affects
+-1
+-9.338059544563293
+___
+hormone	hazardous_or_poisonous_substance	neoplastic_process
+interacts_with	affects
+-1
+-9.338059544563293
+___
+hormone	hazardous_or_poisonous_substance	mental_or_behavioral_dysfunction
+interacts_with	affects
+-1
+-9.338059544563293
+___
+hormone	hazardous_or_poisonous_substance	chemical
+interacts_with	interacts_with
+-1
+-11.50349771976471
+___
+hormone	hazardous_or_poisonous_substance	mental_or_behavioral_dysfunction
+interacts_with	causes
+-1
+-11.752296090126038
+___
+hormone	hazardous_or_poisonous_substance	neoplastic_process
+interacts_with	causes
+-1
+-11.752296090126038
+___
+hormone	hazardous_or_poisonous_substance	disease_or_syndrome
+interacts_with	causes
+-1
+-11.752296090126038
+___
+hormone	hazardous_or_poisonous_substance	cell_or_molecular_dysfunction
+interacts_with	causes
+-1
+-11.752296090126038
+___
+hormone	hazardous_or_poisonous_substance	experimental_model_of_disease
+interacts_with	causes
+-1
+-11.752296090126038
+___
+hormone	hazardous_or_poisonous_substance	injury_or_poisoning
+interacts_with	causes
+-1
+-11.752296090126038
+___
+hormone	hazardous_or_poisonous_substance	acquired_abnormality
+interacts_with	causes
+-1
+-11.752296090126038
+___
+hormone	hazardous_or_poisonous_substance	anatomical_abnormality
+interacts_with	causes
+-1
+-11.752296090126038
+___
+hormone	hazardous_or_poisonous_substance	pathologic_function
+interacts_with	causes
+-1
+-11.752296090126038
+___
+hormone	injury_or_poisoning	event
+causes	isa
+-1
+-12.27873008325696
+___
+hormone	injury_or_poisoning	event
+complicates	isa
+-1
+-12.408062845468521
+___
+hormone	chemical	physical_object
+interacts_with	isa
+-1
+-12.764961838722229
+___
+hormone	chemical	substance
+interacts_with	isa
+-1
+-12.764961838722229
+___
+hormone	chemical	entity
+interacts_with	isa
+-1
+-12.764961838722229
+___
+hormone	indicator_reagent_or_diagnostic_aid	entity
+interacts_with	isa
+-1
+-12.76498568058014
+___
+hormone	indicator_reagent_or_diagnostic_aid	chemical
+interacts_with	isa
+-1
+-12.76498568058014
+___
+hormone	indicator_reagent_or_diagnostic_aid	substance
+interacts_with	isa
+-1
+-12.76498568058014
+___
+hormone	indicator_reagent_or_diagnostic_aid	physical_object
+interacts_with	isa
+-1
+-12.76498568058014
+___
+hormone	indicator_reagent_or_diagnostic_aid	chemical_viewed_functionally
+interacts_with	isa
+-1
+-12.76498568058014
+___
+hormone	immunologic_factor	physical_object
+interacts_with	isa
+-1
+-12.765000939369202
+___
+hormone	immunologic_factor	chemical
+interacts_with	isa
+-1
+-12.765000939369202
+___
+hormone	immunologic_factor	substance
+interacts_with	isa
+-1
+-12.765000939369202
+___
+hormone	immunologic_factor	biologically_active_substance
+interacts_with	isa
+-1
+-12.765000939369202
+___
+hormone	immunologic_factor	chemical_viewed_functionally
+interacts_with	isa
+-1
+-12.765000939369202
+___
+hormone	hazardous_or_poisonous_substance	hazardous_or_poisonous_substance
+interacts_with	NO_OP
+-1
+-12.835082650184631
+___
+hormone	body_part_organ_or_organ_component	body_substance
+disrupts	consists_of
+-1
+-12.904281854629517
+___
+hormone	pathologic_function	experimental_model_of_disease
+causes	precedes
+-1
+-13.154273271560669
+___
+hormone	pathologic_function	disease_or_syndrome
+causes	precedes
+-1
+-13.154273271560669
+___
+hormone	acquired_abnormality	physical_object
+complicates	isa
+-1
+-13.45945394039154
+___
+hormone	acquired_abnormality	entity
+complicates	isa
+-1
+-13.45945394039154
+___
+hormone	acquired_abnormality	anatomical_structure
+complicates	isa
+-1
+-13.45945394039154
+___
+hormone	congenital_abnormality	physical_object
+complicates	isa
+-1
+-13.470047950744629
+___
+hormone	congenital_abnormality	anatomical_abnormality
+complicates	isa
+-1
+-13.470047950744629
+___
+hormone	congenital_abnormality	anatomical_structure
+complicates	isa
+-1
+-13.470047950744629
+___
+hormone	anatomical_abnormality	entity
+complicates	isa
+-1
+-13.472397685050964
+___
+hormone	anatomical_abnormality	physical_object
+complicates	isa
+-1
+-13.472397685050964
+___
+hormone	anatomical_abnormality	anatomical_structure
+complicates	isa
+-1
+-13.472397685050964
+___
+hormone	experimental_model_of_disease	mental_or_behavioral_dysfunction
+causes	precedes
+-1
+-13.52851927280426
+___
+hormone	experimental_model_of_disease	disease_or_syndrome
+causes	precedes
+-1
+-13.52851927280426
+___
+hormone	experimental_model_of_disease	pathologic_function
+causes	precedes
+-1
+-13.52851927280426
+___
+hormone	anatomical_abnormality	entity
+causes	isa
+-1
+-13.54339873790741
+___
+hormone	anatomical_abnormality	physical_object
+causes	isa
+-1
+-13.54339873790741
+___
+hormone	anatomical_abnormality	anatomical_structure
+causes	isa
+-1
+-13.54339873790741
+___
+hormone	acquired_abnormality	physical_object
+causes	isa
+-1
+-13.561387419700623
+___
+hormone	acquired_abnormality	entity
+causes	isa
+-1
+-13.561387419700623
+___
+hormone	acquired_abnormality	anatomical_structure
+causes	isa
+-1
+-13.561387419700623
+___
+hormone	congenital_abnormality	anatomical_structure
+causes	isa
+-1
+-13.610169649124146
+___
+#####################
+hazardous_or_poisonous_substance	clinical_drug
+Reward:1
+hazardous_or_poisonous_substance	chemical	clinical_drug
+interacts_with	ingredient_of
+1
+-0.009648461196775315
+___
+hazardous_or_poisonous_substance	substance	clinical_drug
+isa	ingredient_of
+1
+-6.099386325615342
+___
+hazardous_or_poisonous_substance	chemical	clinical_drug
+isa	ingredient_of
+1
+-6.099443656028598
+___
+hazardous_or_poisonous_substance	physical_object	occupation_or_discipline
+isa	issue_in
+-1
+-6.099672229902353
+___
+hazardous_or_poisonous_substance	entity	occupation_or_discipline
+isa	issue_in
+-1
+-6.792610168457031
+___
+hazardous_or_poisonous_substance	entity	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-6.792610168457031
+___
+hazardous_or_poisonous_substance	injury_or_poisoning	event
+causes	isa
+-1
+-10.899058986455202
+___
+hazardous_or_poisonous_substance	injury_or_poisoning	event
+complicates	isa
+-1
+-11.028391748666763
+___
+hazardous_or_poisonous_substance	chemical	substance
+interacts_with	isa
+-1
+-11.385290999896824
+___
+hazardous_or_poisonous_substance	chemical	entity
+interacts_with	isa
+-1
+-11.385290999896824
+___
+hazardous_or_poisonous_substance	chemical	physical_object
+interacts_with	isa
+-1
+-11.385290999896824
+___
+hazardous_or_poisonous_substance	body_part_organ_or_organ_component	body_substance
+disrupts	consists_of
+-1
+-11.524610757827759
+___
+hazardous_or_poisonous_substance	pathologic_function	experimental_model_of_disease
+causes	precedes
+-1
+-11.774602174758911
+___
+hazardous_or_poisonous_substance	pathologic_function	disease_or_syndrome
+causes	precedes
+-1
+-11.774602174758911
+___
+hazardous_or_poisonous_substance	biologic_function	event
+complicates	isa
+-1
+-12.008364200592041
+___
+hazardous_or_poisonous_substance	biologic_function	phenomenon_or_process
+complicates	isa
+-1
+-12.008364200592041
+___
+hazardous_or_poisonous_substance	biologic_function	natural_phenomenon_or_process
+complicates	isa
+-1
+-12.008364200592041
+___
+hazardous_or_poisonous_substance	acquired_abnormality	entity
+complicates	isa
+-1
+-12.079782843589783
+___
+hazardous_or_poisonous_substance	acquired_abnormality	physical_object
+complicates	isa
+-1
+-12.079782843589783
+___
+hazardous_or_poisonous_substance	acquired_abnormality	anatomical_structure
+complicates	isa
+-1
+-12.079782843589783
+___
+hazardous_or_poisonous_substance	experimental_model_of_disease	disease_or_syndrome
+causes	precedes
+-1
+-12.148848176002502
+___
+hazardous_or_poisonous_substance	experimental_model_of_disease	mental_or_behavioral_dysfunction
+causes	precedes
+-1
+-12.148848176002502
+___
+hazardous_or_poisonous_substance	experimental_model_of_disease	pathologic_function
+causes	precedes
+-1
+-12.148848176002502
+___
+hazardous_or_poisonous_substance	anatomical_abnormality	physical_object
+causes	isa
+-1
+-12.163727641105652
+___
+hazardous_or_poisonous_substance	anatomical_abnormality	anatomical_structure
+causes	isa
+-1
+-12.163727641105652
+___
+hazardous_or_poisonous_substance	anatomical_abnormality	entity
+causes	isa
+-1
+-12.163727641105652
+___
+hazardous_or_poisonous_substance	acquired_abnormality	anatomical_structure
+causes	isa
+-1
+-12.181716322898865
+___
+hazardous_or_poisonous_substance	acquired_abnormality	physical_object
+causes	isa
+-1
+-12.181716322898865
+___
+hazardous_or_poisonous_substance	acquired_abnormality	entity
+causes	isa
+-1
+-12.181716322898865
+___
+hazardous_or_poisonous_substance	physiologic_function	molecular_function
+disrupts	precedes
+-1
+-12.315748929977417
+___
+hazardous_or_poisonous_substance	physiologic_function	cell_function
+disrupts	precedes
+-1
+-12.315748929977417
+___
+hazardous_or_poisonous_substance	physiologic_function	organism_function
+disrupts	precedes
+-1
+-12.315748929977417
+___
+hazardous_or_poisonous_substance	fully_formed_anatomical_structure	anatomical_structure
+disrupts	isa
+-1
+-12.31657612323761
+___
+hazardous_or_poisonous_substance	fully_formed_anatomical_structure	entity
+disrupts	isa
+-1
+-12.31657612323761
+___
+hazardous_or_poisonous_substance	fully_formed_anatomical_structure	physical_object
+disrupts	isa
+-1
+-12.31657612323761
+___
+hazardous_or_poisonous_substance	tissue	anatomical_structure
+disrupts	isa
+-1
+-12.317537546157837
+___
+hazardous_or_poisonous_substance	tissue	entity
+disrupts	isa
+-1
+-12.317537546157837
+___
+hazardous_or_poisonous_substance	tissue	physical_object
+disrupts	isa
+-1
+-12.317537546157837
+___
+hazardous_or_poisonous_substance	gene_or_genome	fully_formed_anatomical_structure
+disrupts	isa
+-1
+-12.33768117427826
+___
+hazardous_or_poisonous_substance	gene_or_genome	physical_object
+disrupts	isa
+-1
+-12.33768117427826
+___
+hazardous_or_poisonous_substance	gene_or_genome	anatomical_structure
+disrupts	isa
+-1
+-12.33768117427826
+___
+hazardous_or_poisonous_substance	physiologic_function	phenomenon_or_process
+complicates	isa
+-1
+-12.33817708492279
+___
+hazardous_or_poisonous_substance	physiologic_function	event
+complicates	isa
+-1
+-12.33817708492279
+___
+hazardous_or_poisonous_substance	physiologic_function	natural_phenomenon_or_process
+complicates	isa
+-1
+-12.33817708492279
+___
+hazardous_or_poisonous_substance	disease_or_syndrome	pathologic_function
+causes	precedes
+-1
+-12.345407843589783
+___
+hazardous_or_poisonous_substance	disease_or_syndrome	cell_or_molecular_dysfunction
+causes	precedes
+-1
+-12.345407843589783
+___
+hazardous_or_poisonous_substance	disease_or_syndrome	experimental_model_of_disease
+causes	precedes
+-1
+-12.345407843589783
+___
+hazardous_or_poisonous_substance	disease_or_syndrome	mental_or_behavioral_dysfunction
+causes	precedes
+-1
+-12.345407843589783
+___
+hazardous_or_poisonous_substance	cell_or_molecular_dysfunction	pathologic_function
+causes	precedes
+-1
+-12.37108600139618
+___
+hazardous_or_poisonous_substance	cell_or_molecular_dysfunction	disease_or_syndrome
+causes	precedes
+-1
+-12.37108600139618
+___
+hazardous_or_poisonous_substance	cell_or_molecular_dysfunction	neoplastic_process
+causes	precedes
+-1
+-12.37108600139618
+___
+hazardous_or_poisonous_substance	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+causes	precedes
+-1
+-12.37108600139618
+___
+hazardous_or_poisonous_substance	cell_function	phenomenon_or_process
+complicates	isa
+-1
+-12.374648332595825
+___
+hazardous_or_poisonous_substance	cell_function	event
+complicates	isa
+-1
+-12.374648332595825
+___
+hazardous_or_poisonous_substance	neoplastic_process	disease_or_syndrome
+causes	precedes
+-1
+-12.396138191223145
+___
+hazardous_or_poisonous_substance	neoplastic_process	pathologic_function
+causes	precedes
+-1
+-12.396138191223145
+___
+hazardous_or_poisonous_substance	neoplastic_process	experimental_model_of_disease
+causes	precedes
+-1
+-12.396138191223145
+___
+hazardous_or_poisonous_substance	neoplastic_process	mental_or_behavioral_dysfunction
+causes	precedes
+-1
+-12.396138191223145
+___
+hazardous_or_poisonous_substance	mental_or_behavioral_dysfunction	neoplastic_process
+causes	precedes
+-1
+-12.552802324295044
+___
+hazardous_or_poisonous_substance	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+causes	precedes
+-1
+-12.552802324295044
+___
+hazardous_or_poisonous_substance	mental_or_behavioral_dysfunction	experimental_model_of_disease
+causes	precedes
+-1
+-12.552802324295044
+___
+hazardous_or_poisonous_substance	mental_or_behavioral_dysfunction	pathologic_function
+causes	precedes
+-1
+-12.552802324295044
+___
+hazardous_or_poisonous_substance	mental_or_behavioral_dysfunction	disease_or_syndrome
+causes	precedes
+-1
+-12.552802324295044
+___
+hazardous_or_poisonous_substance	molecular_function	genetic_function
+disrupts	precedes
+-1
+-12.603440403938293
+___
+hazardous_or_poisonous_substance	molecular_function	mental_process
+disrupts	precedes
+-1
+-12.603440403938293
+___
+hazardous_or_poisonous_substance	molecular_function	physiologic_function
+disrupts	precedes
+-1
+-12.603440403938293
+___
+hazardous_or_poisonous_substance	molecular_function	cell_function
+disrupts	precedes
+-1
+-12.603440403938293
+___
+hazardous_or_poisonous_substance	cell	entity
+disrupts	isa
+-1
+-12.604426622390747
+___
+hazardous_or_poisonous_substance	cell	physical_object
+disrupts	isa
+-1
+-12.604426622390747
+___
+hazardous_or_poisonous_substance	cell	fully_formed_anatomical_structure
+disrupts	isa
+-1
+-12.604426622390747
+___
+hazardous_or_poisonous_substance	cell	anatomical_structure
+disrupts	isa
+-1
+-12.604426622390747
+___
+hazardous_or_poisonous_substance	molecular_function	natural_phenomenon_or_process
+complicates	isa
+-1
+-12.623109340667725
+___
+hazardous_or_poisonous_substance	molecular_function	physiologic_function
+complicates	isa
+-1
+-12.623109340667725
+___
+hazardous_or_poisonous_substance	molecular_function	event
+complicates	isa
+-1
+-12.623109340667725
+___
+hazardous_or_poisonous_substance	molecular_function	biologic_function
+complicates	isa
+-1
+-12.623109340667725
+___
+hazardous_or_poisonous_substance	organism_function	event
+complicates	isa
+-1
+-12.708269834518433
+___
+hazardous_or_poisonous_substance	organism_function	physiologic_function
+complicates	isa
+-1
+-12.708269834518433
+___
+hazardous_or_poisonous_substance	organism_function	phenomenon_or_process
+complicates	isa
+-1
+-12.708269834518433
+___
+hazardous_or_poisonous_substance	organ_or_tissue_function	phenomenon_or_process
+complicates	isa
+-1
+-12.756052732467651
+___
+hazardous_or_poisonous_substance	organ_or_tissue_function	event
+complicates	isa
+-1
+-12.756052732467651
+___
+hazardous_or_poisonous_substance	organ_or_tissue_function	biologic_function
+complicates	isa
+-1
+-12.756052732467651
+___
+hazardous_or_poisonous_substance	organ_or_tissue_function	physiologic_function
+complicates	isa
+-1
+-12.756052732467651
+___
+hazardous_or_poisonous_substance	mental_process	natural_phenomenon_or_process
+complicates	isa
+-1
+-12.84179139137268
+___
+hazardous_or_poisonous_substance	mental_process	physiologic_function
+complicates	isa
+-1
+-12.84179139137268
+___
+hazardous_or_poisonous_substance	mental_process	biologic_function
+complicates	isa
+-1
+-12.84179139137268
+___
+hazardous_or_poisonous_substance	mental_process	phenomenon_or_process
+complicates	isa
+-1
+-12.84179139137268
+___
+hazardous_or_poisonous_substance	mental_process	event
+complicates	isa
+-1
+-12.84179139137268
+___
+hazardous_or_poisonous_substance	genetic_function	event
+complicates	isa
+-1
+-12.898345232009888
+___
+hazardous_or_poisonous_substance	genetic_function	natural_phenomenon_or_process
+complicates	isa
+-1
+-12.898345232009888
+___
+hazardous_or_poisonous_substance	genetic_function	biologic_function
+complicates	isa
+-1
+-12.898345232009888
+___
+hazardous_or_poisonous_substance	genetic_function	physiologic_function
+complicates	isa
+-1
+-12.898345232009888
+___
+hazardous_or_poisonous_substance	genetic_function	phenomenon_or_process
+complicates	isa
+-1
+-12.898345232009888
+___
+hazardous_or_poisonous_substance	pathologic_function	event
+complicates	isa
+-1
+-12.984349727630615
+___
+hazardous_or_poisonous_substance	pathologic_function	natural_phenomenon_or_process
+complicates	isa
+-1
+-12.984349727630615
+___
+hazardous_or_poisonous_substance	pathologic_function	biologic_function
+complicates	isa
+-1
+-12.984349727630615
+___
+hazardous_or_poisonous_substance	pathologic_function	phenomenon_or_process
+complicates	isa
+-1
+-12.984349727630615
+___
+hazardous_or_poisonous_substance	organism_function	mental_process
+complicates	degree_of
+-1
+-12.995383024215698
+___
+hazardous_or_poisonous_substance	experimental_model_of_disease	natural_phenomenon_or_process
+complicates	isa
+-1
+-12.995930433273315
+___
+hazardous_or_poisonous_substance	experimental_model_of_disease	biologic_function
+complicates	isa
+-1
+-12.995930433273315
+___
+hazardous_or_poisonous_substance	experimental_model_of_disease	pathologic_function
+complicates	isa
+-1
+-12.995930433273315
+___
+#####################

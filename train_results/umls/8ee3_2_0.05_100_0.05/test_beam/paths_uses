@@ -1,0 +1,3018 @@
+population_group	medical_device
+Reward:1
+population_group	family_group	medical_device
+interacts_with	produces
+1
+-1.386760055378545
+___
+population_group	group	medical_device
+interacts_with	produces
+1
+-1.3955628611147404
+___
+population_group	age_group	medical_device
+interacts_with	produces
+1
+-1.3956496780738235
+___
+population_group	patient_or_disabled_group	medical_device
+interacts_with	uses
+1
+-1.418314766138792
+___
+population_group	patient_or_disabled_group	patient_or_disabled_group
+interacts_with	NO_OP
+-1
+-5.1102436780929565
+___
+population_group	group	medical_device
+interacts_with	uses
+1
+-6.112532019615173
+___
+population_group	age_group	medical_device
+interacts_with	uses
+1
+-6.112618803977966
+___
+population_group	patient_or_disabled_group	group
+interacts_with	interacts_with
+-1
+-6.624200224876404
+___
+population_group	patient_or_disabled_group	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-8.393892168998718
+___
+population_group	family_group	family_group
+interacts_with	NO_OP
+-1
+-9.795657515525818
+___
+population_group	group	group
+interacts_with	NO_OP
+-1
+-9.804459929466248
+___
+population_group	age_group	age_group
+interacts_with	NO_OP
+-1
+-9.80454671382904
+___
+population_group	population_group	population_group
+NO_OP	NO_OP
+-1
+-10.218058824539185
+___
+population_group	patient_or_disabled_group	social_behavior
+interacts_with	performs
+-1
+-10.982193350791931
+___
+population_group	patient_or_disabled_group	daily_or_recreational_activity
+interacts_with	performs
+-1
+-10.982193350791931
+___
+population_group	patient_or_disabled_group	machine_activity
+interacts_with	performs
+-1
+-10.982193350791931
+___
+population_group	patient_or_disabled_group	diagnostic_procedure
+interacts_with	performs
+-1
+-10.982193350791931
+___
+population_group	patient_or_disabled_group	research_activity
+interacts_with	performs
+-1
+-10.982193350791931
+___
+population_group	patient_or_disabled_group	therapeutic_or_preventive_procedure
+interacts_with	performs
+-1
+-10.982193350791931
+___
+population_group	patient_or_disabled_group	educational_activity
+interacts_with	performs
+-1
+-10.982193350791931
+___
+population_group	patient_or_disabled_group	laboratory_procedure
+interacts_with	performs
+-1
+-10.982193350791931
+___
+population_group	patient_or_disabled_group	molecular_biology_research_technique
+interacts_with	performs
+-1
+-10.982193350791931
+___
+population_group	patient_or_disabled_group	health_care_activity
+interacts_with	performs
+-1
+-10.982193350791931
+___
+population_group	patient_or_disabled_group	activity
+interacts_with	performs
+-1
+-10.982193350791931
+___
+population_group	patient_or_disabled_group	behavior
+interacts_with	performs
+-1
+-10.982193350791931
+___
+population_group	family_group	patient_or_disabled_group
+interacts_with	interacts_with
+-1
+-11.309614539146423
+___
+population_group	family_group	age_group
+interacts_with	interacts_with
+-1
+-11.309614539146423
+___
+population_group	age_group	group
+interacts_with	interacts_with
+-1
+-11.318503737449646
+___
+population_group	age_group	patient_or_disabled_group
+interacts_with	interacts_with
+-1
+-11.318503737449646
+___
+population_group	population_group	age_group
+NO_OP	interacts_with
+-1
+-11.38063907623291
+___
+population_group	population_group	patient_or_disabled_group
+NO_OP	interacts_with
+-1
+-11.38063907623291
+___
+population_group	population_group	family_group
+NO_OP	interacts_with
+-1
+-11.38063907623291
+___
+population_group	population_group	group
+NO_OP	interacts_with
+-1
+-11.38063907623291
+___
+population_group	patient_or_disabled_group	group
+interacts_with	isa
+-1
+-11.422043204307556
+___
+population_group	patient_or_disabled_group	conceptual_entity
+interacts_with	isa
+-1
+-11.422043204307556
+___
+population_group	patient_or_disabled_group	entity
+interacts_with	isa
+-1
+-11.422043204307556
+___
+population_group	patient_or_disabled_group	behavior
+interacts_with	exhibits
+-1
+-11.774668097496033
+___
+population_group	patient_or_disabled_group	social_behavior
+interacts_with	exhibits
+-1
+-11.774668097496033
+___
+population_group	patient_or_disabled_group	individual_behavior
+interacts_with	exhibits
+-1
+-11.774668097496033
+___
+population_group	population_group	biomedical_occupation_or_discipline
+NO_OP	issue_in
+-1
+-12.062074661254883
+___
+population_group	population_group	occupation_or_discipline
+NO_OP	issue_in
+-1
+-12.062074661254883
+___
+population_group	family_group	occupation_or_discipline
+interacts_with	issue_in
+-1
+-13.079306960105896
+___
+population_group	family_group	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-13.079306960105896
+___
+population_group	group	occupation_or_discipline
+interacts_with	issue_in
+-1
+-13.088109374046326
+___
+population_group	group	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-13.088109374046326
+___
+population_group	age_group	occupation_or_discipline
+interacts_with	issue_in
+-1
+-13.088196158409119
+___
+population_group	population_group	social_behavior
+NO_OP	performs
+-1
+-13.46048641204834
+___
+population_group	population_group	educational_activity
+NO_OP	performs
+-1
+-13.46048641204834
+___
+population_group	population_group	machine_activity
+NO_OP	performs
+-1
+-13.46048641204834
+___
+population_group	population_group	activity
+NO_OP	performs
+-1
+-13.46048641204834
+___
+population_group	population_group	laboratory_procedure
+NO_OP	performs
+-1
+-13.46048641204834
+___
+population_group	population_group	diagnostic_procedure
+NO_OP	performs
+-1
+-13.46048641204834
+___
+population_group	population_group	research_activity
+NO_OP	performs
+-1
+-13.46048641204834
+___
+population_group	population_group	individual_behavior
+NO_OP	performs
+-1
+-13.46048641204834
+___
+population_group	population_group	therapeutic_or_preventive_procedure
+NO_OP	performs
+-1
+-13.46048641204834
+___
+population_group	population_group	behavior
+NO_OP	performs
+-1
+-13.46048641204834
+___
+population_group	population_group	occupational_activity
+NO_OP	performs
+-1
+-13.46048641204834
+___
+population_group	population_group	health_care_activity
+NO_OP	performs
+-1
+-13.46048641204834
+___
+population_group	population_group	molecular_biology_research_technique
+NO_OP	performs
+-1
+-13.46048641204834
+___
+population_group	population_group	conceptual_entity
+NO_OP	isa
+-1
+-14.051149368286133
+___
+population_group	population_group	entity
+NO_OP	isa
+-1
+-14.051149368286133
+___
+population_group	population_group	individual_behavior
+NO_OP	exhibits
+-1
+-14.316019058227539
+___
+population_group	population_group	social_behavior
+NO_OP	exhibits
+-1
+-14.316019058227539
+___
+population_group	population_group	behavior
+NO_OP	exhibits
+-1
+-14.316019058227539
+___
+population_group	family_group	behavior
+interacts_with	performs
+-1
+-15.66760766506195
+___
+population_group	family_group	social_behavior
+interacts_with	performs
+-1
+-15.66760766506195
+___
+population_group	family_group	molecular_biology_research_technique
+interacts_with	performs
+-1
+-15.66760766506195
+___
+population_group	family_group	activity
+interacts_with	performs
+-1
+-15.66760766506195
+___
+population_group	family_group	occupational_activity
+interacts_with	performs
+-1
+-15.66760766506195
+___
+population_group	family_group	health_care_activity
+interacts_with	performs
+-1
+-15.66760766506195
+___
+population_group	family_group	machine_activity
+interacts_with	performs
+-1
+-15.66760766506195
+___
+population_group	family_group	diagnostic_procedure
+interacts_with	performs
+-1
+-15.66760766506195
+___
+population_group	family_group	daily_or_recreational_activity
+interacts_with	performs
+-1
+-15.66760766506195
+___
+population_group	family_group	individual_behavior
+interacts_with	performs
+-1
+-15.66760766506195
+___
+population_group	family_group	governmental_or_regulatory_activity
+interacts_with	performs
+-1
+-15.66760766506195
+___
+population_group	family_group	educational_activity
+interacts_with	performs
+-1
+-15.66760766506195
+___
+population_group	group	daily_or_recreational_activity
+interacts_with	performs
+-1
+-15.67641007900238
+___
+population_group	group	molecular_biology_research_technique
+interacts_with	performs
+-1
+-15.67641007900238
+___
+population_group	group	governmental_or_regulatory_activity
+interacts_with	performs
+-1
+-15.67641007900238
+___
+population_group	group	health_care_activity
+interacts_with	performs
+-1
+-15.67641007900238
+___
+population_group	group	individual_behavior
+interacts_with	performs
+-1
+-15.67641007900238
+___
+population_group	group	therapeutic_or_preventive_procedure
+interacts_with	performs
+-1
+-15.67641007900238
+___
+population_group	group	diagnostic_procedure
+interacts_with	performs
+-1
+-15.67641007900238
+___
+population_group	group	laboratory_procedure
+interacts_with	performs
+-1
+-15.67641007900238
+___
+population_group	group	activity
+interacts_with	performs
+-1
+-15.67641007900238
+___
+population_group	group	behavior
+interacts_with	performs
+-1
+-15.67641007900238
+___
+population_group	group	research_activity
+interacts_with	performs
+-1
+-15.67641007900238
+___
+population_group	group	social_behavior
+interacts_with	performs
+-1
+-15.67641007900238
+___
+population_group	group	occupational_activity
+interacts_with	performs
+-1
+-15.67641007900238
+___
+population_group	group	educational_activity
+interacts_with	performs
+-1
+-15.67641007900238
+___
+population_group	age_group	therapeutic_or_preventive_procedure
+interacts_with	performs
+-1
+-15.676496863365173
+___
+population_group	age_group	behavior
+interacts_with	performs
+-1
+-15.676496863365173
+___
+population_group	age_group	individual_behavior
+interacts_with	performs
+-1
+-15.676496863365173
+___
+population_group	age_group	diagnostic_procedure
+interacts_with	performs
+-1
+-15.676496863365173
+___
+population_group	age_group	educational_activity
+interacts_with	performs
+-1
+-15.676496863365173
+___
+population_group	age_group	laboratory_procedure
+interacts_with	performs
+-1
+-15.676496863365173
+___
+population_group	age_group	governmental_or_regulatory_activity
+interacts_with	performs
+-1
+-15.676496863365173
+___
+population_group	age_group	health_care_activity
+interacts_with	performs
+-1
+-15.676496863365173
+___
+population_group	age_group	research_activity
+interacts_with	performs
+-1
+-15.676496863365173
+___
+population_group	age_group	occupational_activity
+interacts_with	performs
+-1
+-15.676496863365173
+___
+#####################
+professional_or_occupational_group	manufactured_object
+Reward:1
+professional_or_occupational_group	group	manufactured_object
+interacts_with	produces
+1
+-1.107946129515767
+___
+professional_or_occupational_group	patient_or_disabled_group	manufactured_object
+interacts_with	produces
+1
+-1.107985818758607
+___
+professional_or_occupational_group	family_group	manufactured_object
+interacts_with	produces
+1
+-1.1080425139516592
+___
+professional_or_occupational_group	group	manufactured_object
+interacts_with	uses
+1
+-5.824915170669556
+___
+professional_or_occupational_group	patient_or_disabled_group	manufactured_object
+interacts_with	uses
+1
+-5.8249547481536865
+___
+professional_or_occupational_group	family_group	manufactured_object
+interacts_with	uses
+1
+-5.825011491775513
+___
+professional_or_occupational_group	professional_or_occupational_group	manufactured_object
+NO_OP	produces
+1
+-8.777098230086267
+___
+professional_or_occupational_group	group	group
+interacts_with	NO_OP
+-1
+-9.51684308052063
+___
+professional_or_occupational_group	patient_or_disabled_group	patient_or_disabled_group
+interacts_with	NO_OP
+-1
+-9.516883134841919
+___
+professional_or_occupational_group	family_group	family_group
+interacts_with	NO_OP
+-1
+-9.516940355300903
+___
+professional_or_occupational_group	patient_or_disabled_group	group
+interacts_with	interacts_with
+-1
+-11.030840158462524
+___
+professional_or_occupational_group	family_group	age_group
+interacts_with	interacts_with
+-1
+-11.030897378921509
+___
+professional_or_occupational_group	family_group	patient_or_disabled_group
+interacts_with	interacts_with
+-1
+-11.030897378921509
+___
+professional_or_occupational_group	patient_or_disabled_group	group
+treats	interacts_with
+-1
+-11.920433044433594
+___
+professional_or_occupational_group	patient_or_disabled_group	manufactured_object
+treats	produces
+1
+-11.979720115661621
+___
+professional_or_occupational_group	patient_or_disabled_group	patient_or_disabled_group
+treats	NO_OP
+-1
+-12.284298658370972
+___
+professional_or_occupational_group	group	occupation_or_discipline
+interacts_with	issue_in
+-1
+-12.800492525100708
+___
+professional_or_occupational_group	group	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-12.800492525100708
+___
+professional_or_occupational_group	patient_or_disabled_group	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-12.800532579421997
+___
+professional_or_occupational_group	family_group	occupation_or_discipline
+interacts_with	issue_in
+-1
+-12.800589799880981
+___
+professional_or_occupational_group	family_group	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-12.800589799880981
+___
+professional_or_occupational_group	patient_or_disabled_group	manufactured_object
+treats	uses
+1
+-14.312232971191406
+___
+professional_or_occupational_group	professional_society	professional_society
+manages	NO_OP
+-1
+-14.617473999038339
+___
+professional_or_occupational_group	organization	organization
+manages	NO_OP
+-1
+-14.619393277913332
+___
+professional_or_occupational_group	health_care_related_organization	health_care_related_organization
+manages	NO_OP
+-1
+-14.667807541787624
+___
+professional_or_occupational_group	self_help_or_relief_organization	self_help_or_relief_organization
+manages	NO_OP
+-1
+-14.668110601603985
+___
+professional_or_occupational_group	professional_or_occupational_group	professional_or_occupational_group
+NO_OP	NO_OP
+-1
+-14.892772197723389
+___
+professional_or_occupational_group	pathologic_function	experimental_model_of_disease
+diagnoses	precedes
+-1
+-15.08176076412201
+___
+professional_or_occupational_group	pathologic_function	disease_or_syndrome
+diagnoses	precedes
+-1
+-15.08176076412201
+___
+professional_or_occupational_group	disease_or_syndrome	experimental_model_of_disease
+diagnoses	precedes
+-1
+-15.344300985336304
+___
+professional_or_occupational_group	disease_or_syndrome	pathologic_function
+diagnoses	precedes
+-1
+-15.344300985336304
+___
+professional_or_occupational_group	disease_or_syndrome	mental_or_behavioral_dysfunction
+diagnoses	precedes
+-1
+-15.344300985336304
+___
+professional_or_occupational_group	disease_or_syndrome	cell_or_molecular_dysfunction
+diagnoses	precedes
+-1
+-15.344300985336304
+___
+professional_or_occupational_group	group	daily_or_recreational_activity
+interacts_with	performs
+-1
+-15.388793230056763
+___
+professional_or_occupational_group	group	occupational_activity
+interacts_with	performs
+-1
+-15.388793230056763
+___
+professional_or_occupational_group	group	therapeutic_or_preventive_procedure
+interacts_with	performs
+-1
+-15.388793230056763
+___
+professional_or_occupational_group	group	governmental_or_regulatory_activity
+interacts_with	performs
+-1
+-15.388793230056763
+___
+professional_or_occupational_group	group	laboratory_procedure
+interacts_with	performs
+-1
+-15.388793230056763
+___
+professional_or_occupational_group	group	health_care_activity
+interacts_with	performs
+-1
+-15.388793230056763
+___
+professional_or_occupational_group	group	diagnostic_procedure
+interacts_with	performs
+-1
+-15.388793230056763
+___
+professional_or_occupational_group	group	behavior
+interacts_with	performs
+-1
+-15.388793230056763
+___
+professional_or_occupational_group	group	molecular_biology_research_technique
+interacts_with	performs
+-1
+-15.388793230056763
+___
+professional_or_occupational_group	group	social_behavior
+interacts_with	performs
+-1
+-15.388793230056763
+___
+professional_or_occupational_group	group	educational_activity
+interacts_with	performs
+-1
+-15.388793230056763
+___
+professional_or_occupational_group	group	activity
+interacts_with	performs
+-1
+-15.388793230056763
+___
+professional_or_occupational_group	group	individual_behavior
+interacts_with	performs
+-1
+-15.388793230056763
+___
+professional_or_occupational_group	group	research_activity
+interacts_with	performs
+-1
+-15.388793230056763
+___
+professional_or_occupational_group	patient_or_disabled_group	machine_activity
+interacts_with	performs
+-1
+-15.388833284378052
+___
+professional_or_occupational_group	patient_or_disabled_group	educational_activity
+interacts_with	performs
+-1
+-15.388833284378052
+___
+professional_or_occupational_group	patient_or_disabled_group	laboratory_procedure
+interacts_with	performs
+-1
+-15.388833284378052
+___
+professional_or_occupational_group	patient_or_disabled_group	therapeutic_or_preventive_procedure
+interacts_with	performs
+-1
+-15.388833284378052
+___
+professional_or_occupational_group	patient_or_disabled_group	daily_or_recreational_activity
+interacts_with	performs
+-1
+-15.388833284378052
+___
+professional_or_occupational_group	patient_or_disabled_group	research_activity
+interacts_with	performs
+-1
+-15.388833284378052
+___
+professional_or_occupational_group	patient_or_disabled_group	behavior
+interacts_with	performs
+-1
+-15.388833284378052
+___
+professional_or_occupational_group	patient_or_disabled_group	diagnostic_procedure
+interacts_with	performs
+-1
+-15.388833284378052
+___
+professional_or_occupational_group	patient_or_disabled_group	molecular_biology_research_technique
+interacts_with	performs
+-1
+-15.388833284378052
+___
+professional_or_occupational_group	patient_or_disabled_group	activity
+interacts_with	performs
+-1
+-15.388833284378052
+___
+professional_or_occupational_group	patient_or_disabled_group	social_behavior
+interacts_with	performs
+-1
+-15.388833284378052
+___
+professional_or_occupational_group	patient_or_disabled_group	health_care_activity
+interacts_with	performs
+-1
+-15.388833284378052
+___
+professional_or_occupational_group	family_group	molecular_biology_research_technique
+interacts_with	performs
+-1
+-15.388890504837036
+___
+professional_or_occupational_group	family_group	governmental_or_regulatory_activity
+interacts_with	performs
+-1
+-15.388890504837036
+___
+professional_or_occupational_group	family_group	health_care_activity
+interacts_with	performs
+-1
+-15.388890504837036
+___
+professional_or_occupational_group	family_group	behavior
+interacts_with	performs
+-1
+-15.388890504837036
+___
+professional_or_occupational_group	family_group	educational_activity
+interacts_with	performs
+-1
+-15.388890504837036
+___
+professional_or_occupational_group	family_group	social_behavior
+interacts_with	performs
+-1
+-15.388890504837036
+___
+professional_or_occupational_group	family_group	machine_activity
+interacts_with	performs
+-1
+-15.388890504837036
+___
+professional_or_occupational_group	family_group	diagnostic_procedure
+interacts_with	performs
+-1
+-15.388890504837036
+___
+professional_or_occupational_group	family_group	individual_behavior
+interacts_with	performs
+-1
+-15.388890504837036
+___
+professional_or_occupational_group	family_group	daily_or_recreational_activity
+interacts_with	performs
+-1
+-15.388890504837036
+___
+professional_or_occupational_group	family_group	activity
+interacts_with	performs
+-1
+-15.388890504837036
+___
+professional_or_occupational_group	family_group	occupational_activity
+interacts_with	performs
+-1
+-15.388890504837036
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+diagnoses	precedes
+-1
+-15.441227793693542
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	pathologic_function
+diagnoses	precedes
+-1
+-15.441227793693542
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	neoplastic_process
+diagnoses	precedes
+-1
+-15.441227793693542
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	disease_or_syndrome
+diagnoses	precedes
+-1
+-15.441227793693542
+___
+professional_or_occupational_group	mental_or_behavioral_dysfunction	pathologic_function
+diagnoses	precedes
+-1
+-15.496652364730835
+___
+professional_or_occupational_group	mental_or_behavioral_dysfunction	experimental_model_of_disease
+diagnoses	precedes
+-1
+-15.496652364730835
+___
+professional_or_occupational_group	mental_or_behavioral_dysfunction	neoplastic_process
+diagnoses	precedes
+-1
+-15.496652364730835
+___
+professional_or_occupational_group	mental_or_behavioral_dysfunction	disease_or_syndrome
+diagnoses	precedes
+-1
+-15.496652364730835
+___
+professional_or_occupational_group	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+diagnoses	precedes
+-1
+-15.496652364730835
+___
+professional_or_occupational_group	neoplastic_process	experimental_model_of_disease
+diagnoses	precedes
+-1
+-15.52403461933136
+___
+professional_or_occupational_group	neoplastic_process	mental_or_behavioral_dysfunction
+diagnoses	precedes
+-1
+-15.52403461933136
+___
+professional_or_occupational_group	neoplastic_process	disease_or_syndrome
+diagnoses	precedes
+-1
+-15.52403461933136
+___
+professional_or_occupational_group	neoplastic_process	pathologic_function
+diagnoses	precedes
+-1
+-15.52403461933136
+___
+professional_or_occupational_group	classification	occupation_or_discipline
+uses	issue_in
+-1
+-15.544093161821365
+___
+professional_or_occupational_group	biomedical_occupation_or_discipline	biomedical_occupation_or_discipline
+practices	NO_OP
+-1
+-15.55175865907222
+___
+professional_or_occupational_group	occupation_or_discipline	occupation_or_discipline
+practices	NO_OP
+-1
+-15.55175865907222
+___
+professional_or_occupational_group	pathologic_function	disease_or_syndrome
+diagnoses	degree_of
+-1
+-15.565868854522705
+___
+professional_or_occupational_group	pathologic_function	experimental_model_of_disease
+diagnoses	degree_of
+-1
+-15.565868854522705
+___
+professional_or_occupational_group	pathologic_function	neoplastic_process
+diagnoses	degree_of
+-1
+-15.565868854522705
+___
+professional_or_occupational_group	pathologic_function	cell_or_molecular_dysfunction
+diagnoses	degree_of
+-1
+-15.565868854522705
+___
+professional_or_occupational_group	conceptual_entity	conceptual_entity
+isa	NO_OP
+-1
+-15.800611913204193
+___
+professional_or_occupational_group	disease_or_syndrome	experimental_model_of_disease
+diagnoses	degree_of
+-1
+-15.82840895652771
+___
+professional_or_occupational_group	disease_or_syndrome	pathologic_function
+diagnoses	degree_of
+-1
+-15.82840895652771
+___
+professional_or_occupational_group	disease_or_syndrome	neoplastic_process
+diagnoses	degree_of
+-1
+-15.82840895652771
+___
+professional_or_occupational_group	group	entity
+interacts_with	isa
+-1
+-15.828644037246704
+___
+professional_or_occupational_group	group	conceptual_entity
+interacts_with	isa
+-1
+-15.828644037246704
+___
+professional_or_occupational_group	patient_or_disabled_group	group
+interacts_with	isa
+-1
+-15.828684091567993
+___
+professional_or_occupational_group	patient_or_disabled_group	entity
+interacts_with	isa
+-1
+-15.828684091567993
+___
+professional_or_occupational_group	patient_or_disabled_group	conceptual_entity
+interacts_with	isa
+-1
+-15.828684091567993
+___
+#####################
+population_group	regulation_or_law
+Reward:1
+population_group	group	regulation_or_law
+interacts_with	produces
+1
+-1.3955629784613848
+___
+population_group	patient_or_disabled_group	regulation_or_law
+interacts_with	produces
+1
+-1.3956024320796132
+___
+population_group	family_group	regulation_or_law
+interacts_with	produces
+1
+-1.3956594811752439
+___
+population_group	age_group	regulation_or_law
+interacts_with	uses
+1
+-1.4234402067959309
+___
+population_group	age_group	age_group
+interacts_with	NO_OP
+-1
+-5.115368962287903
+___
+population_group	group	regulation_or_law
+interacts_with	uses
+1
+-6.112532019615173
+___
+population_group	patient_or_disabled_group	regulation_or_law
+interacts_with	uses
+1
+-6.112571597099304
+___
+population_group	family_group	regulation_or_law
+interacts_with	uses
+1
+-6.11262834072113
+___
+population_group	age_group	patient_or_disabled_group
+interacts_with	interacts_with
+-1
+-6.629325747489929
+___
+population_group	age_group	group
+interacts_with	interacts_with
+-1
+-6.629325747489929
+___
+population_group	age_group	occupation_or_discipline
+interacts_with	issue_in
+-1
+-8.399017691612244
+___
+population_group	group	group
+interacts_with	NO_OP
+-1
+-9.804459929466248
+___
+population_group	patient_or_disabled_group	patient_or_disabled_group
+interacts_with	NO_OP
+-1
+-9.804499983787537
+___
+population_group	family_group	family_group
+interacts_with	NO_OP
+-1
+-9.804557204246521
+___
+population_group	population_group	population_group
+NO_OP	NO_OP
+-1
+-10.218058824539185
+___
+population_group	age_group	therapeutic_or_preventive_procedure
+interacts_with	performs
+-1
+-10.987319350242615
+___
+population_group	age_group	behavior
+interacts_with	performs
+-1
+-10.987319350242615
+___
+population_group	age_group	health_care_activity
+interacts_with	performs
+-1
+-10.987319350242615
+___
+population_group	age_group	individual_behavior
+interacts_with	performs
+-1
+-10.987319350242615
+___
+population_group	age_group	occupational_activity
+interacts_with	performs
+-1
+-10.987319350242615
+___
+population_group	age_group	diagnostic_procedure
+interacts_with	performs
+-1
+-10.987319350242615
+___
+population_group	age_group	educational_activity
+interacts_with	performs
+-1
+-10.987319350242615
+___
+population_group	age_group	laboratory_procedure
+interacts_with	performs
+-1
+-10.987319350242615
+___
+population_group	age_group	activity
+interacts_with	performs
+-1
+-10.987319350242615
+___
+population_group	age_group	research_activity
+interacts_with	performs
+-1
+-10.987319350242615
+___
+population_group	age_group	governmental_or_regulatory_activity
+interacts_with	performs
+-1
+-10.987319350242615
+___
+population_group	patient_or_disabled_group	group
+interacts_with	interacts_with
+-1
+-11.318457007408142
+___
+population_group	family_group	patient_or_disabled_group
+interacts_with	interacts_with
+-1
+-11.318514227867126
+___
+population_group	family_group	age_group
+interacts_with	interacts_with
+-1
+-11.318514227867126
+___
+population_group	population_group	group
+NO_OP	interacts_with
+-1
+-11.38063907623291
+___
+population_group	population_group	patient_or_disabled_group
+NO_OP	interacts_with
+-1
+-11.38063907623291
+___
+population_group	population_group	family_group
+NO_OP	interacts_with
+-1
+-11.38063907623291
+___
+population_group	population_group	age_group
+NO_OP	interacts_with
+-1
+-11.38063907623291
+___
+population_group	age_group	entity
+interacts_with	isa
+-1
+-11.42716920375824
+___
+population_group	age_group	conceptual_entity
+interacts_with	isa
+-1
+-11.42716920375824
+___
+population_group	age_group	individual_behavior
+interacts_with	exhibits
+-1
+-11.779794096946716
+___
+population_group	population_group	occupation_or_discipline
+NO_OP	issue_in
+-1
+-12.062074661254883
+___
+population_group	population_group	biomedical_occupation_or_discipline
+NO_OP	issue_in
+-1
+-12.062074661254883
+___
+population_group	group	occupation_or_discipline
+interacts_with	issue_in
+-1
+-13.088109374046326
+___
+population_group	group	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-13.088109374046326
+___
+population_group	patient_or_disabled_group	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-13.088149428367615
+___
+population_group	family_group	occupation_or_discipline
+interacts_with	issue_in
+-1
+-13.0882066488266
+___
+population_group	family_group	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-13.0882066488266
+___
+population_group	population_group	research_activity
+NO_OP	performs
+-1
+-13.46048641204834
+___
+population_group	population_group	diagnostic_procedure
+NO_OP	performs
+-1
+-13.46048641204834
+___
+population_group	population_group	molecular_biology_research_technique
+NO_OP	performs
+-1
+-13.46048641204834
+___
+population_group	population_group	occupational_activity
+NO_OP	performs
+-1
+-13.46048641204834
+___
+population_group	population_group	behavior
+NO_OP	performs
+-1
+-13.46048641204834
+___
+population_group	population_group	individual_behavior
+NO_OP	performs
+-1
+-13.46048641204834
+___
+population_group	population_group	machine_activity
+NO_OP	performs
+-1
+-13.46048641204834
+___
+population_group	population_group	educational_activity
+NO_OP	performs
+-1
+-13.46048641204834
+___
+population_group	population_group	laboratory_procedure
+NO_OP	performs
+-1
+-13.46048641204834
+___
+population_group	population_group	therapeutic_or_preventive_procedure
+NO_OP	performs
+-1
+-13.46048641204834
+___
+population_group	population_group	social_behavior
+NO_OP	performs
+-1
+-13.46048641204834
+___
+population_group	population_group	health_care_activity
+NO_OP	performs
+-1
+-13.46048641204834
+___
+population_group	population_group	activity
+NO_OP	performs
+-1
+-13.46048641204834
+___
+population_group	population_group	entity
+NO_OP	isa
+-1
+-14.051149368286133
+___
+population_group	population_group	conceptual_entity
+NO_OP	isa
+-1
+-14.051149368286133
+___
+population_group	population_group	behavior
+NO_OP	exhibits
+-1
+-14.316019058227539
+___
+population_group	population_group	individual_behavior
+NO_OP	exhibits
+-1
+-14.316019058227539
+___
+population_group	population_group	social_behavior
+NO_OP	exhibits
+-1
+-14.316019058227539
+___
+population_group	group	educational_activity
+interacts_with	performs
+-1
+-15.67641007900238
+___
+population_group	group	behavior
+interacts_with	performs
+-1
+-15.67641007900238
+___
+population_group	group	daily_or_recreational_activity
+interacts_with	performs
+-1
+-15.67641007900238
+___
+population_group	group	occupational_activity
+interacts_with	performs
+-1
+-15.67641007900238
+___
+population_group	group	individual_behavior
+interacts_with	performs
+-1
+-15.67641007900238
+___
+population_group	group	social_behavior
+interacts_with	performs
+-1
+-15.67641007900238
+___
+population_group	group	governmental_or_regulatory_activity
+interacts_with	performs
+-1
+-15.67641007900238
+___
+population_group	group	laboratory_procedure
+interacts_with	performs
+-1
+-15.67641007900238
+___
+population_group	group	health_care_activity
+interacts_with	performs
+-1
+-15.67641007900238
+___
+population_group	group	therapeutic_or_preventive_procedure
+interacts_with	performs
+-1
+-15.67641007900238
+___
+population_group	group	diagnostic_procedure
+interacts_with	performs
+-1
+-15.67641007900238
+___
+population_group	group	research_activity
+interacts_with	performs
+-1
+-15.67641007900238
+___
+population_group	group	molecular_biology_research_technique
+interacts_with	performs
+-1
+-15.67641007900238
+___
+population_group	group	activity
+interacts_with	performs
+-1
+-15.67641007900238
+___
+population_group	patient_or_disabled_group	laboratory_procedure
+interacts_with	performs
+-1
+-15.67645013332367
+___
+population_group	patient_or_disabled_group	health_care_activity
+interacts_with	performs
+-1
+-15.67645013332367
+___
+population_group	patient_or_disabled_group	social_behavior
+interacts_with	performs
+-1
+-15.67645013332367
+___
+population_group	patient_or_disabled_group	therapeutic_or_preventive_procedure
+interacts_with	performs
+-1
+-15.67645013332367
+___
+population_group	patient_or_disabled_group	educational_activity
+interacts_with	performs
+-1
+-15.67645013332367
+___
+population_group	patient_or_disabled_group	diagnostic_procedure
+interacts_with	performs
+-1
+-15.67645013332367
+___
+population_group	patient_or_disabled_group	machine_activity
+interacts_with	performs
+-1
+-15.67645013332367
+___
+population_group	patient_or_disabled_group	research_activity
+interacts_with	performs
+-1
+-15.67645013332367
+___
+population_group	patient_or_disabled_group	activity
+interacts_with	performs
+-1
+-15.67645013332367
+___
+population_group	patient_or_disabled_group	molecular_biology_research_technique
+interacts_with	performs
+-1
+-15.67645013332367
+___
+population_group	patient_or_disabled_group	daily_or_recreational_activity
+interacts_with	performs
+-1
+-15.67645013332367
+___
+population_group	patient_or_disabled_group	behavior
+interacts_with	performs
+-1
+-15.67645013332367
+___
+population_group	family_group	activity
+interacts_with	performs
+-1
+-15.676507353782654
+___
+population_group	family_group	behavior
+interacts_with	performs
+-1
+-15.676507353782654
+___
+population_group	family_group	molecular_biology_research_technique
+interacts_with	performs
+-1
+-15.676507353782654
+___
+population_group	family_group	educational_activity
+interacts_with	performs
+-1
+-15.676507353782654
+___
+population_group	family_group	daily_or_recreational_activity
+interacts_with	performs
+-1
+-15.676507353782654
+___
+population_group	family_group	diagnostic_procedure
+interacts_with	performs
+-1
+-15.676507353782654
+___
+population_group	family_group	health_care_activity
+interacts_with	performs
+-1
+-15.676507353782654
+___
+population_group	family_group	machine_activity
+interacts_with	performs
+-1
+-15.676507353782654
+___
+population_group	family_group	social_behavior
+interacts_with	performs
+-1
+-15.676507353782654
+___
+population_group	family_group	occupational_activity
+interacts_with	performs
+-1
+-15.676507353782654
+___
+population_group	family_group	individual_behavior
+interacts_with	performs
+-1
+-15.676507353782654
+___
+population_group	family_group	governmental_or_regulatory_activity
+interacts_with	performs
+-1
+-15.676507353782654
+___
+population_group	classification	occupation_or_discipline
+uses	issue_in
+-1
+-15.831709891557693
+___
+#####################
+diagnostic_procedure	drug_delivery_device
+Reward:1
+diagnostic_procedure	therapeutic_or_preventive_procedure	food
+precedes	uses
+-1
+-4.732258200645447
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	drug_delivery_device
+precedes	uses
+1
+-4.732258200645447
+___
+diagnostic_procedure	quantitative_concept	quantitative_concept
+measures	NO_OP
+-1
+-5.722905099391937
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	therapeutic_or_preventive_procedure
+precedes	NO_OP
+-1
+-6.041562080383301
+___
+diagnostic_procedure	chemical	chemical
+assesses_effect_of	NO_OP
+-1
+-6.17268705368042
+___
+diagnostic_procedure	chemical	pathologic_function
+assesses_effect_of	affects
+-1
+-6.2227864265441895
+___
+diagnostic_procedure	chemical	biologic_function
+assesses_effect_of	affects
+-1
+-6.2227864265441895
+___
+diagnostic_procedure	chemical	disease_or_syndrome
+assesses_effect_of	affects
+-1
+-6.2227864265441895
+___
+diagnostic_procedure	chemical	mental_process
+assesses_effect_of	affects
+-1
+-6.2227864265441895
+___
+diagnostic_procedure	chemical	cell_or_molecular_dysfunction
+assesses_effect_of	affects
+-1
+-6.2227864265441895
+___
+diagnostic_procedure	chemical	cell_function
+assesses_effect_of	affects
+-1
+-6.2227864265441895
+___
+diagnostic_procedure	chemical	physiologic_function
+assesses_effect_of	affects
+-1
+-6.2227864265441895
+___
+diagnostic_procedure	chemical	experimental_model_of_disease
+assesses_effect_of	affects
+-1
+-6.2227864265441895
+___
+diagnostic_procedure	chemical	molecular_function
+assesses_effect_of	affects
+-1
+-6.2227864265441895
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	organ_or_tissue_function
+precedes	affects
+-1
+-6.283108234405518
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	molecular_function
+precedes	affects
+-1
+-6.283108234405518
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	pathologic_function
+precedes	affects
+-1
+-6.283108234405518
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	genetic_function
+precedes	affects
+-1
+-6.283108234405518
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	experimental_model_of_disease
+precedes	affects
+-1
+-6.283108234405518
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	mental_or_behavioral_dysfunction
+precedes	affects
+-1
+-6.283108234405518
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	neoplastic_process
+precedes	affects
+-1
+-6.283108234405518
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	organism_function
+precedes	affects
+-1
+-6.283108234405518
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	physiologic_function
+precedes	affects
+-1
+-6.283108234405518
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	cell_or_molecular_dysfunction
+precedes	affects
+-1
+-6.283108234405518
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	biologic_function
+precedes	affects
+-1
+-6.283108234405518
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	indicator_reagent_or_diagnostic_aid
+assesses_effect_of	NO_OP
+-1
+-6.400134086608887
+___
+diagnostic_procedure	antibiotic	experimental_model_of_disease
+assesses_effect_of	affects
+-1
+-6.4014599323272705
+___
+diagnostic_procedure	antibiotic	biologic_function
+assesses_effect_of	affects
+-1
+-6.4014599323272705
+___
+diagnostic_procedure	antibiotic	disease_or_syndrome
+assesses_effect_of	affects
+-1
+-6.4014599323272705
+___
+diagnostic_procedure	antibiotic	molecular_function
+assesses_effect_of	affects
+-1
+-6.4014599323272705
+___
+diagnostic_procedure	antibiotic	organism_function
+assesses_effect_of	affects
+-1
+-6.4014599323272705
+___
+diagnostic_procedure	antibiotic	pathologic_function
+assesses_effect_of	affects
+-1
+-6.4014599323272705
+___
+diagnostic_procedure	antibiotic	mental_process
+assesses_effect_of	affects
+-1
+-6.4014599323272705
+___
+diagnostic_procedure	antibiotic	mental_or_behavioral_dysfunction
+assesses_effect_of	affects
+-1
+-6.4014599323272705
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	organ_or_tissue_function
+assesses_effect_of	affects
+-1
+-6.450233459472656
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	mental_process
+assesses_effect_of	affects
+-1
+-6.450233459472656
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	cell_function
+assesses_effect_of	affects
+-1
+-6.450233459472656
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	disease_or_syndrome
+assesses_effect_of	affects
+-1
+-6.450233459472656
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	molecular_function
+assesses_effect_of	affects
+-1
+-6.450233459472656
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	organism_function
+assesses_effect_of	affects
+-1
+-6.450233459472656
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	cell_or_molecular_dysfunction
+assesses_effect_of	affects
+-1
+-6.450233459472656
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	pathologic_function
+assesses_effect_of	affects
+-1
+-6.450233459472656
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	neoplastic_process
+assesses_effect_of	affects
+-1
+-6.450233459472656
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	biologic_function
+assesses_effect_of	affects
+-1
+-6.450233459472656
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	mental_or_behavioral_dysfunction
+assesses_effect_of	affects
+-1
+-6.450233459472656
+___
+diagnostic_procedure	body_substance	nucleic_acid_nucleoside_or_nucleotide
+analyzes	consists_of
+-1
+-6.467134237289429
+___
+diagnostic_procedure	body_substance	steroid
+analyzes	consists_of
+-1
+-6.467134237289429
+___
+diagnostic_procedure	body_substance	eicosanoid
+analyzes	consists_of
+-1
+-6.467134237289429
+___
+diagnostic_procedure	body_substance	organic_chemical
+analyzes	consists_of
+-1
+-6.467134237289429
+___
+diagnostic_procedure	body_substance	amino_acid_peptide_or_protein
+analyzes	consists_of
+-1
+-6.467134237289429
+___
+diagnostic_procedure	body_substance	carbohydrate
+analyzes	consists_of
+-1
+-6.467134237289429
+___
+diagnostic_procedure	body_substance	organophosphorus_compound
+analyzes	consists_of
+-1
+-6.467134237289429
+___
+diagnostic_procedure	body_substance	lipid
+analyzes	consists_of
+-1
+-6.467134237289429
+___
+diagnostic_procedure	receptor	receptor
+assesses_effect_of	NO_OP
+-1
+-6.489247560501099
+___
+diagnostic_procedure	hormone	hormone
+assesses_effect_of	NO_OP
+-1
+-6.529499530792236
+___
+diagnostic_procedure	receptor	genetic_function
+assesses_effect_of	affects
+-1
+-6.539346933364868
+___
+diagnostic_procedure	receptor	pathologic_function
+assesses_effect_of	affects
+-1
+-6.539346933364868
+___
+diagnostic_procedure	receptor	molecular_function
+assesses_effect_of	affects
+-1
+-6.539346933364868
+___
+diagnostic_procedure	receptor	neoplastic_process
+assesses_effect_of	affects
+-1
+-6.539346933364868
+___
+diagnostic_procedure	receptor	mental_or_behavioral_dysfunction
+assesses_effect_of	affects
+-1
+-6.539346933364868
+___
+diagnostic_procedure	receptor	organism_function
+assesses_effect_of	affects
+-1
+-6.539346933364868
+___
+diagnostic_procedure	receptor	experimental_model_of_disease
+assesses_effect_of	affects
+-1
+-6.539346933364868
+___
+diagnostic_procedure	receptor	natural_phenomenon_or_process
+assesses_effect_of	affects
+-1
+-6.539346933364868
+___
+diagnostic_procedure	receptor	disease_or_syndrome
+assesses_effect_of	affects
+-1
+-6.539346933364868
+___
+diagnostic_procedure	receptor	organ_or_tissue_function
+assesses_effect_of	affects
+-1
+-6.539346933364868
+___
+diagnostic_procedure	receptor	cell_or_molecular_dysfunction
+assesses_effect_of	affects
+-1
+-6.539346933364868
+___
+diagnostic_procedure	hazardous_or_poisonous_substance	hazardous_or_poisonous_substance
+assesses_effect_of	NO_OP
+-1
+-6.549764394760132
+___
+diagnostic_procedure	hormone	molecular_function
+assesses_effect_of	affects
+-1
+-6.579598903656006
+___
+diagnostic_procedure	hormone	cell_function
+assesses_effect_of	affects
+-1
+-6.579598903656006
+___
+diagnostic_procedure	hormone	natural_phenomenon_or_process
+assesses_effect_of	affects
+-1
+-6.579598903656006
+___
+diagnostic_procedure	hormone	physiologic_function
+assesses_effect_of	affects
+-1
+-6.579598903656006
+___
+diagnostic_procedure	hormone	organ_or_tissue_function
+assesses_effect_of	affects
+-1
+-6.579598903656006
+___
+diagnostic_procedure	hormone	mental_or_behavioral_dysfunction
+assesses_effect_of	affects
+-1
+-6.579598903656006
+___
+diagnostic_procedure	hormone	cell_or_molecular_dysfunction
+assesses_effect_of	affects
+-1
+-6.579598903656006
+___
+diagnostic_procedure	hormone	disease_or_syndrome
+assesses_effect_of	affects
+-1
+-6.579598903656006
+___
+diagnostic_procedure	hormone	organism_function
+assesses_effect_of	affects
+-1
+-6.579598903656006
+___
+diagnostic_procedure	hormone	pathologic_function
+assesses_effect_of	affects
+-1
+-6.579598903656006
+___
+diagnostic_procedure	hormone	neoplastic_process
+assesses_effect_of	affects
+-1
+-6.579598903656006
+___
+diagnostic_procedure	hazardous_or_poisonous_substance	physiologic_function
+assesses_effect_of	affects
+-1
+-6.599863767623901
+___
+diagnostic_procedure	hazardous_or_poisonous_substance	mental_or_behavioral_dysfunction
+assesses_effect_of	affects
+-1
+-6.599863767623901
+___
+diagnostic_procedure	hazardous_or_poisonous_substance	cell_function
+assesses_effect_of	affects
+-1
+-6.599863767623901
+___
+diagnostic_procedure	hazardous_or_poisonous_substance	organ_or_tissue_function
+assesses_effect_of	affects
+-1
+-6.599863767623901
+___
+diagnostic_procedure	hazardous_or_poisonous_substance	organism_function
+assesses_effect_of	affects
+-1
+-6.599863767623901
+___
+diagnostic_procedure	hazardous_or_poisonous_substance	experimental_model_of_disease
+assesses_effect_of	affects
+-1
+-6.599863767623901
+___
+diagnostic_procedure	hazardous_or_poisonous_substance	cell_or_molecular_dysfunction
+assesses_effect_of	affects
+-1
+-6.599863767623901
+___
+diagnostic_procedure	hazardous_or_poisonous_substance	biologic_function
+assesses_effect_of	affects
+-1
+-6.599863767623901
+___
+diagnostic_procedure	hazardous_or_poisonous_substance	pathologic_function
+assesses_effect_of	affects
+-1
+-6.599863767623901
+___
+diagnostic_procedure	hazardous_or_poisonous_substance	genetic_function
+assesses_effect_of	affects
+-1
+-6.599863767623901
+___
+diagnostic_procedure	hazardous_or_poisonous_substance	neoplastic_process
+assesses_effect_of	affects
+-1
+-6.599863767623901
+___
+diagnostic_procedure	hazardous_or_poisonous_substance	natural_phenomenon_or_process
+assesses_effect_of	affects
+-1
+-6.599863767623901
+___
+diagnostic_procedure	hazardous_or_poisonous_substance	mental_process
+assesses_effect_of	affects
+-1
+-6.599863767623901
+___
+diagnostic_procedure	neuroreactive_substance_or_biogenic_amine	neuroreactive_substance_or_biogenic_amine
+assesses_effect_of	NO_OP
+-1
+-6.60434365272522
+___
+diagnostic_procedure	neuroreactive_substance_or_biogenic_amine	neoplastic_process
+assesses_effect_of	affects
+-1
+-6.654443025588989
+___
+diagnostic_procedure	neuroreactive_substance_or_biogenic_amine	pathologic_function
+assesses_effect_of	affects
+-1
+-6.654443025588989
+___
+diagnostic_procedure	neuroreactive_substance_or_biogenic_amine	organ_or_tissue_function
+assesses_effect_of	affects
+-1
+-6.654443025588989
+___
+diagnostic_procedure	neuroreactive_substance_or_biogenic_amine	molecular_function
+assesses_effect_of	affects
+-1
+-6.654443025588989
+___
+diagnostic_procedure	neuroreactive_substance_or_biogenic_amine	mental_process
+assesses_effect_of	affects
+-1
+-6.654443025588989
+___
+diagnostic_procedure	neuroreactive_substance_or_biogenic_amine	cell_function
+assesses_effect_of	affects
+-1
+-6.654443025588989
+___
+diagnostic_procedure	neuroreactive_substance_or_biogenic_amine	biologic_function
+assesses_effect_of	affects
+-1
+-6.654443025588989
+___
+diagnostic_procedure	neuroreactive_substance_or_biogenic_amine	genetic_function
+assesses_effect_of	affects
+-1
+-6.654443025588989
+___
+#####################
+patient_or_disabled_group	research_device
+Reward:1
+patient_or_disabled_group	group	research_device
+interacts_with	uses
+1
+-0.028020362980896607
+___
+patient_or_disabled_group	group	group
+interacts_with	NO_OP
+-1
+-3.7199491333740298
+___
+patient_or_disabled_group	group	occupation_or_discipline
+interacts_with	issue_in
+-1
+-7.0035976242797915
+___
+patient_or_disabled_group	group	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-7.0035976242797915
+___
+patient_or_disabled_group	patient_or_disabled_group	research_device
+NO_OP	produces
+1
+-7.675032967701554
+___
+patient_or_disabled_group	group	social_behavior
+interacts_with	performs
+-1
+-9.591899282910163
+___
+patient_or_disabled_group	group	molecular_biology_research_technique
+interacts_with	performs
+-1
+-9.591899282910163
+___
+patient_or_disabled_group	group	diagnostic_procedure
+interacts_with	performs
+-1
+-9.591899282910163
+___
+patient_or_disabled_group	group	occupational_activity
+interacts_with	performs
+-1
+-9.591899282910163
+___
+patient_or_disabled_group	group	laboratory_procedure
+interacts_with	performs
+-1
+-9.591899282910163
+___
+patient_or_disabled_group	group	activity
+interacts_with	performs
+-1
+-9.591899282910163
+___
+patient_or_disabled_group	group	daily_or_recreational_activity
+interacts_with	performs
+-1
+-9.591899282910163
+___
+patient_or_disabled_group	group	individual_behavior
+interacts_with	performs
+-1
+-9.591899282910163
+___
+patient_or_disabled_group	group	research_activity
+interacts_with	performs
+-1
+-9.591899282910163
+___
+patient_or_disabled_group	group	behavior
+interacts_with	performs
+-1
+-9.591899282910163
+___
+patient_or_disabled_group	group	educational_activity
+interacts_with	performs
+-1
+-9.591899282910163
+___
+patient_or_disabled_group	group	health_care_activity
+interacts_with	performs
+-1
+-9.591899282910163
+___
+patient_or_disabled_group	group	governmental_or_regulatory_activity
+interacts_with	performs
+-1
+-9.591899282910163
+___
+patient_or_disabled_group	group	therapeutic_or_preventive_procedure
+interacts_with	performs
+-1
+-9.591899282910163
+___
+patient_or_disabled_group	group	entity
+interacts_with	isa
+-1
+-10.031749136425788
+___
+patient_or_disabled_group	group	conceptual_entity
+interacts_with	isa
+-1
+-10.031749136425788
+___
+patient_or_disabled_group	group	behavior
+interacts_with	exhibits
+-1
+-10.384374029614264
+___
+patient_or_disabled_group	group	social_behavior
+interacts_with	exhibits
+-1
+-10.384374029614264
+___
+patient_or_disabled_group	patient_or_disabled_group	patient_or_disabled_group
+NO_OP	NO_OP
+-1
+-13.790707111358643
+___
+patient_or_disabled_group	classification	occupation_or_discipline
+uses	issue_in
+-1
+-14.445770293474197
+___
+patient_or_disabled_group	group	research_device
+isa	uses
+1
+-14.69646517932415
+___
+patient_or_disabled_group	entity	entity
+isa	NO_OP
+-1
+-14.70108000934124
+___
+patient_or_disabled_group	conceptual_entity	conceptual_entity
+isa	NO_OP
+-1
+-14.702289044857025
+___
+patient_or_disabled_group	patient_or_disabled_group	group
+NO_OP	interacts_with
+-1
+-14.953287124633789
+___
+patient_or_disabled_group	intellectual_product	diagnostic_procedure
+uses	conceptual_part_of
+-1
+-14.984951972961426
+___
+patient_or_disabled_group	patient_or_disabled_group	biomedical_occupation_or_discipline
+NO_OP	issue_in
+-1
+-15.634722709655762
+___
+patient_or_disabled_group	intellectual_product	occupation_or_discipline
+uses	issue_in
+-1
+-15.944145441055298
+___
+patient_or_disabled_group	intellectual_product	biomedical_occupation_or_discipline
+uses	issue_in
+-1
+-15.944145441055298
+___
+patient_or_disabled_group	classification	occupation_or_discipline
+produces	issue_in
+-1
+-16.13621810078621
+___
+patient_or_disabled_group	research_device	research_device
+produces	NO_OP
+1
+-16.342295929789543
+___
+patient_or_disabled_group	manufactured_object	injury_or_poisoning
+uses	causes
+-1
+-16.565590858459473
+___
+patient_or_disabled_group	manufactured_object	disease_or_syndrome
+uses	causes
+-1
+-16.565590858459473
+___
+patient_or_disabled_group	manufactured_object	pathologic_function
+uses	causes
+-1
+-16.565590858459473
+___
+patient_or_disabled_group	manufactured_object	anatomical_abnormality
+uses	causes
+-1
+-16.565590858459473
+___
+patient_or_disabled_group	manufactured_object	experimental_model_of_disease
+uses	causes
+-1
+-16.565590858459473
+___
+patient_or_disabled_group	manufactured_object	congenital_abnormality
+uses	causes
+-1
+-16.565590858459473
+___
+patient_or_disabled_group	clinical_drug	cell_or_molecular_dysfunction
+uses	causes
+-1
+-16.565590858459473
+___
+patient_or_disabled_group	clinical_drug	experimental_model_of_disease
+uses	causes
+-1
+-16.565590858459473
+___
+patient_or_disabled_group	clinical_drug	congenital_abnormality
+uses	causes
+-1
+-16.565590858459473
+___
+patient_or_disabled_group	clinical_drug	pathologic_function
+uses	causes
+-1
+-16.565590858459473
+___
+patient_or_disabled_group	clinical_drug	neoplastic_process
+uses	causes
+-1
+-16.565590858459473
+___
+patient_or_disabled_group	clinical_drug	disease_or_syndrome
+uses	causes
+-1
+-16.565590858459473
+___
+patient_or_disabled_group	manufactured_object	acquired_abnormality
+uses	causes
+-1
+-16.565590858459473
+___
+patient_or_disabled_group	clinical_drug	mental_or_behavioral_dysfunction
+uses	causes
+-1
+-16.565590858459473
+___
+patient_or_disabled_group	regulation_or_law	population_group
+uses	affects
+-1
+-16.69539475440979
+___
+patient_or_disabled_group	regulation_or_law	organization
+uses	affects
+-1
+-16.69539475440979
+___
+patient_or_disabled_group	regulation_or_law	group
+uses	affects
+-1
+-16.69539475440979
+___
+patient_or_disabled_group	regulation_or_law	self_help_or_relief_organization
+uses	affects
+-1
+-16.69539475440979
+___
+patient_or_disabled_group	regulation_or_law	family_group
+uses	affects
+-1
+-16.69539475440979
+___
+patient_or_disabled_group	regulation_or_law	professional_or_occupational_group
+uses	affects
+-1
+-16.69539475440979
+___
+patient_or_disabled_group	regulation_or_law	age_group
+uses	affects
+-1
+-16.69539475440979
+___
+patient_or_disabled_group	regulation_or_law	professional_society
+uses	affects
+-1
+-16.69539475440979
+___
+patient_or_disabled_group	regulation_or_law	patient_or_disabled_group
+uses	affects
+-1
+-16.69539475440979
+___
+patient_or_disabled_group	regulation_or_law	health_care_related_organization
+uses	affects
+-1
+-16.69539475440979
+___
+patient_or_disabled_group	manufactured_object	occupation_or_discipline
+uses	issue_in
+-1
+-16.73268175125122
+___
+patient_or_disabled_group	clinical_drug	occupation_or_discipline
+uses	issue_in
+-1
+-16.73268175125122
+___
+patient_or_disabled_group	manufactured_object	biomedical_occupation_or_discipline
+uses	issue_in
+-1
+-16.73268175125122
+___
+patient_or_disabled_group	clinical_drug	biomedical_occupation_or_discipline
+uses	issue_in
+-1
+-16.73268175125122
+___
+patient_or_disabled_group	group	group
+isa	NO_OP
+-1
+-16.79510188102722
+___
+patient_or_disabled_group	activity	activity
+performs	NO_OP
+-1
+-16.80793059617281
+___
+patient_or_disabled_group	daily_or_recreational_activity	daily_or_recreational_activity
+performs	NO_OP
+-1
+-16.810374587774277
+___
+patient_or_disabled_group	biomedical_occupation_or_discipline	biomedical_occupation_or_discipline
+issue_in	NO_OP
+-1
+-16.87087941914797
+___
+patient_or_disabled_group	intellectual_product	diagnostic_procedure
+produces	conceptual_part_of
+-1
+-16.873197376728058
+___
+patient_or_disabled_group	patient_or_disabled_group	health_care_activity
+NO_OP	performs
+-1
+-17.033134937286377
+___
+patient_or_disabled_group	patient_or_disabled_group	research_activity
+NO_OP	performs
+-1
+-17.033134937286377
+___
+patient_or_disabled_group	patient_or_disabled_group	behavior
+NO_OP	performs
+-1
+-17.033134937286377
+___
+patient_or_disabled_group	patient_or_disabled_group	educational_activity
+NO_OP	performs
+-1
+-17.033134937286377
+___
+patient_or_disabled_group	patient_or_disabled_group	machine_activity
+NO_OP	performs
+-1
+-17.033134937286377
+___
+patient_or_disabled_group	patient_or_disabled_group	therapeutic_or_preventive_procedure
+NO_OP	performs
+-1
+-17.033134937286377
+___
+patient_or_disabled_group	patient_or_disabled_group	molecular_biology_research_technique
+NO_OP	performs
+-1
+-17.033134937286377
+___
+patient_or_disabled_group	patient_or_disabled_group	daily_or_recreational_activity
+NO_OP	performs
+-1
+-17.033134937286377
+___
+patient_or_disabled_group	patient_or_disabled_group	diagnostic_procedure
+NO_OP	performs
+-1
+-17.033134937286377
+___
+patient_or_disabled_group	patient_or_disabled_group	activity
+NO_OP	performs
+-1
+-17.033134937286377
+___
+patient_or_disabled_group	patient_or_disabled_group	social_behavior
+NO_OP	performs
+-1
+-17.033134937286377
+___
+patient_or_disabled_group	patient_or_disabled_group	laboratory_procedure
+NO_OP	performs
+-1
+-17.033134937286377
+___
+patient_or_disabled_group	educational_activity	educational_activity
+performs	NO_OP
+-1
+-17.131698042154312
+___
+patient_or_disabled_group	machine_activity	machine_activity
+performs	NO_OP
+-1
+-17.14152753353119
+___
+patient_or_disabled_group	entity	occupation_or_discipline
+isa	issue_in
+-1
+-17.28313970565796
+___
+patient_or_disabled_group	entity	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-17.28313970565796
+___
+patient_or_disabled_group	conceptual_entity	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-17.284348726272583
+___
+patient_or_disabled_group	conceptual_entity	occupation_or_discipline
+isa	issue_in
+-1
+-17.284348726272583
+___
+patient_or_disabled_group	classification	entity
+uses	isa
+-1
+-17.352937936782837
+___
+patient_or_disabled_group	intellectual_product	biomedical_occupation_or_discipline
+produces	issue_in
+-1
+-17.452312469482422
+___
+patient_or_disabled_group	intellectual_product	occupation_or_discipline
+produces	issue_in
+-1
+-17.452312469482422
+___
+patient_or_disabled_group	medical_device	sign_or_symptom
+uses	treats
+-1
+-17.493793725967407
+___
+patient_or_disabled_group	medical_device	anatomical_abnormality
+uses	treats
+-1
+-17.493793725967407
+___
+patient_or_disabled_group	medical_device	congenital_abnormality
+uses	treats
+-1
+-17.493793725967407
+___
+patient_or_disabled_group	medical_device	cell_or_molecular_dysfunction
+uses	treats
+-1
+-17.493793725967407
+___
+patient_or_disabled_group	medical_device	neoplastic_process
+uses	treats
+-1
+-17.493793725967407
+___
+patient_or_disabled_group	medical_device	injury_or_poisoning
+uses	treats
+-1
+-17.493793725967407
+___
+patient_or_disabled_group	medical_device	disease_or_syndrome
+uses	treats
+-1
+-17.493793725967407
+___
+patient_or_disabled_group	medical_device	acquired_abnormality
+uses	causes
+-1
+-17.500609397888184
+___
+patient_or_disabled_group	medical_device	experimental_model_of_disease
+uses	causes
+-1
+-17.500609397888184
+___
+patient_or_disabled_group	medical_device	pathologic_function
+uses	causes
+-1
+-17.500609397888184
+___
+patient_or_disabled_group	medical_device	neoplastic_process
+uses	causes
+-1
+-17.500609397888184
+___
+#####################
+professional_or_occupational_group	drug_delivery_device
+Reward:1
+professional_or_occupational_group	group	drug_delivery_device
+interacts_with	produces
+1
+-1.107946129515767
+___
+professional_or_occupational_group	patient_or_disabled_group	drug_delivery_device
+interacts_with	produces
+1
+-1.10798570048064
+___
+professional_or_occupational_group	family_group	drug_delivery_device
+interacts_with	produces
+1
+-1.1080425139516592
+___
+professional_or_occupational_group	group	drug_delivery_device
+interacts_with	uses
+1
+-5.824915170669556
+___
+professional_or_occupational_group	patient_or_disabled_group	drug_delivery_device
+interacts_with	uses
+1
+-5.8249547481536865
+___
+professional_or_occupational_group	family_group	drug_delivery_device
+interacts_with	uses
+1
+-5.825011491775513
+___
+professional_or_occupational_group	professional_or_occupational_group	drug_delivery_device
+NO_OP	produces
+1
+-8.7770981118083
+___
+professional_or_occupational_group	group	group
+interacts_with	NO_OP
+-1
+-9.51684308052063
+___
+professional_or_occupational_group	patient_or_disabled_group	patient_or_disabled_group
+interacts_with	NO_OP
+-1
+-9.516883134841919
+___
+professional_or_occupational_group	family_group	family_group
+interacts_with	NO_OP
+-1
+-9.516940355300903
+___
+professional_or_occupational_group	patient_or_disabled_group	group
+interacts_with	interacts_with
+-1
+-11.030840158462524
+___
+professional_or_occupational_group	family_group	age_group
+interacts_with	interacts_with
+-1
+-11.030897378921509
+___
+professional_or_occupational_group	family_group	patient_or_disabled_group
+interacts_with	interacts_with
+-1
+-11.030897378921509
+___
+professional_or_occupational_group	patient_or_disabled_group	group
+treats	interacts_with
+-1
+-11.920433044433594
+___
+professional_or_occupational_group	patient_or_disabled_group	drug_delivery_device
+treats	produces
+1
+-11.979720115661621
+___
+professional_or_occupational_group	patient_or_disabled_group	patient_or_disabled_group
+treats	NO_OP
+-1
+-12.284298658370972
+___
+professional_or_occupational_group	group	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-12.800492525100708
+___
+professional_or_occupational_group	group	occupation_or_discipline
+interacts_with	issue_in
+-1
+-12.800492525100708
+___
+professional_or_occupational_group	patient_or_disabled_group	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-12.800532579421997
+___
+professional_or_occupational_group	family_group	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-12.800589799880981
+___
+professional_or_occupational_group	family_group	occupation_or_discipline
+interacts_with	issue_in
+-1
+-12.800589799880981
+___
+professional_or_occupational_group	patient_or_disabled_group	drug_delivery_device
+treats	uses
+1
+-14.312232971191406
+___
+professional_or_occupational_group	professional_society	professional_society
+manages	NO_OP
+-1
+-14.617473999038339
+___
+professional_or_occupational_group	organization	organization
+manages	NO_OP
+-1
+-14.619393277913332
+___
+professional_or_occupational_group	health_care_related_organization	health_care_related_organization
+manages	NO_OP
+-1
+-14.667807541787624
+___
+professional_or_occupational_group	self_help_or_relief_organization	self_help_or_relief_organization
+manages	NO_OP
+-1
+-14.668110601603985
+___
+professional_or_occupational_group	professional_or_occupational_group	professional_or_occupational_group
+NO_OP	NO_OP
+-1
+-14.892772197723389
+___
+professional_or_occupational_group	pathologic_function	disease_or_syndrome
+diagnoses	precedes
+-1
+-15.08176076412201
+___
+professional_or_occupational_group	pathologic_function	experimental_model_of_disease
+diagnoses	precedes
+-1
+-15.08176076412201
+___
+professional_or_occupational_group	disease_or_syndrome	cell_or_molecular_dysfunction
+diagnoses	precedes
+-1
+-15.344300985336304
+___
+professional_or_occupational_group	disease_or_syndrome	mental_or_behavioral_dysfunction
+diagnoses	precedes
+-1
+-15.344300985336304
+___
+professional_or_occupational_group	disease_or_syndrome	pathologic_function
+diagnoses	precedes
+-1
+-15.344300985336304
+___
+professional_or_occupational_group	disease_or_syndrome	experimental_model_of_disease
+diagnoses	precedes
+-1
+-15.344300985336304
+___
+professional_or_occupational_group	group	behavior
+interacts_with	performs
+-1
+-15.388793230056763
+___
+professional_or_occupational_group	group	research_activity
+interacts_with	performs
+-1
+-15.388793230056763
+___
+professional_or_occupational_group	group	molecular_biology_research_technique
+interacts_with	performs
+-1
+-15.388793230056763
+___
+professional_or_occupational_group	group	activity
+interacts_with	performs
+-1
+-15.388793230056763
+___
+professional_or_occupational_group	group	health_care_activity
+interacts_with	performs
+-1
+-15.388793230056763
+___
+professional_or_occupational_group	group	social_behavior
+interacts_with	performs
+-1
+-15.388793230056763
+___
+professional_or_occupational_group	group	laboratory_procedure
+interacts_with	performs
+-1
+-15.388793230056763
+___
+professional_or_occupational_group	group	educational_activity
+interacts_with	performs
+-1
+-15.388793230056763
+___
+professional_or_occupational_group	group	therapeutic_or_preventive_procedure
+interacts_with	performs
+-1
+-15.388793230056763
+___
+professional_or_occupational_group	group	daily_or_recreational_activity
+interacts_with	performs
+-1
+-15.388793230056763
+___
+professional_or_occupational_group	group	diagnostic_procedure
+interacts_with	performs
+-1
+-15.388793230056763
+___
+professional_or_occupational_group	group	occupational_activity
+interacts_with	performs
+-1
+-15.388793230056763
+___
+professional_or_occupational_group	group	individual_behavior
+interacts_with	performs
+-1
+-15.388793230056763
+___
+professional_or_occupational_group	group	governmental_or_regulatory_activity
+interacts_with	performs
+-1
+-15.388793230056763
+___
+professional_or_occupational_group	patient_or_disabled_group	laboratory_procedure
+interacts_with	performs
+-1
+-15.388833284378052
+___
+professional_or_occupational_group	patient_or_disabled_group	daily_or_recreational_activity
+interacts_with	performs
+-1
+-15.388833284378052
+___
+professional_or_occupational_group	patient_or_disabled_group	machine_activity
+interacts_with	performs
+-1
+-15.388833284378052
+___
+professional_or_occupational_group	patient_or_disabled_group	diagnostic_procedure
+interacts_with	performs
+-1
+-15.388833284378052
+___
+professional_or_occupational_group	patient_or_disabled_group	activity
+interacts_with	performs
+-1
+-15.388833284378052
+___
+professional_or_occupational_group	patient_or_disabled_group	research_activity
+interacts_with	performs
+-1
+-15.388833284378052
+___
+professional_or_occupational_group	patient_or_disabled_group	educational_activity
+interacts_with	performs
+-1
+-15.388833284378052
+___
+professional_or_occupational_group	patient_or_disabled_group	social_behavior
+interacts_with	performs
+-1
+-15.388833284378052
+___
+professional_or_occupational_group	patient_or_disabled_group	molecular_biology_research_technique
+interacts_with	performs
+-1
+-15.388833284378052
+___
+professional_or_occupational_group	patient_or_disabled_group	health_care_activity
+interacts_with	performs
+-1
+-15.388833284378052
+___
+professional_or_occupational_group	patient_or_disabled_group	therapeutic_or_preventive_procedure
+interacts_with	performs
+-1
+-15.388833284378052
+___
+professional_or_occupational_group	patient_or_disabled_group	behavior
+interacts_with	performs
+-1
+-15.388833284378052
+___
+professional_or_occupational_group	family_group	governmental_or_regulatory_activity
+interacts_with	performs
+-1
+-15.388890504837036
+___
+professional_or_occupational_group	family_group	diagnostic_procedure
+interacts_with	performs
+-1
+-15.388890504837036
+___
+professional_or_occupational_group	family_group	behavior
+interacts_with	performs
+-1
+-15.388890504837036
+___
+professional_or_occupational_group	family_group	machine_activity
+interacts_with	performs
+-1
+-15.388890504837036
+___
+professional_or_occupational_group	family_group	health_care_activity
+interacts_with	performs
+-1
+-15.388890504837036
+___
+professional_or_occupational_group	family_group	individual_behavior
+interacts_with	performs
+-1
+-15.388890504837036
+___
+professional_or_occupational_group	family_group	occupational_activity
+interacts_with	performs
+-1
+-15.388890504837036
+___
+professional_or_occupational_group	family_group	educational_activity
+interacts_with	performs
+-1
+-15.388890504837036
+___
+professional_or_occupational_group	family_group	activity
+interacts_with	performs
+-1
+-15.388890504837036
+___
+professional_or_occupational_group	family_group	molecular_biology_research_technique
+interacts_with	performs
+-1
+-15.388890504837036
+___
+professional_or_occupational_group	family_group	social_behavior
+interacts_with	performs
+-1
+-15.388890504837036
+___
+professional_or_occupational_group	family_group	daily_or_recreational_activity
+interacts_with	performs
+-1
+-15.388890504837036
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	pathologic_function
+diagnoses	precedes
+-1
+-15.441227793693542
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+diagnoses	precedes
+-1
+-15.441227793693542
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	neoplastic_process
+diagnoses	precedes
+-1
+-15.441227793693542
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	disease_or_syndrome
+diagnoses	precedes
+-1
+-15.441227793693542
+___
+professional_or_occupational_group	mental_or_behavioral_dysfunction	neoplastic_process
+diagnoses	precedes
+-1
+-15.496652364730835
+___
+professional_or_occupational_group	mental_or_behavioral_dysfunction	experimental_model_of_disease
+diagnoses	precedes
+-1
+-15.496652364730835
+___
+professional_or_occupational_group	mental_or_behavioral_dysfunction	disease_or_syndrome
+diagnoses	precedes
+-1
+-15.496652364730835
+___
+professional_or_occupational_group	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+diagnoses	precedes
+-1
+-15.496652364730835
+___
+professional_or_occupational_group	mental_or_behavioral_dysfunction	pathologic_function
+diagnoses	precedes
+-1
+-15.496652364730835
+___
+professional_or_occupational_group	neoplastic_process	pathologic_function
+diagnoses	precedes
+-1
+-15.52403461933136
+___
+professional_or_occupational_group	neoplastic_process	experimental_model_of_disease
+diagnoses	precedes
+-1
+-15.52403461933136
+___
+professional_or_occupational_group	neoplastic_process	mental_or_behavioral_dysfunction
+diagnoses	precedes
+-1
+-15.52403461933136
+___
+professional_or_occupational_group	neoplastic_process	disease_or_syndrome
+diagnoses	precedes
+-1
+-15.52403461933136
+___
+professional_or_occupational_group	classification	occupation_or_discipline
+uses	issue_in
+-1
+-15.544093161821365
+___
+professional_or_occupational_group	occupation_or_discipline	occupation_or_discipline
+practices	NO_OP
+-1
+-15.55175865907222
+___
+professional_or_occupational_group	biomedical_occupation_or_discipline	biomedical_occupation_or_discipline
+practices	NO_OP
+-1
+-15.55175865907222
+___
+professional_or_occupational_group	pathologic_function	neoplastic_process
+diagnoses	degree_of
+-1
+-15.565868854522705
+___
+professional_or_occupational_group	pathologic_function	disease_or_syndrome
+diagnoses	degree_of
+-1
+-15.565868854522705
+___
+professional_or_occupational_group	pathologic_function	experimental_model_of_disease
+diagnoses	degree_of
+-1
+-15.565868854522705
+___
+professional_or_occupational_group	pathologic_function	cell_or_molecular_dysfunction
+diagnoses	degree_of
+-1
+-15.565868854522705
+___
+professional_or_occupational_group	conceptual_entity	conceptual_entity
+isa	NO_OP
+-1
+-15.800611913204193
+___
+professional_or_occupational_group	disease_or_syndrome	pathologic_function
+diagnoses	degree_of
+-1
+-15.82840895652771
+___
+professional_or_occupational_group	disease_or_syndrome	neoplastic_process
+diagnoses	degree_of
+-1
+-15.82840895652771
+___
+professional_or_occupational_group	disease_or_syndrome	experimental_model_of_disease
+diagnoses	degree_of
+-1
+-15.82840895652771
+___
+professional_or_occupational_group	group	conceptual_entity
+interacts_with	isa
+-1
+-15.828644037246704
+___
+professional_or_occupational_group	group	entity
+interacts_with	isa
+-1
+-15.828644037246704
+___
+professional_or_occupational_group	patient_or_disabled_group	entity
+interacts_with	isa
+-1
+-15.828684091567993
+___
+professional_or_occupational_group	patient_or_disabled_group	conceptual_entity
+interacts_with	isa
+-1
+-15.828684091567993
+___
+professional_or_occupational_group	patient_or_disabled_group	group
+interacts_with	isa
+-1
+-15.828684091567993
+___
+#####################

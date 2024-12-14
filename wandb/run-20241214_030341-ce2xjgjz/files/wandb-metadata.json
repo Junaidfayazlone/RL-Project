@@ -1,0 +1,77 @@
+{
+  "os": "Linux-6.8.0-49-generic-x86_64-with-debian-bookworm-sid",
+  "python": "3.7.12",
+  "startedAt": "2024-12-13T21:33:41.782974Z",
+  "args": [
+    "--base_output_dir",
+    "train_results/nell/worksfor",
+    "--path_length",
+    "3",
+    "--hidden_size",
+    "50",
+    "--embedding_size",
+    "50",
+    "--batch_size",
+    "128",
+    "--beta",
+    "0.05",
+    "--Lambda",
+    "0.02",
+    "--use_entity_embeddings",
+    "0",
+    "--train_entity_embeddings",
+    "0",
+    "--train_relation_embeddings",
+    "1",
+    "--data_input_dir",
+    "datasets/data_preprocessed/nell/",
+    "--vocab_dir",
+    "datasets/data_preprocessed/nell/vocab",
+    "--model_load_dir",
+    "/home/sdhuliawala/logs/RL-Path-RNN/nnnn/45de_3_0.06_10_0.0/model/model.ckpt",
+    "--load_model",
+    "0",
+    "--total_iterations",
+    "3000",
+    "--nell_evaluation",
+    "0"
+  ],
+  "program": "code/model/trainer.py",
+  "codePath": "code/model/trainer.py",
+  "git": {
+    "remote": "git@github.com:shehzaadzd/MINERVA.git",
+    "commit": "d2f44ad7b48490fe73627cdd357e1465d67d9d75"
+  },
+  "email": "shashank23088@iiitd.ac.in",
+  "root": "/home/sgsharma/Documents/sem3/rl/project/MINERVA",
+  "host": "daclaro",
+  "username": "sgsharma",
+  "executable": "/home/sgsharma/anaconda3/envs/minerva/bin/python",
+  "codePathLocal": "code/model/trainer.py",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "gpu": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "315925266432",
+      "used": "200863686656"
+    }
+  },
+  "memory": {
+    "total": "15966420992"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 16
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+      "memoryTotal": "4294967296",
+      "cudaCores": 2560,
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.6"
+}

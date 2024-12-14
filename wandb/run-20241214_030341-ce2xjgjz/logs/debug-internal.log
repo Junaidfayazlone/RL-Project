@@ -1,0 +1,17 @@
+{"time":"2024-12-14T03:03:41.78364871+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-12-14T03:03:41.783657556+05:30","level":"INFO","msg":"created symlink","path":"/home/sgsharma/Documents/sem3/rl/project/MINERVA/wandb/run-20241214_030341-ce2xjgjz/logs/debug-core.log"}
+{"time":"2024-12-14T03:03:41.887822192+05:30","level":"INFO","msg":"created new stream","id":"ce2xjgjz"}
+{"time":"2024-12-14T03:03:41.887844062+05:30","level":"INFO","msg":"stream: started","id":"ce2xjgjz"}
+{"time":"2024-12-14T03:03:41.887868787+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ce2xjgjz"}
+{"time":"2024-12-14T03:03:41.887873566+05:30","level":"INFO","msg":"sender: started","stream_id":"ce2xjgjz"}
+{"time":"2024-12-14T03:03:41.887877082+05:30","level":"INFO","msg":"handler: started","stream_id":"ce2xjgjz"}
+{"time":"2024-12-14T03:03:42.34256037+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-14T03:51:40.249003639+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-14T03:51:40.249549744+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-14T03:51:41.250056208+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.342580577},{"desc":"uploading wandb-summary.json","runtime_seconds":0.317797923,"progress":"197B/197B"},{"desc":"uploading config.yaml","runtime_seconds":0.00041803},{"desc":"uploading output.log","runtime_seconds":0.000405156,"progress":"16.0KB/1.2MB"}],"total_operations":4}}
+{"time":"2024-12-14T03:51:45.366990671+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-14T03:51:46.703147013+05:30","level":"INFO","msg":"stream: closing","id":"ce2xjgjz"}
+{"time":"2024-12-14T03:51:46.70320502+05:30","level":"INFO","msg":"handler: closed","stream_id":"ce2xjgjz"}
+{"time":"2024-12-14T03:51:46.703238291+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ce2xjgjz"}
+{"time":"2024-12-14T03:51:46.703256294+05:30","level":"INFO","msg":"sender: closed","stream_id":"ce2xjgjz"}
+{"time":"2024-12-14T03:51:46.703337533+05:30","level":"INFO","msg":"stream: closed","id":"ce2xjgjz"}
