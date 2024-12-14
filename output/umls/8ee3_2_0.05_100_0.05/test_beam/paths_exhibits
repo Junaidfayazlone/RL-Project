@@ -1,0 +1,2515 @@
+vertebrate	individual_behavior
+Reward:1
+vertebrate	human	individual_behavior
+interacts_with	exhibits
+1
+-2.0794779062271047
+___
+vertebrate	bird	individual_behavior
+interacts_with	exhibits
+1
+-2.079478144645634
+___
+vertebrate	reptile	individual_behavior
+interacts_with	exhibits
+1
+-2.079478144645634
+___
+vertebrate	organism	organism
+interacts_with	NO_OP
+-1
+-3.3292205333709717
+___
+vertebrate	organism	occupation_or_discipline
+interacts_with	issue_in
+-1
+-3.399585485458374
+___
+vertebrate	organism	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-3.399585485458374
+___
+vertebrate	archaeon	organism
+interacts_with	interacts_with
+-1
+-3.5228841304779053
+___
+vertebrate	organism	entity
+interacts_with	isa
+-1
+-3.7986834049224854
+___
+vertebrate	archaeon	archaeon
+interacts_with	NO_OP
+-1
+-3.9048879146575928
+___
+vertebrate	fish	human
+interacts_with	interacts_with
+-1
+-3.9439538717269897
+___
+vertebrate	fish	mammal
+interacts_with	interacts_with
+-1
+-3.9439538717269897
+___
+vertebrate	fish	reptile
+interacts_with	interacts_with
+-1
+-3.9439538717269897
+___
+vertebrate	archaeon	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-3.975252866744995
+___
+vertebrate	archaeon	occupation_or_discipline
+interacts_with	issue_in
+-1
+-3.975252866744995
+___
+vertebrate	mammal	human
+interacts_with	interacts_with
+-1
+-3.9758803844451904
+___
+vertebrate	mammal	archaeon
+interacts_with	interacts_with
+-1
+-3.9758803844451904
+___
+vertebrate	mammal	organism
+interacts_with	interacts_with
+-1
+-3.9758803844451904
+___
+vertebrate	fish	fish
+interacts_with	NO_OP
+-1
+-4.325957775115967
+___
+vertebrate	mammal	mammal
+interacts_with	NO_OP
+-1
+-4.357884168624878
+___
+vertebrate	archaeon	physical_object
+interacts_with	isa
+-1
+-4.3743507862091064
+___
+vertebrate	archaeon	organism
+interacts_with	isa
+-1
+-4.3743507862091064
+___
+vertebrate	archaeon	entity
+interacts_with	isa
+-1
+-4.3743507862091064
+___
+vertebrate	amphibian	fish
+interacts_with	interacts_with
+-1
+-4.3908913135528564
+___
+vertebrate	amphibian	organism
+interacts_with	interacts_with
+-1
+-4.3908913135528564
+___
+vertebrate	amphibian	reptile
+interacts_with	interacts_with
+-1
+-4.3908913135528564
+___
+vertebrate	amphibian	human
+interacts_with	interacts_with
+-1
+-4.3908913135528564
+___
+vertebrate	amphibian	mammal
+interacts_with	interacts_with
+-1
+-4.3908913135528564
+___
+vertebrate	amphibian	bird
+interacts_with	interacts_with
+-1
+-4.3908913135528564
+___
+vertebrate	fish	occupation_or_discipline
+interacts_with	issue_in
+-1
+-4.396322727203369
+___
+vertebrate	mammal	occupation_or_discipline
+interacts_with	issue_in
+-1
+-4.42824912071228
+___
+vertebrate	mammal	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-4.42824912071228
+___
+vertebrate	amphibian	amphibian
+interacts_with	NO_OP
+-1
+-4.772895097732544
+___
+vertebrate	fish	vertebrate
+interacts_with	isa
+-1
+-4.7954206466674805
+___
+vertebrate	fish	animal
+interacts_with	isa
+-1
+-4.7954206466674805
+___
+vertebrate	fish	physical_object
+interacts_with	isa
+-1
+-4.7954206466674805
+___
+vertebrate	fish	organism
+interacts_with	isa
+-1
+-4.7954206466674805
+___
+vertebrate	fish	entity
+interacts_with	isa
+-1
+-4.7954206466674805
+___
+vertebrate	mammal	physical_object
+interacts_with	isa
+-1
+-4.827347040176392
+___
+vertebrate	mammal	organism
+interacts_with	isa
+-1
+-4.827347040176392
+___
+vertebrate	mammal	vertebrate
+interacts_with	isa
+-1
+-4.827347040176392
+___
+vertebrate	mammal	animal
+interacts_with	isa
+-1
+-4.827347040176392
+___
+vertebrate	amphibian	occupation_or_discipline
+interacts_with	issue_in
+-1
+-4.843260049819946
+___
+vertebrate	amphibian	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-4.843260049819946
+___
+vertebrate	amphibian	animal
+interacts_with	isa
+-1
+-5.242357969284058
+___
+vertebrate	amphibian	organism
+interacts_with	isa
+-1
+-5.242357969284058
+___
+vertebrate	amphibian	entity
+interacts_with	isa
+-1
+-5.242357969284058
+___
+vertebrate	amphibian	physical_object
+interacts_with	isa
+-1
+-5.242357969284058
+___
+vertebrate	amphibian	vertebrate
+interacts_with	isa
+-1
+-5.242357969284058
+___
+vertebrate	behavior	mental_process
+exhibits	affects
+-1
+-12.183496832847595
+___
+vertebrate	behavior	individual_behavior
+exhibits	affects
+1
+-12.183496832847595
+___
+vertebrate	social_behavior	individual_behavior
+exhibits	affects
+1
+-12.198404788970947
+___
+vertebrate	social_behavior	mental_process
+exhibits	affects
+-1
+-12.198404788970947
+___
+vertebrate	behavior	event
+exhibits	isa
+-1
+-13.349763870239258
+___
+vertebrate	behavior	activity
+exhibits	isa
+-1
+-13.349763870239258
+___
+vertebrate	social_behavior	event
+exhibits	isa
+-1
+-13.36467170715332
+___
+vertebrate	social_behavior	activity
+exhibits	isa
+-1
+-13.36467170715332
+___
+vertebrate	behavior	mental_or_behavioral_dysfunction
+exhibits	manifestation_of
+-1
+-13.41995906829834
+___
+vertebrate	behavior	mental_process
+exhibits	manifestation_of
+-1
+-13.41995906829834
+___
+vertebrate	social_behavior	mental_or_behavioral_dysfunction
+exhibits	manifestation_of
+-1
+-13.434866905212402
+___
+vertebrate	social_behavior	mental_process
+exhibits	manifestation_of
+-1
+-13.434866905212402
+___
+vertebrate	vertebrate	occupation_or_discipline
+NO_OP	issue_in
+-1
+-14.676058292388916
+___
+vertebrate	vertebrate	biomedical_occupation_or_discipline
+NO_OP	issue_in
+-1
+-14.676058292388916
+___
+vertebrate	social_behavior	mental_process
+exhibits	result_of
+-1
+-14.970478534698486
+___
+vertebrate	behavior	biomedical_occupation_or_discipline
+exhibits	issue_in
+-1
+-15.34040880203247
+___
+vertebrate	behavior	occupation_or_discipline
+exhibits	issue_in
+-1
+-15.34040880203247
+___
+vertebrate	social_behavior	biomedical_occupation_or_discipline
+exhibits	issue_in
+-1
+-15.355316638946533
+___
+vertebrate	social_behavior	occupation_or_discipline
+exhibits	issue_in
+-1
+-15.355316638946533
+___
+vertebrate	vertebrate	entity
+NO_OP	isa
+-1
+-15.536182403564453
+___
+vertebrate	vertebrate	organism
+NO_OP	isa
+-1
+-15.536182403564453
+___
+vertebrate	entity	occupation_or_discipline
+isa	issue_in
+-1
+-16.580876648426056
+___
+vertebrate	entity	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-16.580876648426056
+___
+vertebrate	organism	occupation_or_discipline
+isa	issue_in
+-1
+-16.626423001289368
+___
+vertebrate	organism	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-16.626423001289368
+___
+vertebrate	vertebrate	reptile
+NO_OP	interacts_with
+-1
+-16.94798517227173
+___
+vertebrate	vertebrate	amphibian
+NO_OP	interacts_with
+-1
+-16.94798517227173
+___
+vertebrate	vertebrate	organism
+NO_OP	interacts_with
+-1
+-16.94798517227173
+___
+vertebrate	vertebrate	fish
+NO_OP	interacts_with
+-1
+-16.94798517227173
+___
+vertebrate	vertebrate	archaeon
+NO_OP	interacts_with
+-1
+-16.94798517227173
+___
+vertebrate	vertebrate	mammal
+NO_OP	interacts_with
+-1
+-16.94798517227173
+___
+vertebrate	vertebrate	bird
+NO_OP	interacts_with
+-1
+-16.94798517227173
+___
+vertebrate	vertebrate	human
+NO_OP	interacts_with
+-1
+-16.94798517227173
+___
+vertebrate	vertebrate	vertebrate
+NO_OP	NO_OP
+-1
+-17.105477809906006
+___
+vertebrate	entity	entity
+isa	NO_OP
+-1
+-17.26755166053772
+___
+vertebrate	behavior	organism_attribute
+exhibits	associated_with
+-1
+-17.28863763809204
+___
+vertebrate	behavior	geographic_area
+exhibits	associated_with
+-1
+-17.28863763809204
+___
+vertebrate	behavior	biomedical_occupation_or_discipline
+exhibits	associated_with
+-1
+-17.28863763809204
+___
+vertebrate	behavior	family_group
+exhibits	associated_with
+-1
+-17.28863763809204
+___
+vertebrate	behavior	group
+exhibits	associated_with
+-1
+-17.28863763809204
+___
+vertebrate	behavior	patient_or_disabled_group
+exhibits	associated_with
+-1
+-17.28863763809204
+___
+vertebrate	behavior	clinical_attribute
+exhibits	associated_with
+-1
+-17.28863763809204
+___
+vertebrate	behavior	occupation_or_discipline
+exhibits	associated_with
+-1
+-17.28863763809204
+___
+vertebrate	behavior	group_attribute
+exhibits	associated_with
+-1
+-17.28863763809204
+___
+vertebrate	behavior	professional_or_occupational_group
+exhibits	associated_with
+-1
+-17.28863763809204
+___
+vertebrate	behavior	population_group
+exhibits	associated_with
+-1
+-17.28863763809204
+___
+vertebrate	social_behavior	age_group
+exhibits	associated_with
+-1
+-17.303545475006104
+___
+vertebrate	social_behavior	organism_attribute
+exhibits	associated_with
+-1
+-17.303545475006104
+___
+vertebrate	social_behavior	occupation_or_discipline
+exhibits	associated_with
+-1
+-17.303545475006104
+___
+vertebrate	social_behavior	population_group
+exhibits	associated_with
+-1
+-17.303545475006104
+___
+vertebrate	social_behavior	group_attribute
+exhibits	associated_with
+-1
+-17.303545475006104
+___
+vertebrate	social_behavior	group
+exhibits	associated_with
+-1
+-17.303545475006104
+___
+#####################
+group	individual_behavior
+Reward:1
+group	behavior	mental_process
+exhibits	affects
+-1
+-2.0141957998275757
+___
+group	behavior	individual_behavior
+exhibits	affects
+1
+-2.0141957998275757
+___
+group	social_behavior	mental_process
+exhibits	affects
+-1
+-2.0291037559509277
+___
+group	social_behavior	individual_behavior
+exhibits	affects
+1
+-2.0291037559509277
+___
+group	behavior	event
+exhibits	isa
+-1
+-3.1804628372192383
+___
+group	behavior	activity
+exhibits	isa
+-1
+-3.1804628372192383
+___
+group	social_behavior	activity
+exhibits	isa
+-1
+-3.195370674133301
+___
+group	social_behavior	event
+exhibits	isa
+-1
+-3.195370674133301
+___
+group	behavior	mental_or_behavioral_dysfunction
+exhibits	manifestation_of
+-1
+-3.2506580352783203
+___
+group	behavior	mental_process
+exhibits	manifestation_of
+-1
+-3.2506580352783203
+___
+group	social_behavior	mental_process
+exhibits	manifestation_of
+-1
+-3.265565872192383
+___
+group	social_behavior	mental_or_behavioral_dysfunction
+exhibits	manifestation_of
+-1
+-3.265565872192383
+___
+group	social_behavior	mental_process
+exhibits	result_of
+-1
+-4.801177501678467
+___
+group	behavior	occupation_or_discipline
+exhibits	issue_in
+-1
+-5.171107769012451
+___
+group	behavior	biomedical_occupation_or_discipline
+exhibits	issue_in
+-1
+-5.171107769012451
+___
+group	social_behavior	occupation_or_discipline
+exhibits	issue_in
+-1
+-5.186015605926514
+___
+group	social_behavior	biomedical_occupation_or_discipline
+exhibits	issue_in
+-1
+-5.186015605926514
+___
+group	intellectual_product	diagnostic_procedure
+uses	conceptual_part_of
+-1
+-5.326747387647629
+___
+group	group	molecular_biology_research_technique
+NO_OP	performs
+-1
+-5.667973279953003
+___
+group	group	governmental_or_regulatory_activity
+NO_OP	performs
+-1
+-5.667973279953003
+___
+group	group	health_care_activity
+NO_OP	performs
+-1
+-5.667973279953003
+___
+group	group	activity
+NO_OP	performs
+-1
+-5.667973279953003
+___
+group	group	diagnostic_procedure
+NO_OP	performs
+-1
+-5.667973279953003
+___
+group	group	individual_behavior
+NO_OP	performs
+1
+-5.667973279953003
+___
+group	group	therapeutic_or_preventive_procedure
+NO_OP	performs
+-1
+-5.667973279953003
+___
+group	group	laboratory_procedure
+NO_OP	performs
+-1
+-5.667973279953003
+___
+group	group	daily_or_recreational_activity
+NO_OP	performs
+-1
+-5.667973279953003
+___
+group	group	occupational_activity
+NO_OP	performs
+-1
+-5.667973279953003
+___
+group	group	research_activity
+NO_OP	performs
+-1
+-5.667973279953003
+___
+group	group	educational_activity
+NO_OP	performs
+-1
+-5.667973279953003
+___
+group	entity	occupation_or_discipline
+isa	issue_in
+-1
+-6.411575138568878
+___
+group	entity	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-6.411575138568878
+___
+group	conceptual_entity	occupation_or_discipline
+isa	issue_in
+-1
+-6.45712149143219
+___
+group	conceptual_entity	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-6.45712149143219
+___
+group	drug_delivery_device	experimental_model_of_disease
+uses	prevents
+-1
+-7.077941179275513
+___
+group	drug_delivery_device	injury_or_poisoning
+uses	prevents
+-1
+-7.077941179275513
+___
+group	drug_delivery_device	cell_or_molecular_dysfunction
+uses	prevents
+-1
+-7.077941179275513
+___
+group	drug_delivery_device	mental_or_behavioral_dysfunction
+uses	prevents
+-1
+-7.077941179275513
+___
+group	drug_delivery_device	neoplastic_process
+uses	prevents
+-1
+-7.077941179275513
+___
+group	drug_delivery_device	pathologic_function
+uses	prevents
+-1
+-7.077941179275513
+___
+group	entity	entity
+isa	NO_OP
+-1
+-7.098250150680542
+___
+group	behavior	family_group
+exhibits	associated_with
+-1
+-7.1193366050720215
+___
+group	behavior	organism_attribute
+exhibits	associated_with
+-1
+-7.1193366050720215
+___
+group	behavior	biomedical_occupation_or_discipline
+exhibits	associated_with
+-1
+-7.1193366050720215
+___
+group	behavior	professional_or_occupational_group
+exhibits	associated_with
+-1
+-7.1193366050720215
+___
+group	behavior	clinical_attribute
+exhibits	associated_with
+-1
+-7.1193366050720215
+___
+group	behavior	occupation_or_discipline
+exhibits	associated_with
+-1
+-7.1193366050720215
+___
+group	behavior	group_attribute
+exhibits	associated_with
+-1
+-7.1193366050720215
+___
+group	behavior	group
+exhibits	associated_with
+-1
+-7.1193366050720215
+___
+group	behavior	patient_or_disabled_group
+exhibits	associated_with
+-1
+-7.1193366050720215
+___
+group	behavior	population_group
+exhibits	associated_with
+-1
+-7.1193366050720215
+___
+group	behavior	geographic_area
+exhibits	associated_with
+-1
+-7.1193366050720215
+___
+group	social_behavior	family_group
+exhibits	associated_with
+-1
+-7.134244441986084
+___
+group	social_behavior	population_group
+exhibits	associated_with
+-1
+-7.134244441986084
+___
+group	social_behavior	biomedical_occupation_or_discipline
+exhibits	associated_with
+-1
+-7.134244441986084
+___
+group	social_behavior	age_group
+exhibits	associated_with
+-1
+-7.134244441986084
+___
+group	social_behavior	occupation_or_discipline
+exhibits	associated_with
+-1
+-7.134244441986084
+___
+group	social_behavior	group
+exhibits	associated_with
+-1
+-7.134244441986084
+___
+group	social_behavior	organism_attribute
+exhibits	associated_with
+-1
+-7.134244441986084
+___
+group	social_behavior	group_attribute
+exhibits	associated_with
+-1
+-7.134244441986084
+___
+group	social_behavior	clinical_attribute
+exhibits	associated_with
+-1
+-7.134244441986084
+___
+group	conceptual_entity	conceptual_entity
+isa	NO_OP
+-1
+-7.1437965631484985
+___
+group	manufactured_object	experimental_model_of_disease
+uses	causes
+-1
+-7.1740882396698
+___
+group	manufactured_object	acquired_abnormality
+uses	causes
+-1
+-7.1740882396698
+___
+group	manufactured_object	congenital_abnormality
+uses	causes
+-1
+-7.1740882396698
+___
+group	manufactured_object	anatomical_abnormality
+uses	causes
+-1
+-7.1740882396698
+___
+group	manufactured_object	pathologic_function
+uses	causes
+-1
+-7.1740882396698
+___
+group	manufactured_object	disease_or_syndrome
+uses	causes
+-1
+-7.1740882396698
+___
+group	manufactured_object	injury_or_poisoning
+uses	causes
+-1
+-7.1740882396698
+___
+group	clinical_drug	mental_or_behavioral_dysfunction
+uses	causes
+-1
+-7.174114108085632
+___
+group	clinical_drug	experimental_model_of_disease
+uses	causes
+-1
+-7.174114108085632
+___
+group	clinical_drug	disease_or_syndrome
+uses	causes
+-1
+-7.174114108085632
+___
+group	clinical_drug	congenital_abnormality
+uses	causes
+-1
+-7.174114108085632
+___
+group	clinical_drug	pathologic_function
+uses	causes
+-1
+-7.174114108085632
+___
+group	clinical_drug	neoplastic_process
+uses	causes
+-1
+-7.174114108085632
+___
+group	clinical_drug	cell_or_molecular_dysfunction
+uses	causes
+-1
+-7.174114108085632
+___
+group	medical_device	mental_or_behavioral_dysfunction
+uses	prevents
+-1
+-7.218768358230591
+___
+group	medical_device	neoplastic_process
+uses	prevents
+-1
+-7.218768358230591
+___
+group	medical_device	injury_or_poisoning
+uses	prevents
+-1
+-7.218768358230591
+___
+group	medical_device	pathologic_function
+uses	prevents
+-1
+-7.218768358230591
+___
+group	medical_device	cell_or_molecular_dysfunction
+uses	prevents
+-1
+-7.218768358230591
+___
+group	medical_device	disease_or_syndrome
+uses	prevents
+-1
+-7.218768358230591
+___
+group	medical_device	experimental_model_of_disease
+uses	prevents
+-1
+-7.218768358230591
+___
+group	activity	event
+performs	isa
+-1
+-7.301915645599365
+___
+group	research_device	pathologic_function
+uses	causes
+-1
+-7.307592391967773
+___
+group	research_device	congenital_abnormality
+uses	causes
+-1
+-7.307592391967773
+___
+group	research_device	neoplastic_process
+uses	causes
+-1
+-7.307592391967773
+___
+group	research_device	experimental_model_of_disease
+uses	causes
+-1
+-7.307592391967773
+___
+group	research_device	mental_or_behavioral_dysfunction
+uses	causes
+-1
+-7.307592391967773
+___
+group	research_device	injury_or_poisoning
+uses	causes
+-1
+-7.307592391967773
+___
+group	research_device	cell_or_molecular_dysfunction
+uses	causes
+-1
+-7.307592391967773
+___
+group	research_device	acquired_abnormality
+uses	causes
+-1
+-7.307592391967773
+___
+group	diagnostic_procedure	therapeutic_or_preventive_procedure
+performs	precedes
+-1
+-7.471786379814148
+___
+group	regulation_or_law	family_group
+uses	affects
+-1
+-7.532540559768677
+___
+group	regulation_or_law	professional_society
+uses	affects
+-1
+-7.532540559768677
+___
+group	regulation_or_law	population_group
+uses	affects
+-1
+-7.532540559768677
+___
+group	regulation_or_law	organization
+uses	affects
+-1
+-7.532540559768677
+___
+group	regulation_or_law	patient_or_disabled_group
+uses	affects
+-1
+-7.532540559768677
+___
+group	regulation_or_law	age_group
+uses	affects
+-1
+-7.532540559768677
+___
+group	regulation_or_law	health_care_related_organization
+uses	affects
+-1
+-7.532540559768677
+___
+#####################
+amphibian	social_behavior
+Reward:1
+amphibian	human	social_behavior
+interacts_with	exhibits
+1
+-1.7917855978012014
+___
+amphibian	fish	social_behavior
+interacts_with	exhibits
+1
+-1.7917857170104696
+___
+amphibian	mammal	social_behavior
+interacts_with	exhibits
+1
+-1.7917857170104696
+___
+amphibian	bird	social_behavior
+interacts_with	exhibits
+1
+-1.7917858362197308
+___
+amphibian	organism	organism
+interacts_with	NO_OP
+-1
+-3.0415282249450684
+___
+amphibian	organism	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-3.1118931770324707
+___
+amphibian	organism	occupation_or_discipline
+interacts_with	issue_in
+-1
+-3.1118931770324707
+___
+amphibian	organism	entity
+interacts_with	isa
+-1
+-3.510991096496582
+___
+amphibian	reptile	mammal
+interacts_with	interacts_with
+-1
+-3.8280436992645264
+___
+amphibian	reptile	archaeon
+interacts_with	interacts_with
+-1
+-3.8280436992645264
+___
+amphibian	reptile	human
+interacts_with	interacts_with
+-1
+-3.8280436992645264
+___
+amphibian	reptile	organism
+interacts_with	interacts_with
+-1
+-3.8280436992645264
+___
+amphibian	reptile	reptile
+interacts_with	NO_OP
+-1
+-4.210047483444214
+___
+amphibian	reptile	occupation_or_discipline
+interacts_with	issue_in
+-1
+-4.280412435531616
+___
+amphibian	reptile	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-4.280412435531616
+___
+amphibian	reptile	entity
+interacts_with	isa
+-1
+-4.6795103549957275
+___
+amphibian	reptile	animal
+interacts_with	isa
+-1
+-4.6795103549957275
+___
+amphibian	reptile	organism
+interacts_with	isa
+-1
+-4.6795103549957275
+___
+amphibian	reptile	physical_object
+interacts_with	isa
+-1
+-4.6795103549957275
+___
+amphibian	behavior	mental_process
+exhibits	affects
+-1
+-11.895803809165955
+___
+amphibian	behavior	social_behavior
+exhibits	affects
+1
+-11.895803809165955
+___
+amphibian	behavior	event
+exhibits	isa
+-1
+-13.062070846557617
+___
+amphibian	behavior	activity
+exhibits	isa
+-1
+-13.062070846557617
+___
+amphibian	behavior	mental_process
+exhibits	manifestation_of
+-1
+-13.1322660446167
+___
+amphibian	behavior	mental_or_behavioral_dysfunction
+exhibits	manifestation_of
+-1
+-13.1322660446167
+___
+amphibian	amphibian	occupation_or_discipline
+NO_OP	issue_in
+-1
+-14.637410759925842
+___
+amphibian	amphibian	biomedical_occupation_or_discipline
+NO_OP	issue_in
+-1
+-14.637410759925842
+___
+amphibian	behavior	occupation_or_discipline
+exhibits	issue_in
+-1
+-15.05271577835083
+___
+amphibian	behavior	biomedical_occupation_or_discipline
+exhibits	issue_in
+-1
+-15.05271577835083
+___
+amphibian	vertebrate	social_behavior
+isa	exhibits
+1
+-15.375603556597525
+___
+amphibian	amphibian	organism
+NO_OP	isa
+-1
+-15.49753475189209
+___
+amphibian	amphibian	animal
+NO_OP	isa
+-1
+-15.49753475189209
+___
+amphibian	amphibian	physical_object
+NO_OP	isa
+-1
+-15.49753475189209
+___
+amphibian	amphibian	vertebrate
+NO_OP	isa
+-1
+-15.49753475189209
+___
+amphibian	amphibian	entity
+NO_OP	isa
+-1
+-15.49753475189209
+___
+amphibian	physical_object	occupation_or_discipline
+isa	issue_in
+-1
+-15.78322222828865
+___
+amphibian	entity	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-16.293183624744415
+___
+amphibian	entity	occupation_or_discipline
+isa	issue_in
+-1
+-16.293183624744415
+___
+amphibian	organism	occupation_or_discipline
+isa	issue_in
+-1
+-16.338729977607727
+___
+amphibian	organism	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-16.338729977607727
+___
+amphibian	physical_object	physical_object
+isa	NO_OP
+-1
+-16.469897270202637
+___
+amphibian	amphibian	human
+NO_OP	interacts_with
+-1
+-16.909337520599365
+___
+amphibian	amphibian	reptile
+NO_OP	interacts_with
+-1
+-16.909337520599365
+___
+amphibian	amphibian	mammal
+NO_OP	interacts_with
+-1
+-16.909337520599365
+___
+amphibian	amphibian	bird
+NO_OP	interacts_with
+-1
+-16.909337520599365
+___
+amphibian	amphibian	fish
+NO_OP	interacts_with
+-1
+-16.909337520599365
+___
+amphibian	amphibian	organism
+NO_OP	interacts_with
+-1
+-16.909337520599365
+___
+amphibian	entity	entity
+isa	NO_OP
+-1
+-16.97985863685608
+___
+amphibian	behavior	professional_or_occupational_group
+exhibits	associated_with
+-1
+-17.0009446144104
+___
+amphibian	behavior	clinical_attribute
+exhibits	associated_with
+-1
+-17.0009446144104
+___
+amphibian	behavior	geographic_area
+exhibits	associated_with
+-1
+-17.0009446144104
+___
+amphibian	behavior	group_attribute
+exhibits	associated_with
+-1
+-17.0009446144104
+___
+amphibian	behavior	population_group
+exhibits	associated_with
+-1
+-17.0009446144104
+___
+amphibian	behavior	patient_or_disabled_group
+exhibits	associated_with
+-1
+-17.0009446144104
+___
+amphibian	behavior	biomedical_occupation_or_discipline
+exhibits	associated_with
+-1
+-17.0009446144104
+___
+amphibian	behavior	organism_attribute
+exhibits	associated_with
+-1
+-17.0009446144104
+___
+amphibian	behavior	group
+exhibits	associated_with
+-1
+-17.0009446144104
+___
+amphibian	behavior	family_group
+exhibits	associated_with
+-1
+-17.0009446144104
+___
+amphibian	behavior	occupation_or_discipline
+exhibits	associated_with
+-1
+-17.0009446144104
+___
+amphibian	organism	organism
+isa	NO_OP
+-1
+-17.025405049324036
+___
+amphibian	amphibian	amphibian
+NO_OP	NO_OP
+-1
+-17.066830158233643
+___
+amphibian	animal	occupation_or_discipline
+isa	issue_in
+-1
+-17.130798935890198
+___
+amphibian	animal	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-17.130798935890198
+___
+amphibian	animal	animal
+isa	NO_OP
+-1
+-17.817473888397217
+___
+amphibian	animal	vertebrate
+isa	interacts_with
+-1
+-18.13474988937378
+___
+amphibian	animal	reptile
+isa	interacts_with
+-1
+-18.13474988937378
+___
+amphibian	animal	invertebrate
+isa	interacts_with
+-1
+-18.13474988937378
+___
+amphibian	animal	archaeon
+isa	interacts_with
+-1
+-18.13474988937378
+___
+amphibian	animal	bird
+isa	interacts_with
+-1
+-18.13474988937378
+___
+amphibian	animal	fish
+isa	interacts_with
+-1
+-18.13474988937378
+___
+amphibian	animal	amphibian
+isa	interacts_with
+-1
+-18.13474988937378
+___
+amphibian	animal	human
+isa	interacts_with
+-1
+-18.13474988937378
+___
+amphibian	organism	entity
+isa	isa
+-1
+-18.487306594848633
+___
+amphibian	fish	mammal
+interacts_with	interacts_with
+-1
+-18.60805058479309
+___
+amphibian	human	archaeon
+interacts_with	interacts_with
+-1
+-18.60805058479309
+___
+amphibian	fish	reptile
+interacts_with	interacts_with
+-1
+-18.60805058479309
+___
+amphibian	mammal	archaeon
+interacts_with	interacts_with
+-1
+-18.60805058479309
+___
+amphibian	mammal	organism
+interacts_with	interacts_with
+-1
+-18.60805058479309
+___
+amphibian	bird	fish
+interacts_with	interacts_with
+-1
+-18.60805058479309
+___
+amphibian	mammal	human
+interacts_with	interacts_with
+-1
+-18.60805058479309
+___
+amphibian	bird	reptile
+interacts_with	interacts_with
+-1
+-18.60805058479309
+___
+amphibian	bird	human
+interacts_with	interacts_with
+-1
+-18.60805058479309
+___
+amphibian	fish	human
+interacts_with	interacts_with
+-1
+-18.60805058479309
+___
+amphibian	bird	organism
+interacts_with	interacts_with
+-1
+-18.60805058479309
+___
+amphibian	human	human
+interacts_with	NO_OP
+-1
+-18.99005436897278
+___
+amphibian	fish	fish
+interacts_with	NO_OP
+-1
+-18.99005436897278
+___
+amphibian	bird	bird
+interacts_with	NO_OP
+-1
+-18.99005436897278
+___
+amphibian	mammal	mammal
+interacts_with	NO_OP
+-1
+-18.99005436897278
+___
+amphibian	occupation_or_discipline	occupation_or_discipline
+issue_in	NO_OP
+-1
+-18.999629348516464
+___
+amphibian	biomedical_occupation_or_discipline	biomedical_occupation_or_discipline
+issue_in	NO_OP
+-1
+-18.999629348516464
+___
+amphibian	bird	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-19.060420274734497
+___
+amphibian	mammal	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-19.060420274734497
+___
+amphibian	human	occupation_or_discipline
+interacts_with	issue_in
+-1
+-19.060420274734497
+___
+amphibian	fish	occupation_or_discipline
+interacts_with	issue_in
+-1
+-19.060420274734497
+___
+amphibian	bird	occupation_or_discipline
+interacts_with	issue_in
+-1
+-19.060420274734497
+___
+amphibian	mammal	occupation_or_discipline
+interacts_with	issue_in
+-1
+-19.060420274734497
+___
+amphibian	animal	physical_object
+isa	isa
+-1
+-19.279375553131104
+___
+amphibian	animal	entity
+isa	isa
+-1
+-19.279375553131104
+___
+amphibian	animal	organism
+isa	isa
+-1
+-19.279375553131104
+___
+amphibian	human	animal
+interacts_with	isa
+-1
+-19.45951771736145
+___
+#####################
+reptile	social_behavior
+Reward:1
+reptile	human	social_behavior
+interacts_with	exhibits
+1
+-1.3863676786422658
+___
+reptile	mammal	social_behavior
+interacts_with	exhibits
+1
+-1.386367797851534
+___
+reptile	organism	organism
+interacts_with	NO_OP
+-1
+-2.636110305786133
+___
+reptile	organism	occupation_or_discipline
+interacts_with	issue_in
+-1
+-2.706475257873535
+___
+reptile	organism	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-2.706475257873535
+___
+reptile	archaeon	organism
+interacts_with	interacts_with
+-1
+-2.8297739028930664
+___
+reptile	organism	entity
+interacts_with	isa
+-1
+-3.1055731773376465
+___
+reptile	archaeon	archaeon
+interacts_with	NO_OP
+-1
+-3.211777687072754
+___
+reptile	archaeon	occupation_or_discipline
+interacts_with	issue_in
+-1
+-3.2821426391601562
+___
+reptile	archaeon	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-3.2821426391601562
+___
+reptile	archaeon	physical_object
+interacts_with	isa
+-1
+-3.6812405586242676
+___
+reptile	archaeon	organism
+interacts_with	isa
+-1
+-3.6812405586242676
+___
+reptile	archaeon	entity
+interacts_with	isa
+-1
+-3.6812405586242676
+___
+reptile	behavior	mental_process
+exhibits	affects
+-1
+-11.490386366844177
+___
+reptile	behavior	social_behavior
+exhibits	affects
+1
+-11.490386366844177
+___
+reptile	individual_behavior	mental_process
+exhibits	affects
+-1
+-11.503716230392456
+___
+reptile	individual_behavior	idea_or_concept
+exhibits	conceptually_related_to
+-1
+-11.99756669998169
+___
+reptile	individual_behavior	social_behavior
+exhibits	process_of
+1
+-12.001219272613525
+___
+reptile	behavior	activity
+exhibits	isa
+-1
+-12.65665340423584
+___
+reptile	behavior	event
+exhibits	isa
+-1
+-12.65665340423584
+___
+reptile	individual_behavior	activity
+exhibits	isa
+-1
+-12.669983148574829
+___
+reptile	individual_behavior	event
+exhibits	isa
+-1
+-12.669983148574829
+___
+reptile	behavior	mental_process
+exhibits	manifestation_of
+-1
+-12.726848602294922
+___
+reptile	behavior	mental_or_behavioral_dysfunction
+exhibits	manifestation_of
+-1
+-12.726848602294922
+___
+reptile	individual_behavior	mental_process
+exhibits	manifestation_of
+-1
+-12.740178346633911
+___
+reptile	reptile	occupation_or_discipline
+NO_OP	issue_in
+-1
+-14.092150688171387
+___
+reptile	reptile	biomedical_occupation_or_discipline
+NO_OP	issue_in
+-1
+-14.092150688171387
+___
+reptile	individual_behavior	mental_process
+exhibits	result_of
+-1
+-14.275789976119995
+___
+reptile	behavior	occupation_or_discipline
+exhibits	issue_in
+-1
+-14.647298336029053
+___
+reptile	behavior	biomedical_occupation_or_discipline
+exhibits	issue_in
+-1
+-14.647298336029053
+___
+reptile	individual_behavior	biomedical_occupation_or_discipline
+exhibits	issue_in
+-1
+-14.660628318786621
+___
+reptile	individual_behavior	occupation_or_discipline
+exhibits	issue_in
+-1
+-14.660628318786621
+___
+reptile	reptile	organism
+NO_OP	isa
+-1
+-14.952274799346924
+___
+reptile	reptile	animal
+NO_OP	isa
+-1
+-14.952274799346924
+___
+reptile	reptile	physical_object
+NO_OP	isa
+-1
+-14.952274799346924
+___
+reptile	reptile	entity
+NO_OP	isa
+-1
+-14.952274799346924
+___
+reptile	physical_object	occupation_or_discipline
+isa	issue_in
+-1
+-15.377804785966873
+___
+reptile	entity	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-15.887766182422638
+___
+reptile	entity	occupation_or_discipline
+isa	issue_in
+-1
+-15.887766182422638
+___
+reptile	organism	occupation_or_discipline
+isa	issue_in
+-1
+-15.93331253528595
+___
+reptile	organism	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-15.93331253528595
+___
+reptile	physical_object	physical_object
+isa	NO_OP
+-1
+-16.06447982788086
+___
+reptile	reptile	human
+NO_OP	interacts_with
+-1
+-16.3640775680542
+___
+reptile	reptile	organism
+NO_OP	interacts_with
+-1
+-16.3640775680542
+___
+reptile	reptile	mammal
+NO_OP	interacts_with
+-1
+-16.3640775680542
+___
+reptile	reptile	archaeon
+NO_OP	interacts_with
+-1
+-16.3640775680542
+___
+reptile	reptile	reptile
+NO_OP	NO_OP
+-1
+-16.521570205688477
+___
+reptile	entity	entity
+isa	NO_OP
+-1
+-16.5744411945343
+___
+reptile	behavior	geographic_area
+exhibits	associated_with
+-1
+-16.595527172088623
+___
+reptile	behavior	professional_or_occupational_group
+exhibits	associated_with
+-1
+-16.595527172088623
+___
+reptile	behavior	occupation_or_discipline
+exhibits	associated_with
+-1
+-16.595527172088623
+___
+reptile	behavior	clinical_attribute
+exhibits	associated_with
+-1
+-16.595527172088623
+___
+reptile	behavior	patient_or_disabled_group
+exhibits	associated_with
+-1
+-16.595527172088623
+___
+reptile	behavior	organism_attribute
+exhibits	associated_with
+-1
+-16.595527172088623
+___
+reptile	behavior	biomedical_occupation_or_discipline
+exhibits	associated_with
+-1
+-16.595527172088623
+___
+reptile	behavior	population_group
+exhibits	associated_with
+-1
+-16.595527172088623
+___
+reptile	behavior	family_group
+exhibits	associated_with
+-1
+-16.595527172088623
+___
+reptile	behavior	group
+exhibits	associated_with
+-1
+-16.595527172088623
+___
+reptile	behavior	group_attribute
+exhibits	associated_with
+-1
+-16.595527172088623
+___
+reptile	individual_behavior	organism_attribute
+exhibits	associated_with
+-1
+-16.60885715484619
+___
+reptile	individual_behavior	disease_or_syndrome
+exhibits	associated_with
+-1
+-16.60885715484619
+___
+reptile	individual_behavior	patient_or_disabled_group
+exhibits	associated_with
+-1
+-16.60885715484619
+___
+reptile	individual_behavior	professional_or_occupational_group
+exhibits	associated_with
+-1
+-16.60885715484619
+___
+reptile	individual_behavior	group_attribute
+exhibits	associated_with
+-1
+-16.60885715484619
+___
+reptile	individual_behavior	group
+exhibits	associated_with
+-1
+-16.60885715484619
+___
+reptile	individual_behavior	mental_or_behavioral_dysfunction
+exhibits	associated_with
+-1
+-16.60885715484619
+___
+reptile	individual_behavior	acquired_abnormality
+exhibits	associated_with
+-1
+-16.60885715484619
+___
+reptile	individual_behavior	experimental_model_of_disease
+exhibits	associated_with
+-1
+-16.60885715484619
+___
+reptile	individual_behavior	population_group
+exhibits	associated_with
+-1
+-16.60885715484619
+___
+reptile	individual_behavior	clinical_attribute
+exhibits	associated_with
+-1
+-16.60885715484619
+___
+reptile	individual_behavior	congenital_abnormality
+exhibits	associated_with
+-1
+-16.60885715484619
+___
+reptile	individual_behavior	geographic_area
+exhibits	associated_with
+-1
+-16.60885715484619
+___
+reptile	individual_behavior	injury_or_poisoning
+exhibits	associated_with
+-1
+-16.60885715484619
+___
+reptile	individual_behavior	family_group
+exhibits	associated_with
+-1
+-16.60885715484619
+___
+reptile	individual_behavior	pathologic_function
+exhibits	associated_with
+-1
+-16.60885715484619
+___
+reptile	individual_behavior	biomedical_occupation_or_discipline
+exhibits	associated_with
+-1
+-16.60885715484619
+___
+reptile	individual_behavior	age_group
+exhibits	associated_with
+-1
+-16.60885715484619
+___
+reptile	individual_behavior	anatomical_abnormality
+exhibits	associated_with
+-1
+-16.60885715484619
+___
+reptile	individual_behavior	cell_or_molecular_dysfunction
+exhibits	associated_with
+-1
+-16.60885715484619
+___
+reptile	organism	organism
+isa	NO_OP
+-1
+-16.61998760700226
+___
+reptile	animal	occupation_or_discipline
+isa	issue_in
+-1
+-16.72538149356842
+___
+reptile	animal	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-16.72538149356842
+___
+reptile	animal	animal
+isa	NO_OP
+-1
+-17.41205644607544
+___
+reptile	animal	fish
+isa	interacts_with
+-1
+-17.729332447052002
+___
+reptile	animal	bird
+isa	interacts_with
+-1
+-17.729332447052002
+___
+reptile	animal	archaeon
+isa	interacts_with
+-1
+-17.729332447052002
+___
+reptile	animal	reptile
+isa	interacts_with
+-1
+-17.729332447052002
+___
+reptile	animal	vertebrate
+isa	interacts_with
+-1
+-17.729332447052002
+___
+reptile	animal	invertebrate
+isa	interacts_with
+-1
+-17.729332447052002
+___
+reptile	animal	human
+isa	interacts_with
+-1
+-17.729332447052002
+___
+reptile	animal	amphibian
+isa	interacts_with
+-1
+-17.729332447052002
+___
+reptile	organism	entity
+isa	isa
+-1
+-18.081889152526855
+___
+reptile	mammal	human
+interacts_with	interacts_with
+-1
+-18.202632665634155
+___
+reptile	mammal	archaeon
+interacts_with	interacts_with
+-1
+-18.202632665634155
+___
+reptile	mammal	organism
+interacts_with	interacts_with
+-1
+-18.202632665634155
+___
+reptile	human	archaeon
+interacts_with	interacts_with
+-1
+-18.202632665634155
+___
+reptile	mammal	mammal
+interacts_with	NO_OP
+-1
+-18.584636449813843
+___
+reptile	human	human
+interacts_with	NO_OP
+-1
+-18.584636449813843
+___
+reptile	occupation_or_discipline	occupation_or_discipline
+issue_in	NO_OP
+-1
+-18.59421095252037
+___
+reptile	biomedical_occupation_or_discipline	biomedical_occupation_or_discipline
+issue_in	NO_OP
+-1
+-18.59421095252037
+___
+#####################
+age_group	behavior
+Reward:1
+age_group	patient_or_disabled_group	behavior
+interacts_with	exhibits
+1
+-0.6939639750053175
+___
+age_group	group	behavior
+interacts_with	exhibits
+1
+-0.6940300855785608
+___
+age_group	patient_or_disabled_group	research_activity
+interacts_with	performs
+-1
+-10.315575122833252
+___
+age_group	patient_or_disabled_group	educational_activity
+interacts_with	performs
+-1
+-10.315575122833252
+___
+age_group	patient_or_disabled_group	behavior
+interacts_with	performs
+1
+-10.315575122833252
+___
+age_group	patient_or_disabled_group	health_care_activity
+interacts_with	performs
+-1
+-10.315575122833252
+___
+age_group	patient_or_disabled_group	molecular_biology_research_technique
+interacts_with	performs
+-1
+-10.315575122833252
+___
+age_group	patient_or_disabled_group	daily_or_recreational_activity
+interacts_with	performs
+-1
+-10.315575122833252
+___
+age_group	patient_or_disabled_group	therapeutic_or_preventive_procedure
+interacts_with	performs
+-1
+-10.315575122833252
+___
+age_group	patient_or_disabled_group	diagnostic_procedure
+interacts_with	performs
+-1
+-10.315575122833252
+___
+age_group	patient_or_disabled_group	activity
+interacts_with	performs
+-1
+-10.315575122833252
+___
+age_group	patient_or_disabled_group	machine_activity
+interacts_with	performs
+-1
+-10.315575122833252
+___
+age_group	patient_or_disabled_group	laboratory_procedure
+interacts_with	performs
+-1
+-10.315575122833252
+___
+age_group	group	governmental_or_regulatory_activity
+interacts_with	performs
+-1
+-10.3156418800354
+___
+age_group	group	health_care_activity
+interacts_with	performs
+-1
+-10.3156418800354
+___
+age_group	group	diagnostic_procedure
+interacts_with	performs
+-1
+-10.3156418800354
+___
+age_group	group	occupational_activity
+interacts_with	performs
+-1
+-10.3156418800354
+___
+age_group	group	therapeutic_or_preventive_procedure
+interacts_with	performs
+-1
+-10.3156418800354
+___
+age_group	group	daily_or_recreational_activity
+interacts_with	performs
+-1
+-10.3156418800354
+___
+age_group	group	molecular_biology_research_technique
+interacts_with	performs
+-1
+-10.3156418800354
+___
+age_group	group	activity
+interacts_with	performs
+-1
+-10.3156418800354
+___
+age_group	group	research_activity
+interacts_with	performs
+-1
+-10.3156418800354
+___
+age_group	group	educational_activity
+interacts_with	performs
+-1
+-10.3156418800354
+___
+age_group	group	laboratory_procedure
+interacts_with	performs
+-1
+-10.3156418800354
+___
+age_group	group	behavior
+interacts_with	performs
+1
+-10.3156418800354
+___
+age_group	individual_behavior	behavior
+exhibits	affects
+1
+-10.998603820800781
+___
+age_group	individual_behavior	mental_process
+exhibits	affects
+-1
+-10.998603820800781
+___
+age_group	individual_behavior	idea_or_concept
+exhibits	conceptually_related_to
+-1
+-11.492454290390015
+___
+age_group	individual_behavior	behavior
+exhibits	isa
+1
+-12.164870738983154
+___
+age_group	individual_behavior	event
+exhibits	isa
+-1
+-12.164870738983154
+___
+age_group	individual_behavior	activity
+exhibits	isa
+-1
+-12.164870738983154
+___
+age_group	individual_behavior	mental_process
+exhibits	manifestation_of
+-1
+-12.235065937042236
+___
+age_group	individual_behavior	mental_process
+exhibits	result_of
+-1
+-13.77067756652832
+___
+age_group	intellectual_product	diagnostic_procedure
+uses	conceptual_part_of
+-1
+-14.10980173945427
+___
+age_group	individual_behavior	occupation_or_discipline
+exhibits	issue_in
+-1
+-14.155515670776367
+___
+age_group	individual_behavior	biomedical_occupation_or_discipline
+exhibits	issue_in
+-1
+-14.155515670776367
+___
+age_group	age_group	behavior
+NO_OP	performs
+1
+-14.268756628036499
+___
+age_group	age_group	occupational_activity
+NO_OP	performs
+-1
+-14.268756628036499
+___
+age_group	age_group	laboratory_procedure
+NO_OP	performs
+-1
+-14.268756628036499
+___
+age_group	age_group	health_care_activity
+NO_OP	performs
+-1
+-14.268756628036499
+___
+age_group	age_group	governmental_or_regulatory_activity
+NO_OP	performs
+-1
+-14.268756628036499
+___
+age_group	age_group	diagnostic_procedure
+NO_OP	performs
+-1
+-14.268756628036499
+___
+age_group	age_group	research_activity
+NO_OP	performs
+-1
+-14.268756628036499
+___
+age_group	age_group	therapeutic_or_preventive_procedure
+NO_OP	performs
+-1
+-14.268756628036499
+___
+age_group	age_group	activity
+NO_OP	performs
+-1
+-14.268756628036499
+___
+age_group	age_group	educational_activity
+NO_OP	performs
+-1
+-14.268756628036499
+___
+age_group	classification	classification
+uses	NO_OP
+-1
+-14.702805638313293
+___
+age_group	classification	occupation_or_discipline
+uses	issue_in
+-1
+-15.146578907966614
+___
+age_group	entity	occupation_or_discipline
+isa	issue_in
+-1
+-15.194630920886993
+___
+age_group	entity	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-15.194630920886993
+___
+age_group	conceptual_entity	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-15.240177273750305
+___
+age_group	conceptual_entity	occupation_or_discipline
+isa	issue_in
+-1
+-15.240177273750305
+___
+age_group	classification	entity
+uses	isa
+-1
+-15.73653519153595
+___
+age_group	patient_or_disabled_group	regulation_or_law
+interacts_with	uses
+-1
+-15.7657790184021
+___
+age_group	patient_or_disabled_group	manufactured_object
+interacts_with	uses
+-1
+-15.7657790184021
+___
+age_group	patient_or_disabled_group	drug_delivery_device
+interacts_with	uses
+-1
+-15.7657790184021
+___
+age_group	patient_or_disabled_group	intellectual_product
+interacts_with	uses
+-1
+-15.7657790184021
+___
+age_group	patient_or_disabled_group	medical_device
+interacts_with	uses
+-1
+-15.7657790184021
+___
+age_group	patient_or_disabled_group	clinical_drug
+interacts_with	uses
+-1
+-15.7657790184021
+___
+age_group	patient_or_disabled_group	classification
+interacts_with	uses
+-1
+-15.7657790184021
+___
+age_group	group	research_device
+interacts_with	uses
+-1
+-15.765845775604248
+___
+age_group	group	medical_device
+interacts_with	uses
+-1
+-15.765845775604248
+___
+age_group	group	intellectual_product
+interacts_with	uses
+-1
+-15.765845775604248
+___
+age_group	group	drug_delivery_device
+interacts_with	uses
+-1
+-15.765845775604248
+___
+age_group	group	manufactured_object
+interacts_with	uses
+-1
+-15.765845775604248
+___
+age_group	group	regulation_or_law
+interacts_with	uses
+-1
+-15.765845775604248
+___
+age_group	group	clinical_drug
+interacts_with	uses
+-1
+-15.765845775604248
+___
+age_group	drug_delivery_device	mental_or_behavioral_dysfunction
+uses	prevents
+-1
+-15.860995531082153
+___
+age_group	drug_delivery_device	cell_or_molecular_dysfunction
+uses	prevents
+-1
+-15.860995531082153
+___
+age_group	drug_delivery_device	neoplastic_process
+uses	prevents
+-1
+-15.860995531082153
+___
+age_group	drug_delivery_device	injury_or_poisoning
+uses	prevents
+-1
+-15.860995531082153
+___
+age_group	drug_delivery_device	experimental_model_of_disease
+uses	prevents
+-1
+-15.860995531082153
+___
+age_group	drug_delivery_device	pathologic_function
+uses	prevents
+-1
+-15.860995531082153
+___
+age_group	entity	entity
+isa	NO_OP
+-1
+-15.881305932998657
+___
+age_group	conceptual_entity	conceptual_entity
+isa	NO_OP
+-1
+-15.926852345466614
+___
+age_group	manufactured_object	pathologic_function
+uses	causes
+-1
+-15.95714259147644
+___
+age_group	manufactured_object	injury_or_poisoning
+uses	causes
+-1
+-15.95714259147644
+___
+age_group	manufactured_object	anatomical_abnormality
+uses	causes
+-1
+-15.95714259147644
+___
+age_group	manufactured_object	disease_or_syndrome
+uses	causes
+-1
+-15.95714259147644
+___
+age_group	manufactured_object	congenital_abnormality
+uses	causes
+-1
+-15.95714259147644
+___
+age_group	manufactured_object	acquired_abnormality
+uses	causes
+-1
+-15.95714259147644
+___
+age_group	manufactured_object	experimental_model_of_disease
+uses	causes
+-1
+-15.95714259147644
+___
+age_group	clinical_drug	congenital_abnormality
+uses	causes
+-1
+-15.957168459892273
+___
+age_group	clinical_drug	disease_or_syndrome
+uses	causes
+-1
+-15.957168459892273
+___
+age_group	clinical_drug	neoplastic_process
+uses	causes
+-1
+-15.957168459892273
+___
+age_group	clinical_drug	pathologic_function
+uses	causes
+-1
+-15.957168459892273
+___
+age_group	clinical_drug	mental_or_behavioral_dysfunction
+uses	causes
+-1
+-15.957168459892273
+___
+age_group	clinical_drug	cell_or_molecular_dysfunction
+uses	causes
+-1
+-15.957168459892273
+___
+age_group	clinical_drug	experimental_model_of_disease
+uses	causes
+-1
+-15.957168459892273
+___
+age_group	medical_device	injury_or_poisoning
+uses	prevents
+-1
+-16.00182271003723
+___
+age_group	medical_device	pathologic_function
+uses	prevents
+-1
+-16.00182271003723
+___
+age_group	medical_device	cell_or_molecular_dysfunction
+uses	prevents
+-1
+-16.00182271003723
+___
+age_group	medical_device	experimental_model_of_disease
+uses	prevents
+-1
+-16.00182271003723
+___
+age_group	medical_device	neoplastic_process
+uses	prevents
+-1
+-16.00182271003723
+___
+age_group	medical_device	mental_or_behavioral_dysfunction
+uses	prevents
+-1
+-16.00182271003723
+___
+age_group	medical_device	disease_or_syndrome
+uses	prevents
+-1
+-16.00182271003723
+___
+age_group	activity	event
+performs	isa
+-1
+-16.084970474243164
+___
+age_group	research_device	injury_or_poisoning
+uses	causes
+-1
+-16.090646743774414
+___
+age_group	research_device	acquired_abnormality
+uses	causes
+-1
+-16.090646743774414
+___
+age_group	research_device	experimental_model_of_disease
+uses	causes
+-1
+-16.090646743774414
+___
+#####################

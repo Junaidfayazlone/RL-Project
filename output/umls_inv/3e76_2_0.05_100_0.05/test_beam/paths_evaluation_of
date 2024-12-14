@@ -1,0 +1,1509 @@
+laboratory_or_test_result	genetic_function
+Reward:1
+laboratory_or_test_result	clinical_attribute	genetic_function
+evaluation_of	manifestation_of
+1
+-2.663097712909803
+___
+laboratory_or_test_result	organism_attribute	genetic_function
+evaluation_of	manifestation_of
+1
+-2.6631487875711173
+___
+laboratory_or_test_result	cell_function	genetic_function
+evaluation_of	precedes
+1
+-2.7118941843509674
+___
+laboratory_or_test_result	organ_or_tissue_function	genetic_function
+evaluation_of	precedes
+1
+-2.711897350847721
+___
+laboratory_or_test_result	molecular_function	genetic_function
+evaluation_of	precedes
+1
+-2.7126598581671715
+___
+laboratory_or_test_result	organism_function	genetic_function
+evaluation_of	precedes
+1
+-2.712661102414131
+___
+laboratory_or_test_result	disease_or_syndrome	injury_or_poisoning
+evaluation_of	manifestation_of
+-1
+-2.7189406119287014
+___
+laboratory_or_test_result	neoplastic_process	natural_phenomenon_or_process
+evaluation_of	_process_of
+-1
+-2.973768472671509
+___
+laboratory_or_test_result	biologic_function	genetic_function
+evaluation_of	_isa
+1
+-2.9859625697135925
+___
+laboratory_or_test_result	physiologic_function	genetic_function
+evaluation_of	_isa
+1
+-2.986252874135971
+___
+laboratory_or_test_result	pathologic_function	natural_phenomenon_or_process
+evaluation_of	_process_of
+-1
+-3.3634775280952454
+___
+laboratory_or_test_result	pathologic_function	genetic_function
+evaluation_of	_process_of
+1
+-3.3634775280952454
+___
+laboratory_or_test_result	mental_or_behavioral_dysfunction	natural_phenomenon_or_process
+evaluation_of	_process_of
+-1
+-3.522085666656494
+___
+laboratory_or_test_result	mental_or_behavioral_dysfunction	genetic_function
+evaluation_of	_process_of
+1
+-3.522085666656494
+___
+laboratory_or_test_result	experimental_model_of_disease	natural_phenomenon_or_process
+evaluation_of	_process_of
+-1
+-3.523301839828491
+___
+laboratory_or_test_result	experimental_model_of_disease	genetic_function
+evaluation_of	_process_of
+1
+-3.523301839828491
+___
+laboratory_or_test_result	neoplastic_process	injury_or_poisoning
+evaluation_of	manifestation_of
+-1
+-4.019058465957642
+___
+laboratory_or_test_result	mental_or_behavioral_dysfunction	injury_or_poisoning
+evaluation_of	manifestation_of
+-1
+-4.567375659942627
+___
+laboratory_or_test_result	experimental_model_of_disease	injury_or_poisoning
+evaluation_of	manifestation_of
+-1
+-4.568591833114624
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	congenital_abnormality
+evaluation_of	complicates
+-1
+-4.636007189750671
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	acquired_abnormality
+evaluation_of	complicates
+-1
+-4.636007189750671
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	anatomical_abnormality
+evaluation_of	complicates
+-1
+-4.636007189750671
+___
+laboratory_or_test_result	biologic_function	natural_phenomenon_or_process
+evaluation_of	_process_of
+-1
+-4.641141176223755
+___
+laboratory_or_test_result	biologic_function	genetic_function
+evaluation_of	_process_of
+1
+-4.641141176223755
+___
+laboratory_or_test_result	physiologic_function	genetic_function
+evaluation_of	_process_of
+1
+-4.641431450843811
+___
+laboratory_or_test_result	physiologic_function	natural_phenomenon_or_process
+evaluation_of	_process_of
+-1
+-4.641431450843811
+___
+laboratory_or_test_result	cell_function	genetic_function
+evaluation_of	_precedes
+1
+-5.650127649307251
+___
+laboratory_or_test_result	organ_or_tissue_function	genetic_function
+evaluation_of	_precedes
+1
+-5.650130748748779
+___
+laboratory_or_test_result	molecular_function	genetic_function
+evaluation_of	_precedes
+1
+-5.650893211364746
+___
+laboratory_or_test_result	organism_function	genetic_function
+evaluation_of	_precedes
+1
+-5.650894403457642
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	archaeon
+evaluation_of	process_of
+-1
+-6.489958763122559
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	rickettsia_or_chlamydia
+evaluation_of	process_of
+-1
+-6.489958763122559
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	invertebrate
+evaluation_of	process_of
+-1
+-6.489958763122559
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	virus
+evaluation_of	process_of
+-1
+-6.489958763122559
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	plant
+evaluation_of	process_of
+-1
+-6.489958763122559
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	bacterium
+evaluation_of	process_of
+-1
+-6.489958763122559
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	amphibian
+evaluation_of	process_of
+-1
+-6.489958763122559
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	vertebrate
+evaluation_of	process_of
+-1
+-6.489958763122559
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	reptile
+evaluation_of	process_of
+-1
+-6.489958763122559
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	alga
+evaluation_of	affects
+-1
+-6.80010461807251
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	rickettsia_or_chlamydia
+evaluation_of	affects
+-1
+-6.80010461807251
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	archaeon
+evaluation_of	affects
+-1
+-6.80010461807251
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	fungus
+evaluation_of	affects
+-1
+-6.80010461807251
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	invertebrate
+evaluation_of	affects
+-1
+-6.80010461807251
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	human
+evaluation_of	affects
+-1
+-6.80010461807251
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	animal
+evaluation_of	affects
+-1
+-6.80010461807251
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	organism
+evaluation_of	affects
+-1
+-6.80010461807251
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	vertebrate
+evaluation_of	affects
+-1
+-6.80010461807251
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	genetic_function
+evaluation_of	affects
+1
+-6.80010461807251
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	amphibian
+evaluation_of	affects
+-1
+-6.80010461807251
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	plant
+evaluation_of	affects
+-1
+-6.80010461807251
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	bacterium
+evaluation_of	affects
+-1
+-6.80010461807251
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	chemical
+evaluation_of	_affects
+-1
+-7.1667022705078125
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	indicator_reagent_or_diagnostic_aid
+evaluation_of	_affects
+-1
+-7.1667022705078125
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	chemical_viewed_functionally
+evaluation_of	_affects
+-1
+-7.1667022705078125
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	eicosanoid
+evaluation_of	_affects
+-1
+-7.1667022705078125
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	inorganic_chemical
+evaluation_of	_affects
+-1
+-7.1667022705078125
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	amino_acid_peptide_or_protein
+evaluation_of	_affects
+-1
+-7.1667022705078125
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	food
+evaluation_of	_affects
+-1
+-7.1667022705078125
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	organic_chemical
+evaluation_of	_affects
+-1
+-7.1667022705078125
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	hormone
+evaluation_of	_affects
+-1
+-7.1667022705078125
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	therapeutic_or_preventive_procedure
+evaluation_of	_affects
+-1
+-7.1667022705078125
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	steroid
+evaluation_of	_affects
+-1
+-7.1667022705078125
+___
+laboratory_or_test_result	disease_or_syndrome	congenital_abnormality
+evaluation_of	complicates
+-1
+-7.377599716186523
+___
+laboratory_or_test_result	disease_or_syndrome	injury_or_poisoning
+evaluation_of	complicates
+-1
+-7.377599716186523
+___
+laboratory_or_test_result	genetic_function	natural_phenomenon_or_process
+measurement_of	_process_of
+-1
+-7.462999568320811
+___
+laboratory_or_test_result	mental_process	genetic_function
+measurement_of	precedes
+1
+-7.588431119918823
+___
+laboratory_or_test_result	cell_function	genetic_function
+measurement_of	precedes
+1
+-7.58843195438385
+___
+laboratory_or_test_result	organ_or_tissue_function	genetic_function
+measurement_of	precedes
+1
+-7.5884335190057755
+___
+laboratory_or_test_result	molecular_function	genetic_function
+measurement_of	precedes
+1
+-7.589271754026413
+___
+laboratory_or_test_result	organism_function	genetic_function
+measurement_of	precedes
+1
+-7.5892719477415085
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	injury_or_poisoning
+evaluation_of	co-occurs_with
+-1
+-7.710055828094482
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	anatomical_abnormality
+evaluation_of	co-occurs_with
+-1
+-7.710055828094482
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	acquired_abnormality
+evaluation_of	co-occurs_with
+-1
+-7.710055828094482
+___
+laboratory_or_test_result	nucleic_acid_nucleoside_or_nucleotide	anatomical_abnormality
+measurement_of	causes
+-1
+-8.641213178634644
+___
+laboratory_or_test_result	nucleic_acid_nucleoside_or_nucleotide	acquired_abnormality
+measurement_of	causes
+-1
+-8.641213178634644
+___
+laboratory_or_test_result	nucleic_acid_nucleoside_or_nucleotide	congenital_abnormality
+measurement_of	causes
+-1
+-8.641213178634644
+___
+laboratory_or_test_result	steroid	acquired_abnormality
+measurement_of	causes
+-1
+-8.65179991722107
+___
+laboratory_or_test_result	steroid	injury_or_poisoning
+measurement_of	causes
+-1
+-8.65179991722107
+___
+laboratory_or_test_result	clinical_attribute	genetic_function
+evaluation_of	measurement_of
+1
+-8.664230346679688
+___
+laboratory_or_test_result	organism_attribute	genetic_function
+evaluation_of	measurement_of
+1
+-8.664281368255615
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	anatomical_abnormality
+evaluation_of	_manifestation_of
+-1
+-8.66511344909668
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	laboratory_or_test_result
+evaluation_of	_manifestation_of
+-1
+-8.66511344909668
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	finding
+evaluation_of	_manifestation_of
+-1
+-8.66511344909668
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	sign_or_symptom
+evaluation_of	_manifestation_of
+-1
+-8.66511344909668
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	acquired_abnormality
+evaluation_of	_manifestation_of
+-1
+-8.66511344909668
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	congenital_abnormality
+evaluation_of	_manifestation_of
+-1
+-8.66511344909668
+___
+laboratory_or_test_result	lipid	injury_or_poisoning
+measurement_of	causes
+-1
+-8.67734408378601
+___
+laboratory_or_test_result	lipid	anatomical_abnormality
+measurement_of	causes
+-1
+-8.67734408378601
+___
+laboratory_or_test_result	neoplastic_process	acquired_abnormality
+evaluation_of	complicates
+-1
+-8.677717685699463
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	congenital_abnormality
+evaluation_of	_result_of
+-1
+-8.714905261993408
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	genetic_function
+evaluation_of	_result_of
+1
+-8.714905261993408
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	phenomenon_or_process
+evaluation_of	_result_of
+-1
+-8.714905261993408
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	acquired_abnormality
+evaluation_of	_result_of
+-1
+-8.714905261993408
+___
+laboratory_or_test_result	acquired_abnormality	congenital_abnormality
+indicates	_co-occurs_with
+-1
+-8.811265347008884
+___
+laboratory_or_test_result	genetic_function	natural_phenomenon_or_process
+indicates	_process_of
+-1
+-8.818465687800199
+___
+laboratory_or_test_result	congenital_abnormality	genetic_function
+indicates	manifestation_of
+1
+-8.825649452395737
+___
+laboratory_or_test_result	disease_or_syndrome	injury_or_poisoning
+indicates	manifestation_of
+-1
+-8.836404582485557
+___
+laboratory_or_test_result	body_substance	anatomical_abnormality
+measurement_of	causes
+-1
+-8.849948644638062
+___
+laboratory_or_test_result	body_substance	injury_or_poisoning
+measurement_of	causes
+-1
+-8.849948644638062
+___
+#####################
+qualitative_concept	individual_behavior
+Reward:1
+qualitative_concept	behavior	individual_behavior
+evaluation_of	_isa
+1
+-2.6113242506980896
+___
+qualitative_concept	governmental_or_regulatory_activity	occupation_or_discipline
+evaluation_of	method_of
+-1
+-2.9924582839012146
+___
+qualitative_concept	social_behavior	individual_behavior
+evaluation_of	_process_of
+1
+-3.0180487632751465
+___
+qualitative_concept	educational_activity	biomedical_occupation_or_discipline
+evaluation_of	method_of
+-1
+-3.369647741317749
+___
+qualitative_concept	educational_activity	occupation_or_discipline
+evaluation_of	method_of
+-1
+-3.369647741317749
+___
+qualitative_concept	machine_activity	biomedical_occupation_or_discipline
+evaluation_of	issue_in
+-1
+-3.421433448791504
+___
+qualitative_concept	machine_activity	occupation_or_discipline
+evaluation_of	issue_in
+-1
+-3.421433448791504
+___
+qualitative_concept	daily_or_recreational_activity	biomedical_occupation_or_discipline
+evaluation_of	issue_in
+-1
+-3.4338293075561523
+___
+qualitative_concept	daily_or_recreational_activity	occupation_or_discipline
+evaluation_of	issue_in
+-1
+-3.4338293075561523
+___
+qualitative_concept	occupational_activity	biomedical_occupation_or_discipline
+evaluation_of	method_of
+-1
+-3.464981734752655
+___
+qualitative_concept	occupational_activity	occupation_or_discipline
+evaluation_of	method_of
+-1
+-3.464981734752655
+___
+qualitative_concept	molecular_biology_research_technique	mental_process
+evaluation_of	affects
+-1
+-3.535387396812439
+___
+qualitative_concept	therapeutic_or_preventive_procedure	cell_or_molecular_dysfunction
+evaluation_of	prevents
+-1
+-3.5840914249420166
+___
+qualitative_concept	therapeutic_or_preventive_procedure	pathologic_function
+evaluation_of	prevents
+-1
+-3.5840914249420166
+___
+qualitative_concept	therapeutic_or_preventive_procedure	disease_or_syndrome
+evaluation_of	prevents
+-1
+-3.5840914249420166
+___
+qualitative_concept	social_behavior	mental_or_behavioral_dysfunction
+evaluation_of	manifestation_of
+-1
+-4.063338756561279
+___
+qualitative_concept	social_behavior	mental_process
+evaluation_of	manifestation_of
+-1
+-4.063338756561279
+___
+qualitative_concept	machine_activity	event
+evaluation_of	isa
+-1
+-4.130173206329346
+___
+qualitative_concept	daily_or_recreational_activity	event
+evaluation_of	isa
+-1
+-4.142569065093994
+___
+qualitative_concept	governmental_or_regulatory_activity	biomedical_occupation_or_discipline
+evaluation_of	issue_in
+-1
+-4.385302543640137
+___
+qualitative_concept	governmental_or_regulatory_activity	occupation_or_discipline
+evaluation_of	issue_in
+-1
+-4.385302543640137
+___
+qualitative_concept	educational_activity	biomedical_occupation_or_discipline
+evaluation_of	issue_in
+-1
+-4.762491941452026
+___
+qualitative_concept	occupational_activity	occupation_or_discipline
+evaluation_of	issue_in
+-1
+-4.857825994491577
+___
+qualitative_concept	occupational_activity	biomedical_occupation_or_discipline
+evaluation_of	issue_in
+-1
+-4.857825994491577
+___
+qualitative_concept	governmental_or_regulatory_activity	event
+evaluation_of	isa
+-1
+-5.0940423011779785
+___
+qualitative_concept	behavior	mental_or_behavioral_dysfunction
+evaluation_of	manifestation_of
+-1
+-5.311792850494385
+___
+qualitative_concept	behavior	mental_process
+evaluation_of	manifestation_of
+-1
+-5.311792850494385
+___
+qualitative_concept	laboratory_procedure	chemical_viewed_functionally
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	organic_chemical
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	receptor
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	steroid
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	element_ion_or_isotope
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	hazardous_or_poisonous_substance
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	enzyme
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	indicator_reagent_or_diagnostic_aid
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	biologically_active_substance
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	body_substance
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	antibiotic
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	eicosanoid
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	chemical
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	immunologic_factor
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	inorganic_chemical
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	lipid
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	educational_activity	event
+evaluation_of	isa
+-1
+-5.471231698989868
+___
+qualitative_concept	occupational_activity	event
+evaluation_of	isa
+-1
+-5.566565752029419
+___
+qualitative_concept	diagnostic_procedure	vitamin
+evaluation_of	analyzes
+-1
+-5.577820062637329
+___
+qualitative_concept	diagnostic_procedure	immunologic_factor
+evaluation_of	analyzes
+-1
+-5.577820062637329
+___
+qualitative_concept	diagnostic_procedure	organophosphorus_compound
+evaluation_of	analyzes
+-1
+-5.577820062637329
+___
+qualitative_concept	diagnostic_procedure	inorganic_chemical
+evaluation_of	analyzes
+-1
+-5.577820062637329
+___
+qualitative_concept	diagnostic_procedure	biomedical_or_dental_material
+evaluation_of	analyzes
+-1
+-5.577820062637329
+___
+qualitative_concept	diagnostic_procedure	chemical_viewed_functionally
+evaluation_of	analyzes
+-1
+-5.577820062637329
+___
+qualitative_concept	diagnostic_procedure	hormone
+evaluation_of	analyzes
+-1
+-5.577820062637329
+___
+qualitative_concept	diagnostic_procedure	enzyme
+evaluation_of	analyzes
+-1
+-5.577820062637329
+___
+qualitative_concept	diagnostic_procedure	lipid
+evaluation_of	analyzes
+-1
+-5.577820062637329
+___
+qualitative_concept	diagnostic_procedure	eicosanoid
+evaluation_of	analyzes
+-1
+-5.577820062637329
+___
+qualitative_concept	diagnostic_procedure	biologically_active_substance
+evaluation_of	analyzes
+-1
+-5.577820062637329
+___
+qualitative_concept	diagnostic_procedure	organic_chemical
+evaluation_of	analyzes
+-1
+-5.577820062637329
+___
+qualitative_concept	diagnostic_procedure	body_substance
+evaluation_of	analyzes
+-1
+-5.577820062637329
+___
+qualitative_concept	diagnostic_procedure	antibiotic
+evaluation_of	analyzes
+-1
+-5.577820062637329
+___
+qualitative_concept	diagnostic_procedure	amino_acid_peptide_or_protein
+evaluation_of	analyzes
+-1
+-5.577820062637329
+___
+qualitative_concept	diagnostic_procedure	carbohydrate
+evaluation_of	analyzes
+-1
+-5.577820062637329
+___
+qualitative_concept	diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide
+evaluation_of	analyzes
+-1
+-5.577820062637329
+___
+qualitative_concept	diagnostic_procedure	receptor
+evaluation_of	analyzes
+-1
+-5.577820062637329
+___
+qualitative_concept	diagnostic_procedure	steroid
+evaluation_of	analyzes
+-1
+-5.577820062637329
+___
+qualitative_concept	diagnostic_procedure	chemical
+evaluation_of	analyzes
+-1
+-5.577820062637329
+___
+qualitative_concept	diagnostic_procedure	chemical_viewed_structurally
+evaluation_of	analyzes
+-1
+-5.577820062637329
+___
+qualitative_concept	research_activity	lipid
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	enzyme
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	element_ion_or_isotope
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	disease_or_syndrome
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	experimental_model_of_disease
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	chemical
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	cell_function
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	indicator_reagent_or_diagnostic_aid
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	mental_process
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	cell_or_molecular_dysfunction
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	hormone
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	body_substance
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	neuroreactive_substance_or_biogenic_amine
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	physiologic_function
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	organism_function
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	natural_phenomenon_or_process
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	receptor
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	clinical_attribute
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	nucleic_acid_nucleoside_or_nucleotide
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	eicosanoid
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	organ_or_tissue_function
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	immunologic_factor
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	inorganic_chemical
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	vitamin
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	biologic_function
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	quantitative_concept
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	hazardous_or_poisonous_substance
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	chemical_viewed_functionally
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	biologically_active_substance
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	carbohydrate
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	pathologic_function
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	genetic_function
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+qualitative_concept	research_activity	mental_or_behavioral_dysfunction
+evaluation_of	measures
+-1
+-6.126143932342529
+___
+#####################
+qualitative_concept	activity
+Reward:1
+qualitative_concept	governmental_or_regulatory_activity	occupation_or_discipline
+evaluation_of	method_of
+-1
+-3.0634753108024597
+___
+qualitative_concept	social_behavior	mental_process
+evaluation_of	manifestation_of
+-1
+-3.179049253463745
+___
+qualitative_concept	social_behavior	mental_or_behavioral_dysfunction
+evaluation_of	manifestation_of
+-1
+-3.179049253463745
+___
+qualitative_concept	behavior	mental_process
+evaluation_of	manifestation_of
+-1
+-3.1800352334976196
+___
+qualitative_concept	behavior	mental_or_behavioral_dysfunction
+evaluation_of	manifestation_of
+-1
+-3.1800352334976196
+___
+qualitative_concept	educational_activity	biomedical_occupation_or_discipline
+evaluation_of	method_of
+-1
+-3.369647741317749
+___
+qualitative_concept	educational_activity	occupation_or_discipline
+evaluation_of	method_of
+-1
+-3.369647741317749
+___
+qualitative_concept	machine_activity	biomedical_occupation_or_discipline
+evaluation_of	issue_in
+-1
+-3.421433448791504
+___
+qualitative_concept	machine_activity	occupation_or_discipline
+evaluation_of	issue_in
+-1
+-3.421433448791504
+___
+qualitative_concept	occupational_activity	occupation_or_discipline
+evaluation_of	method_of
+-1
+-3.5098440647125244
+___
+qualitative_concept	occupational_activity	biomedical_occupation_or_discipline
+evaluation_of	method_of
+-1
+-3.5098440647125244
+___
+qualitative_concept	molecular_biology_research_technique	mental_process
+evaluation_of	affects
+-1
+-3.5373098850250244
+___
+qualitative_concept	therapeutic_or_preventive_procedure	pathologic_function
+evaluation_of	prevents
+-1
+-3.5840914249420166
+___
+qualitative_concept	therapeutic_or_preventive_procedure	disease_or_syndrome
+evaluation_of	prevents
+-1
+-3.5840914249420166
+___
+qualitative_concept	therapeutic_or_preventive_procedure	cell_or_molecular_dysfunction
+evaluation_of	prevents
+-1
+-3.5840914249420166
+___
+qualitative_concept	daily_or_recreational_activity	biomedical_occupation_or_discipline
+evaluation_of	issue_in
+-1
+-3.608276128768921
+___
+qualitative_concept	daily_or_recreational_activity	occupation_or_discipline
+evaluation_of	issue_in
+-1
+-3.608276128768921
+___
+qualitative_concept	machine_activity	event
+evaluation_of	isa
+-1
+-4.130173206329346
+___
+qualitative_concept	daily_or_recreational_activity	event
+evaluation_of	isa
+-1
+-4.317015886306763
+___
+qualitative_concept	daily_or_recreational_activity	activity
+evaluation_of	isa
+1
+-4.317015886306763
+___
+qualitative_concept	governmental_or_regulatory_activity	occupation_or_discipline
+evaluation_of	issue_in
+-1
+-4.456319570541382
+___
+qualitative_concept	governmental_or_regulatory_activity	biomedical_occupation_or_discipline
+evaluation_of	issue_in
+-1
+-4.456319570541382
+___
+qualitative_concept	educational_activity	biomedical_occupation_or_discipline
+evaluation_of	issue_in
+-1
+-4.762491941452026
+___
+qualitative_concept	occupational_activity	occupation_or_discipline
+evaluation_of	issue_in
+-1
+-4.902688264846802
+___
+qualitative_concept	occupational_activity	biomedical_occupation_or_discipline
+evaluation_of	issue_in
+-1
+-4.902688264846802
+___
+qualitative_concept	governmental_or_regulatory_activity	activity
+evaluation_of	isa
+1
+-5.165059328079224
+___
+qualitative_concept	governmental_or_regulatory_activity	event
+evaluation_of	isa
+-1
+-5.165059328079224
+___
+qualitative_concept	laboratory_procedure	indicator_reagent_or_diagnostic_aid
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	organic_chemical
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	receptor
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	steroid
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	element_ion_or_isotope
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	hazardous_or_poisonous_substance
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	biologically_active_substance
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	chemical
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	chemical_viewed_functionally
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	inorganic_chemical
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	body_substance
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	antibiotic
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	eicosanoid
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	immunologic_factor
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	enzyme
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	laboratory_procedure	lipid
+evaluation_of	analyzes
+-1
+-5.398472785949707
+___
+qualitative_concept	educational_activity	event
+evaluation_of	isa
+-1
+-5.471231698989868
+___
+qualitative_concept	diagnostic_procedure	enzyme
+evaluation_of	analyzes
+-1
+-5.577820301055908
+___
+qualitative_concept	diagnostic_procedure	inorganic_chemical
+evaluation_of	analyzes
+-1
+-5.577820301055908
+___
+qualitative_concept	diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide
+evaluation_of	analyzes
+-1
+-5.577820301055908
+___
+qualitative_concept	diagnostic_procedure	immunologic_factor
+evaluation_of	analyzes
+-1
+-5.577820301055908
+___
+qualitative_concept	diagnostic_procedure	carbohydrate
+evaluation_of	analyzes
+-1
+-5.577820301055908
+___
+qualitative_concept	diagnostic_procedure	eicosanoid
+evaluation_of	analyzes
+-1
+-5.577820301055908
+___
+qualitative_concept	diagnostic_procedure	antibiotic
+evaluation_of	analyzes
+-1
+-5.577820301055908
+___
+qualitative_concept	diagnostic_procedure	organic_chemical
+evaluation_of	analyzes
+-1
+-5.577820301055908
+___
+qualitative_concept	diagnostic_procedure	body_substance
+evaluation_of	analyzes
+-1
+-5.577820301055908
+___
+qualitative_concept	diagnostic_procedure	chemical_viewed_structurally
+evaluation_of	analyzes
+-1
+-5.577820301055908
+___
+qualitative_concept	diagnostic_procedure	vitamin
+evaluation_of	analyzes
+-1
+-5.577820301055908
+___
+qualitative_concept	diagnostic_procedure	amino_acid_peptide_or_protein
+evaluation_of	analyzes
+-1
+-5.577820301055908
+___
+qualitative_concept	diagnostic_procedure	biomedical_or_dental_material
+evaluation_of	analyzes
+-1
+-5.577820301055908
+___
+qualitative_concept	diagnostic_procedure	hormone
+evaluation_of	analyzes
+-1
+-5.577820301055908
+___
+qualitative_concept	diagnostic_procedure	chemical_viewed_functionally
+evaluation_of	analyzes
+-1
+-5.577820301055908
+___
+qualitative_concept	diagnostic_procedure	chemical
+evaluation_of	analyzes
+-1
+-5.577820301055908
+___
+qualitative_concept	diagnostic_procedure	steroid
+evaluation_of	analyzes
+-1
+-5.577820301055908
+___
+qualitative_concept	diagnostic_procedure	receptor
+evaluation_of	analyzes
+-1
+-5.577820301055908
+___
+qualitative_concept	diagnostic_procedure	lipid
+evaluation_of	analyzes
+-1
+-5.577820301055908
+___
+qualitative_concept	diagnostic_procedure	organophosphorus_compound
+evaluation_of	analyzes
+-1
+-5.577820301055908
+___
+qualitative_concept	diagnostic_procedure	biologically_active_substance
+evaluation_of	analyzes
+-1
+-5.577820301055908
+___
+qualitative_concept	occupational_activity	activity
+evaluation_of	isa
+1
+-5.6114280223846436
+___
+qualitative_concept	occupational_activity	event
+evaluation_of	isa
+-1
+-5.6114280223846436
+___
+qualitative_concept	research_activity	quantitative_concept
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	biologic_function
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	organ_or_tissue_function
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	nucleic_acid_nucleoside_or_nucleotide
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	clinical_attribute
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	immunologic_factor
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	mental_process
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	hazardous_or_poisonous_substance
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	chemical_viewed_functionally
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	enzyme
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	element_ion_or_isotope
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	disease_or_syndrome
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	vitamin
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	chemical
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	experimental_model_of_disease
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	organic_chemical
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	receptor
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	physiologic_function
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	pathologic_function
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	body_substance
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	neoplastic_process
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	organophosphorus_compound
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	indicator_reagent_or_diagnostic_aid
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	cell_function
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	mental_or_behavioral_dysfunction
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	hormone
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	cell_or_molecular_dysfunction
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	organism_function
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	carbohydrate
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	biologically_active_substance
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	lipid
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+qualitative_concept	research_activity	genetic_function
+evaluation_of	measures
+-1
+-6.128960847854614
+___
+#####################

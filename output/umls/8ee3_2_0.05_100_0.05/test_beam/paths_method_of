@@ -1,0 +1,503 @@
+molecular_biology_research_technique	diagnostic_procedure
+Reward:0
+molecular_biology_research_technique	research_device	research_device
+uses	NO_OP
+-1
+-0.25751119339838624
+___
+molecular_biology_research_technique	biomedical_occupation_or_discipline	entity
+issue_in	isa
+-1
+-2.4759321212768555
+___
+molecular_biology_research_technique	occupation_or_discipline	conceptual_entity
+issue_in	isa
+-1
+-3.169079303741455
+___
+molecular_biology_research_technique	occupation_or_discipline	entity
+issue_in	isa
+-1
+-3.169079303741455
+___
+molecular_biology_research_technique	biomedical_occupation_or_discipline	entity
+method_of	isa
+-1
+-4.740365028381348
+___
+molecular_biology_research_technique	occupation_or_discipline	entity
+method_of	isa
+-1
+-5.433512210845947
+___
+molecular_biology_research_technique	occupation_or_discipline	conceptual_entity
+method_of	isa
+-1
+-5.433512210845947
+___
+molecular_biology_research_technique	therapeutic_or_preventive_procedure	medical_device
+method_of	uses
+-1
+-6.686695694923401
+___
+molecular_biology_research_technique	therapeutic_or_preventive_procedure	antibiotic
+method_of	uses
+-1
+-6.686695694923401
+___
+molecular_biology_research_technique	therapeutic_or_preventive_procedure	pharmacologic_substance
+method_of	uses
+-1
+-6.686695694923401
+___
+molecular_biology_research_technique	therapeutic_or_preventive_procedure	food
+method_of	uses
+-1
+-6.686695694923401
+___
+molecular_biology_research_technique	therapeutic_or_preventive_procedure	research_device
+method_of	uses
+-1
+-6.686695694923401
+___
+molecular_biology_research_technique	therapeutic_or_preventive_procedure	drug_delivery_device
+method_of	uses
+-1
+-6.686695694923401
+___
+molecular_biology_research_technique	therapeutic_or_preventive_procedure	manufactured_object
+method_of	uses
+-1
+-6.686695694923401
+___
+molecular_biology_research_technique	research_device	manufactured_object
+uses	isa
+-1
+-6.736147046089172
+___
+molecular_biology_research_technique	research_device	physical_object
+uses	isa
+-1
+-6.736147046089172
+___
+molecular_biology_research_technique	chemical	clinical_drug
+measures	ingredient_of
+-1
+-7.108311979565769
+___
+molecular_biology_research_technique	indicator_reagent_or_diagnostic_aid	clinical_drug
+measures	ingredient_of
+-1
+-7.109178735408932
+___
+molecular_biology_research_technique	carbohydrate	clinical_drug
+measures	ingredient_of
+-1
+-7.109716189093888
+___
+molecular_biology_research_technique	lipid	clinical_drug
+measures	ingredient_of
+-1
+-7.109782640822232
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	clinical_drug
+measures	ingredient_of
+-1
+-7.109869779087603
+___
+molecular_biology_research_technique	organic_chemical	clinical_drug
+measures	ingredient_of
+-1
+-7.11010951641947
+___
+molecular_biology_research_technique	steroid	clinical_drug
+measures	ingredient_of
+-1
+-7.1104848477989435
+___
+molecular_biology_research_technique	inorganic_chemical	clinical_drug
+measures	ingredient_of
+-1
+-7.11081125587225
+___
+molecular_biology_research_technique	immunologic_factor	clinical_drug
+measures	ingredient_of
+-1
+-7.123863333836198
+___
+molecular_biology_research_technique	vitamin	clinical_drug
+measures	ingredient_of
+-1
+-7.124136803671718
+___
+molecular_biology_research_technique	neuroreactive_substance_or_biogenic_amine	clinical_drug
+measures	ingredient_of
+-1
+-7.124701226130128
+___
+molecular_biology_research_technique	enzyme	clinical_drug
+measures	ingredient_of
+-1
+-7.125608367845416
+___
+molecular_biology_research_technique	biologically_active_substance	clinical_drug
+measures	ingredient_of
+-1
+-7.126425847411156
+___
+molecular_biology_research_technique	antibiotic	clinical_drug
+measures	ingredient_of
+-1
+-7.129197411239147
+___
+molecular_biology_research_technique	pharmacologic_substance	clinical_drug
+measures	ingredient_of
+-1
+-7.134131111204624
+___
+molecular_biology_research_technique	temporal_concept	temporal_concept
+measures	NO_OP
+-1
+-7.747876822948456
+___
+molecular_biology_research_technique	temporal_concept	mental_process
+measures	result_of
+-1
+-7.873241305351257
+___
+molecular_biology_research_technique	chemical_viewed_structurally	chemical_viewed_structurally
+measures	NO_OP
+-1
+-8.060145437717438
+___
+molecular_biology_research_technique	mental_process	temporal_concept
+measures	occurs_in
+-1
+-8.146364450454712
+___
+molecular_biology_research_technique	organophosphorus_compound	organophosphorus_compound
+measures	NO_OP
+-1
+-8.22348141670227
+___
+molecular_biology_research_technique	cell_function	temporal_concept
+measures	occurs_in
+-1
+-8.225236654281616
+___
+molecular_biology_research_technique	physiologic_function	temporal_concept
+measures	occurs_in
+-1
+-8.264776706695557
+___
+molecular_biology_research_technique	genetic_function	temporal_concept
+measures	occurs_in
+-1
+-8.27935254573822
+___
+molecular_biology_research_technique	organ_or_tissue_function	temporal_concept
+measures	occurs_in
+-1
+-8.44350254535675
+___
+molecular_biology_research_technique	organ_or_tissue_function	organism_function
+measures	occurs_in
+-1
+-8.44350254535675
+___
+molecular_biology_research_technique	research_device	congenital_abnormality
+uses	causes
+-1
+-8.452287316322327
+___
+molecular_biology_research_technique	research_device	pathologic_function
+uses	causes
+-1
+-8.452287316322327
+___
+molecular_biology_research_technique	research_device	injury_or_poisoning
+uses	causes
+-1
+-8.452287316322327
+___
+molecular_biology_research_technique	research_device	mental_or_behavioral_dysfunction
+uses	causes
+-1
+-8.452287316322327
+___
+molecular_biology_research_technique	research_device	experimental_model_of_disease
+uses	causes
+-1
+-8.452287316322327
+___
+molecular_biology_research_technique	research_device	cell_or_molecular_dysfunction
+uses	causes
+-1
+-8.452287316322327
+___
+molecular_biology_research_technique	research_device	acquired_abnormality
+uses	causes
+-1
+-8.452287316322327
+___
+molecular_biology_research_technique	research_device	neoplastic_process
+uses	causes
+-1
+-8.452287316322327
+___
+molecular_biology_research_technique	clinical_attribute	cell_function
+measures	manifestation_of
+-1
+-9.02700674533844
+___
+molecular_biology_research_technique	clinical_attribute	genetic_function
+measures	manifestation_of
+-1
+-9.02700674533844
+___
+molecular_biology_research_technique	clinical_attribute	mental_process
+measures	manifestation_of
+-1
+-9.02700674533844
+___
+molecular_biology_research_technique	clinical_attribute	organism_function
+measures	manifestation_of
+-1
+-9.02700674533844
+___
+molecular_biology_research_technique	clinical_attribute	physiologic_function
+measures	manifestation_of
+-1
+-9.02700674533844
+___
+molecular_biology_research_technique	organism_attribute	organism_function
+measures	manifestation_of
+-1
+-9.037454843521118
+___
+molecular_biology_research_technique	organism_attribute	physiologic_function
+measures	manifestation_of
+-1
+-9.037454843521118
+___
+molecular_biology_research_technique	organism_attribute	genetic_function
+measures	manifestation_of
+-1
+-9.037454843521118
+___
+molecular_biology_research_technique	organism_attribute	molecular_function
+measures	manifestation_of
+-1
+-9.037454843521118
+___
+molecular_biology_research_technique	organism_attribute	mental_process
+measures	manifestation_of
+-1
+-9.037454843521118
+___
+molecular_biology_research_technique	hormone	hormone
+measures	NO_OP
+-1
+-9.133130073547363
+___
+molecular_biology_research_technique	hazardous_or_poisonous_substance	hazardous_or_poisonous_substance
+measures	NO_OP
+-1
+-9.151254415512085
+___
+molecular_biology_research_technique	event	event
+isa	NO_OP
+-1
+-9.237166404724121
+___
+molecular_biology_research_technique	body_substance	lipid
+measures	consists_of
+-1
+-9.238023519515991
+___
+molecular_biology_research_technique	body_substance	steroid
+measures	consists_of
+-1
+-9.238023519515991
+___
+molecular_biology_research_technique	body_substance	eicosanoid
+measures	consists_of
+-1
+-9.238023519515991
+___
+molecular_biology_research_technique	body_substance	amino_acid_peptide_or_protein
+measures	consists_of
+-1
+-9.238023519515991
+___
+molecular_biology_research_technique	body_substance	organic_chemical
+measures	consists_of
+-1
+-9.238023519515991
+___
+molecular_biology_research_technique	body_substance	carbohydrate
+measures	consists_of
+-1
+-9.238023519515991
+___
+molecular_biology_research_technique	body_substance	organophosphorus_compound
+measures	consists_of
+-1
+-9.238023519515991
+___
+molecular_biology_research_technique	body_substance	nucleic_acid_nucleoside_or_nucleotide
+measures	consists_of
+-1
+-9.238023519515991
+___
+molecular_biology_research_technique	activity	activity
+isa	NO_OP
+-1
+-9.238841441227123
+___
+molecular_biology_research_technique	research_activity	research_device
+isa	uses
+-1
+-9.240299675380811
+___
+molecular_biology_research_technique	occupational_activity	occupational_activity
+isa	NO_OP
+-1
+-9.240646736230701
+___
+molecular_biology_research_technique	molecular_biology_research_technique	research_device
+NO_OP	uses
+-1
+-9.45279398560524
+___
+molecular_biology_research_technique	quantitative_concept	genetic_function
+measures	measurement_of
+-1
+-9.5012686252594
+___
+molecular_biology_research_technique	quantitative_concept	carbohydrate_sequence
+measures	measurement_of
+-1
+-9.5012686252594
+___
+molecular_biology_research_technique	quantitative_concept	cell_function
+measures	measurement_of
+-1
+-9.5012686252594
+___
+molecular_biology_research_technique	quantitative_concept	amino_acid_sequence
+measures	measurement_of
+-1
+-9.5012686252594
+___
+molecular_biology_research_technique	quantitative_concept	organism_function
+measures	measurement_of
+-1
+-9.5012686252594
+___
+molecular_biology_research_technique	quantitative_concept	organ_or_tissue_function
+measures	measurement_of
+-1
+-9.5012686252594
+___
+molecular_biology_research_technique	quantitative_concept	body_space_or_junction
+measures	measurement_of
+-1
+-9.5012686252594
+___
+molecular_biology_research_technique	quantitative_concept	geographic_area
+measures	measurement_of
+-1
+-9.5012686252594
+___
+molecular_biology_research_technique	quantitative_concept	spatial_concept
+measures	measurement_of
+-1
+-9.5012686252594
+___
+molecular_biology_research_technique	quantitative_concept	molecular_function
+measures	measurement_of
+-1
+-9.5012686252594
+___
+molecular_biology_research_technique	quantitative_concept	nucleotide_sequence
+measures	measurement_of
+-1
+-9.5012686252594
+___
+molecular_biology_research_technique	mental_process	organism_function
+affects	degree_of
+-1
+-9.69505950808525
+___
+molecular_biology_research_technique	mental_process	organism_function
+measures	degree_of
+-1
+-9.758078575134277
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	experimental_model_of_disease
+measures	manifestation_of
+-1
+-9.759770393371582
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	molecular_function
+measures	manifestation_of
+-1
+-9.759770393371582
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	disease_or_syndrome
+measures	manifestation_of
+-1
+-9.759770393371582
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	organism_function
+measures	manifestation_of
+-1
+-9.759770393371582
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	neoplastic_process
+measures	manifestation_of
+-1
+-9.759770393371582
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	injury_or_poisoning
+measures	manifestation_of
+-1
+-9.759770393371582
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+measures	manifestation_of
+-1
+-9.759770393371582
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	organ_or_tissue_function
+measures	manifestation_of
+-1
+-9.759770393371582
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	pathologic_function
+measures	manifestation_of
+-1
+-9.759770393371582
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	mental_process
+measures	manifestation_of
+-1
+-9.759770393371582
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	cell_function
+measures	manifestation_of
+-1
+-9.759770393371582
+___
+molecular_biology_research_technique	disease_or_syndrome	cell_function
+measures	manifestation_of
+-1
+-9.780874252319336
+___
+molecular_biology_research_technique	disease_or_syndrome	organism_function
+measures	manifestation_of
+-1
+-9.780874252319336
+___
+#####################

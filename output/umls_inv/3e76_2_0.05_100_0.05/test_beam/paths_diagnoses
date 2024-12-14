@@ -1,0 +1,5030 @@
+laboratory_procedure	mental_or_behavioral_dysfunction
+Reward:1
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	mental_or_behavioral_dysfunction
+analyzes	causes
+1
+-2.885308857570635
+___
+laboratory_procedure	steroid	mental_or_behavioral_dysfunction
+analyzes	causes
+1
+-2.885659596999176
+___
+laboratory_procedure	eicosanoid	mental_or_behavioral_dysfunction
+analyzes	causes
+1
+-2.8856597161502577
+___
+laboratory_procedure	element_ion_or_isotope	mental_or_behavioral_dysfunction
+analyzes	causes
+1
+-2.8858271171338856
+___
+laboratory_procedure	inorganic_chemical	mental_or_behavioral_dysfunction
+analyzes	causes
+1
+-2.8859140831627883
+___
+laboratory_procedure	enzyme	mental_or_behavioral_dysfunction
+analyzes	causes
+1
+-2.8872180229518563
+___
+laboratory_procedure	immunologic_factor	mental_or_behavioral_dysfunction
+analyzes	causes
+1
+-2.887226589024067
+___
+laboratory_procedure	hazardous_or_poisonous_substance	mental_or_behavioral_dysfunction
+analyzes	causes
+1
+-2.8879085306543857
+___
+laboratory_procedure	lipid	mental_or_behavioral_dysfunction
+analyzes	causes
+1
+-2.8887639271561056
+___
+laboratory_procedure	organic_chemical	mental_or_behavioral_dysfunction
+analyzes	causes
+1
+-2.8976740231737494
+___
+laboratory_procedure	body_substance	mental_or_behavioral_dysfunction
+analyzes	causes
+1
+-2.8989733112975955
+___
+laboratory_procedure	chemical	mental_or_behavioral_dysfunction
+analyzes	causes
+1
+-2.949962191283703
+___
+laboratory_procedure	antibiotic	mental_or_behavioral_dysfunction
+analyzes	causes
+1
+-3.101532444357872
+___
+laboratory_procedure	biologically_active_substance	immunologic_factor
+analyzes	_isa
+-1
+-3.3473910093307495
+___
+laboratory_procedure	antibiotic	mental_or_behavioral_dysfunction
+analyzes	prevents
+1
+-4.5348076820373535
+___
+laboratory_procedure	anatomical_abnormality	mental_or_behavioral_dysfunction
+diagnoses	_co-occurs_with
+1
+-5.067256679409184
+___
+laboratory_procedure	congenital_abnormality	mental_or_behavioral_dysfunction
+diagnoses	_co-occurs_with
+1
+-5.067256798603921
+___
+laboratory_procedure	acquired_abnormality	mental_or_behavioral_dysfunction
+diagnoses	_co-occurs_with
+1
+-5.067349168690271
+___
+laboratory_procedure	experimental_model_of_disease	mental_or_behavioral_dysfunction
+diagnoses	_degree_of
+1
+-5.069903780473396
+___
+laboratory_procedure	pathologic_function	mental_or_behavioral_dysfunction
+diagnoses	_precedes
+1
+-5.075082092545927
+___
+laboratory_procedure	injury_or_poisoning	mental_or_behavioral_dysfunction
+diagnoses	_occurs_in
+1
+-5.075928028672934
+___
+laboratory_procedure	neoplastic_process	mental_or_behavioral_dysfunction
+diagnoses	_co-occurs_with
+1
+-5.101297918707132
+___
+laboratory_procedure	chemical_viewed_functionally	enzyme
+analyzes	_isa
+-1
+-5.107023239135742
+___
+laboratory_procedure	chemical_viewed_functionally	biomedical_or_dental_material
+analyzes	_isa
+-1
+-5.107023239135742
+___
+laboratory_procedure	chemical_viewed_functionally	pharmacologic_substance
+analyzes	_isa
+-1
+-5.107023239135742
+___
+laboratory_procedure	chemical_viewed_functionally	receptor
+analyzes	_isa
+-1
+-5.107023239135742
+___
+laboratory_procedure	chemical_viewed_functionally	biologically_active_substance
+analyzes	_isa
+-1
+-5.107023239135742
+___
+laboratory_procedure	chemical_viewed_functionally	indicator_reagent_or_diagnostic_aid
+analyzes	_isa
+-1
+-5.107023239135742
+___
+laboratory_procedure	chemical_viewed_functionally	antibiotic
+analyzes	_isa
+-1
+-5.107023239135742
+___
+laboratory_procedure	chemical_viewed_functionally	immunologic_factor
+analyzes	_isa
+-1
+-5.107023239135742
+___
+laboratory_procedure	chemical_viewed_functionally	hormone
+analyzes	_isa
+-1
+-5.107023239135742
+___
+laboratory_procedure	disease_or_syndrome	mental_or_behavioral_dysfunction
+diagnoses	precedes
+1
+-5.133441351354122
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	enzyme
+analyzes	_interacts_with
+-1
+-5.881525993347168
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	pharmacologic_substance
+analyzes	_interacts_with
+-1
+-5.881525993347168
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	biologically_active_substance
+analyzes	_interacts_with
+-1
+-5.881525993347168
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	receptor
+analyzes	_interacts_with
+-1
+-5.881525993347168
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	neuroreactive_substance_or_biogenic_amine
+analyzes	_interacts_with
+-1
+-5.881525993347168
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	inorganic_chemical
+analyzes	_interacts_with
+-1
+-5.881525993347168
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	lipid
+analyzes	_interacts_with
+-1
+-5.881525993347168
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	element_ion_or_isotope
+analyzes	_interacts_with
+-1
+-5.881525993347168
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	nucleic_acid_nucleoside_or_nucleotide
+analyzes	_interacts_with
+-1
+-5.881525993347168
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	chemical_viewed_structurally
+analyzes	_interacts_with
+-1
+-5.881525993347168
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	biomedical_or_dental_material
+analyzes	_interacts_with
+-1
+-5.881525993347168
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	antibiotic
+analyzes	_interacts_with
+-1
+-5.881525993347168
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	carbohydrate
+analyzes	_interacts_with
+-1
+-5.881525993347168
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	organophosphorus_compound
+analyzes	_interacts_with
+-1
+-5.881525993347168
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	vitamin
+analyzes	_interacts_with
+-1
+-5.881525993347168
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	hormone
+analyzes	_interacts_with
+-1
+-5.881525993347168
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	immunologic_factor
+analyzes	_interacts_with
+-1
+-5.881525993347168
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	amino_acid_peptide_or_protein
+analyzes	_interacts_with
+-1
+-5.881525993347168
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	steroid
+analyzes	_interacts_with
+-1
+-5.881525993347168
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	chemical_viewed_functionally
+analyzes	_interacts_with
+-1
+-5.881525993347168
+___
+laboratory_procedure	receptor	physiologic_function
+analyzes	complicates
+-1
+-6.035573959350586
+___
+laboratory_procedure	receptor	biologic_function
+analyzes	complicates
+-1
+-6.035573959350586
+___
+laboratory_procedure	receptor	cell_function
+analyzes	complicates
+-1
+-6.035573959350586
+___
+laboratory_procedure	receptor	organ_or_tissue_function
+analyzes	complicates
+-1
+-6.035573959350586
+___
+laboratory_procedure	receptor	molecular_function
+analyzes	complicates
+-1
+-6.035573959350586
+___
+laboratory_procedure	receptor	mental_process
+analyzes	complicates
+-1
+-6.035573959350586
+___
+laboratory_procedure	receptor	organism_function
+analyzes	complicates
+-1
+-6.035573959350586
+___
+laboratory_procedure	receptor	biologically_active_substance
+analyzes	_interacts_with
+-1
+-6.138787269592285
+___
+laboratory_procedure	receptor	organic_chemical
+analyzes	_interacts_with
+-1
+-6.138787269592285
+___
+laboratory_procedure	receptor	element_ion_or_isotope
+analyzes	_interacts_with
+-1
+-6.138787269592285
+___
+laboratory_procedure	receptor	vitamin
+analyzes	_interacts_with
+-1
+-6.138787269592285
+___
+laboratory_procedure	receptor	carbohydrate
+analyzes	_interacts_with
+-1
+-6.138787269592285
+___
+laboratory_procedure	receptor	antibiotic
+analyzes	_interacts_with
+-1
+-6.138787269592285
+___
+laboratory_procedure	receptor	steroid
+analyzes	_interacts_with
+-1
+-6.138787269592285
+___
+laboratory_procedure	receptor	amino_acid_peptide_or_protein
+analyzes	_interacts_with
+-1
+-6.138787269592285
+___
+laboratory_procedure	receptor	biomedical_or_dental_material
+analyzes	_interacts_with
+-1
+-6.138787269592285
+___
+laboratory_procedure	receptor	chemical_viewed_functionally
+analyzes	_interacts_with
+-1
+-6.138787269592285
+___
+laboratory_procedure	receptor	lipid
+analyzes	_interacts_with
+-1
+-6.138787269592285
+___
+laboratory_procedure	receptor	pharmacologic_substance
+analyzes	_interacts_with
+-1
+-6.138787269592285
+___
+laboratory_procedure	receptor	organophosphorus_compound
+analyzes	_interacts_with
+-1
+-6.138787269592285
+___
+laboratory_procedure	receptor	enzyme
+analyzes	_interacts_with
+-1
+-6.138787269592285
+___
+laboratory_procedure	receptor	immunologic_factor
+analyzes	_interacts_with
+-1
+-6.138787269592285
+___
+laboratory_procedure	receptor	chemical_viewed_structurally
+analyzes	_interacts_with
+-1
+-6.138787269592285
+___
+laboratory_procedure	receptor	inorganic_chemical
+analyzes	_interacts_with
+-1
+-6.138787269592285
+___
+laboratory_procedure	receptor	nucleic_acid_nucleoside_or_nucleotide
+analyzes	_interacts_with
+-1
+-6.138787269592285
+___
+laboratory_procedure	biologically_active_substance	organism_function
+analyzes	complicates
+-1
+-6.821292877197266
+___
+laboratory_procedure	biologically_active_substance	molecular_function
+analyzes	complicates
+-1
+-6.821292877197266
+___
+laboratory_procedure	biologically_active_substance	mental_or_behavioral_dysfunction
+analyzes	complicates
+1
+-6.821292877197266
+___
+laboratory_procedure	biologically_active_substance	biologic_function
+analyzes	complicates
+-1
+-6.821292877197266
+___
+laboratory_procedure	biologically_active_substance	genetic_function
+analyzes	complicates
+-1
+-6.821292877197266
+___
+laboratory_procedure	biologically_active_substance	cell_function
+analyzes	complicates
+-1
+-6.821292877197266
+___
+laboratory_procedure	biologically_active_substance	organ_or_tissue_function
+analyzes	complicates
+-1
+-6.821292877197266
+___
+laboratory_procedure	biologically_active_substance	physiologic_function
+analyzes	complicates
+-1
+-6.821292877197266
+___
+laboratory_procedure	biologically_active_substance	organic_chemical
+analyzes	_interacts_with
+-1
+-6.924506187438965
+___
+laboratory_procedure	biologically_active_substance	chemical_viewed_structurally
+analyzes	_interacts_with
+-1
+-6.924506187438965
+___
+laboratory_procedure	biologically_active_substance	carbohydrate
+analyzes	_interacts_with
+-1
+-6.924506187438965
+___
+laboratory_procedure	biologically_active_substance	nucleic_acid_nucleoside_or_nucleotide
+analyzes	_interacts_with
+-1
+-6.924506187438965
+___
+laboratory_procedure	biologically_active_substance	biomedical_or_dental_material
+analyzes	_interacts_with
+-1
+-6.924506187438965
+___
+laboratory_procedure	biologically_active_substance	element_ion_or_isotope
+analyzes	_interacts_with
+-1
+-6.924506187438965
+___
+laboratory_procedure	biologically_active_substance	steroid
+analyzes	_interacts_with
+-1
+-6.924506187438965
+___
+laboratory_procedure	biologically_active_substance	inorganic_chemical
+analyzes	_interacts_with
+-1
+-6.924506187438965
+___
+laboratory_procedure	biologically_active_substance	chemical_viewed_functionally
+analyzes	_interacts_with
+-1
+-6.924506187438965
+___
+laboratory_procedure	biologically_active_substance	eicosanoid
+analyzes	_interacts_with
+-1
+-6.924506187438965
+___
+laboratory_procedure	biologically_active_substance	lipid
+analyzes	_interacts_with
+-1
+-6.924506187438965
+___
+laboratory_procedure	biologically_active_substance	pharmacologic_substance
+analyzes	_interacts_with
+-1
+-6.924506187438965
+___
+laboratory_procedure	disease_or_syndrome	mental_or_behavioral_dysfunction
+diagnoses	_precedes
+1
+-8.458482265472412
+___
+laboratory_procedure	disease_or_syndrome	mental_or_behavioral_dysfunction
+diagnoses	_occurs_in
+1
+-8.56568956375122
+___
+laboratory_procedure	lipid	steroid
+analyzes	_isa
+-1
+-8.661740779876709
+___
+#####################
+antibiotic	mental_or_behavioral_dysfunction
+Reward:1
+antibiotic	experimental_model_of_disease	mental_or_behavioral_dysfunction
+diagnoses	_degree_of
+1
+-1.5739011040423065
+___
+antibiotic	pathologic_function	mental_or_behavioral_dysfunction
+diagnoses	_precedes
+1
+-1.5963936913758516
+___
+antibiotic	neoplastic_process	mental_or_behavioral_dysfunction
+diagnoses	_co-occurs_with
+1
+-1.6054646670818329
+___
+antibiotic	experimental_model_of_disease	mental_or_behavioral_dysfunction
+prevents	_degree_of
+1
+-2.591760035837069
+___
+antibiotic	neoplastic_process	mental_or_behavioral_dysfunction
+prevents	_co-occurs_with
+1
+-2.6102597154676914
+___
+antibiotic	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+prevents	_co-occurs_with
+1
+-3.189418375492096
+___
+antibiotic	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+prevents	degree_of
+1
+-3.384197771549225
+___
+antibiotic	mental_or_behavioral_dysfunction	anatomical_abnormality
+prevents	complicates
+-1
+-3.661536455154419
+___
+antibiotic	mental_or_behavioral_dysfunction	congenital_abnormality
+prevents	complicates
+-1
+-3.661536455154419
+___
+antibiotic	mental_or_behavioral_dysfunction	mental_or_behavioral_dysfunction
+prevents	NO_OP
+1
+-3.847673177719116
+___
+antibiotic	neoplastic_process	mental_or_behavioral_dysfunction
+treats	_co-occurs_with
+1
+-5.204331679269671
+___
+antibiotic	pathologic_function	mental_or_behavioral_dysfunction
+treats	_precedes
+1
+-5.223615817725658
+___
+antibiotic	injury_or_poisoning	mental_or_behavioral_dysfunction
+treats	_occurs_in
+1
+-5.233643475919962
+___
+antibiotic	disease_or_syndrome	mental_or_behavioral_dysfunction
+treats	precedes
+1
+-5.268562614917755
+___
+antibiotic	congenital_abnormality	mental_or_behavioral_dysfunction
+causes	_co-occurs_with
+1
+-5.559243860014249
+___
+antibiotic	experimental_model_of_disease	mental_or_behavioral_dysfunction
+causes	_degree_of
+1
+-5.570434001274407
+___
+antibiotic	neoplastic_process	mental_or_behavioral_dysfunction
+causes	_co-occurs_with
+1
+-5.5951855555176735
+___
+antibiotic	neoplastic_process	mental_or_behavioral_dysfunction
+diagnoses	_precedes
+1
+-5.609613060951233
+___
+antibiotic	neoplastic_process	mental_or_behavioral_dysfunction
+diagnoses	_occurs_in
+1
+-5.7168203592300415
+___
+antibiotic	injury_or_poisoning	mental_or_behavioral_dysfunction
+causes	_occurs_in
+1
+-5.723340943455696
+___
+antibiotic	disease_or_syndrome	mental_or_behavioral_dysfunction
+causes	precedes
+1
+-5.7951532155275345
+___
+antibiotic	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+treats	_co-occurs_with
+1
+-5.8635300397872925
+___
+antibiotic	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+treats	degree_of
+1
+-5.876061320304871
+___
+antibiotic	mental_or_behavioral_dysfunction	anatomical_abnormality
+treats	complicates
+-1
+-5.9868680238723755
+___
+antibiotic	mental_or_behavioral_dysfunction	congenital_abnormality
+treats	complicates
+-1
+-5.9868680238723755
+___
+antibiotic	mental_or_behavioral_dysfunction	anatomical_abnormality
+prevents	co-occurs_with
+-1
+-6.1128013134002686
+___
+antibiotic	anatomical_abnormality	acquired_abnormality
+treats	_co-occurs_with
+-1
+-6.316873908042908
+___
+antibiotic	anatomical_abnormality	congenital_abnormality
+treats	_co-occurs_with
+-1
+-6.316873908042908
+___
+antibiotic	anatomical_abnormality	mental_or_behavioral_dysfunction
+treats	_co-occurs_with
+1
+-6.316873908042908
+___
+antibiotic	mental_or_behavioral_dysfunction	anatomical_abnormality
+causes	complicates
+-1
+-6.37319803237915
+___
+antibiotic	mental_or_behavioral_dysfunction	congenital_abnormality
+causes	complicates
+-1
+-6.37319803237915
+___
+antibiotic	pathologic_function	acquired_abnormality
+diagnoses	complicates
+-1
+-6.4312649965286255
+___
+antibiotic	pathologic_function	mental_or_behavioral_dysfunction
+diagnoses	complicates
+1
+-6.4312649965286255
+___
+antibiotic	pathologic_function	congenital_abnormality
+diagnoses	complicates
+-1
+-6.4312649965286255
+___
+antibiotic	sign_or_symptom	congenital_abnormality
+treats	diagnoses
+-1
+-6.562795162200928
+___
+antibiotic	sign_or_symptom	injury_or_poisoning
+treats	diagnoses
+-1
+-6.562795162200928
+___
+antibiotic	sign_or_symptom	anatomical_abnormality
+treats	diagnoses
+-1
+-6.562795162200928
+___
+antibiotic	sign_or_symptom	acquired_abnormality
+treats	diagnoses
+-1
+-6.562795162200928
+___
+antibiotic	anatomical_abnormality	congenital_abnormality
+causes	_co-occurs_with
+-1
+-6.667084097862244
+___
+antibiotic	anatomical_abnormality	acquired_abnormality
+causes	_co-occurs_with
+-1
+-6.667084097862244
+___
+antibiotic	anatomical_abnormality	mental_or_behavioral_dysfunction
+causes	_co-occurs_with
+1
+-6.667084097862244
+___
+antibiotic	neoplastic_process	mental_or_behavioral_dysfunction
+prevents	_precedes
+1
+-6.793860912322998
+___
+antibiotic	disease_or_syndrome	mental_or_behavioral_dysfunction
+causes	_precedes
+1
+-7.377554535865784
+___
+antibiotic	experimental_model_of_disease	mental_or_behavioral_dysfunction
+diagnoses	precedes
+1
+-7.490958333015442
+___
+antibiotic	neoplastic_process	mental_or_behavioral_dysfunction
+prevents	_occurs_in
+1
+-7.676103115081787
+___
+antibiotic	mental_or_behavioral_dysfunction	mental_or_behavioral_dysfunction
+treats	NO_OP
+1
+-8.062258243560791
+___
+antibiotic	mental_or_behavioral_dysfunction	anatomical_abnormality
+treats	co-occurs_with
+-1
+-8.158321380615234
+___
+antibiotic	mental_or_behavioral_dysfunction	anatomical_abnormality
+causes	co-occurs_with
+-1
+-8.160029649734497
+___
+antibiotic	disease_or_syndrome	mental_or_behavioral_dysfunction
+treats	_occurs_in
+1
+-8.300325632095337
+___
+antibiotic	disease_or_syndrome	mental_or_behavioral_dysfunction
+treats	_precedes
+1
+-8.34494137763977
+___
+antibiotic	anatomical_abnormality	congenital_abnormality
+treats	_isa
+-1
+-8.372863292694092
+___
+antibiotic	experimental_model_of_disease	mental_or_behavioral_dysfunction
+prevents	precedes
+1
+-8.478274822235107
+___
+antibiotic	pathologic_function	acquired_abnormality
+diagnoses	co-occurs_with
+-1
+-8.660800099372864
+___
+antibiotic	pathologic_function	anatomical_abnormality
+diagnoses	co-occurs_with
+-1
+-8.660800099372864
+___
+antibiotic	chemical_viewed_functionally	congenital_abnormality
+_interacts_with	causes
+-1
+-8.717941522598267
+___
+antibiotic	chemical_viewed_functionally	injury_or_poisoning
+_interacts_with	causes
+-1
+-8.717941522598267
+___
+antibiotic	disease_or_syndrome	mental_or_behavioral_dysfunction
+causes	_occurs_in
+1
+-8.733875751495361
+___
+antibiotic	injury_or_poisoning	anatomical_abnormality
+causes	complicates
+-1
+-8.837470054626465
+___
+antibiotic	injury_or_poisoning	mental_or_behavioral_dysfunction
+causes	complicates
+1
+-8.837470054626465
+___
+antibiotic	injury_or_poisoning	acquired_abnormality
+causes	complicates
+-1
+-8.837470054626465
+___
+antibiotic	injury_or_poisoning	congenital_abnormality
+causes	complicates
+-1
+-8.837470054626465
+___
+antibiotic	inorganic_chemical	mental_or_behavioral_dysfunction
+_interacts_with	causes
+1
+-9.121797919273376
+___
+antibiotic	inorganic_chemical	acquired_abnormality
+_interacts_with	causes
+-1
+-9.121797919273376
+___
+antibiotic	inorganic_chemical	injury_or_poisoning
+_interacts_with	causes
+-1
+-9.121797919273376
+___
+antibiotic	steroid	acquired_abnormality
+_interacts_with	causes
+-1
+-9.121798992156982
+___
+antibiotic	steroid	injury_or_poisoning
+_interacts_with	causes
+-1
+-9.121798992156982
+___
+antibiotic	steroid	mental_or_behavioral_dysfunction
+_interacts_with	causes
+1
+-9.121798992156982
+___
+antibiotic	lipid	injury_or_poisoning
+_interacts_with	causes
+-1
+-9.121917963027954
+___
+antibiotic	lipid	mental_or_behavioral_dysfunction
+_interacts_with	causes
+1
+-9.121917963027954
+___
+antibiotic	lipid	anatomical_abnormality
+_interacts_with	causes
+-1
+-9.121917963027954
+___
+antibiotic	neoplastic_process	mental_or_behavioral_dysfunction
+causes	_precedes
+1
+-9.137134790420532
+___
+antibiotic	organic_chemical	anatomical_abnormality
+_interacts_with	causes
+-1
+-9.409833788871765
+___
+antibiotic	organic_chemical	mental_or_behavioral_dysfunction
+_interacts_with	causes
+1
+-9.409833788871765
+___
+antibiotic	organic_chemical	injury_or_poisoning
+_interacts_with	causes
+-1
+-9.409833788871765
+___
+antibiotic	organic_chemical	acquired_abnormality
+_interacts_with	causes
+-1
+-9.409833788871765
+___
+antibiotic	pathologic_function	acquired_abnormality
+treats	complicates
+-1
+-9.425912380218506
+___
+antibiotic	pathologic_function	congenital_abnormality
+treats	complicates
+-1
+-9.425912380218506
+___
+antibiotic	pathologic_function	mental_or_behavioral_dysfunction
+treats	complicates
+1
+-9.425912380218506
+___
+antibiotic	pharmacologic_substance	mental_or_behavioral_dysfunction
+_interacts_with	causes
+1
+-9.441991806030273
+___
+antibiotic	pharmacologic_substance	anatomical_abnormality
+_interacts_with	causes
+-1
+-9.441991806030273
+___
+antibiotic	pharmacologic_substance	congenital_abnormality
+_interacts_with	causes
+-1
+-9.441991806030273
+___
+antibiotic	pharmacologic_substance	acquired_abnormality
+_interacts_with	causes
+-1
+-9.441991806030273
+___
+antibiotic	neoplastic_process	mental_or_behavioral_dysfunction
+treats	_occurs_in
+1
+-9.451444149017334
+___
+antibiotic	injury_or_poisoning	anatomical_abnormality
+treats	complicates
+-1
+-9.480556011199951
+___
+antibiotic	injury_or_poisoning	acquired_abnormality
+treats	complicates
+-1
+-9.480556011199951
+___
+antibiotic	injury_or_poisoning	congenital_abnormality
+treats	complicates
+-1
+-9.480556011199951
+___
+antibiotic	injury_or_poisoning	mental_or_behavioral_dysfunction
+treats	complicates
+1
+-9.480556011199951
+___
+antibiotic	neoplastic_process	mental_or_behavioral_dysfunction
+treats	_precedes
+1
+-9.496059894561768
+___
+antibiotic	organophosphorus_compound	mental_or_behavioral_dysfunction
+_interacts_with	causes
+1
+-9.632620811462402
+___
+antibiotic	element_ion_or_isotope	congenital_abnormality
+_interacts_with	causes
+-1
+-9.632620811462402
+___
+antibiotic	element_ion_or_isotope	injury_or_poisoning
+_interacts_with	causes
+-1
+-9.632620811462402
+___
+antibiotic	organophosphorus_compound	injury_or_poisoning
+_interacts_with	causes
+-1
+-9.632620811462402
+___
+antibiotic	organophosphorus_compound	acquired_abnormality
+_interacts_with	causes
+-1
+-9.632620811462402
+___
+antibiotic	organophosphorus_compound	congenital_abnormality
+_interacts_with	causes
+-1
+-9.632620811462402
+___
+antibiotic	element_ion_or_isotope	anatomical_abnormality
+_interacts_with	causes
+-1
+-9.632620811462402
+___
+antibiotic	element_ion_or_isotope	mental_or_behavioral_dysfunction
+_interacts_with	causes
+1
+-9.632620811462402
+___
+antibiotic	organophosphorus_compound	anatomical_abnormality
+_interacts_with	causes
+-1
+-9.632620811462402
+___
+antibiotic	element_ion_or_isotope	acquired_abnormality
+_interacts_with	causes
+-1
+-9.632620811462402
+___
+antibiotic	eicosanoid	acquired_abnormality
+_interacts_with	causes
+-1
+-9.632621884346008
+___
+antibiotic	eicosanoid	congenital_abnormality
+_interacts_with	causes
+-1
+-9.632621884346008
+___
+#####################
+sign_or_symptom	mental_or_behavioral_dysfunction
+Reward:1
+sign_or_symptom	anatomical_abnormality	mental_or_behavioral_dysfunction
+diagnoses	_co-occurs_with
+1
+-1.9469636582070962
+___
+sign_or_symptom	congenital_abnormality	mental_or_behavioral_dysfunction
+diagnoses	_co-occurs_with
+1
+-1.9469637774018338
+___
+sign_or_symptom	acquired_abnormality	mental_or_behavioral_dysfunction
+diagnoses	_co-occurs_with
+1
+-1.9470561474881833
+___
+sign_or_symptom	pathologic_function	mental_or_behavioral_dysfunction
+diagnoses	_precedes
+1
+-1.9547890713438392
+___
+sign_or_symptom	injury_or_poisoning	mental_or_behavioral_dysfunction
+diagnoses	_occurs_in
+1
+-1.9556350074708462
+___
+sign_or_symptom	neoplastic_process	mental_or_behavioral_dysfunction
+diagnoses	_co-occurs_with
+1
+-1.981004897505045
+___
+sign_or_symptom	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+diagnoses	degree_of
+1
+-2.474782347679138
+___
+sign_or_symptom	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+diagnoses	_co-occurs_with
+1
+-2.8379558324813843
+___
+sign_or_symptom	neoplastic_process	mental_or_behavioral_dysfunction
+diagnoses	_precedes
+1
+-5.985153317451477
+___
+sign_or_symptom	neoplastic_process	mental_or_behavioral_dysfunction
+diagnoses	_occurs_in
+1
+-6.092360615730286
+___
+sign_or_symptom	injury_or_poisoning	mental_or_behavioral_dysfunction
+diagnoses	complicates
+1
+-6.68329918384552
+___
+sign_or_symptom	pathologic_function	mental_or_behavioral_dysfunction
+diagnoses	complicates
+1
+-6.789660573005676
+___
+sign_or_symptom	anatomical_abnormality	mental_or_behavioral_dysfunction
+associated_with	_co-occurs_with
+1
+-9.389185547703164
+___
+sign_or_symptom	congenital_abnormality	mental_or_behavioral_dysfunction
+associated_with	_co-occurs_with
+1
+-9.389185666910635
+___
+sign_or_symptom	pathologic_function	mental_or_behavioral_dysfunction
+associated_with	_precedes
+1
+-9.395048944745213
+___
+sign_or_symptom	experimental_model_of_disease	mental_or_behavioral_dysfunction
+associated_with	_degree_of
+1
+-9.401866433210671
+___
+sign_or_symptom	neoplastic_process	mental_or_behavioral_dysfunction
+associated_with	_co-occurs_with
+1
+-9.413398828357458
+___
+sign_or_symptom	injury_or_poisoning	mental_or_behavioral_dysfunction
+associated_with	_occurs_in
+1
+-9.445954643189907
+___
+sign_or_symptom	disease_or_syndrome	mental_or_behavioral_dysfunction
+associated_with	precedes
+1
+-9.562559500336647
+___
+sign_or_symptom	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+associated_with	_co-occurs_with
+1
+-9.62967287003994
+___
+sign_or_symptom	mental_or_behavioral_dysfunction	mental_or_behavioral_dysfunction
+associated_with	NO_OP
+1
+-9.918356597423553
+___
+sign_or_symptom	neoplastic_process	mental_or_behavioral_dysfunction
+diagnoses	complicates
+1
+-10.820025086402893
+___
+sign_or_symptom	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+associated_with	degree_of
+1
+-10.932038187980652
+___
+sign_or_symptom	disease_or_syndrome	mental_or_behavioral_dysfunction
+associated_with	_precedes
+1
+-11.32735288143158
+___
+sign_or_symptom	clinical_attribute	organism_attribute
+evaluation_of	_degree_of
+-1
+-11.73469936847686
+___
+sign_or_symptom	mental_process	organism_function
+evaluation_of	_degree_of
+-1
+-11.749147792346776
+___
+sign_or_symptom	pathologic_function	mental_or_behavioral_dysfunction
+evaluation_of	_precedes
+1
+-11.755794443190098
+___
+sign_or_symptom	neoplastic_process	mental_or_behavioral_dysfunction
+evaluation_of	_co-occurs_with
+1
+-11.756939286366105
+___
+sign_or_symptom	organism_function	mental_process
+evaluation_of	_degree_of
+-1
+-11.763272382318974
+___
+sign_or_symptom	organism_attribute	clinical_attribute
+evaluation_of	degree_of
+-1
+-11.796277202665806
+___
+sign_or_symptom	disease_or_syndrome	mental_or_behavioral_dysfunction
+evaluation_of	precedes
+1
+-11.82048624008894
+___
+sign_or_symptom	congenital_abnormality	mental_or_behavioral_dysfunction
+diagnoses	location_of
+1
+-11.92720091342926
+___
+sign_or_symptom	anatomical_abnormality	mental_or_behavioral_dysfunction
+diagnoses	location_of
+1
+-11.92720091342926
+___
+sign_or_symptom	congenital_abnormality	rickettsia_or_chlamydia
+diagnoses	location_of
+-1
+-11.92720091342926
+___
+sign_or_symptom	anatomical_abnormality	rickettsia_or_chlamydia
+diagnoses	location_of
+-1
+-11.92720091342926
+___
+sign_or_symptom	anatomical_abnormality	fungus
+diagnoses	location_of
+-1
+-11.92720091342926
+___
+sign_or_symptom	congenital_abnormality	virus
+diagnoses	location_of
+-1
+-11.92720091342926
+___
+sign_or_symptom	acquired_abnormality	virus
+diagnoses	location_of
+-1
+-11.927293419837952
+___
+sign_or_symptom	acquired_abnormality	bacterium
+diagnoses	location_of
+-1
+-11.927293419837952
+___
+sign_or_symptom	acquired_abnormality	rickettsia_or_chlamydia
+diagnoses	location_of
+-1
+-11.927293419837952
+___
+sign_or_symptom	acquired_abnormality	mental_or_behavioral_dysfunction
+diagnoses	location_of
+1
+-11.927293419837952
+___
+sign_or_symptom	acquired_abnormality	fungus
+diagnoses	location_of
+-1
+-11.927293419837952
+___
+sign_or_symptom	mental_or_behavioral_dysfunction	mental_or_behavioral_dysfunction
+evaluation_of	NO_OP
+1
+-12.068038612604141
+___
+sign_or_symptom	injury_or_poisoning	mental_or_behavioral_dysfunction
+associated_with	complicates
+1
+-12.286103963851929
+___
+sign_or_symptom	finding	laboratory_or_test_result
+co-occurs_with	_co-occurs_with
+-1
+-12.39051067829132
+___
+sign_or_symptom	finding	sign_or_symptom
+co-occurs_with	_co-occurs_with
+-1
+-12.39051067829132
+___
+sign_or_symptom	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+evaluation_of	_co-occurs_with
+1
+-12.41169011592865
+___
+sign_or_symptom	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+evaluation_of	degree_of
+1
+-12.444271445274353
+___
+sign_or_symptom	sign_or_symptom	finding
+NO_OP	co-occurs_with
+-1
+-12.558265209197998
+___
+sign_or_symptom	mental_or_behavioral_dysfunction	cell_function
+associated_with	manifestation_of
+-1
+-12.704137086868286
+___
+sign_or_symptom	mental_or_behavioral_dysfunction	organism_function
+associated_with	manifestation_of
+-1
+-12.704137086868286
+___
+sign_or_symptom	mental_or_behavioral_dysfunction	mental_process
+associated_with	manifestation_of
+-1
+-12.704137086868286
+___
+sign_or_symptom	mental_or_behavioral_dysfunction	organ_or_tissue_function
+associated_with	manifestation_of
+-1
+-12.704137086868286
+___
+sign_or_symptom	sign_or_symptom	cell_function
+NO_OP	evaluation_of
+-1
+-12.712023496627808
+___
+sign_or_symptom	sign_or_symptom	organism_function
+NO_OP	evaluation_of
+-1
+-12.712023496627808
+___
+sign_or_symptom	sign_or_symptom	mental_process
+NO_OP	evaluation_of
+-1
+-12.712023496627808
+___
+sign_or_symptom	sign_or_symptom	clinical_attribute
+NO_OP	evaluation_of
+-1
+-12.712023496627808
+___
+sign_or_symptom	sign_or_symptom	organism_attribute
+NO_OP	evaluation_of
+-1
+-12.712023496627808
+___
+sign_or_symptom	sign_or_symptom	physiologic_function
+NO_OP	evaluation_of
+-1
+-12.712023496627808
+___
+sign_or_symptom	sign_or_symptom	molecular_function
+NO_OP	evaluation_of
+-1
+-12.712023496627808
+___
+sign_or_symptom	sign_or_symptom	organ_or_tissue_function
+NO_OP	evaluation_of
+-1
+-12.712023496627808
+___
+sign_or_symptom	sign_or_symptom	genetic_function
+NO_OP	evaluation_of
+-1
+-12.712023496627808
+___
+sign_or_symptom	sign_or_symptom	mental_or_behavioral_dysfunction
+NO_OP	evaluation_of
+1
+-12.712023496627808
+___
+sign_or_symptom	mental_or_behavioral_dysfunction	natural_phenomenon_or_process
+associated_with	_process_of
+-1
+-12.836801052093506
+___
+sign_or_symptom	mental_or_behavioral_dysfunction	physiologic_function
+associated_with	_process_of
+-1
+-12.836801052093506
+___
+sign_or_symptom	mental_or_behavioral_dysfunction	cell_function
+associated_with	_process_of
+-1
+-12.836801052093506
+___
+sign_or_symptom	mental_or_behavioral_dysfunction	organism_function
+associated_with	_process_of
+-1
+-12.836801052093506
+___
+sign_or_symptom	mental_or_behavioral_dysfunction	molecular_function
+associated_with	_process_of
+-1
+-12.836801052093506
+___
+sign_or_symptom	mental_or_behavioral_dysfunction	genetic_function
+associated_with	_process_of
+-1
+-12.836801052093506
+___
+sign_or_symptom	mental_or_behavioral_dysfunction	biologic_function
+associated_with	_process_of
+-1
+-12.836801052093506
+___
+sign_or_symptom	physiologic_function	cell_function
+evaluation_of	_co-occurs_with
+-1
+-12.871912717819214
+___
+sign_or_symptom	physiologic_function	mental_process
+evaluation_of	_co-occurs_with
+-1
+-12.871912717819214
+___
+sign_or_symptom	organ_or_tissue_function	mental_process
+evaluation_of	_co-occurs_with
+-1
+-12.999101877212524
+___
+sign_or_symptom	organ_or_tissue_function	organism_function
+evaluation_of	_co-occurs_with
+-1
+-12.999101877212524
+___
+sign_or_symptom	cell_function	organ_or_tissue_function
+evaluation_of	_co-occurs_with
+-1
+-13.005585074424744
+___
+sign_or_symptom	cell_function	mental_process
+evaluation_of	_co-occurs_with
+-1
+-13.005585074424744
+___
+sign_or_symptom	molecular_function	organism_function
+evaluation_of	_co-occurs_with
+-1
+-13.139163970947266
+___
+sign_or_symptom	molecular_function	mental_process
+evaluation_of	_co-occurs_with
+-1
+-13.139163970947266
+___
+sign_or_symptom	molecular_function	cell_function
+evaluation_of	_co-occurs_with
+-1
+-13.139163970947266
+___
+sign_or_symptom	genetic_function	molecular_function
+evaluation_of	_co-occurs_with
+-1
+-13.193634033203125
+___
+sign_or_symptom	genetic_function	organism_function
+evaluation_of	_co-occurs_with
+-1
+-13.193634033203125
+___
+sign_or_symptom	genetic_function	cell_function
+evaluation_of	_co-occurs_with
+-1
+-13.193634033203125
+___
+sign_or_symptom	neoplastic_process	mental_or_behavioral_dysfunction
+associated_with	_precedes
+1
+-13.221988677978516
+___
+sign_or_symptom	disease_or_syndrome	mental_or_behavioral_dysfunction
+associated_with	_occurs_in
+1
+-13.631275653839111
+___
+sign_or_symptom	finding	laboratory_or_test_result
+co-occurs_with	_isa
+-1
+-13.895318984985352
+___
+sign_or_symptom	finding	sign_or_symptom
+co-occurs_with	_isa
+-1
+-13.895318984985352
+___
+sign_or_symptom	experimental_model_of_disease	mental_or_behavioral_dysfunction
+associated_with	precedes
+1
+-13.919972896575928
+___
+sign_or_symptom	physiologic_function	cell_function
+evaluation_of	precedes
+-1
+-14.253941297531128
+___
+sign_or_symptom	physiologic_function	organism_function
+evaluation_of	precedes
+-1
+-14.253941297531128
+___
+sign_or_symptom	physiologic_function	molecular_function
+evaluation_of	precedes
+-1
+-14.253941297531128
+___
+sign_or_symptom	organ_or_tissue_function	genetic_function
+evaluation_of	precedes
+-1
+-14.381130456924438
+___
+sign_or_symptom	organ_or_tissue_function	mental_process
+evaluation_of	precedes
+-1
+-14.381130456924438
+___
+sign_or_symptom	organ_or_tissue_function	physiologic_function
+evaluation_of	precedes
+-1
+-14.381130456924438
+___
+sign_or_symptom	organ_or_tissue_function	organism_function
+evaluation_of	precedes
+-1
+-14.381130456924438
+___
+sign_or_symptom	organ_or_tissue_function	molecular_function
+evaluation_of	precedes
+-1
+-14.381130456924438
+___
+sign_or_symptom	organ_or_tissue_function	cell_function
+evaluation_of	precedes
+-1
+-14.381130456924438
+___
+sign_or_symptom	cell_function	mental_process
+evaluation_of	precedes
+-1
+-14.387613773345947
+___
+sign_or_symptom	cell_function	genetic_function
+evaluation_of	precedes
+-1
+-14.387613773345947
+___
+sign_or_symptom	cell_function	molecular_function
+evaluation_of	precedes
+-1
+-14.387613773345947
+___
+sign_or_symptom	cell_function	organ_or_tissue_function
+evaluation_of	precedes
+-1
+-14.387613773345947
+___
+#####################
+pharmacologic_substance	experimental_model_of_disease
+Reward:1
+pharmacologic_substance	disease_or_syndrome	experimental_model_of_disease
+diagnoses	_precedes
+1
+-1.9922318067401648
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	experimental_model_of_disease
+diagnoses	_precedes
+1
+-1.9974955432116985
+___
+pharmacologic_substance	neoplastic_process	experimental_model_of_disease
+diagnoses	precedes
+1
+-2.0051960200071335
+___
+pharmacologic_substance	pathologic_function	experimental_model_of_disease
+diagnoses	degree_of
+1
+-2.2846924364566803
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	experimental_model_of_disease
+prevents	_precedes
+1
+-2.996984589379281
+___
+pharmacologic_substance	neoplastic_process	experimental_model_of_disease
+prevents	precedes
+1
+-3.008022850379348
+___
+pharmacologic_substance	pathologic_function	experimental_model_of_disease
+diagnoses	precedes
+1
+-3.326973557472229
+___
+pharmacologic_substance	pathologic_function	experimental_model_of_disease
+prevents	degree_of
+1
+-3.371112138032913
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	anatomical_abnormality
+diagnoses	complicates
+-1
+-3.4379897117614746
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	acquired_abnormality
+diagnoses	complicates
+-1
+-3.4379897117614746
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	congenital_abnormality
+diagnoses	complicates
+-1
+-3.4379897117614746
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	experimental_model_of_disease
+diagnoses	complicates
+1
+-3.4379897117614746
+___
+pharmacologic_substance	experimental_model_of_disease	injury_or_poisoning
+prevents	complicates
+-1
+-3.6893935203552246
+___
+pharmacologic_substance	experimental_model_of_disease	experimental_model_of_disease
+prevents	NO_OP
+1
+-3.875530242919922
+___
+pharmacologic_substance	pathologic_function	experimental_model_of_disease
+prevents	precedes
+1
+-4.182855844497681
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	congenital_abnormality
+prevents	complicates
+-1
+-4.441183090209961
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	anatomical_abnormality
+prevents	complicates
+-1
+-4.441183090209961
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	experimental_model_of_disease
+prevents	complicates
+1
+-4.441183090209961
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	acquired_abnormality
+prevents	complicates
+-1
+-4.441183090209961
+___
+pharmacologic_substance	neoplastic_process	experimental_model_of_disease
+diagnoses	_occurs_in
+1
+-5.437444090843201
+___
+pharmacologic_substance	congenital_abnormality	experimental_model_of_disease
+treats	_co-occurs_with
+1
+-5.578714966017287
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	experimental_model_of_disease
+treats	_precedes
+1
+-5.62391509860754
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	acquired_abnormality
+diagnoses	co-occurs_with
+-1
+-5.667524695396423
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	anatomical_abnormality
+diagnoses	co-occurs_with
+-1
+-5.667524695396423
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	injury_or_poisoning
+diagnoses	co-occurs_with
+-1
+-5.667524695396423
+___
+pharmacologic_substance	pathologic_function	experimental_model_of_disease
+treats	degree_of
+1
+-5.851964116096497
+___
+pharmacologic_substance	experimental_model_of_disease	injury_or_poisoning
+treats	complicates
+-1
+-5.889560401439667
+___
+pharmacologic_substance	congenital_abnormality	experimental_model_of_disease
+causes	_co-occurs_with
+1
+-5.961186946544331
+___
+pharmacologic_substance	disease_or_syndrome	experimental_model_of_disease
+causes	_precedes
+1
+-5.9913570657372475
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	experimental_model_of_disease
+causes	_precedes
+1
+-5.996992371976376
+___
+pharmacologic_substance	neoplastic_process	experimental_model_of_disease
+causes	precedes
+1
+-6.0152803882956505
+___
+pharmacologic_substance	experimental_model_of_disease	injury_or_poisoning
+prevents	co-occurs_with
+-1
+-6.140658378601074
+___
+pharmacologic_substance	experimental_model_of_disease	congenital_abnormality
+prevents	co-occurs_with
+-1
+-6.140658378601074
+___
+pharmacologic_substance	acquired_abnormality	experimental_model_of_disease
+treats	_co-occurs_with
+1
+-6.271778643131256
+___
+pharmacologic_substance	acquired_abnormality	congenital_abnormality
+treats	_co-occurs_with
+-1
+-6.271778643131256
+___
+pharmacologic_substance	experimental_model_of_disease	injury_or_poisoning
+causes	complicates
+-1
+-6.318010300397873
+___
+pharmacologic_substance	anatomical_abnormality	acquired_abnormality
+treats	_co-occurs_with
+-1
+-6.333696067333221
+___
+pharmacologic_substance	anatomical_abnormality	congenital_abnormality
+treats	_co-occurs_with
+-1
+-6.333696067333221
+___
+pharmacologic_substance	pathologic_function	experimental_model_of_disease
+diagnoses	_precedes
+1
+-6.65201461315155
+___
+pharmacologic_substance	acquired_abnormality	congenital_abnormality
+causes	_co-occurs_with
+-1
+-6.6542136669158936
+___
+pharmacologic_substance	acquired_abnormality	experimental_model_of_disease
+causes	_co-occurs_with
+1
+-6.6542136669158936
+___
+pharmacologic_substance	anatomical_abnormality	congenital_abnormality
+causes	_co-occurs_with
+-1
+-6.668435513973236
+___
+pharmacologic_substance	anatomical_abnormality	acquired_abnormality
+causes	_co-occurs_with
+-1
+-6.668435513973236
+___
+pharmacologic_substance	disease_or_syndrome	injury_or_poisoning
+diagnoses	complicates
+-1
+-6.827103018760681
+___
+pharmacologic_substance	disease_or_syndrome	congenital_abnormality
+diagnoses	complicates
+-1
+-6.827103018760681
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	anatomical_abnormality
+diagnoses	complicates
+-1
+-6.8323668241500854
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	experimental_model_of_disease
+diagnoses	complicates
+1
+-6.8323668241500854
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	congenital_abnormality
+diagnoses	complicates
+-1
+-6.8323668241500854
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	acquired_abnormality
+prevents	co-occurs_with
+-1
+-6.8924479484558105
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	injury_or_poisoning
+prevents	co-occurs_with
+-1
+-6.8924479484558105
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	anatomical_abnormality
+prevents	co-occurs_with
+-1
+-6.8924479484558105
+___
+pharmacologic_substance	sign_or_symptom	acquired_abnormality
+treats	diagnoses
+-1
+-6.964718580245972
+___
+pharmacologic_substance	sign_or_symptom	congenital_abnormality
+treats	diagnoses
+-1
+-6.964718580245972
+___
+pharmacologic_substance	sign_or_symptom	anatomical_abnormality
+treats	diagnoses
+-1
+-6.964718580245972
+___
+pharmacologic_substance	sign_or_symptom	injury_or_poisoning
+treats	diagnoses
+-1
+-6.964718580245972
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	experimental_model_of_disease
+treats	complicates
+1
+-7.048590660095215
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	congenital_abnormality
+treats	complicates
+-1
+-7.048590660095215
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	acquired_abnormality
+treats	complicates
+-1
+-7.048590660095215
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	anatomical_abnormality
+treats	complicates
+-1
+-7.048590660095215
+___
+pharmacologic_substance	pathologic_function	experimental_model_of_disease
+treats	precedes
+1
+-7.054782032966614
+___
+pharmacologic_substance	neoplastic_process	experimental_model_of_disease
+prevents	_occurs_in
+1
+-7.067343235015869
+___
+pharmacologic_substance	pathologic_function	experimental_model_of_disease
+prevents	_precedes
+1
+-7.359934329986572
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	anatomical_abnormality
+causes	complicates
+-1
+-7.478604316711426
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	acquired_abnormality
+causes	complicates
+-1
+-7.478604316711426
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	experimental_model_of_disease
+causes	complicates
+1
+-7.478604316711426
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	congenital_abnormality
+causes	complicates
+-1
+-7.478604316711426
+___
+pharmacologic_substance	experimental_model_of_disease	experimental_model_of_disease
+treats	NO_OP
+1
+-7.9649505615234375
+___
+pharmacologic_substance	experimental_model_of_disease	injury_or_poisoning
+treats	co-occurs_with
+-1
+-8.06101393699646
+___
+pharmacologic_substance	experimental_model_of_disease	congenital_abnormality
+treats	co-occurs_with
+-1
+-8.06101393699646
+___
+pharmacologic_substance	experimental_model_of_disease	congenital_abnormality
+causes	co-occurs_with
+-1
+-8.104841947555542
+___
+pharmacologic_substance	experimental_model_of_disease	injury_or_poisoning
+causes	co-occurs_with
+-1
+-8.104841947555542
+___
+pharmacologic_substance	anatomical_abnormality	congenital_abnormality
+treats	_isa
+-1
+-8.38968539237976
+___
+pharmacologic_substance	neoplastic_process	experimental_model_of_disease
+causes	_occurs_in
+1
+-8.954003095626831
+___
+pharmacologic_substance	disease_or_syndrome	anatomical_abnormality
+diagnoses	co-occurs_with
+-1
+-9.05663812160492
+___
+pharmacologic_substance	disease_or_syndrome	experimental_model_of_disease
+diagnoses	co-occurs_with
+1
+-9.05663812160492
+___
+pharmacologic_substance	disease_or_syndrome	acquired_abnormality
+diagnoses	co-occurs_with
+-1
+-9.05663812160492
+___
+pharmacologic_substance	disease_or_syndrome	congenital_abnormality
+diagnoses	co-occurs_with
+-1
+-9.05663812160492
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	anatomical_abnormality
+diagnoses	co-occurs_with
+-1
+-9.061901926994324
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	experimental_model_of_disease
+prevents	complicates
+1
+-9.2110013961792
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	congenital_abnormality
+prevents	complicates
+-1
+-9.2110013961792
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	anatomical_abnormality
+prevents	complicates
+-1
+-9.2110013961792
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	acquired_abnormality
+treats	co-occurs_with
+-1
+-9.220044136047363
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	injury_or_poisoning
+treats	co-occurs_with
+-1
+-9.220044136047363
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	anatomical_abnormality
+treats	co-occurs_with
+-1
+-9.220044136047363
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	injury_or_poisoning
+causes	co-occurs_with
+-1
+-9.265435934066772
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	acquired_abnormality
+causes	co-occurs_with
+-1
+-9.265435934066772
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	anatomical_abnormality
+causes	co-occurs_with
+-1
+-9.265435934066772
+___
+pharmacologic_substance	inorganic_chemical	acquired_abnormality
+_interacts_with	causes
+-1
+-9.523738265037537
+___
+pharmacologic_substance	inorganic_chemical	experimental_model_of_disease
+_interacts_with	causes
+1
+-9.523738265037537
+___
+pharmacologic_substance	inorganic_chemical	injury_or_poisoning
+_interacts_with	causes
+-1
+-9.523738265037537
+___
+pharmacologic_substance	steroid	acquired_abnormality
+_interacts_with	causes
+-1
+-9.523739337921143
+___
+pharmacologic_substance	steroid	experimental_model_of_disease
+_interacts_with	causes
+1
+-9.523739337921143
+___
+pharmacologic_substance	steroid	injury_or_poisoning
+_interacts_with	causes
+-1
+-9.523739337921143
+___
+pharmacologic_substance	chemical_viewed_functionally	injury_or_poisoning
+_interacts_with	causes
+-1
+-9.524809122085571
+___
+pharmacologic_substance	chemical_viewed_functionally	experimental_model_of_disease
+_interacts_with	causes
+1
+-9.524809122085571
+___
+pharmacologic_substance	chemical_viewed_functionally	congenital_abnormality
+_interacts_with	causes
+-1
+-9.524809122085571
+___
+pharmacologic_substance	nucleic_acid_nucleoside_or_nucleotide	congenital_abnormality
+_interacts_with	causes
+-1
+-9.811416625976562
+___
+pharmacologic_substance	nucleic_acid_nucleoside_or_nucleotide	anatomical_abnormality
+_interacts_with	causes
+-1
+-9.811416625976562
+___
+pharmacologic_substance	nucleic_acid_nucleoside_or_nucleotide	experimental_model_of_disease
+_interacts_with	causes
+1
+-9.811416625976562
+___
+pharmacologic_substance	nucleic_acid_nucleoside_or_nucleotide	acquired_abnormality
+_interacts_with	causes
+-1
+-9.811416625976562
+___
+#####################
+diagnostic_procedure	cell_or_molecular_dysfunction
+Reward:1
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	cell_or_molecular_dysfunction
+analyzes	causes
+1
+-3.076510544429766
+___
+diagnostic_procedure	organophosphorus_compound	cell_or_molecular_dysfunction
+analyzes	causes
+1
+-3.0766864658216946
+___
+diagnostic_procedure	steroid	cell_or_molecular_dysfunction
+analyzes	causes
+1
+-3.0768612838583067
+___
+diagnostic_procedure	eicosanoid	cell_or_molecular_dysfunction
+analyzes	causes
+1
+-3.0768612838583067
+___
+diagnostic_procedure	hormone	cell_or_molecular_dysfunction
+analyzes	causes
+1
+-3.078318222425878
+___
+diagnostic_procedure	enzyme	cell_or_molecular_dysfunction
+analyzes	causes
+1
+-3.0784207805991173
+___
+diagnostic_procedure	receptor	cell_or_molecular_dysfunction
+analyzes	causes
+1
+-3.078763477038592
+___
+diagnostic_procedure	lipid	cell_or_molecular_dysfunction
+analyzes	causes
+1
+-3.0799657329916954
+___
+diagnostic_procedure	biologically_active_substance	cell_or_molecular_dysfunction
+analyzes	causes
+1
+-3.0813450892455876
+___
+diagnostic_procedure	antibiotic	cell_or_molecular_dysfunction
+analyzes	prevents
+1
+-3.088780694641173
+___
+diagnostic_procedure	body_substance	cell_or_molecular_dysfunction
+analyzes	causes
+1
+-3.090174880810082
+___
+diagnostic_procedure	chemical_viewed_structurally	cell_or_molecular_dysfunction
+analyzes	causes
+1
+-3.1040301118046045
+___
+diagnostic_procedure	chemical_viewed_functionally	cell_or_molecular_dysfunction
+analyzes	causes
+1
+-3.1047065258026123
+___
+diagnostic_procedure	chemical	cell_or_molecular_dysfunction
+analyzes	causes
+1
+-3.1411638781428337
+___
+diagnostic_procedure	carbohydrate	amino_acid_peptide_or_protein
+analyzes	_interacts_with
+-1
+-4.198974847793579
+___
+diagnostic_procedure	carbohydrate	organic_chemical
+analyzes	_interacts_with
+-1
+-4.198974847793579
+___
+diagnostic_procedure	carbohydrate	nucleic_acid_nucleoside_or_nucleotide
+analyzes	_interacts_with
+-1
+-4.198974847793579
+___
+diagnostic_procedure	amino_acid_peptide_or_protein	nucleic_acid_nucleoside_or_nucleotide
+analyzes	_interacts_with
+-1
+-4.202925682067871
+___
+diagnostic_procedure	amino_acid_peptide_or_protein	organic_chemical
+analyzes	_interacts_with
+-1
+-4.202925682067871
+___
+diagnostic_procedure	amino_acid_peptide_or_protein	chemical_viewed_structurally
+analyzes	_interacts_with
+-1
+-4.202925682067871
+___
+diagnostic_procedure	organic_chemical	lipid
+analyzes	_isa
+-1
+-4.470098972320557
+___
+diagnostic_procedure	organic_chemical	carbohydrate
+analyzes	_isa
+-1
+-4.470098972320557
+___
+diagnostic_procedure	organic_chemical	amino_acid_peptide_or_protein
+analyzes	_isa
+-1
+-4.470098972320557
+___
+diagnostic_procedure	organic_chemical	nucleic_acid_nucleoside_or_nucleotide
+analyzes	_isa
+-1
+-4.470098972320557
+___
+diagnostic_procedure	inorganic_chemical	organophosphorus_compound
+analyzes	_interacts_with
+-1
+-5.157333612442017
+___
+diagnostic_procedure	inorganic_chemical	lipid
+analyzes	_interacts_with
+-1
+-5.157333612442017
+___
+diagnostic_procedure	inorganic_chemical	amino_acid_peptide_or_protein
+analyzes	_interacts_with
+-1
+-5.157333612442017
+___
+diagnostic_procedure	inorganic_chemical	chemical_viewed_structurally
+analyzes	_interacts_with
+-1
+-5.157333612442017
+___
+diagnostic_procedure	inorganic_chemical	organic_chemical
+analyzes	_interacts_with
+-1
+-5.157333612442017
+___
+diagnostic_procedure	inorganic_chemical	eicosanoid
+analyzes	_interacts_with
+-1
+-5.157333612442017
+___
+diagnostic_procedure	inorganic_chemical	nucleic_acid_nucleoside_or_nucleotide
+analyzes	_interacts_with
+-1
+-5.157333612442017
+___
+diagnostic_procedure	inorganic_chemical	element_ion_or_isotope
+analyzes	_interacts_with
+-1
+-5.157333612442017
+___
+diagnostic_procedure	neoplastic_process	cell_or_molecular_dysfunction
+diagnoses	degree_of
+1
+-5.258330702717103
+___
+diagnostic_procedure	injury_or_poisoning	cell_or_molecular_dysfunction
+diagnoses	_co-occurs_with
+1
+-5.258464325888781
+___
+diagnostic_procedure	acquired_abnormality	cell_or_molecular_dysfunction
+diagnoses	_co-occurs_with
+1
+-5.258550855549402
+___
+diagnostic_procedure	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+diagnoses	_degree_of
+1
+-5.261106418445706
+___
+diagnostic_procedure	experimental_model_of_disease	cell_or_molecular_dysfunction
+diagnoses	_degree_of
+1
+-5.263617166783661
+___
+diagnostic_procedure	pathologic_function	cell_or_molecular_dysfunction
+diagnoses	_degree_of
+1
+-5.26602403819561
+___
+diagnostic_procedure	biomedical_or_dental_material	lipid
+analyzes	_interacts_with
+-1
+-5.475371837615967
+___
+diagnostic_procedure	biomedical_or_dental_material	inorganic_chemical
+analyzes	_interacts_with
+-1
+-5.475371837615967
+___
+diagnostic_procedure	biomedical_or_dental_material	organophosphorus_compound
+analyzes	_interacts_with
+-1
+-5.475371837615967
+___
+diagnostic_procedure	biomedical_or_dental_material	amino_acid_peptide_or_protein
+analyzes	_interacts_with
+-1
+-5.475371837615967
+___
+diagnostic_procedure	biomedical_or_dental_material	eicosanoid
+analyzes	_interacts_with
+-1
+-5.475371837615967
+___
+diagnostic_procedure	biomedical_or_dental_material	nucleic_acid_nucleoside_or_nucleotide
+analyzes	_interacts_with
+-1
+-5.475371837615967
+___
+diagnostic_procedure	biomedical_or_dental_material	chemical_viewed_structurally
+analyzes	_interacts_with
+-1
+-5.475371837615967
+___
+diagnostic_procedure	biomedical_or_dental_material	steroid
+analyzes	_interacts_with
+-1
+-5.475371837615967
+___
+diagnostic_procedure	biomedical_or_dental_material	element_ion_or_isotope
+analyzes	_interacts_with
+-1
+-5.475371837615967
+___
+diagnostic_procedure	biomedical_or_dental_material	pharmacologic_substance
+analyzes	_interacts_with
+-1
+-5.475371837615967
+___
+diagnostic_procedure	biomedical_or_dental_material	antibiotic
+analyzes	_interacts_with
+-1
+-5.475371837615967
+___
+diagnostic_procedure	immunologic_factor	mental_process
+analyzes	complicates
+-1
+-6.06504487991333
+___
+diagnostic_procedure	immunologic_factor	biologic_function
+analyzes	complicates
+-1
+-6.06504487991333
+___
+diagnostic_procedure	immunologic_factor	organ_or_tissue_function
+analyzes	complicates
+-1
+-6.06504487991333
+___
+diagnostic_procedure	immunologic_factor	molecular_function
+analyzes	complicates
+-1
+-6.06504487991333
+___
+diagnostic_procedure	immunologic_factor	cell_function
+analyzes	complicates
+-1
+-6.06504487991333
+___
+diagnostic_procedure	vitamin	organism_function
+analyzes	complicates
+-1
+-6.146862745285034
+___
+diagnostic_procedure	vitamin	cell_function
+analyzes	complicates
+-1
+-6.146862745285034
+___
+diagnostic_procedure	vitamin	biologic_function
+analyzes	complicates
+-1
+-6.146862745285034
+___
+diagnostic_procedure	vitamin	molecular_function
+analyzes	complicates
+-1
+-6.146862745285034
+___
+diagnostic_procedure	vitamin	mental_process
+analyzes	complicates
+-1
+-6.146862745285034
+___
+diagnostic_procedure	vitamin	genetic_function
+analyzes	complicates
+-1
+-6.146862745285034
+___
+diagnostic_procedure	vitamin	organ_or_tissue_function
+analyzes	complicates
+-1
+-6.146862745285034
+___
+diagnostic_procedure	immunologic_factor	inorganic_chemical
+analyzes	_interacts_with
+-1
+-6.168258190155029
+___
+diagnostic_procedure	immunologic_factor	neuroreactive_substance_or_biogenic_amine
+analyzes	_interacts_with
+-1
+-6.168258190155029
+___
+diagnostic_procedure	immunologic_factor	steroid
+analyzes	_interacts_with
+-1
+-6.168258190155029
+___
+diagnostic_procedure	immunologic_factor	hormone
+analyzes	_interacts_with
+-1
+-6.168258190155029
+___
+diagnostic_procedure	immunologic_factor	enzyme
+analyzes	_interacts_with
+-1
+-6.168258190155029
+___
+diagnostic_procedure	immunologic_factor	organophosphorus_compound
+analyzes	_interacts_with
+-1
+-6.168258190155029
+___
+diagnostic_procedure	immunologic_factor	vitamin
+analyzes	_interacts_with
+-1
+-6.168258190155029
+___
+diagnostic_procedure	immunologic_factor	nucleic_acid_nucleoside_or_nucleotide
+analyzes	_interacts_with
+-1
+-6.168258190155029
+___
+diagnostic_procedure	immunologic_factor	biologically_active_substance
+analyzes	_interacts_with
+-1
+-6.168258190155029
+___
+diagnostic_procedure	immunologic_factor	eicosanoid
+analyzes	_interacts_with
+-1
+-6.168258190155029
+___
+diagnostic_procedure	immunologic_factor	element_ion_or_isotope
+analyzes	_interacts_with
+-1
+-6.168258190155029
+___
+diagnostic_procedure	immunologic_factor	lipid
+analyzes	_interacts_with
+-1
+-6.168258190155029
+___
+diagnostic_procedure	immunologic_factor	amino_acid_peptide_or_protein
+analyzes	_interacts_with
+-1
+-6.168258190155029
+___
+diagnostic_procedure	immunologic_factor	pharmacologic_substance
+analyzes	_interacts_with
+-1
+-6.168258190155029
+___
+diagnostic_procedure	immunologic_factor	organic_chemical
+analyzes	_interacts_with
+-1
+-6.168258190155029
+___
+diagnostic_procedure	vitamin	eicosanoid
+analyzes	_interacts_with
+-1
+-6.250076055526733
+___
+diagnostic_procedure	vitamin	biomedical_or_dental_material
+analyzes	_interacts_with
+-1
+-6.250076055526733
+___
+diagnostic_procedure	vitamin	nucleic_acid_nucleoside_or_nucleotide
+analyzes	_interacts_with
+-1
+-6.250076055526733
+___
+diagnostic_procedure	vitamin	amino_acid_peptide_or_protein
+analyzes	_interacts_with
+-1
+-6.250076055526733
+___
+diagnostic_procedure	vitamin	pharmacologic_substance
+analyzes	_interacts_with
+-1
+-6.250076055526733
+___
+diagnostic_procedure	vitamin	organophosphorus_compound
+analyzes	_interacts_with
+-1
+-6.250076055526733
+___
+diagnostic_procedure	vitamin	chemical_viewed_functionally
+analyzes	_interacts_with
+-1
+-6.250076055526733
+___
+diagnostic_procedure	vitamin	neuroreactive_substance_or_biogenic_amine
+analyzes	_interacts_with
+-1
+-6.250076055526733
+___
+diagnostic_procedure	vitamin	inorganic_chemical
+analyzes	_interacts_with
+-1
+-6.250076055526733
+___
+diagnostic_procedure	vitamin	antibiotic
+analyzes	_interacts_with
+-1
+-6.250076055526733
+___
+diagnostic_procedure	vitamin	biologically_active_substance
+analyzes	_interacts_with
+-1
+-6.250076055526733
+___
+diagnostic_procedure	vitamin	steroid
+analyzes	_interacts_with
+-1
+-6.250076055526733
+___
+diagnostic_procedure	vitamin	lipid
+analyzes	_interacts_with
+-1
+-6.250076055526733
+___
+diagnostic_procedure	vitamin	chemical_viewed_structurally
+analyzes	_interacts_with
+-1
+-6.250076055526733
+___
+diagnostic_procedure	vitamin	carbohydrate
+analyzes	_interacts_with
+-1
+-6.250076055526733
+___
+diagnostic_procedure	vitamin	organic_chemical
+analyzes	_interacts_with
+-1
+-6.250076055526733
+___
+diagnostic_procedure	immunologic_factor	virus
+analyzes	indicates
+-1
+-7.30831241607666
+___
+diagnostic_procedure	immunologic_factor	bacterium
+analyzes	indicates
+-1
+-7.30831241607666
+___
+diagnostic_procedure	immunologic_factor	cell_or_molecular_dysfunction
+analyzes	indicates
+1
+-7.30831241607666
+___
+diagnostic_procedure	immunologic_factor	rickettsia_or_chlamydia
+analyzes	indicates
+-1
+-7.30831241607666
+___
+diagnostic_procedure	organic_chemical	chemical_viewed_structurally
+analyzes	_interacts_with
+-1
+-8.047214031219482
+___
+diagnostic_procedure	carbohydrate	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-8.60629415512085
+___
+diagnostic_procedure	carbohydrate	cell_component
+analyzes	_produces
+-1
+-8.60629415512085
+___
+diagnostic_procedure	carbohydrate	gene_or_genome
+analyzes	_produces
+-1
+-8.60629415512085
+___
+#####################
+sign_or_symptom	experimental_model_of_disease
+Reward:1
+sign_or_symptom	congenital_abnormality	experimental_model_of_disease
+diagnoses	_co-occurs_with
+1
+-1.9469636582070962
+___
+sign_or_symptom	acquired_abnormality	experimental_model_of_disease
+diagnoses	_co-occurs_with
+1
+-1.9470561474881833
+___
+sign_or_symptom	cell_or_molecular_dysfunction	experimental_model_of_disease
+diagnoses	complicates
+1
+-1.9513042820617557
+___
+sign_or_symptom	injury_or_poisoning	experimental_model_of_disease
+diagnoses	_co-occurs_with
+1
+-1.9630774315446615
+___
+sign_or_symptom	neoplastic_process	experimental_model_of_disease
+diagnoses	precedes
+1
+-1.9786288850009441
+___
+sign_or_symptom	pathologic_function	experimental_model_of_disease
+diagnoses	degree_of
+1
+-2.2582982778549194
+___
+sign_or_symptom	anatomical_abnormality	experimental_model_of_disease
+diagnoses	location_of
+1
+-3.0460485219955444
+___
+sign_or_symptom	anatomical_abnormality	rickettsia_or_chlamydia
+diagnoses	location_of
+-1
+-3.0460485219955444
+___
+sign_or_symptom	anatomical_abnormality	fungus
+diagnoses	location_of
+-1
+-3.0460485219955444
+___
+sign_or_symptom	pathologic_function	experimental_model_of_disease
+diagnoses	precedes
+1
+-3.3005794286727905
+___
+sign_or_symptom	neoplastic_process	experimental_model_of_disease
+diagnoses	_occurs_in
+1
+-5.410877108573914
+___
+sign_or_symptom	injury_or_poisoning	experimental_model_of_disease
+diagnoses	_occurs_in
+1
+-6.074433445930481
+___
+sign_or_symptom	pathologic_function	experimental_model_of_disease
+diagnoses	_precedes
+1
+-6.625620484352112
+___
+sign_or_symptom	congenital_abnormality	experimental_model_of_disease
+associated_with	_co-occurs_with
+1
+-9.389185905325576
+___
+sign_or_symptom	disease_or_syndrome	experimental_model_of_disease
+associated_with	_precedes
+1
+-9.39013005857123
+___
+sign_or_symptom	injury_or_poisoning	experimental_model_of_disease
+associated_with	_co-occurs_with
+1
+-9.391382271423936
+___
+sign_or_symptom	mental_or_behavioral_dysfunction	experimental_model_of_disease
+associated_with	_precedes
+1
+-9.395045152399689
+___
+sign_or_symptom	cell_or_molecular_dysfunction	experimental_model_of_disease
+associated_with	complicates
+1
+-9.397829715162516
+___
+sign_or_symptom	neoplastic_process	experimental_model_of_disease
+associated_with	precedes
+1
+-9.406132260337472
+___
+sign_or_symptom	pathologic_function	experimental_model_of_disease
+associated_with	degree_of
+1
+-9.832885682582855
+___
+sign_or_symptom	experimental_model_of_disease	experimental_model_of_disease
+associated_with	NO_OP
+1
+-9.954978227615356
+___
+sign_or_symptom	anatomical_abnormality	rickettsia_or_chlamydia
+associated_with	location_of
+-1
+-10.527431964874268
+___
+sign_or_symptom	anatomical_abnormality	fungus
+associated_with	location_of
+-1
+-10.527431964874268
+___
+sign_or_symptom	anatomical_abnormality	experimental_model_of_disease
+associated_with	location_of
+1
+-10.527431964874268
+___
+sign_or_symptom	cell_or_molecular_dysfunction	cell_function
+diagnoses	_affects
+-1
+-10.543186783790588
+___
+sign_or_symptom	cell_or_molecular_dysfunction	hormone
+diagnoses	_affects
+-1
+-10.543186783790588
+___
+sign_or_symptom	cell_or_molecular_dysfunction	organic_chemical
+diagnoses	_affects
+-1
+-10.543186783790588
+___
+sign_or_symptom	cell_or_molecular_dysfunction	amino_acid_peptide_or_protein
+diagnoses	_affects
+-1
+-10.543186783790588
+___
+sign_or_symptom	cell_or_molecular_dysfunction	therapeutic_or_preventive_procedure
+diagnoses	_affects
+-1
+-10.543186783790588
+___
+sign_or_symptom	cell_or_molecular_dysfunction	physiologic_function
+diagnoses	_affects
+-1
+-10.543186783790588
+___
+sign_or_symptom	cell_or_molecular_dysfunction	steroid
+diagnoses	_affects
+-1
+-10.543186783790588
+___
+sign_or_symptom	cell_or_molecular_dysfunction	eicosanoid
+diagnoses	_affects
+-1
+-10.543186783790588
+___
+sign_or_symptom	cell_or_molecular_dysfunction	mental_process
+diagnoses	_affects
+-1
+-10.543186783790588
+___
+sign_or_symptom	cell_or_molecular_dysfunction	organism_function
+diagnoses	_affects
+-1
+-10.543186783790588
+___
+sign_or_symptom	cell_or_molecular_dysfunction	chemical
+diagnoses	_affects
+-1
+-10.543186783790588
+___
+sign_or_symptom	cell_or_molecular_dysfunction	food
+diagnoses	_affects
+-1
+-10.543186783790588
+___
+sign_or_symptom	cell_or_molecular_dysfunction	inorganic_chemical
+diagnoses	_affects
+-1
+-10.543186783790588
+___
+sign_or_symptom	cell_or_molecular_dysfunction	chemical_viewed_functionally
+diagnoses	_affects
+-1
+-10.543186783790588
+___
+sign_or_symptom	cell_or_molecular_dysfunction	indicator_reagent_or_diagnostic_aid
+diagnoses	_affects
+-1
+-10.543186783790588
+___
+sign_or_symptom	pathologic_function	experimental_model_of_disease
+associated_with	precedes
+1
+-10.57431697845459
+___
+sign_or_symptom	cell_or_molecular_dysfunction	molecular_function
+diagnoses	_process_of
+-1
+-10.730345368385315
+___
+sign_or_symptom	cell_or_molecular_dysfunction	biologic_function
+diagnoses	_process_of
+-1
+-10.730345368385315
+___
+sign_or_symptom	cell_or_molecular_dysfunction	cell_function
+diagnoses	_process_of
+-1
+-10.730345368385315
+___
+sign_or_symptom	cell_or_molecular_dysfunction	experimental_model_of_disease
+diagnoses	_process_of
+1
+-10.730345368385315
+___
+sign_or_symptom	cell_or_molecular_dysfunction	organ_or_tissue_function
+diagnoses	_process_of
+-1
+-10.730345368385315
+___
+sign_or_symptom	cell_or_molecular_dysfunction	mental_process
+diagnoses	_process_of
+-1
+-10.730345368385315
+___
+sign_or_symptom	pathologic_function	experimental_model_of_disease
+diagnoses	complicates
+1
+-11.46049177646637
+___
+sign_or_symptom	anatomical_abnormality	organism_function
+diagnoses	manifestation_of
+-1
+-11.525560021400452
+___
+sign_or_symptom	anatomical_abnormality	genetic_function
+diagnoses	manifestation_of
+-1
+-11.525560021400452
+___
+sign_or_symptom	anatomical_abnormality	molecular_function
+diagnoses	manifestation_of
+-1
+-11.525560021400452
+___
+sign_or_symptom	anatomical_abnormality	experimental_model_of_disease
+diagnoses	manifestation_of
+1
+-11.525560021400452
+___
+sign_or_symptom	anatomical_abnormality	cell_function
+diagnoses	manifestation_of
+-1
+-11.525560021400452
+___
+sign_or_symptom	anatomical_abnormality	physiologic_function
+diagnoses	manifestation_of
+-1
+-11.525560021400452
+___
+sign_or_symptom	cell_or_molecular_dysfunction	organism_function
+diagnoses	manifestation_of
+-1
+-11.572031617164612
+___
+sign_or_symptom	cell_or_molecular_dysfunction	physiologic_function
+diagnoses	manifestation_of
+-1
+-11.572031617164612
+___
+sign_or_symptom	cell_or_molecular_dysfunction	organ_or_tissue_function
+diagnoses	manifestation_of
+-1
+-11.572031617164612
+___
+sign_or_symptom	cell_or_molecular_dysfunction	experimental_model_of_disease
+diagnoses	manifestation_of
+1
+-11.572031617164612
+___
+sign_or_symptom	cell_or_molecular_dysfunction	mental_process
+diagnoses	manifestation_of
+-1
+-11.572031617164612
+___
+sign_or_symptom	clinical_attribute	organism_attribute
+evaluation_of	_degree_of
+-1
+-11.73469936847686
+___
+sign_or_symptom	disease_or_syndrome	experimental_model_of_disease
+evaluation_of	_precedes
+1
+-11.737583051202819
+___
+sign_or_symptom	cell_or_molecular_dysfunction	experimental_model_of_disease
+evaluation_of	complicates
+1
+-11.749018652364612
+___
+sign_or_symptom	mental_process	organism_function
+evaluation_of	_degree_of
+-1
+-11.749147792346776
+___
+sign_or_symptom	mental_or_behavioral_dysfunction	experimental_model_of_disease
+evaluation_of	_precedes
+1
+-11.75576176121831
+___
+sign_or_symptom	organism_function	mental_process
+evaluation_of	_degree_of
+-1
+-11.763272382318974
+___
+sign_or_symptom	neoplastic_process	experimental_model_of_disease
+evaluation_of	precedes
+1
+-11.776599802076817
+___
+sign_or_symptom	organism_attribute	clinical_attribute
+evaluation_of	degree_of
+-1
+-11.796277314424515
+___
+sign_or_symptom	congenital_abnormality	experimental_model_of_disease
+diagnoses	location_of
+1
+-11.92720091342926
+___
+sign_or_symptom	congenital_abnormality	virus
+diagnoses	location_of
+-1
+-11.92720091342926
+___
+sign_or_symptom	congenital_abnormality	rickettsia_or_chlamydia
+diagnoses	location_of
+-1
+-11.92720091342926
+___
+sign_or_symptom	acquired_abnormality	virus
+diagnoses	location_of
+-1
+-11.927293419837952
+___
+sign_or_symptom	acquired_abnormality	experimental_model_of_disease
+diagnoses	location_of
+1
+-11.927293419837952
+___
+sign_or_symptom	acquired_abnormality	bacterium
+diagnoses	location_of
+-1
+-11.927293419837952
+___
+sign_or_symptom	acquired_abnormality	rickettsia_or_chlamydia
+diagnoses	location_of
+-1
+-11.927293419837952
+___
+sign_or_symptom	acquired_abnormality	fungus
+diagnoses	location_of
+-1
+-11.927293419837952
+___
+sign_or_symptom	pathologic_function	experimental_model_of_disease
+evaluation_of	degree_of
+1
+-11.974914371967316
+___
+sign_or_symptom	cell_or_molecular_dysfunction	medical_device
+diagnoses	_prevents
+-1
+-12.08101999759674
+___
+sign_or_symptom	cell_or_molecular_dysfunction	pharmacologic_substance
+diagnoses	_prevents
+-1
+-12.08101999759674
+___
+sign_or_symptom	cell_or_molecular_dysfunction	antibiotic
+diagnoses	_prevents
+-1
+-12.08101999759674
+___
+sign_or_symptom	pathologic_function	experimental_model_of_disease
+associated_with	_precedes
+1
+-12.339110374450684
+___
+sign_or_symptom	cell_or_molecular_dysfunction	enzyme
+diagnoses	produces
+-1
+-12.359248757362366
+___
+sign_or_symptom	cell_or_molecular_dysfunction	hormone
+diagnoses	produces
+-1
+-12.359248757362366
+___
+sign_or_symptom	cell_or_molecular_dysfunction	biologically_active_substance
+diagnoses	produces
+-1
+-12.359248757362366
+___
+sign_or_symptom	cell_or_molecular_dysfunction	neuroreactive_substance_or_biogenic_amine
+diagnoses	produces
+-1
+-12.359248757362366
+___
+sign_or_symptom	cell_or_molecular_dysfunction	immunologic_factor
+diagnoses	produces
+-1
+-12.359248757362366
+___
+sign_or_symptom	cell_or_molecular_dysfunction	receptor
+diagnoses	produces
+-1
+-12.359248757362366
+___
+sign_or_symptom	finding	sign_or_symptom
+co-occurs_with	_co-occurs_with
+-1
+-12.39051067829132
+___
+sign_or_symptom	finding	laboratory_or_test_result
+co-occurs_with	_co-occurs_with
+-1
+-12.39051067829132
+___
+sign_or_symptom	sign_or_symptom	finding
+NO_OP	co-occurs_with
+-1
+-12.473173379898071
+___
+sign_or_symptom	sign_or_symptom	organism_function
+NO_OP	evaluation_of
+-1
+-12.62693166732788
+___
+sign_or_symptom	sign_or_symptom	clinical_attribute
+NO_OP	evaluation_of
+-1
+-12.62693166732788
+___
+sign_or_symptom	sign_or_symptom	cell_function
+NO_OP	evaluation_of
+-1
+-12.62693166732788
+___
+sign_or_symptom	sign_or_symptom	molecular_function
+NO_OP	evaluation_of
+-1
+-12.62693166732788
+___
+sign_or_symptom	sign_or_symptom	mental_process
+NO_OP	evaluation_of
+-1
+-12.62693166732788
+___
+sign_or_symptom	sign_or_symptom	organism_attribute
+NO_OP	evaluation_of
+-1
+-12.62693166732788
+___
+sign_or_symptom	sign_or_symptom	organ_or_tissue_function
+NO_OP	evaluation_of
+-1
+-12.62693166732788
+___
+sign_or_symptom	sign_or_symptom	genetic_function
+NO_OP	evaluation_of
+-1
+-12.62693166732788
+___
+sign_or_symptom	sign_or_symptom	physiologic_function
+NO_OP	evaluation_of
+-1
+-12.62693166732788
+___
+sign_or_symptom	experimental_model_of_disease	molecular_function
+associated_with	manifestation_of
+-1
+-12.740758657455444
+___
+sign_or_symptom	experimental_model_of_disease	organ_or_tissue_function
+associated_with	manifestation_of
+-1
+-12.740758657455444
+___
+sign_or_symptom	experimental_model_of_disease	mental_process
+associated_with	manifestation_of
+-1
+-12.740758657455444
+___
+#####################
+diagnostic_procedure	congenital_abnormality
+Reward:1
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	congenital_abnormality
+analyzes	causes
+1
+-3.076510544429766
+___
+diagnostic_procedure	organophosphorus_compound	congenital_abnormality
+analyzes	causes
+1
+-3.0766864658216946
+___
+diagnostic_procedure	carbohydrate	congenital_abnormality
+analyzes	causes
+1
+-3.0766865850018803
+___
+diagnostic_procedure	amino_acid_peptide_or_protein	congenital_abnormality
+analyzes	causes
+1
+-3.0766875384142622
+___
+diagnostic_procedure	eicosanoid	congenital_abnormality
+analyzes	causes
+1
+-3.0768612838583067
+___
+diagnostic_procedure	biomedical_or_dental_material	congenital_abnormality
+analyzes	causes
+1
+-3.077376384404488
+___
+diagnostic_procedure	hormone	congenital_abnormality
+analyzes	causes
+1
+-3.078317151637748
+___
+diagnostic_procedure	vitamin	congenital_abnormality
+analyzes	causes
+1
+-3.0784938260912895
+___
+diagnostic_procedure	antibiotic	congenital_abnormality
+analyzes	causes
+1
+-3.07867296715267
+___
+diagnostic_procedure	receptor	congenital_abnormality
+analyzes	causes
+1
+-3.0787624067161232
+___
+diagnostic_procedure	biologically_active_substance	congenital_abnormality
+analyzes	causes
+1
+-3.081344021949917
+___
+diagnostic_procedure	body_substance	congenital_abnormality
+analyzes	causes
+1
+-3.0901739401742816
+___
+diagnostic_procedure	chemical_viewed_structurally	congenital_abnormality
+analyzes	causes
+1
+-3.1040301118046045
+___
+diagnostic_procedure	chemical_viewed_functionally	congenital_abnormality
+analyzes	causes
+1
+-3.1047065258026123
+___
+diagnostic_procedure	chemical	congenital_abnormality
+analyzes	causes
+1
+-3.1411639899015427
+___
+diagnostic_procedure	lipid	steroid
+analyzes	_isa
+-1
+-3.2093311101198196
+___
+diagnostic_procedure	organic_chemical	carbohydrate
+analyzes	_isa
+-1
+-4.470098972320557
+___
+diagnostic_procedure	organic_chemical	lipid
+analyzes	_isa
+-1
+-4.470098972320557
+___
+diagnostic_procedure	organic_chemical	amino_acid_peptide_or_protein
+analyzes	_isa
+-1
+-4.470098972320557
+___
+diagnostic_procedure	organic_chemical	nucleic_acid_nucleoside_or_nucleotide
+analyzes	_isa
+-1
+-4.470098972320557
+___
+diagnostic_procedure	steroid	chemical_viewed_structurally
+analyzes	_interacts_with
+-1
+-4.702652931213379
+___
+diagnostic_procedure	steroid	carbohydrate
+analyzes	_interacts_with
+-1
+-4.702652931213379
+___
+diagnostic_procedure	steroid	nucleic_acid_nucleoside_or_nucleotide
+analyzes	_interacts_with
+-1
+-4.702652931213379
+___
+diagnostic_procedure	steroid	lipid
+analyzes	_interacts_with
+-1
+-4.702652931213379
+___
+diagnostic_procedure	steroid	amino_acid_peptide_or_protein
+analyzes	_interacts_with
+-1
+-4.702652931213379
+___
+diagnostic_procedure	inorganic_chemical	nucleic_acid_nucleoside_or_nucleotide
+analyzes	_interacts_with
+-1
+-5.157331943511963
+___
+diagnostic_procedure	inorganic_chemical	element_ion_or_isotope
+analyzes	_interacts_with
+-1
+-5.157331943511963
+___
+diagnostic_procedure	inorganic_chemical	lipid
+analyzes	_interacts_with
+-1
+-5.157331943511963
+___
+diagnostic_procedure	inorganic_chemical	chemical_viewed_structurally
+analyzes	_interacts_with
+-1
+-5.157331943511963
+___
+diagnostic_procedure	inorganic_chemical	amino_acid_peptide_or_protein
+analyzes	_interacts_with
+-1
+-5.157331943511963
+___
+diagnostic_procedure	inorganic_chemical	eicosanoid
+analyzes	_interacts_with
+-1
+-5.157331943511963
+___
+diagnostic_procedure	inorganic_chemical	organophosphorus_compound
+analyzes	_interacts_with
+-1
+-5.157331943511963
+___
+diagnostic_procedure	inorganic_chemical	organic_chemical
+analyzes	_interacts_with
+-1
+-5.157331943511963
+___
+diagnostic_procedure	injury_or_poisoning	congenital_abnormality
+diagnoses	complicates
+1
+-5.258593879203545
+___
+diagnostic_procedure	acquired_abnormality	congenital_abnormality
+diagnoses	_co-occurs_with
+1
+-5.258649652270833
+___
+diagnostic_procedure	mental_or_behavioral_dysfunction	congenital_abnormality
+diagnoses	complicates
+1
+-5.263262551277876
+___
+diagnostic_procedure	pathologic_function	congenital_abnormality
+diagnoses	complicates
+1
+-5.264018714427948
+___
+diagnostic_procedure	experimental_model_of_disease	congenital_abnormality
+diagnoses	co-occurs_with
+1
+-5.3154347240924835
+___
+diagnostic_procedure	immunologic_factor	mental_process
+analyzes	complicates
+-1
+-6.099714517593384
+___
+diagnostic_procedure	immunologic_factor	molecular_function
+analyzes	complicates
+-1
+-6.099714517593384
+___
+diagnostic_procedure	immunologic_factor	biologic_function
+analyzes	complicates
+-1
+-6.099714517593384
+___
+diagnostic_procedure	immunologic_factor	organ_or_tissue_function
+analyzes	complicates
+-1
+-6.099714517593384
+___
+diagnostic_procedure	immunologic_factor	cell_function
+analyzes	complicates
+-1
+-6.099714517593384
+___
+diagnostic_procedure	immunologic_factor	congenital_abnormality
+analyzes	complicates
+1
+-6.099714517593384
+___
+diagnostic_procedure	enzyme	mental_process
+analyzes	complicates
+-1
+-6.1099138259887695
+___
+diagnostic_procedure	enzyme	organ_or_tissue_function
+analyzes	complicates
+-1
+-6.1099138259887695
+___
+diagnostic_procedure	enzyme	biologic_function
+analyzes	complicates
+-1
+-6.1099138259887695
+___
+diagnostic_procedure	enzyme	congenital_abnormality
+analyzes	complicates
+1
+-6.1099138259887695
+___
+diagnostic_procedure	enzyme	cell_function
+analyzes	complicates
+-1
+-6.1099138259887695
+___
+diagnostic_procedure	enzyme	molecular_function
+analyzes	complicates
+-1
+-6.1099138259887695
+___
+diagnostic_procedure	enzyme	physiologic_function
+analyzes	complicates
+-1
+-6.1099138259887695
+___
+diagnostic_procedure	enzyme	genetic_function
+analyzes	complicates
+-1
+-6.1099138259887695
+___
+diagnostic_procedure	immunologic_factor	eicosanoid
+analyzes	_interacts_with
+-1
+-6.202927827835083
+___
+diagnostic_procedure	immunologic_factor	neuroreactive_substance_or_biogenic_amine
+analyzes	_interacts_with
+-1
+-6.202927827835083
+___
+diagnostic_procedure	immunologic_factor	enzyme
+analyzes	_interacts_with
+-1
+-6.202927827835083
+___
+diagnostic_procedure	immunologic_factor	lipid
+analyzes	_interacts_with
+-1
+-6.202927827835083
+___
+diagnostic_procedure	immunologic_factor	organic_chemical
+analyzes	_interacts_with
+-1
+-6.202927827835083
+___
+diagnostic_procedure	immunologic_factor	steroid
+analyzes	_interacts_with
+-1
+-6.202927827835083
+___
+diagnostic_procedure	immunologic_factor	pharmacologic_substance
+analyzes	_interacts_with
+-1
+-6.202927827835083
+___
+diagnostic_procedure	immunologic_factor	organophosphorus_compound
+analyzes	_interacts_with
+-1
+-6.202927827835083
+___
+diagnostic_procedure	immunologic_factor	amino_acid_peptide_or_protein
+analyzes	_interacts_with
+-1
+-6.202927827835083
+___
+diagnostic_procedure	immunologic_factor	biologically_active_substance
+analyzes	_interacts_with
+-1
+-6.202927827835083
+___
+diagnostic_procedure	immunologic_factor	element_ion_or_isotope
+analyzes	_interacts_with
+-1
+-6.202927827835083
+___
+diagnostic_procedure	immunologic_factor	inorganic_chemical
+analyzes	_interacts_with
+-1
+-6.202927827835083
+___
+diagnostic_procedure	immunologic_factor	vitamin
+analyzes	_interacts_with
+-1
+-6.202927827835083
+___
+diagnostic_procedure	immunologic_factor	hormone
+analyzes	_interacts_with
+-1
+-6.202927827835083
+___
+diagnostic_procedure	immunologic_factor	nucleic_acid_nucleoside_or_nucleotide
+analyzes	_interacts_with
+-1
+-6.202927827835083
+___
+diagnostic_procedure	enzyme	chemical_viewed_functionally
+analyzes	_interacts_with
+-1
+-6.213127136230469
+___
+diagnostic_procedure	enzyme	antibiotic
+analyzes	_interacts_with
+-1
+-6.213127136230469
+___
+diagnostic_procedure	enzyme	eicosanoid
+analyzes	_interacts_with
+-1
+-6.213127136230469
+___
+diagnostic_procedure	enzyme	lipid
+analyzes	_interacts_with
+-1
+-6.213127136230469
+___
+diagnostic_procedure	enzyme	chemical_viewed_structurally
+analyzes	_interacts_with
+-1
+-6.213127136230469
+___
+diagnostic_procedure	enzyme	carbohydrate
+analyzes	_interacts_with
+-1
+-6.213127136230469
+___
+diagnostic_procedure	enzyme	steroid
+analyzes	_interacts_with
+-1
+-6.213127136230469
+___
+diagnostic_procedure	enzyme	organophosphorus_compound
+analyzes	_interacts_with
+-1
+-6.213127136230469
+___
+diagnostic_procedure	enzyme	amino_acid_peptide_or_protein
+analyzes	_interacts_with
+-1
+-6.213127136230469
+___
+diagnostic_procedure	enzyme	organic_chemical
+analyzes	_interacts_with
+-1
+-6.213127136230469
+___
+diagnostic_procedure	enzyme	biomedical_or_dental_material
+analyzes	_interacts_with
+-1
+-6.213127136230469
+___
+diagnostic_procedure	enzyme	pharmacologic_substance
+analyzes	_interacts_with
+-1
+-6.213127136230469
+___
+diagnostic_procedure	enzyme	nucleic_acid_nucleoside_or_nucleotide
+analyzes	_interacts_with
+-1
+-6.213127136230469
+___
+diagnostic_procedure	enzyme	neuroreactive_substance_or_biogenic_amine
+analyzes	_interacts_with
+-1
+-6.213127136230469
+___
+diagnostic_procedure	lipid	organophosphorus_compound
+analyzes	_interacts_with
+-1
+-6.7864460945129395
+___
+diagnostic_procedure	lipid	amino_acid_peptide_or_protein
+analyzes	_interacts_with
+-1
+-6.7864460945129395
+___
+diagnostic_procedure	lipid	organic_chemical
+analyzes	_interacts_with
+-1
+-6.7864460945129395
+___
+diagnostic_procedure	lipid	carbohydrate
+analyzes	_interacts_with
+-1
+-6.7864460945129395
+___
+diagnostic_procedure	lipid	nucleic_acid_nucleoside_or_nucleotide
+analyzes	_interacts_with
+-1
+-6.7864460945129395
+___
+diagnostic_procedure	immunologic_factor	virus
+analyzes	indicates
+-1
+-7.342981815338135
+___
+diagnostic_procedure	immunologic_factor	rickettsia_or_chlamydia
+analyzes	indicates
+-1
+-7.342981815338135
+___
+diagnostic_procedure	immunologic_factor	bacterium
+analyzes	indicates
+-1
+-7.342981815338135
+___
+diagnostic_procedure	organic_chemical	chemical_viewed_structurally
+analyzes	_interacts_with
+-1
+-8.047214031219482
+___
+diagnostic_procedure	neoplastic_process	indicator_reagent_or_diagnostic_aid
+diagnoses	_affects
+-1
+-8.616198062896729
+___
+diagnostic_procedure	neoplastic_process	physiologic_function
+diagnoses	_affects
+-1
+-8.616198062896729
+___
+diagnostic_procedure	neoplastic_process	inorganic_chemical
+diagnoses	_affects
+-1
+-8.616198062896729
+___
+diagnostic_procedure	neoplastic_process	therapeutic_or_preventive_procedure
+diagnoses	_affects
+-1
+-8.616198062896729
+___
+diagnostic_procedure	neoplastic_process	molecular_function
+diagnoses	_affects
+-1
+-8.616198062896729
+___
+diagnostic_procedure	neoplastic_process	pharmacologic_substance
+diagnoses	_affects
+-1
+-8.616198062896729
+___
+diagnostic_procedure	neoplastic_process	food
+diagnoses	_affects
+-1
+-8.616198062896729
+___
+diagnostic_procedure	neoplastic_process	amino_acid_peptide_or_protein
+diagnoses	_affects
+-1
+-8.616198062896729
+___
+diagnostic_procedure	neoplastic_process	element_ion_or_isotope
+diagnoses	_affects
+-1
+-8.616198062896729
+___
+diagnostic_procedure	neoplastic_process	biologically_active_substance
+diagnoses	_affects
+-1
+-8.616198062896729
+___
+#####################
+antibiotic	cell_or_molecular_dysfunction
+Reward:1
+antibiotic	neoplastic_process	cell_or_molecular_dysfunction
+diagnoses	degree_of
+1
+-1.5712480455404148
+___
+antibiotic	experimental_model_of_disease	cell_or_molecular_dysfunction
+diagnoses	_degree_of
+1
+-1.576412919908762
+___
+antibiotic	pathologic_function	cell_or_molecular_dysfunction
+diagnoses	_degree_of
+1
+-1.5788204995915294
+___
+antibiotic	neoplastic_process	cell_or_molecular_dysfunction
+prevents	degree_of
+1
+-2.5889183271865477
+___
+antibiotic	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+prevents	_degree_of
+1
+-2.5917603925336152
+___
+antibiotic	experimental_model_of_disease	cell_or_molecular_dysfunction
+prevents	_degree_of
+1
+-2.596440328285098
+___
+antibiotic	cell_or_molecular_dysfunction	congenital_abnormality
+prevents	complicates
+-1
+-3.9984856843948364
+___
+antibiotic	cell_or_molecular_dysfunction	acquired_abnormality
+prevents	complicates
+-1
+-3.9984856843948364
+___
+antibiotic	cell_or_molecular_dysfunction	anatomical_abnormality
+prevents	complicates
+-1
+-3.9984856843948364
+___
+antibiotic	cell_or_molecular_dysfunction	cell_or_molecular_dysfunction
+prevents	NO_OP
+1
+-4.184622406959534
+___
+antibiotic	neoplastic_process	cell_or_molecular_dysfunction
+treats	degree_of
+1
+-5.176564058143413
+___
+antibiotic	injury_or_poisoning	cell_or_molecular_dysfunction
+treats	_co-occurs_with
+1
+-5.17712807765929
+___
+antibiotic	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+treats	_degree_of
+1
+-5.179707144619897
+___
+antibiotic	disease_or_syndrome	cell_or_molecular_dysfunction
+treats	_degree_of
+1
+-5.179862525546923
+___
+antibiotic	pathologic_function	cell_or_molecular_dysfunction
+treats	_degree_of
+1
+-5.187272038310766
+___
+antibiotic	congenital_abnormality	cell_or_molecular_dysfunction
+causes	_co-occurs_with
+1
+-5.55924588534981
+___
+antibiotic	injury_or_poisoning	cell_or_molecular_dysfunction
+causes	_co-occurs_with
+1
+-5.559983793529682
+___
+antibiotic	neoplastic_process	cell_or_molecular_dysfunction
+causes	degree_of
+1
+-5.5600068889325485
+___
+antibiotic	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+causes	_degree_of
+1
+-5.570479594171047
+___
+antibiotic	disease_or_syndrome	cell_or_molecular_dysfunction
+causes	_degree_of
+1
+-5.570977088995278
+___
+antibiotic	experimental_model_of_disease	cell_or_molecular_dysfunction
+causes	_degree_of
+1
+-5.625976741313934
+___
+antibiotic	anatomical_abnormality	congenital_abnormality
+treats	_co-occurs_with
+-1
+-6.316873908042908
+___
+antibiotic	anatomical_abnormality	cell_or_molecular_dysfunction
+treats	_co-occurs_with
+1
+-6.316873908042908
+___
+antibiotic	anatomical_abnormality	acquired_abnormality
+treats	_co-occurs_with
+-1
+-6.316873908042908
+___
+antibiotic	cell_or_molecular_dysfunction	congenital_abnormality
+treats	complicates
+-1
+-6.422035574913025
+___
+antibiotic	cell_or_molecular_dysfunction	anatomical_abnormality
+treats	complicates
+-1
+-6.422035574913025
+___
+antibiotic	cell_or_molecular_dysfunction	acquired_abnormality
+treats	complicates
+-1
+-6.422035574913025
+___
+antibiotic	cell_or_molecular_dysfunction	injury_or_poisoning
+prevents	co-occurs_with
+-1
+-6.4497504234313965
+___
+antibiotic	cell_or_molecular_dysfunction	anatomical_abnormality
+prevents	co-occurs_with
+-1
+-6.4497504234313965
+___
+antibiotic	cell_or_molecular_dysfunction	acquired_abnormality
+prevents	co-occurs_with
+-1
+-6.4497504234313965
+___
+antibiotic	pathologic_function	cell_or_molecular_dysfunction
+diagnoses	degree_of
+1
+-6.453596234321594
+___
+antibiotic	anatomical_abnormality	acquired_abnormality
+causes	_co-occurs_with
+-1
+-6.667083978652954
+___
+antibiotic	anatomical_abnormality	congenital_abnormality
+causes	_co-occurs_with
+-1
+-6.667083978652954
+___
+antibiotic	anatomical_abnormality	cell_or_molecular_dysfunction
+causes	_co-occurs_with
+1
+-6.667083978652954
+___
+antibiotic	sign_or_symptom	congenital_abnormality
+treats	diagnoses
+-1
+-6.785895347595215
+___
+antibiotic	sign_or_symptom	anatomical_abnormality
+treats	diagnoses
+-1
+-6.785895347595215
+___
+antibiotic	sign_or_symptom	cell_or_molecular_dysfunction
+treats	diagnoses
+1
+-6.785895347595215
+___
+antibiotic	sign_or_symptom	acquired_abnormality
+treats	diagnoses
+-1
+-6.785895347595215
+___
+antibiotic	sign_or_symptom	injury_or_poisoning
+treats	diagnoses
+-1
+-6.785895347595215
+___
+antibiotic	experimental_model_of_disease	cell_or_molecular_dysfunction
+diagnoses	_co-occurs_with
+1
+-6.814362168312073
+___
+antibiotic	experimental_model_of_disease	cell_or_molecular_dysfunction
+prevents	_co-occurs_with
+1
+-7.476431846618652
+___
+antibiotic	experimental_model_of_disease	cell_or_molecular_dysfunction
+causes	_co-occurs_with
+1
+-8.291109323501587
+___
+antibiotic	anatomical_abnormality	congenital_abnormality
+treats	_isa
+-1
+-8.372863292694092
+___
+antibiotic	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+prevents	precedes
+1
+-8.478274822235107
+___
+antibiotic	cell_or_molecular_dysfunction	cell_or_molecular_dysfunction
+treats	NO_OP
+1
+-8.497425556182861
+___
+antibiotic	cell_or_molecular_dysfunction	anatomical_abnormality
+treats	co-occurs_with
+-1
+-8.593489170074463
+___
+antibiotic	cell_or_molecular_dysfunction	acquired_abnormality
+treats	co-occurs_with
+-1
+-8.593489170074463
+___
+antibiotic	cell_or_molecular_dysfunction	injury_or_poisoning
+treats	co-occurs_with
+-1
+-8.593489170074463
+___
+antibiotic	inorganic_chemical	acquired_abnormality
+_interacts_with	causes
+-1
+-8.716335654258728
+___
+antibiotic	inorganic_chemical	injury_or_poisoning
+_interacts_with	causes
+-1
+-8.716335654258728
+___
+antibiotic	steroid	cell_or_molecular_dysfunction
+_interacts_with	causes
+1
+-9.121798992156982
+___
+antibiotic	steroid	injury_or_poisoning
+_interacts_with	causes
+-1
+-9.121798992156982
+___
+antibiotic	steroid	acquired_abnormality
+_interacts_with	causes
+-1
+-9.121798992156982
+___
+antibiotic	lipid	injury_or_poisoning
+_interacts_with	causes
+-1
+-9.121917963027954
+___
+antibiotic	lipid	cell_or_molecular_dysfunction
+_interacts_with	causes
+1
+-9.121917963027954
+___
+antibiotic	lipid	anatomical_abnormality
+_interacts_with	causes
+-1
+-9.121917963027954
+___
+antibiotic	organic_chemical	acquired_abnormality
+_interacts_with	causes
+-1
+-9.122271537780762
+___
+antibiotic	organic_chemical	anatomical_abnormality
+_interacts_with	causes
+-1
+-9.122271537780762
+___
+antibiotic	organic_chemical	injury_or_poisoning
+_interacts_with	causes
+-1
+-9.122271537780762
+___
+antibiotic	chemical_viewed_functionally	cell_or_molecular_dysfunction
+_interacts_with	causes
+1
+-9.122868776321411
+___
+antibiotic	chemical_viewed_functionally	injury_or_poisoning
+_interacts_with	causes
+-1
+-9.122868776321411
+___
+antibiotic	chemical_viewed_functionally	congenital_abnormality
+_interacts_with	causes
+-1
+-9.122868776321411
+___
+antibiotic	element_ion_or_isotope	congenital_abnormality
+_interacts_with	causes
+-1
+-9.409477949142456
+___
+antibiotic	element_ion_or_isotope	acquired_abnormality
+_interacts_with	causes
+-1
+-9.409477949142456
+___
+antibiotic	element_ion_or_isotope	anatomical_abnormality
+_interacts_with	causes
+-1
+-9.409477949142456
+___
+antibiotic	element_ion_or_isotope	injury_or_poisoning
+_interacts_with	causes
+-1
+-9.409477949142456
+___
+antibiotic	pharmacologic_substance	congenital_abnormality
+_interacts_with	causes
+-1
+-9.441991806030273
+___
+antibiotic	pharmacologic_substance	acquired_abnormality
+_interacts_with	causes
+-1
+-9.441991806030273
+___
+antibiotic	pharmacologic_substance	anatomical_abnormality
+_interacts_with	causes
+-1
+-9.441991806030273
+___
+antibiotic	pharmacologic_substance	cell_or_molecular_dysfunction
+_interacts_with	causes
+1
+-9.441991806030273
+___
+antibiotic	organophosphorus_compound	cell_or_molecular_dysfunction
+_interacts_with	causes
+1
+-9.632620811462402
+___
+antibiotic	organophosphorus_compound	injury_or_poisoning
+_interacts_with	causes
+-1
+-9.632620811462402
+___
+antibiotic	organophosphorus_compound	congenital_abnormality
+_interacts_with	causes
+-1
+-9.632620811462402
+___
+antibiotic	organophosphorus_compound	anatomical_abnormality
+_interacts_with	causes
+-1
+-9.632620811462402
+___
+antibiotic	organophosphorus_compound	acquired_abnormality
+_interacts_with	causes
+-1
+-9.632620811462402
+___
+antibiotic	eicosanoid	congenital_abnormality
+_interacts_with	causes
+-1
+-9.632621884346008
+___
+antibiotic	eicosanoid	acquired_abnormality
+_interacts_with	causes
+-1
+-9.632621884346008
+___
+antibiotic	eicosanoid	injury_or_poisoning
+_interacts_with	causes
+-1
+-9.632621884346008
+___
+antibiotic	eicosanoid	anatomical_abnormality
+_interacts_with	causes
+-1
+-9.632621884346008
+___
+antibiotic	eicosanoid	cell_or_molecular_dysfunction
+_interacts_with	causes
+1
+-9.632621884346008
+___
+antibiotic	chemical_viewed_structurally	acquired_abnormality
+_interacts_with	causes
+-1
+-9.633260726928711
+___
+antibiotic	chemical_viewed_structurally	anatomical_abnormality
+_interacts_with	causes
+-1
+-9.633260726928711
+___
+antibiotic	chemical_viewed_structurally	cell_or_molecular_dysfunction
+_interacts_with	causes
+1
+-9.633260726928711
+___
+antibiotic	chemical_viewed_structurally	congenital_abnormality
+_interacts_with	causes
+-1
+-9.633260726928711
+___
+antibiotic	chemical_viewed_structurally	injury_or_poisoning
+_interacts_with	causes
+-1
+-9.633260726928711
+___
+antibiotic	pathologic_function	cell_or_molecular_dysfunction
+treats	degree_of
+1
+-9.707131385803223
+___
+antibiotic	neoplastic_process	cell_or_molecular_dysfunction
+complicates	degree_of
+1
+-10.035021862247959
+___
+antibiotic	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+complicates	_degree_of
+1
+-10.037291022017598
+___
+antibiotic	congenital_abnormality	cell_or_molecular_dysfunction
+complicates	_co-occurs_with
+1
+-10.037428836803883
+___
+antibiotic	disease_or_syndrome	cell_or_molecular_dysfunction
+complicates	_degree_of
+1
+-10.03764458745718
+___
+antibiotic	injury_or_poisoning	cell_or_molecular_dysfunction
+complicates	_co-occurs_with
+1
+-10.044865508563817
+___
+antibiotic	experimental_model_of_disease	cell_or_molecular_dysfunction
+complicates	_degree_of
+1
+-10.045255793258548
+___
+antibiotic	pathologic_function	cell_or_molecular_dysfunction
+complicates	_degree_of
+1
+-10.052468614652753
+___
+antibiotic	organism_function	mental_process
+complicates	_degree_of
+-1
+-10.084849197417498
+___
+antibiotic	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+causes	precedes
+1
+-10.195159912109375
+___
+antibiotic	disease_or_syndrome	cell_or_molecular_dysfunction
+causes	precedes
+1
+-10.195657730102539
+___
+antibiotic	anatomical_abnormality	congenital_abnormality
+causes	_isa
+-1
+-10.214425563812256
+___
+antibiotic	neoplastic_process	acquired_abnormality
+diagnoses	complicates
+-1
+-10.773440957069397
+___
+antibiotic	pathologic_function	cell_or_molecular_dysfunction
+diagnoses	_precedes
+1
+-10.820918679237366
+___
+antibiotic	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+treats	precedes
+1
+-10.902384281158447
+___
+#####################
+professional_or_occupational_group	experimental_model_of_disease
+Reward:1
+professional_or_occupational_group	disease_or_syndrome	experimental_model_of_disease
+diagnoses	_precedes
+1
+-1.637460907921195
+___
+professional_or_occupational_group	mental_or_behavioral_dysfunction	experimental_model_of_disease
+diagnoses	_precedes
+1
+-1.6427246443927288
+___
+professional_or_occupational_group	neoplastic_process	experimental_model_of_disease
+diagnoses	precedes
+1
+-1.6504251211881638
+___
+professional_or_occupational_group	pathologic_function	experimental_model_of_disease
+diagnoses	degree_of
+1
+-1.9299215376377106
+___
+professional_or_occupational_group	pathologic_function	experimental_model_of_disease
+diagnoses	precedes
+1
+-2.9722026586532593
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	acquired_abnormality
+diagnoses	complicates
+-1
+-3.083218812942505
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	anatomical_abnormality
+diagnoses	complicates
+-1
+-3.083218812942505
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	congenital_abnormality
+diagnoses	complicates
+-1
+-3.083218812942505
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	experimental_model_of_disease
+diagnoses	complicates
+1
+-3.083218812942505
+___
+professional_or_occupational_group	neoplastic_process	experimental_model_of_disease
+diagnoses	_occurs_in
+1
+-5.082673192024231
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	anatomical_abnormality
+diagnoses	co-occurs_with
+-1
+-5.312753796577454
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	injury_or_poisoning
+diagnoses	co-occurs_with
+-1
+-5.312753796577454
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	acquired_abnormality
+diagnoses	co-occurs_with
+-1
+-5.312753796577454
+___
+professional_or_occupational_group	pathologic_function	experimental_model_of_disease
+diagnoses	_precedes
+1
+-6.297243714332581
+___
+professional_or_occupational_group	disease_or_syndrome	injury_or_poisoning
+diagnoses	complicates
+-1
+-6.472332119941711
+___
+professional_or_occupational_group	disease_or_syndrome	congenital_abnormality
+diagnoses	complicates
+-1
+-6.472332119941711
+___
+professional_or_occupational_group	mental_or_behavioral_dysfunction	experimental_model_of_disease
+diagnoses	complicates
+1
+-6.477595925331116
+___
+professional_or_occupational_group	mental_or_behavioral_dysfunction	anatomical_abnormality
+diagnoses	complicates
+-1
+-6.477595925331116
+___
+professional_or_occupational_group	mental_or_behavioral_dysfunction	congenital_abnormality
+diagnoses	complicates
+-1
+-6.477595925331116
+___
+professional_or_occupational_group	patient_or_disabled_group	anatomical_abnormality
+treats	_occurs_in
+-1
+-7.402385234832764
+___
+professional_or_occupational_group	patient_or_disabled_group	injury_or_poisoning
+treats	_occurs_in
+-1
+-7.402385234832764
+___
+professional_or_occupational_group	patient_or_disabled_group	experimental_model_of_disease
+treats	_occurs_in
+1
+-7.402385234832764
+___
+professional_or_occupational_group	patient_or_disabled_group	acquired_abnormality
+treats	_occurs_in
+-1
+-7.402385234832764
+___
+professional_or_occupational_group	patient_or_disabled_group	congenital_abnormality
+treats	_occurs_in
+-1
+-7.402385234832764
+___
+professional_or_occupational_group	patient_or_disabled_group	professional_or_occupational_group
+treats	_interacts_with
+-1
+-7.444502353668213
+___
+professional_or_occupational_group	patient_or_disabled_group	age_group
+treats	_interacts_with
+-1
+-7.444502353668213
+___
+professional_or_occupational_group	patient_or_disabled_group	population_group
+treats	_interacts_with
+-1
+-7.444502353668213
+___
+professional_or_occupational_group	patient_or_disabled_group	family_group
+treats	_interacts_with
+-1
+-7.444502353668213
+___
+professional_or_occupational_group	congenital_abnormality	experimental_model_of_disease
+_occurs_in	_co-occurs_with
+1
+-7.655866999179125
+___
+professional_or_occupational_group	neoplastic_process	experimental_model_of_disease
+_occurs_in	precedes
+1
+-7.775562897324562
+___
+professional_or_occupational_group	pathologic_function	experimental_model_of_disease
+_occurs_in	degree_of
+1
+-7.854793280363083
+___
+professional_or_occupational_group	disease_or_syndrome	experimental_model_of_disease
+_occurs_in	_precedes
+1
+-8.009298086166382
+___
+professional_or_occupational_group	experimental_model_of_disease	injury_or_poisoning
+_occurs_in	complicates
+-1
+-8.0132717192173
+___
+professional_or_occupational_group	anatomical_abnormality	congenital_abnormality
+_occurs_in	_co-occurs_with
+-1
+-8.390232920646667
+___
+professional_or_occupational_group	anatomical_abnormality	acquired_abnormality
+_occurs_in	_co-occurs_with
+-1
+-8.390232920646667
+___
+professional_or_occupational_group	disease_or_syndrome	anatomical_abnormality
+diagnoses	co-occurs_with
+-1
+-8.70186722278595
+___
+professional_or_occupational_group	disease_or_syndrome	acquired_abnormality
+diagnoses	co-occurs_with
+-1
+-8.70186722278595
+___
+professional_or_occupational_group	disease_or_syndrome	experimental_model_of_disease
+diagnoses	co-occurs_with
+1
+-8.70186722278595
+___
+professional_or_occupational_group	disease_or_syndrome	congenital_abnormality
+diagnoses	co-occurs_with
+-1
+-8.70186722278595
+___
+professional_or_occupational_group	mental_or_behavioral_dysfunction	anatomical_abnormality
+diagnoses	co-occurs_with
+-1
+-8.707131028175354
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	anatomical_abnormality
+_occurs_in	complicates
+-1
+-9.17123806476593
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	acquired_abnormality
+_occurs_in	complicates
+-1
+-9.17123806476593
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	experimental_model_of_disease
+_occurs_in	complicates
+1
+-9.17123806476593
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	congenital_abnormality
+_occurs_in	complicates
+-1
+-9.17123806476593
+___
+professional_or_occupational_group	pathologic_function	experimental_model_of_disease
+_occurs_in	precedes
+1
+-9.388194799423218
+___
+professional_or_occupational_group	experimental_model_of_disease	congenital_abnormality
+_occurs_in	co-occurs_with
+-1
+-9.705647945404053
+___
+professional_or_occupational_group	experimental_model_of_disease	injury_or_poisoning
+_occurs_in	co-occurs_with
+-1
+-9.705647945404053
+___
+professional_or_occupational_group	neoplastic_process	acquired_abnormality
+diagnoses	complicates
+-1
+-9.81033718585968
+___
+professional_or_occupational_group	neoplastic_process	experimental_model_of_disease
+_occurs_in	_occurs_in
+1
+-9.836936712265015
+___
+professional_or_occupational_group	disease_or_syndrome	injury_or_poisoning
+_occurs_in	complicates
+-1
+-9.859638929367065
+___
+professional_or_occupational_group	disease_or_syndrome	congenital_abnormality
+_occurs_in	complicates
+-1
+-9.859638929367065
+___
+professional_or_occupational_group	anatomical_abnormality	congenital_abnormality
+_occurs_in	_isa
+-1
+-10.770437240600586
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	injury_or_poisoning
+_occurs_in	co-occurs_with
+-1
+-10.863614082336426
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	acquired_abnormality
+_occurs_in	co-occurs_with
+-1
+-10.863614082336426
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	anatomical_abnormality
+_occurs_in	co-occurs_with
+-1
+-10.863614082336426
+___
+professional_or_occupational_group	professional_or_occupational_group	anatomical_abnormality
+NO_OP	_occurs_in
+-1
+-11.020832061767578
+___
+professional_or_occupational_group	professional_or_occupational_group	experimental_model_of_disease
+NO_OP	_occurs_in
+1
+-11.020832061767578
+___
+professional_or_occupational_group	professional_or_occupational_group	congenital_abnormality
+NO_OP	_occurs_in
+-1
+-11.020832061767578
+___
+professional_or_occupational_group	pathologic_function	experimental_model_of_disease
+diagnoses	complicates
+1
+-11.13211452960968
+___
+professional_or_occupational_group	pathologic_function	acquired_abnormality
+diagnoses	complicates
+-1
+-11.13211452960968
+___
+professional_or_occupational_group	pathologic_function	congenital_abnormality
+diagnoses	complicates
+-1
+-11.13211452960968
+___
+professional_or_occupational_group	disease_or_syndrome	congenital_abnormality
+_occurs_in	co-occurs_with
+-1
+-11.55201506614685
+___
+professional_or_occupational_group	disease_or_syndrome	acquired_abnormality
+_occurs_in	co-occurs_with
+-1
+-11.55201506614685
+___
+professional_or_occupational_group	disease_or_syndrome	anatomical_abnormality
+_occurs_in	co-occurs_with
+-1
+-11.55201506614685
+___
+professional_or_occupational_group	disease_or_syndrome	experimental_model_of_disease
+_occurs_in	co-occurs_with
+1
+-11.55201506614685
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	food
+diagnoses	_affects
+-1
+-11.675101399421692
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	eicosanoid
+diagnoses	_affects
+-1
+-11.675101399421692
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	indicator_reagent_or_diagnostic_aid
+diagnoses	_affects
+-1
+-11.675101399421692
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	steroid
+diagnoses	_affects
+-1
+-11.675101399421692
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	amino_acid_peptide_or_protein
+diagnoses	_affects
+-1
+-11.675101399421692
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	therapeutic_or_preventive_procedure
+diagnoses	_affects
+-1
+-11.675101399421692
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	cell_function
+diagnoses	_affects
+-1
+-11.675101399421692
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	organic_chemical
+diagnoses	_affects
+-1
+-11.675101399421692
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	physiologic_function
+diagnoses	_affects
+-1
+-11.675101399421692
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	inorganic_chemical
+diagnoses	_affects
+-1
+-11.675101399421692
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	hormone
+diagnoses	_affects
+-1
+-11.675101399421692
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	chemical_viewed_functionally
+diagnoses	_affects
+-1
+-11.675101399421692
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	mental_process
+diagnoses	_affects
+-1
+-11.675101399421692
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	organism_function
+diagnoses	_affects
+-1
+-11.675101399421692
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	chemical
+diagnoses	_affects
+-1
+-11.675101399421692
+___
+professional_or_occupational_group	experimental_model_of_disease	experimental_model_of_disease
+_occurs_in	NO_OP
+1
+-11.85506820678711
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	biologic_function
+diagnoses	_process_of
+-1
+-11.862259984016418
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	organ_or_tissue_function
+diagnoses	_process_of
+-1
+-11.862259984016418
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	mental_process
+diagnoses	_process_of
+-1
+-11.862259984016418
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	molecular_function
+diagnoses	_process_of
+-1
+-11.862259984016418
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	cell_function
+diagnoses	_process_of
+-1
+-11.862259984016418
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	experimental_model_of_disease
+diagnoses	_process_of
+1
+-11.862259984016418
+___
+professional_or_occupational_group	neoplastic_process	injury_or_poisoning
+diagnoses	co-occurs_with
+-1
+-12.039872288703918
+___
+professional_or_occupational_group	neoplastic_process	acquired_abnormality
+diagnoses	co-occurs_with
+-1
+-12.039872288703918
+___
+professional_or_occupational_group	pathologic_function	experimental_model_of_disease
+_occurs_in	_precedes
+1
+-12.409785747528076
+___
+professional_or_occupational_group	neoplastic_process	acquired_abnormality
+_occurs_in	complicates
+-1
+-12.647494792938232
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	physiologic_function
+diagnoses	manifestation_of
+-1
+-12.703946232795715
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	organism_function
+diagnoses	manifestation_of
+-1
+-12.703946232795715
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	organ_or_tissue_function
+diagnoses	manifestation_of
+-1
+-12.703946232795715
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	mental_process
+diagnoses	manifestation_of
+-1
+-12.703946232795715
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	experimental_model_of_disease
+diagnoses	manifestation_of
+1
+-12.703946232795715
+___
+professional_or_occupational_group	professional_or_occupational_group	patient_or_disabled_group
+NO_OP	treats
+-1
+-13.05251169204712
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	antibiotic
+diagnoses	_prevents
+-1
+-13.212934613227844
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	pharmacologic_substance
+diagnoses	_prevents
+-1
+-13.212934613227844
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	medical_device
+diagnoses	_prevents
+-1
+-13.212934613227844
+___
+#####################
+diagnostic_procedure	disease_or_syndrome
+Reward:1
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	disease_or_syndrome
+analyzes	causes
+1
+-3.076510544429766
+___
+diagnostic_procedure	organophosphorus_compound	disease_or_syndrome
+analyzes	causes
+1
+-3.0766864658216946
+___
+diagnostic_procedure	carbohydrate	disease_or_syndrome
+analyzes	causes
+1
+-3.0766865850018803
+___
+diagnostic_procedure	amino_acid_peptide_or_protein	disease_or_syndrome
+analyzes	causes
+1
+-3.0766874192340765
+___
+diagnostic_procedure	eicosanoid	disease_or_syndrome
+analyzes	causes
+1
+-3.0768612838583067
+___
+diagnostic_procedure	steroid	disease_or_syndrome
+analyzes	causes
+1
+-3.0768614030093886
+___
+diagnostic_procedure	inorganic_chemical	disease_or_syndrome
+analyzes	causes
+1
+-3.077115770021919
+___
+diagnostic_procedure	biomedical_or_dental_material	disease_or_syndrome
+analyzes	causes
+1
+-3.0773761462187394
+___
+diagnostic_procedure	hormone	disease_or_syndrome
+analyzes	causes
+1
+-3.078318222425878
+___
+diagnostic_procedure	immunologic_factor	disease_or_syndrome
+analyzes	causes
+1
+-3.078332024393603
+___
+diagnostic_procedure	enzyme	disease_or_syndrome
+analyzes	causes
+1
+-3.078420899575576
+___
+diagnostic_procedure	vitamin	disease_or_syndrome
+analyzes	causes
+1
+-3.0785911325365305
+___
+diagnostic_procedure	receptor	disease_or_syndrome
+analyzes	causes
+1
+-3.078667376888916
+___
+diagnostic_procedure	antibiotic	disease_or_syndrome
+analyzes	causes
+1
+-3.079381841700524
+___
+diagnostic_procedure	lipid	disease_or_syndrome
+analyzes	causes
+1
+-3.0799656140152365
+___
+diagnostic_procedure	organic_chemical	disease_or_syndrome
+analyzes	causes
+1
+-3.0888757100328803
+___
+diagnostic_procedure	body_substance	disease_or_syndrome
+analyzes	causes
+1
+-3.090173822827637
+___
+diagnostic_procedure	chemical_viewed_structurally	disease_or_syndrome
+analyzes	causes
+1
+-3.1040301118046045
+___
+diagnostic_procedure	chemical_viewed_functionally	disease_or_syndrome
+analyzes	causes
+1
+-3.1047065258026123
+___
+diagnostic_procedure	biologically_active_substance	immunologic_factor
+analyzes	_isa
+-1
+-3.5385929346084595
+___
+diagnostic_procedure	injury_or_poisoning	disease_or_syndrome
+diagnoses	_occurs_in
+1
+-5.2583217620822325
+___
+diagnostic_procedure	acquired_abnormality	disease_or_syndrome
+diagnoses	_co-occurs_with
+1
+-5.258504611978424
+___
+diagnostic_procedure	neoplastic_process	disease_or_syndrome
+diagnoses	_degree_of
+1
+-5.266292531043291
+___
+diagnostic_procedure	experimental_model_of_disease	disease_or_syndrome
+diagnoses	_degree_of
+1
+-5.268692979589105
+___
+diagnostic_procedure	pathologic_function	disease_or_syndrome
+diagnoses	_degree_of
+1
+-5.273974968120456
+___
+diagnostic_procedure	mental_or_behavioral_dysfunction	disease_or_syndrome
+diagnoses	_co-occurs_with
+1
+-5.680611938238144
+___
+diagnostic_procedure	chemical	chemical_viewed_structurally
+analyzes	_isa
+-1
+-6.144636392593384
+___
+diagnostic_procedure	chemical	hazardous_or_poisonous_substance
+analyzes	_isa
+-1
+-6.144636392593384
+___
+diagnostic_procedure	chemical	immunologic_factor
+analyzes	_isa
+-1
+-6.144636392593384
+___
+diagnostic_procedure	chemical	carbohydrate
+analyzes	_isa
+-1
+-6.144636392593384
+___
+diagnostic_procedure	chemical	antibiotic
+analyzes	_isa
+-1
+-6.144636392593384
+___
+diagnostic_procedure	chemical	receptor
+analyzes	_isa
+-1
+-6.144636392593384
+___
+diagnostic_procedure	chemical	indicator_reagent_or_diagnostic_aid
+analyzes	_isa
+-1
+-6.144636392593384
+___
+diagnostic_procedure	chemical	inorganic_chemical
+analyzes	_isa
+-1
+-6.144636392593384
+___
+diagnostic_procedure	chemical	vitamin
+analyzes	_isa
+-1
+-6.144636392593384
+___
+diagnostic_procedure	chemical	neuroreactive_substance_or_biogenic_amine
+analyzes	_isa
+-1
+-6.144636392593384
+___
+diagnostic_procedure	chemical	lipid
+analyzes	_isa
+-1
+-6.144636392593384
+___
+diagnostic_procedure	chemical	hormone
+analyzes	_isa
+-1
+-6.144636392593384
+___
+diagnostic_procedure	chemical	eicosanoid
+analyzes	_isa
+-1
+-6.144636392593384
+___
+diagnostic_procedure	chemical	amino_acid_peptide_or_protein
+analyzes	_isa
+-1
+-6.144636392593384
+___
+diagnostic_procedure	chemical	element_ion_or_isotope
+analyzes	_isa
+-1
+-6.144636392593384
+___
+diagnostic_procedure	chemical	enzyme
+analyzes	_isa
+-1
+-6.144636392593384
+___
+diagnostic_procedure	chemical	chemical_viewed_functionally
+analyzes	_isa
+-1
+-6.144636392593384
+___
+diagnostic_procedure	chemical	organic_chemical
+analyzes	_isa
+-1
+-6.144636392593384
+___
+diagnostic_procedure	chemical	steroid
+analyzes	_isa
+-1
+-6.144636392593384
+___
+diagnostic_procedure	chemical	organophosphorus_compound
+analyzes	_isa
+-1
+-6.144636392593384
+___
+diagnostic_procedure	chemical	nucleic_acid_nucleoside_or_nucleotide
+analyzes	_isa
+-1
+-6.144636392593384
+___
+diagnostic_procedure	mental_or_behavioral_dysfunction	disease_or_syndrome
+diagnoses	precedes
+1
+-6.359719634056091
+___
+diagnostic_procedure	biologically_active_substance	physiologic_function
+analyzes	complicates
+-1
+-7.0124945640563965
+___
+diagnostic_procedure	biologically_active_substance	organ_or_tissue_function
+analyzes	complicates
+-1
+-7.0124945640563965
+___
+diagnostic_procedure	biologically_active_substance	biologic_function
+analyzes	complicates
+-1
+-7.0124945640563965
+___
+diagnostic_procedure	biologically_active_substance	molecular_function
+analyzes	complicates
+-1
+-7.0124945640563965
+___
+diagnostic_procedure	biologically_active_substance	cell_function
+analyzes	complicates
+-1
+-7.0124945640563965
+___
+diagnostic_procedure	biologically_active_substance	organism_function
+analyzes	complicates
+-1
+-7.0124945640563965
+___
+diagnostic_procedure	biologically_active_substance	disease_or_syndrome
+analyzes	complicates
+1
+-7.0124945640563965
+___
+diagnostic_procedure	biologically_active_substance	genetic_function
+analyzes	complicates
+-1
+-7.0124945640563965
+___
+diagnostic_procedure	biologically_active_substance	inorganic_chemical
+analyzes	_interacts_with
+-1
+-7.115707874298096
+___
+diagnostic_procedure	biologically_active_substance	steroid
+analyzes	_interacts_with
+-1
+-7.115707874298096
+___
+diagnostic_procedure	biologically_active_substance	biomedical_or_dental_material
+analyzes	_interacts_with
+-1
+-7.115707874298096
+___
+diagnostic_procedure	biologically_active_substance	organic_chemical
+analyzes	_interacts_with
+-1
+-7.115707874298096
+___
+diagnostic_procedure	biologically_active_substance	lipid
+analyzes	_interacts_with
+-1
+-7.115707874298096
+___
+diagnostic_procedure	biologically_active_substance	eicosanoid
+analyzes	_interacts_with
+-1
+-7.115707874298096
+___
+diagnostic_procedure	biologically_active_substance	pharmacologic_substance
+analyzes	_interacts_with
+-1
+-7.115707874298096
+___
+diagnostic_procedure	biologically_active_substance	chemical_viewed_functionally
+analyzes	_interacts_with
+-1
+-7.115707874298096
+___
+diagnostic_procedure	biologically_active_substance	element_ion_or_isotope
+analyzes	_interacts_with
+-1
+-7.115707874298096
+___
+diagnostic_procedure	biologically_active_substance	carbohydrate
+analyzes	_interacts_with
+-1
+-7.115707874298096
+___
+diagnostic_procedure	biologically_active_substance	chemical_viewed_structurally
+analyzes	_interacts_with
+-1
+-7.115707874298096
+___
+diagnostic_procedure	biologically_active_substance	nucleic_acid_nucleoside_or_nucleotide
+analyzes	_interacts_with
+-1
+-7.115707874298096
+___
+diagnostic_procedure	lipid	steroid
+analyzes	_isa
+-1
+-8.85294246673584
+___
+diagnostic_procedure	organic_chemical	nucleic_acid_nucleoside_or_nucleotide
+analyzes	_isa
+-1
+-8.861852645874023
+___
+diagnostic_procedure	organic_chemical	amino_acid_peptide_or_protein
+analyzes	_isa
+-1
+-8.861852645874023
+___
+diagnostic_procedure	organic_chemical	carbohydrate
+analyzes	_isa
+-1
+-8.861852645874023
+___
+diagnostic_procedure	organic_chemical	lipid
+analyzes	_isa
+-1
+-8.861852645874023
+___
+diagnostic_procedure	chemical_viewed_structurally	organophosphorus_compound
+analyzes	_isa
+-1
+-8.877007007598877
+___
+diagnostic_procedure	chemical_viewed_structurally	carbohydrate
+analyzes	_isa
+-1
+-8.877007007598877
+___
+diagnostic_procedure	chemical_viewed_structurally	eicosanoid
+analyzes	_isa
+-1
+-8.877007007598877
+___
+diagnostic_procedure	chemical_viewed_structurally	element_ion_or_isotope
+analyzes	_isa
+-1
+-8.877007007598877
+___
+diagnostic_procedure	chemical_viewed_structurally	nucleic_acid_nucleoside_or_nucleotide
+analyzes	_isa
+-1
+-8.877007007598877
+___
+diagnostic_procedure	chemical_viewed_structurally	lipid
+analyzes	_isa
+-1
+-8.877007007598877
+___
+diagnostic_procedure	chemical_viewed_structurally	inorganic_chemical
+analyzes	_isa
+-1
+-8.877007007598877
+___
+diagnostic_procedure	chemical_viewed_structurally	organic_chemical
+analyzes	_isa
+-1
+-8.877007007598877
+___
+diagnostic_procedure	chemical_viewed_structurally	steroid
+analyzes	_isa
+-1
+-8.877007007598877
+___
+diagnostic_procedure	chemical_viewed_functionally	antibiotic
+analyzes	_isa
+-1
+-8.877683162689209
+___
+diagnostic_procedure	chemical_viewed_functionally	immunologic_factor
+analyzes	_isa
+-1
+-8.877683162689209
+___
+diagnostic_procedure	chemical_viewed_functionally	biomedical_or_dental_material
+analyzes	_isa
+-1
+-8.877683162689209
+___
+diagnostic_procedure	chemical_viewed_functionally	receptor
+analyzes	_isa
+-1
+-8.877683162689209
+___
+diagnostic_procedure	chemical_viewed_functionally	biologically_active_substance
+analyzes	_isa
+-1
+-8.877683162689209
+___
+diagnostic_procedure	chemical_viewed_functionally	indicator_reagent_or_diagnostic_aid
+analyzes	_isa
+-1
+-8.877683162689209
+___
+diagnostic_procedure	chemical_viewed_functionally	hormone
+analyzes	_isa
+-1
+-8.877683162689209
+___
+diagnostic_procedure	chemical_viewed_functionally	enzyme
+analyzes	_isa
+-1
+-8.877683162689209
+___
+diagnostic_procedure	chemical_viewed_functionally	pharmacologic_substance
+analyzes	_isa
+-1
+-8.877683162689209
+___
+diagnostic_procedure	body_substance	organic_chemical
+analyzes	consists_of
+-1
+-9.455337524414062
+___
+diagnostic_procedure	body_substance	carbohydrate
+analyzes	consists_of
+-1
+-9.455337524414062
+___
+diagnostic_procedure	body_substance	steroid
+analyzes	consists_of
+-1
+-9.455337524414062
+___
+diagnostic_procedure	body_substance	organophosphorus_compound
+analyzes	consists_of
+-1
+-9.455337524414062
+___
+diagnostic_procedure	body_substance	amino_acid_peptide_or_protein
+analyzes	consists_of
+-1
+-9.455337524414062
+___
+diagnostic_procedure	body_substance	eicosanoid
+analyzes	consists_of
+-1
+-9.455337524414062
+___
+diagnostic_procedure	body_substance	lipid
+analyzes	consists_of
+-1
+-9.455337524414062
+___
+diagnostic_procedure	body_substance	nucleic_acid_nucleoside_or_nucleotide
+analyzes	consists_of
+-1
+-9.455337524414062
+___
+diagnostic_procedure	mental_or_behavioral_dysfunction	disease_or_syndrome
+diagnoses	_precedes
+1
+-9.684760570526123
+___
+#####################

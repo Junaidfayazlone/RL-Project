@@ -1,0 +1,503 @@
+self_help_or_relief_organization	educational_activity
+Reward:1
+self_help_or_relief_organization	self_help_or_relief_organization	educational_activity
+NO_OP	location_of
+1
+-0.1940283477306366
+___
+self_help_or_relief_organization	self_help_or_relief_organization	self_help_or_relief_organization
+NO_OP	NO_OP
+-1
+-2.7092685401439667
+___
+self_help_or_relief_organization	self_help_or_relief_organization	regulation_or_law
+NO_OP	_affects
+-1
+-3.6702365577220917
+___
+self_help_or_relief_organization	self_help_or_relief_organization	patient_or_disabled_group
+NO_OP	manages
+-1
+-5.686113327741623
+___
+self_help_or_relief_organization	occupational_activity	educational_activity
+location_of	_isa
+1
+-5.800423977816536
+___
+self_help_or_relief_organization	educational_activity	educational_activity
+location_of	NO_OP
+1
+-5.8882380202412605
+___
+self_help_or_relief_organization	governmental_or_regulatory_activity	event
+carries_out	isa
+-1
+-6.055080592632294
+___
+self_help_or_relief_organization	governmental_or_regulatory_activity	activity
+carries_out	isa
+-1
+-6.055080592632294
+___
+self_help_or_relief_organization	therapeutic_or_preventive_procedure	pathologic_function
+carries_out	prevents
+-1
+-6.328669190406799
+___
+self_help_or_relief_organization	therapeutic_or_preventive_procedure	cell_or_molecular_dysfunction
+carries_out	prevents
+-1
+-6.328669190406799
+___
+self_help_or_relief_organization	therapeutic_or_preventive_procedure	disease_or_syndrome
+carries_out	prevents
+-1
+-6.328669190406799
+___
+self_help_or_relief_organization	self_help_or_relief_organization	professional_or_occupational_group
+NO_OP	_manages
+-1
+-6.399462670087814
+___
+self_help_or_relief_organization	regulation_or_law	regulation_or_law
+_affects	NO_OP
+-1
+-6.452923059463501
+___
+self_help_or_relief_organization	health_care_activity	congenital_abnormality
+carries_out	_result_of
+-1
+-7.081634759902954
+___
+self_help_or_relief_organization	health_care_activity	cell_or_molecular_dysfunction
+carries_out	_result_of
+-1
+-7.081634759902954
+___
+self_help_or_relief_organization	health_care_activity	injury_or_poisoning
+carries_out	_result_of
+-1
+-7.081634759902954
+___
+self_help_or_relief_organization	health_care_activity	mental_or_behavioral_dysfunction
+carries_out	_result_of
+-1
+-7.081634759902954
+___
+self_help_or_relief_organization	health_care_activity	acquired_abnormality
+carries_out	_result_of
+-1
+-7.081634759902954
+___
+self_help_or_relief_organization	health_care_activity	disease_or_syndrome
+carries_out	_result_of
+-1
+-7.081634759902954
+___
+self_help_or_relief_organization	health_care_activity	pathologic_function
+carries_out	_result_of
+-1
+-7.081634759902954
+___
+self_help_or_relief_organization	therapeutic_or_preventive_procedure	cell_or_molecular_dysfunction
+location_of	prevents
+-1
+-7.237444758415222
+___
+self_help_or_relief_organization	therapeutic_or_preventive_procedure	pathologic_function
+location_of	prevents
+-1
+-7.237444758415222
+___
+self_help_or_relief_organization	therapeutic_or_preventive_procedure	disease_or_syndrome
+location_of	prevents
+-1
+-7.237444758415222
+___
+self_help_or_relief_organization	self_help_or_relief_organization	organization
+NO_OP	isa
+-1
+-7.289369076490402
+___
+self_help_or_relief_organization	self_help_or_relief_organization	conceptual_entity
+NO_OP	isa
+-1
+-7.289369076490402
+___
+self_help_or_relief_organization	self_help_or_relief_organization	entity
+NO_OP	isa
+-1
+-7.289369076490402
+___
+self_help_or_relief_organization	governmental_or_regulatory_activity	event
+location_of	isa
+-1
+-7.374478101730347
+___
+self_help_or_relief_organization	governmental_or_regulatory_activity	activity
+location_of	isa
+-1
+-7.374478101730347
+___
+self_help_or_relief_organization	governmental_or_regulatory_activity	occupation_or_discipline
+carries_out	method_of
+-1
+-7.408658742904663
+___
+self_help_or_relief_organization	molecular_biology_research_technique	mental_process
+location_of	affects
+-1
+-7.866098403930664
+___
+self_help_or_relief_organization	health_care_activity	congenital_abnormality
+location_of	_result_of
+-1
+-7.934369087219238
+___
+self_help_or_relief_organization	health_care_activity	pathologic_function
+location_of	_result_of
+-1
+-7.934369087219238
+___
+self_help_or_relief_organization	health_care_activity	acquired_abnormality
+location_of	_result_of
+-1
+-7.934369087219238
+___
+self_help_or_relief_organization	health_care_activity	disease_or_syndrome
+location_of	_result_of
+-1
+-7.934369087219238
+___
+self_help_or_relief_organization	health_care_activity	cell_or_molecular_dysfunction
+location_of	_result_of
+-1
+-7.934369087219238
+___
+self_help_or_relief_organization	health_care_activity	injury_or_poisoning
+location_of	_result_of
+-1
+-7.934369087219238
+___
+self_help_or_relief_organization	health_care_activity	mental_or_behavioral_dysfunction
+location_of	_result_of
+-1
+-7.934369087219238
+___
+self_help_or_relief_organization	regulation_or_law	health_care_related_organization
+_affects	_produces
+-1
+-7.939843654632568
+___
+self_help_or_relief_organization	regulation_or_law	self_help_or_relief_organization
+_affects	_produces
+-1
+-7.939843654632568
+___
+self_help_or_relief_organization	regulation_or_law	professional_society
+_affects	_produces
+-1
+-7.939843654632568
+___
+self_help_or_relief_organization	regulation_or_law	family_group
+_affects	_produces
+-1
+-7.939843654632568
+___
+self_help_or_relief_organization	regulation_or_law	patient_or_disabled_group
+_affects	_produces
+-1
+-7.939843654632568
+___
+self_help_or_relief_organization	regulation_or_law	organization
+_affects	_produces
+-1
+-7.939843654632568
+___
+self_help_or_relief_organization	regulation_or_law	group
+_affects	_produces
+-1
+-7.939843654632568
+___
+self_help_or_relief_organization	diagnostic_procedure	neoplastic_process
+location_of	diagnoses
+-1
+-8.00157380104065
+___
+self_help_or_relief_organization	diagnostic_procedure	acquired_abnormality
+location_of	diagnoses
+-1
+-8.00157380104065
+___
+self_help_or_relief_organization	diagnostic_procedure	experimental_model_of_disease
+location_of	diagnoses
+-1
+-8.00157380104065
+___
+self_help_or_relief_organization	diagnostic_procedure	pathologic_function
+location_of	diagnoses
+-1
+-8.00157380104065
+___
+self_help_or_relief_organization	diagnostic_procedure	mental_or_behavioral_dysfunction
+location_of	diagnoses
+-1
+-8.00157380104065
+___
+self_help_or_relief_organization	diagnostic_procedure	injury_or_poisoning
+location_of	diagnoses
+-1
+-8.00157380104065
+___
+self_help_or_relief_organization	self_help_or_relief_organization	occupation_or_discipline
+NO_OP	issue_in
+-1
+-8.032865971326828
+___
+self_help_or_relief_organization	self_help_or_relief_organization	biomedical_occupation_or_discipline
+NO_OP	issue_in
+-1
+-8.032865971326828
+___
+self_help_or_relief_organization	governmental_or_regulatory_activity	organization
+location_of	_location_of
+-1
+-8.080548524856567
+___
+self_help_or_relief_organization	governmental_or_regulatory_activity	professional_society
+location_of	_location_of
+-1
+-8.080548524856567
+___
+self_help_or_relief_organization	governmental_or_regulatory_activity	self_help_or_relief_organization
+location_of	_location_of
+-1
+-8.080548524856567
+___
+self_help_or_relief_organization	governmental_or_regulatory_activity	health_care_related_organization
+location_of	_location_of
+-1
+-8.080548524856567
+___
+self_help_or_relief_organization	laboratory_procedure	hazardous_or_poisonous_substance
+carries_out	analyzes
+-1
+-8.141938209533691
+___
+self_help_or_relief_organization	laboratory_procedure	element_ion_or_isotope
+carries_out	analyzes
+-1
+-8.141938209533691
+___
+self_help_or_relief_organization	laboratory_procedure	steroid
+carries_out	analyzes
+-1
+-8.141938209533691
+___
+self_help_or_relief_organization	laboratory_procedure	biologically_active_substance
+carries_out	analyzes
+-1
+-8.141938209533691
+___
+self_help_or_relief_organization	laboratory_procedure	enzyme
+carries_out	analyzes
+-1
+-8.141938209533691
+___
+self_help_or_relief_organization	laboratory_procedure	chemical_viewed_functionally
+carries_out	analyzes
+-1
+-8.141938209533691
+___
+self_help_or_relief_organization	laboratory_procedure	receptor
+carries_out	analyzes
+-1
+-8.141938209533691
+___
+self_help_or_relief_organization	laboratory_procedure	immunologic_factor
+carries_out	analyzes
+-1
+-8.141938209533691
+___
+self_help_or_relief_organization	laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide
+carries_out	analyzes
+-1
+-8.141938209533691
+___
+self_help_or_relief_organization	laboratory_procedure	body_substance
+carries_out	analyzes
+-1
+-8.141938209533691
+___
+self_help_or_relief_organization	laboratory_procedure	antibiotic
+carries_out	analyzes
+-1
+-8.141938209533691
+___
+self_help_or_relief_organization	laboratory_procedure	eicosanoid
+carries_out	analyzes
+-1
+-8.141938209533691
+___
+self_help_or_relief_organization	laboratory_procedure	chemical
+carries_out	analyzes
+-1
+-8.141938209533691
+___
+self_help_or_relief_organization	laboratory_procedure	organic_chemical
+carries_out	analyzes
+-1
+-8.141938209533691
+___
+self_help_or_relief_organization	laboratory_procedure	indicator_reagent_or_diagnostic_aid
+carries_out	analyzes
+-1
+-8.141938209533691
+___
+self_help_or_relief_organization	laboratory_procedure	lipid
+carries_out	analyzes
+-1
+-8.141938209533691
+___
+self_help_or_relief_organization	laboratory_procedure	inorganic_chemical
+carries_out	analyzes
+-1
+-8.141938209533691
+___
+self_help_or_relief_organization	laboratory_procedure	congenital_abnormality
+location_of	diagnoses
+-1
+-8.214978456497192
+___
+self_help_or_relief_organization	laboratory_procedure	experimental_model_of_disease
+location_of	diagnoses
+-1
+-8.214978456497192
+___
+self_help_or_relief_organization	laboratory_procedure	neoplastic_process
+location_of	diagnoses
+-1
+-8.214978456497192
+___
+self_help_or_relief_organization	laboratory_procedure	injury_or_poisoning
+location_of	diagnoses
+-1
+-8.214978456497192
+___
+self_help_or_relief_organization	laboratory_procedure	disease_or_syndrome
+location_of	diagnoses
+-1
+-8.214978456497192
+___
+self_help_or_relief_organization	laboratory_procedure	anatomical_abnormality
+location_of	diagnoses
+-1
+-8.214978456497192
+___
+self_help_or_relief_organization	laboratory_procedure	pathologic_function
+location_of	diagnoses
+-1
+-8.214978456497192
+___
+self_help_or_relief_organization	laboratory_procedure	acquired_abnormality
+location_of	diagnoses
+-1
+-8.214978456497192
+___
+self_help_or_relief_organization	diagnostic_procedure	biomedical_or_dental_material
+carries_out	analyzes
+-1
+-8.2699134349823
+___
+self_help_or_relief_organization	diagnostic_procedure	hormone
+carries_out	analyzes
+-1
+-8.2699134349823
+___
+self_help_or_relief_organization	diagnostic_procedure	chemical_viewed_functionally
+carries_out	analyzes
+-1
+-8.2699134349823
+___
+self_help_or_relief_organization	diagnostic_procedure	chemical
+carries_out	analyzes
+-1
+-8.2699134349823
+___
+self_help_or_relief_organization	diagnostic_procedure	steroid
+carries_out	analyzes
+-1
+-8.2699134349823
+___
+self_help_or_relief_organization	diagnostic_procedure	receptor
+carries_out	analyzes
+-1
+-8.2699134349823
+___
+self_help_or_relief_organization	diagnostic_procedure	lipid
+carries_out	analyzes
+-1
+-8.2699134349823
+___
+self_help_or_relief_organization	diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide
+carries_out	analyzes
+-1
+-8.2699134349823
+___
+self_help_or_relief_organization	diagnostic_procedure	eicosanoid
+carries_out	analyzes
+-1
+-8.2699134349823
+___
+self_help_or_relief_organization	diagnostic_procedure	biologically_active_substance
+carries_out	analyzes
+-1
+-8.2699134349823
+___
+self_help_or_relief_organization	diagnostic_procedure	amino_acid_peptide_or_protein
+carries_out	analyzes
+-1
+-8.2699134349823
+___
+self_help_or_relief_organization	diagnostic_procedure	vitamin
+carries_out	analyzes
+-1
+-8.2699134349823
+___
+self_help_or_relief_organization	diagnostic_procedure	chemical_viewed_structurally
+carries_out	analyzes
+-1
+-8.2699134349823
+___
+self_help_or_relief_organization	diagnostic_procedure	body_substance
+carries_out	analyzes
+-1
+-8.2699134349823
+___
+self_help_or_relief_organization	diagnostic_procedure	organophosphorus_compound
+carries_out	analyzes
+-1
+-8.2699134349823
+___
+self_help_or_relief_organization	diagnostic_procedure	organic_chemical
+carries_out	analyzes
+-1
+-8.2699134349823
+___
+self_help_or_relief_organization	diagnostic_procedure	antibiotic
+carries_out	analyzes
+-1
+-8.2699134349823
+___
+self_help_or_relief_organization	diagnostic_procedure	inorganic_chemical
+carries_out	analyzes
+-1
+-8.2699134349823
+___
+self_help_or_relief_organization	diagnostic_procedure	carbohydrate
+carries_out	analyzes
+-1
+-8.2699134349823
+___
+#####################

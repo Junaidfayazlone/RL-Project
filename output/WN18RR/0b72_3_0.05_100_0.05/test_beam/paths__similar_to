@@ -1,0 +1,1509 @@
+00808191	00808614
+Reward:1
+00808191	00808614	00808191	00808614
+__similar_to	_similar_to	__similar_to
+1
+-0.03782934643095359
+___
+00808191	00808614	00808614	00808191
+__similar_to	NO_OP	_similar_to
+-1
+-4.499928547476884
+___
+00808191	00808614	00808182	00808614
+__similar_to	_hypernym	__hypernym
+1
+-6.341139300202485
+___
+00808191	00808614	00808182	00808767
+__similar_to	_hypernym	__hypernym
+-1
+-6.341139300202485
+___
+00808191	00808614	00808191	00873603
+__similar_to	_similar_to	_also_see
+-1
+-6.491708701883908
+___
+00808191	00808614	00808191	00873603
+__similar_to	_similar_to	__also_see
+-1
+-6.863560622965451
+___
+00808191	00808614	00808191	05030806
+__similar_to	_similar_to	__derivationally_related_form
+-1
+-7.080026572977658
+___
+00808191	00808614	00808182	00235368
+__similar_to	_hypernym	__derivationally_related_form
+-1
+-7.182944519852754
+___
+00808191	00808614	00808182	00233335
+__similar_to	_hypernym	__derivationally_related_form
+-1
+-7.182944519852754
+___
+00808191	00808614	00808182	02509287
+__similar_to	_hypernym	__derivationally_related_form
+-1
+-7.182944519852754
+___
+00808191	00808614	07157273	06336537
+__similar_to	__member_of_domain_usage	__hypernym
+-1
+-7.268425448273774
+___
+00808191	00808614	07157273	07159276
+__similar_to	__member_of_domain_usage	__hypernym
+-1
+-7.268425448273774
+___
+00808191	00808614	00808191	00808191
+__similar_to	_similar_to	NO_OP
+-1
+-7.271921104227658
+___
+00808191	00808614	00808191	04635482
+__similar_to	_similar_to	_derivationally_related_form
+-1
+-7.541112846171018
+___
+00808191	00808614	00808191	05030806
+__similar_to	_similar_to	_derivationally_related_form
+-1
+-7.541112846171018
+___
+00808191	00808614	00808614	07157273
+__similar_to	NO_OP	__member_of_domain_usage
+-1
+-7.655398829316255
+___
+00808191	00808614	00808614	00808182
+__similar_to	NO_OP	_hypernym
+-1
+-7.82528208050644
+___
+00808191	00808614	07157273	00964110
+__similar_to	__member_of_domain_usage	__derivationally_related_form
+-1
+-7.836513741349336
+___
+00808191	00808614	00808182	00233335
+__similar_to	_hypernym	_derivationally_related_form
+-1
+-7.867984993790742
+___
+00808191	00808614	00808182	02509287
+__similar_to	_hypernym	_derivationally_related_form
+-1
+-7.867984993790742
+___
+00808191	00808614	00808182	00235368
+__similar_to	_hypernym	_derivationally_related_form
+-1
+-7.867984993790742
+___
+00808191	00808614	00808182	00236592
+__similar_to	_hypernym	_derivationally_related_form
+-1
+-7.867984993790742
+___
+00808191	00808614	07157273	00964110
+__similar_to	__member_of_domain_usage	_derivationally_related_form
+-1
+-8.352086289261933
+___
+00808191	00808614	07157273	07157273
+__similar_to	__member_of_domain_usage	NO_OP
+-1
+-8.535146935319062
+___
+00808191	00808614	00808182	00808182
+__similar_to	_hypernym	NO_OP
+-1
+-8.598839981888887
+___
+00808191	00808191	00808614	00808191
+NO_OP	__similar_to	_similar_to
+-1
+-8.702570742927492
+___
+00808191	00808614	00808614	00808614
+__similar_to	NO_OP	NO_OP
+1
+-8.88418362889206
+___
+00808191	00808614	07157273	07459642
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	06617413
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	00882045
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	10375690
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	03427202
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	00846021
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	10138242
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	09682122
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	02830596
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	07448232
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	13724838
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	10643584
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	02983507
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	05033046
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	00855301
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	00359806
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	00808614
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+1
+-9.033835633134004
+___
+00808191	00808614	07157273	09720406
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	09716439
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	06730241
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	09748239
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	04145735
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	14408519
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	06609909
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	09827363
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	09698337
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	11470348
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	09641226
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	13250680
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	10386196
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	06506603
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	00783063
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	00993787
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	06611147
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	00811036
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	10673946
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	09831731
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	00009373
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	09667205
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	08225334
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	05715150
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	01210152
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	00780615
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	02227362
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	00361041
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	03823540
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	00896688
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	02614023
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	05218119
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	05556071
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	09863339
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	03167978
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	09639719
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	02936281
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	10729923
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	05538215
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	10153155
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	10786992
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	06611998
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	00784934
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	10753779
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	10557246
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	07577657
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	00046449
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	03758614
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	14050434
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	09883947
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	09641422
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	09643799
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	09718652
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	14372286
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	00856193
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+00808191	00808614	07157273	05262422
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+-9.033835633134004
+___
+#####################
+00394562	00397191
+Reward:1
+00394562	00400101	00394562	00397191
+__similar_to	__similar_to	__similar_to
+1
+-0.6958326229359955
+___
+00394562	00397191	00394562	00397191
+__similar_to	_similar_to	__similar_to
+1
+-0.7717808195156977
+___
+00394562	00397191	00397191	00394562
+__similar_to	NO_OP	_similar_to
+-1
+-5.262478016316891
+___
+00394562	00397191	00201034	00396825
+__similar_to	_derivationally_related_form	__derivationally_related_form
+-1
+-6.259190618991852
+___
+00394562	00397191	00201034	10073992
+__similar_to	_derivationally_related_form	__derivationally_related_form
+-1
+-6.259190618991852
+___
+00394562	00397191	00201034	00397010
+__similar_to	_derivationally_related_form	__derivationally_related_form
+-1
+-6.259190618991852
+___
+00394562	00397191	00201034	00397191
+__similar_to	_derivationally_related_form	__derivationally_related_form
+1
+-6.259190618991852
+___
+00394562	00397191	00201034	10073992
+__similar_to	__derivationally_related_form	__derivationally_related_form
+-1
+-6.519803941249847
+___
+00394562	00397191	00201034	00397010
+__similar_to	__derivationally_related_form	__derivationally_related_form
+-1
+-6.519803941249847
+___
+00394562	00397191	00201034	00397191
+__similar_to	__derivationally_related_form	__derivationally_related_form
+1
+-6.519803941249847
+___
+00394562	00397191	00201034	00396825
+__similar_to	__derivationally_related_form	__derivationally_related_form
+-1
+-6.519803941249847
+___
+00394562	00397191	00201034	00396825
+__similar_to	__derivationally_related_form	_derivationally_related_form
+-1
+-6.549282729625702
+___
+00394562	00397191	00201034	10859669
+__similar_to	__derivationally_related_form	_derivationally_related_form
+-1
+-6.549282729625702
+___
+00394562	00397191	00201034	00397191
+__similar_to	__derivationally_related_form	_derivationally_related_form
+1
+-6.549282729625702
+___
+00394562	00397191	00201034	00397010
+__similar_to	__derivationally_related_form	_derivationally_related_form
+-1
+-6.549282729625702
+___
+00394562	00397191	00201034	10073992
+__similar_to	__derivationally_related_form	_derivationally_related_form
+-1
+-6.549282729625702
+___
+00394562	00397191	00201034	00201034
+__similar_to	_derivationally_related_form	NO_OP
+-1
+-6.884543359279633
+___
+00394562	00397191	00201034	10073992
+__similar_to	_derivationally_related_form	_derivationally_related_form
+-1
+-6.968196094036102
+___
+00394562	00397191	00201034	00397191
+__similar_to	_derivationally_related_form	_derivationally_related_form
+1
+-6.968196094036102
+___
+00394562	00397191	00201034	00396825
+__similar_to	_derivationally_related_form	_derivationally_related_form
+-1
+-6.968196094036102
+___
+00394562	00397191	00201034	00397010
+__similar_to	_derivationally_related_form	_derivationally_related_form
+-1
+-6.968196094036102
+___
+00394562	00397191	00201034	10859669
+__similar_to	_derivationally_related_form	_derivationally_related_form
+-1
+-6.968196094036102
+___
+00394562	00400101	00394562	00397191
+_similar_to	__similar_to	__similar_to
+1
+-7.213595744164195
+___
+00394562	00400101	00394562	00397191
+__similar_to	_similar_to	__similar_to
+1
+-7.297991850296967
+___
+00394562	00397191	00201034	00201034
+__similar_to	__derivationally_related_form	NO_OP
+-1
+-7.493170440196991
+___
+00394562	00397191	00394562	00366691
+__similar_to	_similar_to	__also_see
+-1
+-7.597511939704418
+___
+00394562	00397191	00394562	00394562
+__similar_to	_similar_to	NO_OP
+-1
+-8.005872420966625
+___
+00394562	00397191	06362953	06364149
+__similar_to	_hypernym	__hypernym
+-1
+-8.478069961071014
+___
+00394562	00397191	06362953	06429590
+__similar_to	_hypernym	__hypernym
+-1
+-8.478069961071014
+___
+00394562	00397191	06362953	06402031
+__similar_to	_hypernym	__hypernym
+-1
+-8.478069961071014
+___
+00394562	00397191	06362953	06392001
+__similar_to	_hypernym	__hypernym
+-1
+-8.478069961071014
+___
+00394562	00397191	06362953	06427831
+__similar_to	_hypernym	__hypernym
+-1
+-8.478069961071014
+___
+00394562	00397191	06362953	06399995
+__similar_to	_hypernym	__hypernym
+-1
+-8.478069961071014
+___
+00394562	00397191	06362953	07007684
+__similar_to	_hypernym	__hypernym
+-1
+-8.478069961071014
+___
+00394562	00397191	06362953	06470073
+__similar_to	_hypernym	__hypernym
+-1
+-8.478069961071014
+___
+00394562	00397191	06362953	07277158
+__similar_to	_hypernym	__hypernym
+-1
+-8.478069961071014
+___
+00394562	00397191	06362953	06408779
+__similar_to	_hypernym	__hypernym
+-1
+-8.478069961071014
+___
+00394562	00397191	06362953	06364641
+__similar_to	_hypernym	__hypernym
+-1
+-8.478069961071014
+___
+00394562	00397191	06362953	06409562
+__similar_to	_hypernym	__hypernym
+-1
+-8.478069961071014
+___
+00394562	00397191	06362953	06405699
+__similar_to	_hypernym	__hypernym
+-1
+-8.478069961071014
+___
+00394562	00397191	06362953	06365467
+__similar_to	_hypernym	__hypernym
+-1
+-8.478069961071014
+___
+00394562	00397191	06362953	06408651
+__similar_to	_hypernym	__hypernym
+-1
+-8.478069961071014
+___
+00394562	00397191	06362953	00397191
+__similar_to	_hypernym	__hypernym
+1
+-8.478069961071014
+___
+00394562	00397191	06362953	06374587
+__similar_to	_hypernym	__hypernym
+-1
+-8.478069961071014
+___
+00394562	00397191	00397191	00201034
+__similar_to	NO_OP	__derivationally_related_form
+-1
+-8.578714072704315
+___
+00394562	00397191	00397191	06362953
+__similar_to	NO_OP	_hypernym
+-1
+-8.587831676006317
+___
+00394562	00397191	00397191	00201034
+__similar_to	NO_OP	_derivationally_related_form
+-1
+-8.6434046626091
+___
+00394562	00366691	00394562	00397191
+__also_see	_also_see	__similar_to
+1
+-9.366838381509297
+___
+00394562	00397191	00201034	00243900
+__similar_to	__derivationally_related_form	_hypernym
+-1
+-9.407262980937958
+___
+00394562	00400101	00394562	00366691
+__similar_to	__similar_to	__also_see
+-1
+-9.4411718219053
+___
+00394562	00400101	00394562	00394562
+__similar_to	__similar_to	NO_OP
+-1
+-9.59385507996194
+___
+00394562	00397191	00397191	00397191
+__similar_to	NO_OP	NO_OP
+1
+-9.646732747554779
+___
+00394562	00397191	00201034	00243900
+__similar_to	_derivationally_related_form	_hypernym
+-1
+-9.969316184520721
+___
+00394562	00394562	00400101	00394562
+NO_OP	__similar_to	__similar_to
+-1
+-10.015519208274782
+___
+00394562	00394562	00397191	00394562
+NO_OP	__similar_to	_similar_to
+-1
+-10.193180188536644
+___
+00394562	00397191	06362953	06362953
+__similar_to	_hypernym	NO_OP
+-1
+-10.735770642757416
+___
+00394562	00397191	06362953	06466030
+__similar_to	_hypernym	__instance_hypernym
+-1
+-10.781486451625824
+___
+00394562	00397191	06362953	06398760
+__similar_to	_hypernym	_has_part
+-1
+-10.86675637960434
+___
+00394562	00400101	13460991	13460991
+__similar_to	_derivationally_related_form	NO_OP
+-1
+-10.881333466619253
+___
+00394562	00400101	13460991	13460991
+__similar_to	__derivationally_related_form	NO_OP
+-1
+-10.954825565218925
+___
+00394562	00400101	00400101	00394562
+__similar_to	NO_OP	__similar_to
+-1
+-11.685779850929976
+___
+00394562	00400101	00394562	00397191
+_similar_to	_similar_to	__similar_to
+1
+-12.492227360373363
+___
+00394562	00394562	00397191	00201034
+NO_OP	__similar_to	__derivationally_related_form
+-1
+-12.564209997653961
+___
+00394562	00394562	00397191	00201034
+NO_OP	__similar_to	_derivationally_related_form
+-1
+-12.816700279712677
+___
+00394562	00400101	13460991	13518963
+__similar_to	__derivationally_related_form	_hypernym
+-1
+-12.868918359279633
+___
+00394562	00394562	00397191	00397191
+NO_OP	__similar_to	NO_OP
+1
+-13.829059660434723
+___
+00394562	00400101	13460991	13518963
+__similar_to	_derivationally_related_form	_hypernym
+-1
+-13.966106355190277
+___
+00394562	00366691	04975340	00574735
+__also_see	__derivationally_related_form	__derivationally_related_form
+-1
+-14.109255492687225
+___
+00394562	00400101	00394562	00366691
+__similar_to	_similar_to	__also_see
+-1
+-14.123722970485687
+___
+00394562	00366691	00366691	00394562
+__also_see	NO_OP	_also_see
+-1
+-14.216680832207203
+___
+00394562	00366691	04975340	00366691
+__also_see	__derivationally_related_form	_derivationally_related_form
+-1
+-14.328916430473328
+___
+00394562	00400101	00394562	00394562
+__similar_to	_similar_to	NO_OP
+-1
+-14.532083451747894
+___
+00394562	00394562	00397191	06362953
+NO_OP	__similar_to	_hypernym
+-1
+-14.598994314670563
+___
+00394562	00397191	06362953	06349220
+__similar_to	_hypernym	_hypernym
+-1
+-14.820681035518646
+___
+00394562	00394562	00400101	00394562
+NO_OP	__similar_to	_similar_to
+-1
+-14.998676359653473
+___
+00394562	00366691	04975340	04975340
+__also_see	__derivationally_related_form	NO_OP
+-1
+-14.999465703964233
+___
+00394562	00366691	04975122	00366691
+__also_see	_derivationally_related_form	__derivationally_related_form
+-1
+-15.04425311088562
+___
+00394562	00366691	04975122	00287735
+__also_see	_derivationally_related_form	__derivationally_related_form
+-1
+-15.04425311088562
+___
+00394562	00366691	04975122	00288017
+__also_see	_derivationally_related_form	__derivationally_related_form
+-1
+-15.04425311088562
+___
+00394562	00366691	04975122	00288017
+__also_see	__derivationally_related_form	__derivationally_related_form
+-1
+-15.051040291786194
+___
+00394562	00366691	04975122	00287735
+__also_see	__derivationally_related_form	__derivationally_related_form
+-1
+-15.051040291786194
+___
+00394562	00366691	04975122	00366691
+__also_see	__derivationally_related_form	__derivationally_related_form
+-1
+-15.051040291786194
+___
+00394562	00366691	04975122	00288017
+__also_see	__derivationally_related_form	_derivationally_related_form
+-1
+-15.270701169967651
+___
+00394562	00366691	04975122	00287735
+__also_see	__derivationally_related_form	_derivationally_related_form
+-1
+-15.270701169967651
+___
+00394562	00366691	04975122	00366691
+__also_see	__derivationally_related_form	_derivationally_related_form
+-1
+-15.270701169967651
+___
+00394562	00400101	00394562	00366691
+_similar_to	__similar_to	__also_see
+-1
+-15.34422954544425
+___
+00394562	00366691	04975122	04975122
+__also_see	_derivationally_related_form	NO_OP
+-1
+-15.63527250289917
+___
+00394562	00366691	04975122	00287735
+__also_see	_derivationally_related_form	_derivationally_related_form
+-1
+-15.646929740905762
+___
+00394562	00366691	04975122	00366691
+__also_see	_derivationally_related_form	_derivationally_related_form
+-1
+-15.646929740905762
+___
+00394562	00366691	04975122	00288017
+__also_see	_derivationally_related_form	_derivationally_related_form
+-1
+-15.646929740905762
+___
+00394562	00400101	13460991	13460991
+_similar_to	_derivationally_related_form	NO_OP
+-1
+-15.883651249110699
+___
+00394562	00366691	04975122	04975122
+__also_see	__derivationally_related_form	NO_OP
+-1
+-15.941250562667847
+___
+00394562	00400101	13460991	13460991
+_similar_to	__derivationally_related_form	NO_OP
+-1
+-15.997081130743027
+___
+00394562	00400101	00400101	00394562
+_similar_to	NO_OP	__similar_to
+-1
+-16.164591037668288
+___
+00394562	00400101	00394562	00394562
+_similar_to	__similar_to	NO_OP
+-1
+-16.171365585178137
+___
+00394562	00400101	00400101	00394562
+__similar_to	NO_OP	_similar_to
+-1
+-16.473993241786957
+___
+00394562	00366691	04975340	04974968
+__also_see	__derivationally_related_form	_hypernym
+-1
+-16.504151344299316
+___
+00394562	00394562	00400101	00394562
+NO_OP	_similar_to	__similar_to
+-1
+-16.553090563043952
+___
+00394562	00394562	00366691	00394562
+NO_OP	__also_see	_also_see
+-1
+-16.67165195941925
+___
+00394562	00366691	00394562	00366691
+__also_see	_also_see	__also_see
+-1
+-16.68112538009882
+___
+#####################
+00417413	00418110
+Reward:1
+00417413	00418110	00417413	00418110
+__similar_to	_similar_to	__similar_to
+1
+-0.16239247552584857
+___
+00417413	00418110	04801763	00418110
+__similar_to	_derivationally_related_form	__derivationally_related_form
+1
+-4.4140341588063166
+___
+00417413	00418110	04801763	00418110
+__similar_to	__derivationally_related_form	__derivationally_related_form
+1
+-4.553361088852398
+___
+00417413	00418110	04801763	00418110
+__similar_to	__derivationally_related_form	_derivationally_related_form
+1
+-4.582839996437542
+___
+00417413	00418110	00418110	00417413
+__similar_to	NO_OP	_similar_to
+-1
+-4.73661024949979
+___
+00417413	00418110	04660261	00418110
+__similar_to	_derivationally_related_form	__derivationally_related_form
+1
+-4.811067313770764
+___
+00417413	00418110	04660261	01025913
+__similar_to	_derivationally_related_form	__derivationally_related_form
+-1
+-4.811067313770764
+___
+00417413	00418110	05023741	00418408
+__similar_to	_derivationally_related_form	__derivationally_related_form
+-1
+-4.960578412632458
+___
+00417413	00418110	05023741	00418110
+__similar_to	_derivationally_related_form	__derivationally_related_form
+1
+-4.960578412632458
+___
+00417413	00418110	04801763	04801763
+__similar_to	_derivationally_related_form	NO_OP
+-1
+-5.039386958698742
+___
+00417413	00418110	04801763	00418110
+__similar_to	_derivationally_related_form	_derivationally_related_form
+1
+-5.123039693455212
+___
+00417413	00418110	05023741	00418110
+__similar_to	__derivationally_related_form	__derivationally_related_form
+1
+-5.152032823185436
+___
+00417413	00418110	05023741	00418408
+__similar_to	__derivationally_related_form	__derivationally_related_form
+-1
+-5.152032823185436
+___
+00417413	00418110	05023741	00418110
+__similar_to	__derivationally_related_form	_derivationally_related_form
+1
+-5.1815117307705805
+___
+00417413	00418110	05023741	00418408
+__similar_to	__derivationally_related_form	_derivationally_related_form
+-1
+-5.1815117307705805
+___
+00417413	00418110	04660261	04660261
+__similar_to	_derivationally_related_form	NO_OP
+-1
+-5.436420054058544
+___
+00417413	00418110	04660261	01025913
+__similar_to	_derivationally_related_form	_derivationally_related_form
+-1
+-5.520072788815014
+___
+00417413	00418110	04801763	04801763
+__similar_to	__derivationally_related_form	NO_OP
+-1
+-5.526727647404186
+___
+00417413	00418110	00417596	00418110
+__similar_to	_hypernym	__hypernym
+1
+-5.574641437153332
+___
+00417413	00418110	05023741	05023741
+__similar_to	_derivationally_related_form	NO_OP
+-1
+-5.585931152920239
+___
+00417413	00418110	05023741	00418110
+__similar_to	_derivationally_related_form	_derivationally_related_form
+1
+-5.669583887676708
+___
+00417413	00418110	05023741	00418408
+__similar_to	_derivationally_related_form	_derivationally_related_form
+-1
+-5.669583887676708
+___
+00417413	00418110	05023741	05023741
+__similar_to	__derivationally_related_form	NO_OP
+-1
+-6.12539932213258
+___
+00417413	00418110	00417596	13561521
+__similar_to	_hypernym	__derivationally_related_form
+-1
+-6.4164466568036005
+___
+00417413	00418110	00417413	02422685
+__similar_to	_similar_to	_also_see
+-1
+-6.6162719138665125
+___
+00417413	00418110	00417413	02115324
+__similar_to	_similar_to	_also_see
+-1
+-6.6162719138665125
+___
+00417413	00418110	00417413	02115324
+__similar_to	_similar_to	__also_see
+-1
+-6.9881238349480554
+___
+00417413	00418110	00417413	02422685
+__similar_to	_similar_to	__also_see
+-1
+-6.9881238349480554
+___
+00417413	00418110	00417596	13561521
+__similar_to	_hypernym	_derivationally_related_form
+-1
+-7.101487130741589
+___
+00417413	00418110	00417413	14496193
+__similar_to	_similar_to	__derivationally_related_form
+-1
+-7.2045897849602625
+___
+00417413	00418110	00417413	00417413
+__similar_to	_similar_to	NO_OP
+-1
+-7.3964843162102625
+___
+00417413	00418110	04801763	04801532
+__similar_to	__derivationally_related_form	_hypernym
+-1
+-7.440820426563732
+___
+00417413	00418110	00417413	14496193
+__similar_to	_similar_to	_derivationally_related_form
+-1
+-7.665676058153622
+___
+00417413	00418110	00417596	00417596
+__similar_to	_hypernym	NO_OP
+-1
+-7.832342118839733
+___
+00417413	00418110	05023741	05023233
+__similar_to	__derivationally_related_form	_hypernym
+-1
+-8.039492101292126
+___
+00417413	00418110	00418110	04801763
+__similar_to	NO_OP	__derivationally_related_form
+-1
+-8.052846164326183
+___
+00417413	00418110	00418110	05023741
+__similar_to	NO_OP	__derivationally_related_form
+-1
+-8.052846164326183
+___
+00417413	00418110	00418110	00417596
+__similar_to	NO_OP	_hypernym
+-1
+-8.061963767628185
+___
+00417413	00418110	00418110	04660261
+__similar_to	NO_OP	_derivationally_related_form
+-1
+-8.117536754230969
+___
+00417413	00418110	00418110	04801763
+__similar_to	NO_OP	_derivationally_related_form
+-1
+-8.117536754230969
+___
+00417413	00418110	00418110	05023741
+__similar_to	NO_OP	_derivationally_related_form
+-1
+-8.117536754230969
+___
+00417413	00418110	04801763	04801532
+__similar_to	_derivationally_related_form	_hypernym
+-1
+-8.124159783939831
+___
+00417413	00418110	04660261	04660080
+__similar_to	_derivationally_related_form	_hypernym
+-1
+-8.521192998508923
+___
+00417413	00418110	05023741	05023233
+__similar_to	_derivationally_related_form	_hypernym
+-1
+-8.670703858952038
+___
+00417413	00417413	00418110	00417413
+NO_OP	__similar_to	_similar_to
+-1
+-8.997893276624382
+___
+00417413	02422685	00417413	00418110
+__also_see	_also_see	__similar_to
+1
+-9.048563607037067
+___
+00417413	02115324	00417413	00418110
+__also_see	_also_see	__similar_to
+1
+-9.07286424189806
+___
+00417413	14496193	00417413	00418110
+__derivationally_related_form	_derivationally_related_form	__similar_to
+1
+-9.115280978381634
+___
+00417413	00418110	00418110	00418110
+__similar_to	NO_OP	NO_OP
+1
+-9.120865316013806
+___
+00417413	14496193	00417413	00418110
+__derivationally_related_form	__derivationally_related_form	__similar_to
+1
+-9.36466562654823
+___
+00417413	02422685	00417413	00418110
+__also_see	__also_see	__similar_to
+1
+-9.671123245265335
+___
+00417413	02115324	00417413	00418110
+__also_see	__also_see	__similar_to
+1
+-9.695423939730972
+___
+00417413	14496193	00417413	00418110
+_derivationally_related_form	__derivationally_related_form	__similar_to
+1
+-10.263811466284096
+___
+00417413	02422685	00417413	00418110
+_also_see	_also_see	__similar_to
+1
+-10.404537754599005
+___
+00417413	02115324	00417413	00418110
+_also_see	_also_see	__similar_to
+1
+-10.454518275801092
+___
+00417413	14496193	00417413	00418110
+_derivationally_related_form	_derivationally_related_form	__similar_to
+1
+-10.473279418423772
+___
+00417413	02422685	00417413	00418110
+_also_see	__also_see	__similar_to
+1
+-10.815108170500025
+___
+00417413	14496193	14496193	00417413
+__derivationally_related_form	NO_OP	_derivationally_related_form
+-1
+-10.816519618034363
+___
+00417413	02115324	00417413	00418110
+_also_see	__also_see	__similar_to
+1
+-10.865088691702113
+___
+00417413	14496193	14496193	00417413
+__derivationally_related_form	NO_OP	__derivationally_related_form
+-1
+-11.226902604103088
+___
+00417413	00417413	00418110	05023741
+NO_OP	__similar_to	__derivationally_related_form
+-1
+-11.368923041038215
+___
+00417413	00417413	00418110	04801763
+NO_OP	__similar_to	__derivationally_related_form
+-1
+-11.368923041038215
+___
+00417413	14496193	14496193	00417413
+_derivationally_related_form	NO_OP	_derivationally_related_form
+-1
+-11.534188449382782
+___
+00417413	00417413	00418110	04660261
+NO_OP	__similar_to	_derivationally_related_form
+-1
+-11.621413323096931
+___
+00417413	00417413	00418110	05023741
+NO_OP	__similar_to	_derivationally_related_form
+-1
+-11.621413323096931
+___
+00417413	00417413	00418110	04801763
+NO_OP	__similar_to	_derivationally_related_form
+-1
+-11.621413323096931
+___
+00417413	14496193	14496193	00417413
+_derivationally_related_form	NO_OP	__derivationally_related_form
+-1
+-11.821849822998047
+___
+00417413	00418110	00417596	00126264
+__similar_to	_hypernym	_hypernym
+-1
+-11.917252988438122
+___
+00417413	14496193	14494716	14497763
+__derivationally_related_form	_hypernym	__hypernym
+-1
+-12.03926157951355
+___
+00417413	14496193	14494716	14496193
+__derivationally_related_form	_hypernym	__hypernym
+-1
+-12.03926157951355
+___
+00417413	14496193	14494716	14494893
+__derivationally_related_form	_hypernym	__hypernym
+-1
+-12.03926157951355
+___
+00417413	14496193	14494716	14495589
+__derivationally_related_form	_hypernym	__hypernym
+-1
+-12.03926157951355
+___
+00417413	14496193	14496193	14494716
+__derivationally_related_form	NO_OP	_hypernym
+-1
+-12.170154571533203
+___
+00417413	14496193	14496193	14494716
+_derivationally_related_form	NO_OP	_hypernym
+-1
+-12.370687484741211
+___
+00417413	00417413	00418110	00418110
+NO_OP	__similar_to	NO_OP
+1
+-12.633772703818977
+___
+00417413	14496193	14496193	14496193
+__derivationally_related_form	NO_OP	NO_OP
+-1
+-12.650257110595703
+___
+00417413	14496193	14496193	14496193
+_derivationally_related_form	NO_OP	NO_OP
+-1
+-13.061645269393921
+___
+00417413	00417413	00418110	00417596
+NO_OP	__similar_to	_hypernym
+-1
+-13.403707358054817
+___
+00417413	14496193	14494716	14496193
+_derivationally_related_form	_hypernym	__hypernym
+-1
+-13.456130862236023
+___
+00417413	14496193	14494716	14497763
+_derivationally_related_form	_hypernym	__hypernym
+-1
+-13.456130862236023
+___
+00417413	14496193	14494716	14494893
+_derivationally_related_form	_hypernym	__hypernym
+-1
+-13.456130862236023
+___
+00417413	14496193	14494716	14495589
+_derivationally_related_form	_hypernym	__hypernym
+-1
+-13.456130862236023
+___
+00417413	14496193	14494716	14494716
+__derivationally_related_form	_hypernym	NO_OP
+-1
+-13.988584756851196
+___
+00417413	02422685	02422685	00417413
+__also_see	NO_OP	_also_see
+-1
+-14.06249874830246
+___
+00417413	02115324	02115324	00417413
+__also_see	NO_OP	_also_see
+-1
+-14.12337252497673
+___
+00417413	00417413	02422685	00417413
+NO_OP	_also_see	_also_see
+-1
+-14.484970778226852
+___
+00417413	02422685	02422685	00417413
+_also_see	NO_OP	_also_see
+-1
+-14.509057641029358
+___
+00417413	02115324	02724207	02115324
+__also_see	_derivationally_related_form	__derivationally_related_form
+-1
+-14.513416528701782
+___
+00417413	02115324	02724207	03818090
+__also_see	__derivationally_related_form	__hypernym
+-1
+-14.535282611846924
+___
+00417413	02115324	02724207	03762809
+__also_see	__derivationally_related_form	__hypernym
+-1
+-14.535282611846924
+___
+00417413	02115324	02724207	04424003
+__also_see	__derivationally_related_form	__hypernym
+-1
+-14.535282611846924
+___
+00417413	02115324	02115324	00417413
+_also_see	NO_OP	_also_see
+-1
+-14.631365865468979
+___
+00417413	00417413	02115324	00417413
+NO_OP	_also_see	_also_see
+-1
+-14.733617305755615
+___
+00417413	02115324	02724207	02115324
+__also_see	__derivationally_related_form	__derivationally_related_form
+-1
+-14.80783224105835
+___
+00417413	02115324	02724207	02115324
+_also_see	_derivationally_related_form	__derivationally_related_form
+-1
+-14.814257860183716
+___
+00417413	02115324	02724207	03762809
+__also_see	_derivationally_related_form	__hypernym
+-1
+-14.915683507919312
+___
+00417413	02115324	02724207	04424003
+__also_see	_derivationally_related_form	__hypernym
+-1
+-14.915683507919312
+___
+00417413	02115324	02724207	03818090
+__also_see	_derivationally_related_form	__hypernym
+-1
+-14.915683507919312
+___
+00417413	14496193	00417413	14496193
+__derivationally_related_form	__derivationally_related_form	_derivationally_related_form
+-1
+-14.931228399276733
+___
+00417413	02115324	02724207	02115324
+__also_see	__derivationally_related_form	_derivationally_related_form
+-1
+-15.027493000030518
+___
+#####################

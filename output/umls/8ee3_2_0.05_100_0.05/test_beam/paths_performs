@@ -1,0 +1,4024 @@
+age_group	machine_activity
+Reward:1
+age_group	patient_or_disabled_group	machine_activity
+interacts_with	performs
+1
+-0.6968294619582593
+___
+age_group	group	group
+interacts_with	NO_OP
+-1
+-2.9188003540039062
+___
+age_group	group	medical_device
+interacts_with	uses
+-1
+-3.0938777923583984
+___
+age_group	group	research_device
+interacts_with	uses
+-1
+-3.0938777923583984
+___
+age_group	group	regulation_or_law
+interacts_with	uses
+-1
+-3.0938777923583984
+___
+age_group	group	clinical_drug
+interacts_with	uses
+-1
+-3.0938777923583984
+___
+age_group	group	manufactured_object
+interacts_with	uses
+-1
+-3.0938777923583984
+___
+age_group	group	drug_delivery_device
+interacts_with	uses
+-1
+-3.0938777923583984
+___
+age_group	group	intellectual_product
+interacts_with	uses
+-1
+-3.0938777923583984
+___
+age_group	group	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-3.803835391998291
+___
+age_group	group	occupation_or_discipline
+interacts_with	issue_in
+-1
+-3.803835391998291
+___
+age_group	group	classification
+interacts_with	produces
+-1
+-4.577936172485352
+___
+age_group	group	medical_device
+interacts_with	produces
+-1
+-4.577936172485352
+___
+age_group	group	intellectual_product
+interacts_with	produces
+-1
+-4.577936172485352
+___
+age_group	group	regulation_or_law
+interacts_with	produces
+-1
+-4.577936172485352
+___
+age_group	group	manufactured_object
+interacts_with	produces
+-1
+-4.577936172485352
+___
+age_group	group	clinical_drug
+interacts_with	produces
+-1
+-4.577936172485352
+___
+age_group	group	drug_delivery_device
+interacts_with	produces
+-1
+-4.577936172485352
+___
+age_group	group	entity
+interacts_with	isa
+-1
+-5.1063995361328125
+___
+age_group	group	conceptual_entity
+interacts_with	isa
+-1
+-5.1063995361328125
+___
+age_group	patient_or_disabled_group	patient_or_disabled_group
+interacts_with	NO_OP
+-1
+-8.605345726013184
+___
+age_group	patient_or_disabled_group	regulation_or_law
+interacts_with	uses
+-1
+-8.780422687530518
+___
+age_group	patient_or_disabled_group	drug_delivery_device
+interacts_with	uses
+-1
+-8.780422687530518
+___
+age_group	patient_or_disabled_group	manufactured_object
+interacts_with	uses
+-1
+-8.780422687530518
+___
+age_group	patient_or_disabled_group	intellectual_product
+interacts_with	uses
+-1
+-8.780422687530518
+___
+age_group	patient_or_disabled_group	classification
+interacts_with	uses
+-1
+-8.780422687530518
+___
+age_group	patient_or_disabled_group	clinical_drug
+interacts_with	uses
+-1
+-8.780422687530518
+___
+age_group	patient_or_disabled_group	medical_device
+interacts_with	uses
+-1
+-8.780422687530518
+___
+age_group	patient_or_disabled_group	group
+interacts_with	interacts_with
+-1
+-9.25697946548462
+___
+age_group	patient_or_disabled_group	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-9.490380764007568
+___
+age_group	age_group	occupation_or_discipline
+NO_OP	issue_in
+-1
+-9.970022201538086
+___
+age_group	patient_or_disabled_group	classification
+interacts_with	produces
+-1
+-10.26448106765747
+___
+age_group	patient_or_disabled_group	manufactured_object
+interacts_with	produces
+-1
+-10.26448106765747
+___
+age_group	patient_or_disabled_group	clinical_drug
+interacts_with	produces
+-1
+-10.26448106765747
+___
+age_group	patient_or_disabled_group	intellectual_product
+interacts_with	produces
+-1
+-10.26448106765747
+___
+age_group	patient_or_disabled_group	drug_delivery_device
+interacts_with	produces
+-1
+-10.26448106765747
+___
+age_group	patient_or_disabled_group	regulation_or_law
+interacts_with	produces
+-1
+-10.26448106765747
+___
+age_group	patient_or_disabled_group	research_device
+interacts_with	produces
+-1
+-10.26448106765747
+___
+age_group	patient_or_disabled_group	conceptual_entity
+interacts_with	isa
+-1
+-10.792944431304932
+___
+age_group	patient_or_disabled_group	group
+interacts_with	isa
+-1
+-10.792944431304932
+___
+age_group	patient_or_disabled_group	entity
+interacts_with	isa
+-1
+-10.792944431304932
+___
+age_group	age_group	conceptual_entity
+NO_OP	isa
+-1
+-11.448665142059326
+___
+age_group	age_group	entity
+NO_OP	isa
+-1
+-11.448665142059326
+___
+age_group	individual_behavior	mental_process
+exhibits	affects
+-1
+-11.654588878154755
+___
+age_group	age_group	age_group
+NO_OP	NO_OP
+-1
+-11.66623306274414
+___
+age_group	age_group	medical_device
+NO_OP	uses
+-1
+-11.71552324295044
+___
+age_group	age_group	research_device
+NO_OP	uses
+-1
+-11.71552324295044
+___
+age_group	age_group	intellectual_product
+NO_OP	uses
+-1
+-11.71552324295044
+___
+age_group	age_group	drug_delivery_device
+NO_OP	uses
+-1
+-11.71552324295044
+___
+age_group	age_group	classification
+NO_OP	uses
+-1
+-11.71552324295044
+___
+age_group	age_group	regulation_or_law
+NO_OP	uses
+-1
+-11.71552324295044
+___
+age_group	age_group	manufactured_object
+NO_OP	uses
+-1
+-11.71552324295044
+___
+age_group	age_group	clinical_drug
+NO_OP	uses
+-1
+-11.71552324295044
+___
+age_group	age_group	patient_or_disabled_group
+NO_OP	interacts_with
+-1
+-12.082005023956299
+___
+age_group	age_group	group
+NO_OP	interacts_with
+-1
+-12.082005023956299
+___
+age_group	age_group	intellectual_product
+NO_OP	produces
+-1
+-13.177642345428467
+___
+age_group	age_group	manufactured_object
+NO_OP	produces
+-1
+-13.177642345428467
+___
+age_group	age_group	clinical_drug
+NO_OP	produces
+-1
+-13.177642345428467
+___
+age_group	age_group	medical_device
+NO_OP	produces
+-1
+-13.177642345428467
+___
+age_group	age_group	drug_delivery_device
+NO_OP	produces
+-1
+-13.177642345428467
+___
+age_group	age_group	classification
+NO_OP	produces
+-1
+-13.177642345428467
+___
+age_group	individual_behavior	idea_or_concept
+exhibits	conceptually_related_to
+-1
+-13.561032772064209
+___
+age_group	classification	classification
+uses	NO_OP
+-1
+-13.626086741685867
+___
+age_group	intellectual_product	intellectual_product
+uses	NO_OP
+-1
+-13.7710582613945
+___
+age_group	individual_behavior	mental_process
+exhibits	manifestation_of
+-1
+-13.839472770690918
+___
+age_group	entity	entity
+isa	NO_OP
+-1
+-14.216134905815125
+___
+age_group	conceptual_entity	conceptual_entity
+isa	NO_OP
+-1
+-14.236522197723389
+___
+age_group	individual_behavior	mental_process
+exhibits	result_of
+-1
+-14.24885892868042
+___
+age_group	individual_behavior	mental_process
+performs	affects
+-1
+-14.259658128023148
+___
+age_group	behavior	mental_process
+performs	affects
+-1
+-14.36034506559372
+___
+age_group	governmental_or_regulatory_activity	occupation_or_discipline
+performs	method_of
+-1
+-14.513835191726685
+___
+age_group	activity	event
+performs	isa
+-1
+-14.63767683506012
+___
+age_group	entity	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-14.662484526634216
+___
+age_group	entity	occupation_or_discipline
+isa	issue_in
+-1
+-14.662484526634216
+___
+age_group	conceptual_entity	occupation_or_discipline
+isa	issue_in
+-1
+-14.68287181854248
+___
+age_group	conceptual_entity	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-14.68287181854248
+___
+age_group	educational_activity	biomedical_occupation_or_discipline
+performs	method_of
+-1
+-14.887986898422241
+___
+age_group	educational_activity	occupation_or_discipline
+performs	method_of
+-1
+-14.887986898422241
+___
+age_group	occupational_activity	occupation_or_discipline
+performs	method_of
+-1
+-14.892624855041504
+___
+age_group	occupational_activity	biomedical_occupation_or_discipline
+performs	method_of
+-1
+-14.892624855041504
+___
+age_group	activity	occupation_or_discipline
+performs	issue_in
+-1
+-15.070150971412659
+___
+age_group	activity	biomedical_occupation_or_discipline
+performs	issue_in
+-1
+-15.070150971412659
+___
+age_group	drug_delivery_device	experimental_model_of_disease
+uses	prevents
+-1
+-15.30610477924347
+___
+age_group	drug_delivery_device	pathologic_function
+uses	prevents
+-1
+-15.30610477924347
+___
+age_group	drug_delivery_device	cell_or_molecular_dysfunction
+uses	prevents
+-1
+-15.30610477924347
+___
+age_group	drug_delivery_device	injury_or_poisoning
+uses	prevents
+-1
+-15.30610477924347
+___
+age_group	drug_delivery_device	neoplastic_process
+uses	prevents
+-1
+-15.30610477924347
+___
+age_group	drug_delivery_device	mental_or_behavioral_dysfunction
+uses	prevents
+-1
+-15.30610477924347
+___
+age_group	individual_behavior	event
+exhibits	isa
+-1
+-15.34218692779541
+___
+age_group	individual_behavior	mental_process
+performs	manifestation_of
+-1
+-15.367029190063477
+___
+age_group	manufactured_object	acquired_abnormality
+uses	causes
+-1
+-15.402393817901611
+___
+age_group	manufactured_object	experimental_model_of_disease
+uses	causes
+-1
+-15.402393817901611
+___
+age_group	manufactured_object	anatomical_abnormality
+uses	causes
+-1
+-15.402393817901611
+___
+age_group	manufactured_object	pathologic_function
+uses	causes
+-1
+-15.402393817901611
+___
+age_group	manufactured_object	disease_or_syndrome
+uses	causes
+-1
+-15.402393817901611
+___
+age_group	manufactured_object	injury_or_poisoning
+uses	causes
+-1
+-15.402393817901611
+___
+age_group	manufactured_object	congenital_abnormality
+uses	causes
+-1
+-15.402393817901611
+___
+age_group	clinical_drug	mental_or_behavioral_dysfunction
+uses	causes
+-1
+-15.40239417552948
+___
+age_group	clinical_drug	congenital_abnormality
+uses	causes
+-1
+-15.40239417552948
+___
+age_group	clinical_drug	cell_or_molecular_dysfunction
+uses	causes
+-1
+-15.40239417552948
+___
+#####################
+family_group	therapeutic_or_preventive_procedure
+Reward:1
+family_group	patient_or_disabled_group	therapeutic_or_preventive_procedure
+interacts_with	performs
+1
+-0.696857952978462
+___
+family_group	age_group	therapeutic_or_preventive_procedure
+interacts_with	performs
+1
+-0.6972453885246068
+___
+family_group	patient_or_disabled_group	patient_or_disabled_group
+interacts_with	NO_OP
+-1
+-8.605374217033386
+___
+family_group	age_group	age_group
+interacts_with	NO_OP
+-1
+-8.605761885643005
+___
+family_group	patient_or_disabled_group	medical_device
+interacts_with	uses
+-1
+-8.78045117855072
+___
+family_group	patient_or_disabled_group	intellectual_product
+interacts_with	uses
+-1
+-8.78045117855072
+___
+family_group	patient_or_disabled_group	manufactured_object
+interacts_with	uses
+-1
+-8.78045117855072
+___
+family_group	patient_or_disabled_group	regulation_or_law
+interacts_with	uses
+-1
+-8.78045117855072
+___
+family_group	patient_or_disabled_group	drug_delivery_device
+interacts_with	uses
+-1
+-8.78045117855072
+___
+family_group	patient_or_disabled_group	clinical_drug
+interacts_with	uses
+-1
+-8.78045117855072
+___
+family_group	patient_or_disabled_group	classification
+interacts_with	uses
+-1
+-8.78045117855072
+___
+family_group	age_group	clinical_drug
+interacts_with	uses
+-1
+-8.780838370323181
+___
+family_group	age_group	medical_device
+interacts_with	uses
+-1
+-8.780838370323181
+___
+family_group	age_group	regulation_or_law
+interacts_with	uses
+-1
+-8.780838370323181
+___
+family_group	age_group	intellectual_product
+interacts_with	uses
+-1
+-8.780838370323181
+___
+family_group	age_group	classification
+interacts_with	uses
+-1
+-8.780838370323181
+___
+family_group	age_group	research_device
+interacts_with	uses
+-1
+-8.780838370323181
+___
+family_group	age_group	manufactured_object
+interacts_with	uses
+-1
+-8.780838370323181
+___
+family_group	age_group	drug_delivery_device
+interacts_with	uses
+-1
+-8.780838370323181
+___
+family_group	patient_or_disabled_group	group
+interacts_with	interacts_with
+-1
+-9.257007956504822
+___
+family_group	age_group	group
+interacts_with	interacts_with
+-1
+-9.257395148277283
+___
+family_group	age_group	patient_or_disabled_group
+interacts_with	interacts_with
+-1
+-9.257395148277283
+___
+family_group	patient_or_disabled_group	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-9.490409255027771
+___
+family_group	age_group	occupation_or_discipline
+interacts_with	issue_in
+-1
+-9.490796446800232
+___
+family_group	family_group	occupation_or_discipline
+NO_OP	issue_in
+-1
+-10.240620732307434
+___
+family_group	family_group	biomedical_occupation_or_discipline
+NO_OP	issue_in
+-1
+-10.240620732307434
+___
+family_group	patient_or_disabled_group	classification
+interacts_with	produces
+-1
+-10.264509558677673
+___
+family_group	patient_or_disabled_group	clinical_drug
+interacts_with	produces
+-1
+-10.264509558677673
+___
+family_group	patient_or_disabled_group	intellectual_product
+interacts_with	produces
+-1
+-10.264509558677673
+___
+family_group	patient_or_disabled_group	research_device
+interacts_with	produces
+-1
+-10.264509558677673
+___
+family_group	patient_or_disabled_group	drug_delivery_device
+interacts_with	produces
+-1
+-10.264509558677673
+___
+family_group	patient_or_disabled_group	manufactured_object
+interacts_with	produces
+-1
+-10.264509558677673
+___
+family_group	patient_or_disabled_group	regulation_or_law
+interacts_with	produces
+-1
+-10.264509558677673
+___
+family_group	age_group	classification
+interacts_with	produces
+-1
+-10.264896750450134
+___
+family_group	age_group	clinical_drug
+interacts_with	produces
+-1
+-10.264896750450134
+___
+family_group	age_group	medical_device
+interacts_with	produces
+-1
+-10.264896750450134
+___
+family_group	age_group	manufactured_object
+interacts_with	produces
+-1
+-10.264896750450134
+___
+family_group	age_group	intellectual_product
+interacts_with	produces
+-1
+-10.264896750450134
+___
+family_group	age_group	drug_delivery_device
+interacts_with	produces
+-1
+-10.264896750450134
+___
+family_group	patient_or_disabled_group	conceptual_entity
+interacts_with	isa
+-1
+-10.792972922325134
+___
+family_group	patient_or_disabled_group	group
+interacts_with	isa
+-1
+-10.792972922325134
+___
+family_group	patient_or_disabled_group	entity
+interacts_with	isa
+-1
+-10.792972922325134
+___
+family_group	age_group	conceptual_entity
+interacts_with	isa
+-1
+-10.793360114097595
+___
+family_group	age_group	entity
+interacts_with	isa
+-1
+-10.793360114097595
+___
+family_group	behavior	mental_process
+exhibits	affects
+-1
+-11.523722410202026
+___
+family_group	social_behavior	mental_process
+exhibits	affects
+-1
+-11.564088433980942
+___
+family_group	individual_behavior	mental_process
+exhibits	affects
+-1
+-11.65461653470993
+___
+family_group	family_group	conceptual_entity
+NO_OP	isa
+-1
+-11.719263553619385
+___
+family_group	family_group	group
+NO_OP	isa
+-1
+-11.719263553619385
+___
+family_group	family_group	entity
+NO_OP	isa
+-1
+-11.719263553619385
+___
+family_group	family_group	family_group
+NO_OP	NO_OP
+-1
+-11.9368314743042
+___
+family_group	family_group	drug_delivery_device
+NO_OP	uses
+-1
+-11.986121654510498
+___
+family_group	family_group	classification
+NO_OP	uses
+-1
+-11.986121654510498
+___
+family_group	family_group	intellectual_product
+NO_OP	uses
+-1
+-11.986121654510498
+___
+family_group	family_group	clinical_drug
+NO_OP	uses
+-1
+-11.986121654510498
+___
+family_group	family_group	research_device
+NO_OP	uses
+-1
+-11.986121654510498
+___
+family_group	family_group	regulation_or_law
+NO_OP	uses
+-1
+-11.986121654510498
+___
+family_group	family_group	manufactured_object
+NO_OP	uses
+-1
+-11.986121654510498
+___
+family_group	family_group	patient_or_disabled_group
+NO_OP	interacts_with
+-1
+-12.352603435516357
+___
+family_group	family_group	age_group
+NO_OP	interacts_with
+-1
+-12.352603435516357
+___
+family_group	group	therapeutic_or_preventive_procedure
+isa	performs
+1
+-13.398161013145
+___
+family_group	family_group	clinical_drug
+NO_OP	produces
+-1
+-13.448240756988525
+___
+family_group	family_group	intellectual_product
+NO_OP	produces
+-1
+-13.448240756988525
+___
+family_group	family_group	regulation_or_law
+NO_OP	produces
+-1
+-13.448240756988525
+___
+family_group	family_group	manufactured_object
+NO_OP	produces
+-1
+-13.448240756988525
+___
+family_group	family_group	classification
+NO_OP	produces
+-1
+-13.448240756988525
+___
+family_group	family_group	drug_delivery_device
+NO_OP	produces
+-1
+-13.448240756988525
+___
+family_group	family_group	medical_device
+NO_OP	produces
+-1
+-13.448240756988525
+___
+family_group	individual_behavior	idea_or_concept
+exhibits	conceptually_related_to
+-1
+-13.561060428619385
+___
+family_group	classification	classification
+uses	NO_OP
+-1
+-13.62611535191536
+___
+family_group	behavior	mental_process
+exhibits	manifestation_of
+-1
+-13.708606243133545
+___
+family_group	behavior	mental_or_behavioral_dysfunction
+exhibits	manifestation_of
+-1
+-13.708606243133545
+___
+family_group	social_behavior	mental_process
+exhibits	manifestation_of
+-1
+-13.748972177505493
+___
+family_group	social_behavior	mental_or_behavioral_dysfunction
+exhibits	manifestation_of
+-1
+-13.748972177505493
+___
+family_group	intellectual_product	intellectual_product
+uses	NO_OP
+-1
+-13.771086871623993
+___
+family_group	individual_behavior	mental_process
+exhibits	manifestation_of
+-1
+-13.839500427246094
+___
+family_group	social_behavior	mental_process
+exhibits	result_of
+-1
+-14.158358335494995
+___
+family_group	diagnostic_procedure	therapeutic_or_preventive_procedure
+performs	precedes
+1
+-14.172269105911255
+___
+family_group	entity	entity
+isa	NO_OP
+-1
+-14.216163516044617
+___
+family_group	machine_activity	therapeutic_or_preventive_procedure
+performs	method_of
+1
+-14.217531234025955
+___
+family_group	conceptual_entity	conceptual_entity
+isa	NO_OP
+-1
+-14.23655080795288
+___
+family_group	individual_behavior	mental_process
+exhibits	result_of
+-1
+-14.248886585235596
+___
+family_group	individual_behavior	mental_process
+performs	affects
+-1
+-14.25968673825264
+___
+family_group	behavior	mental_process
+performs	affects
+-1
+-14.360373675823212
+___
+family_group	social_behavior	mental_process
+performs	affects
+-1
+-14.391319513320923
+___
+family_group	governmental_or_regulatory_activity	occupation_or_discipline
+performs	method_of
+-1
+-14.513863801956177
+___
+family_group	activity	event
+performs	isa
+-1
+-14.637705445289612
+___
+family_group	entity	occupation_or_discipline
+isa	issue_in
+-1
+-14.662513136863708
+___
+family_group	entity	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-14.662513136863708
+___
+family_group	conceptual_entity	occupation_or_discipline
+isa	issue_in
+-1
+-14.682900428771973
+___
+family_group	conceptual_entity	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-14.682900428771973
+___
+family_group	educational_activity	biomedical_occupation_or_discipline
+performs	method_of
+-1
+-14.888015508651733
+___
+family_group	educational_activity	occupation_or_discipline
+performs	method_of
+-1
+-14.888015508651733
+___
+family_group	occupational_activity	occupation_or_discipline
+performs	method_of
+-1
+-14.892653465270996
+___
+family_group	occupational_activity	biomedical_occupation_or_discipline
+performs	method_of
+-1
+-14.892653465270996
+___
+family_group	activity	biomedical_occupation_or_discipline
+performs	issue_in
+-1
+-15.07017958164215
+___
+family_group	activity	occupation_or_discipline
+performs	issue_in
+-1
+-15.07017958164215
+___
+family_group	daily_or_recreational_activity	event
+performs	isa
+-1
+-15.131596326828003
+___
+family_group	behavior	event
+exhibits	isa
+-1
+-15.211320877075195
+___
+family_group	social_behavior	event
+exhibits	isa
+-1
+-15.251686573028564
+___
+#####################
+population_group	daily_or_recreational_activity
+Reward:1
+population_group	group	daily_or_recreational_activity
+interacts_with	performs
+1
+-1.389814440626651
+___
+population_group	patient_or_disabled_group	daily_or_recreational_activity
+interacts_with	performs
+1
+-1.3898952247109264
+___
+population_group	family_group	daily_or_recreational_activity
+interacts_with	performs
+1
+-1.3902372971642762
+___
+population_group	age_group	age_group
+interacts_with	NO_OP
+-1
+-3.7412543296813965
+___
+population_group	age_group	intellectual_product
+interacts_with	uses
+-1
+-3.9163317680358887
+___
+population_group	age_group	medical_device
+interacts_with	uses
+-1
+-3.9163317680358887
+___
+population_group	age_group	classification
+interacts_with	uses
+-1
+-3.9163317680358887
+___
+population_group	age_group	regulation_or_law
+interacts_with	uses
+-1
+-3.9163317680358887
+___
+population_group	age_group	manufactured_object
+interacts_with	uses
+-1
+-3.9163317680358887
+___
+population_group	age_group	clinical_drug
+interacts_with	uses
+-1
+-3.9163317680358887
+___
+population_group	age_group	drug_delivery_device
+interacts_with	uses
+-1
+-3.9163317680358887
+___
+population_group	age_group	research_device
+interacts_with	uses
+-1
+-3.9163317680358887
+___
+population_group	age_group	group
+interacts_with	interacts_with
+-1
+-4.39288854598999
+___
+population_group	age_group	patient_or_disabled_group
+interacts_with	interacts_with
+-1
+-4.39288854598999
+___
+population_group	age_group	occupation_or_discipline
+interacts_with	issue_in
+-1
+-4.626289367675781
+___
+population_group	age_group	classification
+interacts_with	produces
+-1
+-5.400390386581421
+___
+population_group	age_group	medical_device
+interacts_with	produces
+-1
+-5.400390386581421
+___
+population_group	age_group	drug_delivery_device
+interacts_with	produces
+-1
+-5.400390386581421
+___
+population_group	age_group	manufactured_object
+interacts_with	produces
+-1
+-5.400390386581421
+___
+population_group	age_group	intellectual_product
+interacts_with	produces
+-1
+-5.400390386581421
+___
+population_group	age_group	clinical_drug
+interacts_with	produces
+-1
+-5.400390386581421
+___
+population_group	age_group	conceptual_entity
+interacts_with	isa
+-1
+-5.928853750228882
+___
+population_group	age_group	entity
+interacts_with	isa
+-1
+-5.928853750228882
+___
+population_group	group	group
+interacts_with	NO_OP
+-1
+-9.298331022262573
+___
+population_group	patient_or_disabled_group	patient_or_disabled_group
+interacts_with	NO_OP
+-1
+-9.29841160774231
+___
+population_group	family_group	family_group
+interacts_with	NO_OP
+-1
+-9.298753499984741
+___
+population_group	group	drug_delivery_device
+interacts_with	uses
+-1
+-9.473407506942749
+___
+population_group	group	regulation_or_law
+interacts_with	uses
+-1
+-9.473407506942749
+___
+population_group	group	medical_device
+interacts_with	uses
+-1
+-9.473407506942749
+___
+population_group	group	clinical_drug
+interacts_with	uses
+-1
+-9.473407506942749
+___
+population_group	group	research_device
+interacts_with	uses
+-1
+-9.473407506942749
+___
+population_group	group	manufactured_object
+interacts_with	uses
+-1
+-9.473407506942749
+___
+population_group	group	intellectual_product
+interacts_with	uses
+-1
+-9.473407506942749
+___
+population_group	patient_or_disabled_group	clinical_drug
+interacts_with	uses
+-1
+-9.473488569259644
+___
+population_group	patient_or_disabled_group	medical_device
+interacts_with	uses
+-1
+-9.473488569259644
+___
+population_group	patient_or_disabled_group	classification
+interacts_with	uses
+-1
+-9.473488569259644
+___
+population_group	patient_or_disabled_group	regulation_or_law
+interacts_with	uses
+-1
+-9.473488569259644
+___
+population_group	patient_or_disabled_group	manufactured_object
+interacts_with	uses
+-1
+-9.473488569259644
+___
+population_group	patient_or_disabled_group	drug_delivery_device
+interacts_with	uses
+-1
+-9.473488569259644
+___
+population_group	patient_or_disabled_group	intellectual_product
+interacts_with	uses
+-1
+-9.473488569259644
+___
+population_group	family_group	classification
+interacts_with	uses
+-1
+-9.473830938339233
+___
+population_group	family_group	manufactured_object
+interacts_with	uses
+-1
+-9.473830938339233
+___
+population_group	family_group	research_device
+interacts_with	uses
+-1
+-9.473830938339233
+___
+population_group	family_group	regulation_or_law
+interacts_with	uses
+-1
+-9.473830938339233
+___
+population_group	family_group	drug_delivery_device
+interacts_with	uses
+-1
+-9.473830938339233
+___
+population_group	family_group	clinical_drug
+interacts_with	uses
+-1
+-9.473830938339233
+___
+population_group	family_group	intellectual_product
+interacts_with	uses
+-1
+-9.473830938339233
+___
+population_group	patient_or_disabled_group	group
+interacts_with	interacts_with
+-1
+-9.950045347213745
+___
+population_group	family_group	age_group
+interacts_with	interacts_with
+-1
+-9.950387716293335
+___
+population_group	family_group	patient_or_disabled_group
+interacts_with	interacts_with
+-1
+-9.950387716293335
+___
+population_group	group	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-10.1833655834198
+___
+population_group	group	occupation_or_discipline
+interacts_with	issue_in
+-1
+-10.1833655834198
+___
+population_group	patient_or_disabled_group	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-10.183446645736694
+___
+population_group	family_group	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-10.183789014816284
+___
+population_group	family_group	occupation_or_discipline
+interacts_with	issue_in
+-1
+-10.183789014816284
+___
+population_group	group	drug_delivery_device
+interacts_with	produces
+-1
+-10.957465887069702
+___
+population_group	group	clinical_drug
+interacts_with	produces
+-1
+-10.957465887069702
+___
+population_group	group	manufactured_object
+interacts_with	produces
+-1
+-10.957465887069702
+___
+population_group	group	medical_device
+interacts_with	produces
+-1
+-10.957465887069702
+___
+population_group	group	intellectual_product
+interacts_with	produces
+-1
+-10.957465887069702
+___
+population_group	group	regulation_or_law
+interacts_with	produces
+-1
+-10.957465887069702
+___
+population_group	group	classification
+interacts_with	produces
+-1
+-10.957465887069702
+___
+population_group	patient_or_disabled_group	drug_delivery_device
+interacts_with	produces
+-1
+-10.957546949386597
+___
+population_group	patient_or_disabled_group	intellectual_product
+interacts_with	produces
+-1
+-10.957546949386597
+___
+population_group	patient_or_disabled_group	research_device
+interacts_with	produces
+-1
+-10.957546949386597
+___
+population_group	patient_or_disabled_group	clinical_drug
+interacts_with	produces
+-1
+-10.957546949386597
+___
+population_group	patient_or_disabled_group	classification
+interacts_with	produces
+-1
+-10.957546949386597
+___
+population_group	patient_or_disabled_group	regulation_or_law
+interacts_with	produces
+-1
+-10.957546949386597
+___
+population_group	patient_or_disabled_group	manufactured_object
+interacts_with	produces
+-1
+-10.957546949386597
+___
+population_group	family_group	regulation_or_law
+interacts_with	produces
+-1
+-10.957889318466187
+___
+population_group	family_group	medical_device
+interacts_with	produces
+-1
+-10.957889318466187
+___
+population_group	family_group	drug_delivery_device
+interacts_with	produces
+-1
+-10.957889318466187
+___
+population_group	family_group	classification
+interacts_with	produces
+-1
+-10.957889318466187
+___
+population_group	family_group	manufactured_object
+interacts_with	produces
+-1
+-10.957889318466187
+___
+population_group	family_group	intellectual_product
+interacts_with	produces
+-1
+-10.957889318466187
+___
+population_group	family_group	clinical_drug
+interacts_with	produces
+-1
+-10.957889318466187
+___
+population_group	group	entity
+interacts_with	isa
+-1
+-11.485929250717163
+___
+population_group	group	conceptual_entity
+interacts_with	isa
+-1
+-11.485929250717163
+___
+population_group	patient_or_disabled_group	conceptual_entity
+interacts_with	isa
+-1
+-11.486010313034058
+___
+population_group	patient_or_disabled_group	group
+interacts_with	isa
+-1
+-11.486010313034058
+___
+population_group	patient_or_disabled_group	entity
+interacts_with	isa
+-1
+-11.486010313034058
+___
+population_group	family_group	conceptual_entity
+interacts_with	isa
+-1
+-11.486352682113647
+___
+population_group	family_group	group
+interacts_with	isa
+-1
+-11.486352682113647
+___
+population_group	family_group	entity
+interacts_with	isa
+-1
+-11.486352682113647
+___
+population_group	population_group	occupation_or_discipline
+NO_OP	issue_in
+-1
+-12.069251298904419
+___
+population_group	population_group	biomedical_occupation_or_discipline
+NO_OP	issue_in
+-1
+-12.069251298904419
+___
+population_group	population_group	congenital_abnormality
+NO_OP	associated_with
+-1
+-12.074160814285278
+___
+population_group	population_group	neoplastic_process
+NO_OP	associated_with
+-1
+-12.074160814285278
+___
+population_group	population_group	mental_or_behavioral_dysfunction
+NO_OP	associated_with
+-1
+-12.074160814285278
+___
+population_group	population_group	acquired_abnormality
+NO_OP	associated_with
+-1
+-12.074160814285278
+___
+population_group	population_group	experimental_model_of_disease
+NO_OP	associated_with
+-1
+-12.074160814285278
+___
+population_group	population_group	pathologic_function
+NO_OP	associated_with
+-1
+-12.074160814285278
+___
+population_group	population_group	cell_or_molecular_dysfunction
+NO_OP	associated_with
+-1
+-12.074160814285278
+___
+population_group	population_group	anatomical_abnormality
+NO_OP	associated_with
+-1
+-12.074160814285278
+___
+population_group	population_group	injury_or_poisoning
+NO_OP	associated_with
+-1
+-12.074160814285278
+___
+population_group	population_group	disease_or_syndrome
+NO_OP	associated_with
+-1
+-12.074160814285278
+___
+population_group	behavior	mental_process
+exhibits	affects
+-1
+-12.216760396957397
+___
+population_group	social_behavior	mental_process
+exhibits	affects
+-1
+-12.257126420736313
+___
+population_group	individual_behavior	mental_process
+exhibits	affects
+-1
+-12.347654521465302
+___
+population_group	population_group	conceptual_entity
+NO_OP	isa
+-1
+-13.547894477844238
+___
+#####################
+family_group	laboratory_procedure
+Reward:1
+family_group	patient_or_disabled_group	laboratory_procedure
+interacts_with	performs
+1
+-0.696857952978462
+___
+family_group	age_group	laboratory_procedure
+interacts_with	performs
+1
+-0.6972453885246068
+___
+family_group	patient_or_disabled_group	patient_or_disabled_group
+interacts_with	NO_OP
+-1
+-8.605374217033386
+___
+family_group	age_group	age_group
+interacts_with	NO_OP
+-1
+-8.605761885643005
+___
+family_group	patient_or_disabled_group	regulation_or_law
+interacts_with	uses
+-1
+-8.78045117855072
+___
+family_group	patient_or_disabled_group	manufactured_object
+interacts_with	uses
+-1
+-8.78045117855072
+___
+family_group	patient_or_disabled_group	intellectual_product
+interacts_with	uses
+-1
+-8.78045117855072
+___
+family_group	patient_or_disabled_group	drug_delivery_device
+interacts_with	uses
+-1
+-8.78045117855072
+___
+family_group	patient_or_disabled_group	clinical_drug
+interacts_with	uses
+-1
+-8.78045117855072
+___
+family_group	patient_or_disabled_group	classification
+interacts_with	uses
+-1
+-8.78045117855072
+___
+family_group	patient_or_disabled_group	medical_device
+interacts_with	uses
+-1
+-8.78045117855072
+___
+family_group	age_group	clinical_drug
+interacts_with	uses
+-1
+-8.780838370323181
+___
+family_group	age_group	intellectual_product
+interacts_with	uses
+-1
+-8.780838370323181
+___
+family_group	age_group	research_device
+interacts_with	uses
+-1
+-8.780838370323181
+___
+family_group	age_group	regulation_or_law
+interacts_with	uses
+-1
+-8.780838370323181
+___
+family_group	age_group	drug_delivery_device
+interacts_with	uses
+-1
+-8.780838370323181
+___
+family_group	age_group	classification
+interacts_with	uses
+-1
+-8.780838370323181
+___
+family_group	age_group	medical_device
+interacts_with	uses
+-1
+-8.780838370323181
+___
+family_group	age_group	manufactured_object
+interacts_with	uses
+-1
+-8.780838370323181
+___
+family_group	patient_or_disabled_group	group
+interacts_with	interacts_with
+-1
+-9.257007956504822
+___
+family_group	age_group	group
+interacts_with	interacts_with
+-1
+-9.257395148277283
+___
+family_group	age_group	patient_or_disabled_group
+interacts_with	interacts_with
+-1
+-9.257395148277283
+___
+family_group	patient_or_disabled_group	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-9.490409255027771
+___
+family_group	age_group	occupation_or_discipline
+interacts_with	issue_in
+-1
+-9.490796446800232
+___
+family_group	family_group	occupation_or_discipline
+NO_OP	issue_in
+-1
+-10.240620732307434
+___
+family_group	family_group	biomedical_occupation_or_discipline
+NO_OP	issue_in
+-1
+-10.240620732307434
+___
+family_group	patient_or_disabled_group	research_device
+interacts_with	produces
+-1
+-10.264509558677673
+___
+family_group	patient_or_disabled_group	drug_delivery_device
+interacts_with	produces
+-1
+-10.264509558677673
+___
+family_group	patient_or_disabled_group	intellectual_product
+interacts_with	produces
+-1
+-10.264509558677673
+___
+family_group	patient_or_disabled_group	manufactured_object
+interacts_with	produces
+-1
+-10.264509558677673
+___
+family_group	patient_or_disabled_group	clinical_drug
+interacts_with	produces
+-1
+-10.264509558677673
+___
+family_group	patient_or_disabled_group	regulation_or_law
+interacts_with	produces
+-1
+-10.264509558677673
+___
+family_group	patient_or_disabled_group	classification
+interacts_with	produces
+-1
+-10.264509558677673
+___
+family_group	age_group	drug_delivery_device
+interacts_with	produces
+-1
+-10.264896750450134
+___
+family_group	age_group	classification
+interacts_with	produces
+-1
+-10.264896750450134
+___
+family_group	age_group	manufactured_object
+interacts_with	produces
+-1
+-10.264896750450134
+___
+family_group	age_group	intellectual_product
+interacts_with	produces
+-1
+-10.264896750450134
+___
+family_group	age_group	medical_device
+interacts_with	produces
+-1
+-10.264896750450134
+___
+family_group	age_group	clinical_drug
+interacts_with	produces
+-1
+-10.264896750450134
+___
+family_group	patient_or_disabled_group	group
+interacts_with	isa
+-1
+-10.792972922325134
+___
+family_group	patient_or_disabled_group	conceptual_entity
+interacts_with	isa
+-1
+-10.792972922325134
+___
+family_group	patient_or_disabled_group	entity
+interacts_with	isa
+-1
+-10.792972922325134
+___
+family_group	age_group	conceptual_entity
+interacts_with	isa
+-1
+-10.793360114097595
+___
+family_group	age_group	entity
+interacts_with	isa
+-1
+-10.793360114097595
+___
+family_group	behavior	mental_process
+exhibits	affects
+-1
+-11.523722410202026
+___
+family_group	social_behavior	mental_process
+exhibits	affects
+-1
+-11.564088433980942
+___
+family_group	individual_behavior	mental_process
+exhibits	affects
+-1
+-11.65461653470993
+___
+family_group	family_group	group
+NO_OP	isa
+-1
+-11.719263553619385
+___
+family_group	family_group	conceptual_entity
+NO_OP	isa
+-1
+-11.719263553619385
+___
+family_group	family_group	entity
+NO_OP	isa
+-1
+-11.719263553619385
+___
+family_group	family_group	family_group
+NO_OP	NO_OP
+-1
+-11.9368314743042
+___
+family_group	family_group	clinical_drug
+NO_OP	uses
+-1
+-11.986121654510498
+___
+family_group	family_group	drug_delivery_device
+NO_OP	uses
+-1
+-11.986121654510498
+___
+family_group	family_group	research_device
+NO_OP	uses
+-1
+-11.986121654510498
+___
+family_group	family_group	intellectual_product
+NO_OP	uses
+-1
+-11.986121654510498
+___
+family_group	family_group	regulation_or_law
+NO_OP	uses
+-1
+-11.986121654510498
+___
+family_group	family_group	classification
+NO_OP	uses
+-1
+-11.986121654510498
+___
+family_group	family_group	manufactured_object
+NO_OP	uses
+-1
+-11.986121654510498
+___
+family_group	family_group	age_group
+NO_OP	interacts_with
+-1
+-12.352603435516357
+___
+family_group	family_group	patient_or_disabled_group
+NO_OP	interacts_with
+-1
+-12.352603435516357
+___
+family_group	group	laboratory_procedure
+isa	performs
+1
+-13.398161013145
+___
+family_group	family_group	classification
+NO_OP	produces
+-1
+-13.448240756988525
+___
+family_group	family_group	regulation_or_law
+NO_OP	produces
+-1
+-13.448240756988525
+___
+family_group	family_group	clinical_drug
+NO_OP	produces
+-1
+-13.448240756988525
+___
+family_group	family_group	medical_device
+NO_OP	produces
+-1
+-13.448240756988525
+___
+family_group	family_group	intellectual_product
+NO_OP	produces
+-1
+-13.448240756988525
+___
+family_group	family_group	manufactured_object
+NO_OP	produces
+-1
+-13.448240756988525
+___
+family_group	family_group	drug_delivery_device
+NO_OP	produces
+-1
+-13.448240756988525
+___
+family_group	individual_behavior	idea_or_concept
+exhibits	conceptually_related_to
+-1
+-13.561060428619385
+___
+family_group	classification	classification
+uses	NO_OP
+-1
+-13.62611535191536
+___
+family_group	behavior	mental_or_behavioral_dysfunction
+exhibits	manifestation_of
+-1
+-13.708606243133545
+___
+family_group	behavior	mental_process
+exhibits	manifestation_of
+-1
+-13.708606243133545
+___
+family_group	social_behavior	mental_process
+exhibits	manifestation_of
+-1
+-13.748972177505493
+___
+family_group	social_behavior	mental_or_behavioral_dysfunction
+exhibits	manifestation_of
+-1
+-13.748972177505493
+___
+family_group	intellectual_product	intellectual_product
+uses	NO_OP
+-1
+-13.771086871623993
+___
+family_group	individual_behavior	mental_process
+exhibits	manifestation_of
+-1
+-13.839500427246094
+___
+family_group	social_behavior	mental_process
+exhibits	result_of
+-1
+-14.158358335494995
+___
+family_group	entity	entity
+isa	NO_OP
+-1
+-14.216163516044617
+___
+family_group	conceptual_entity	conceptual_entity
+isa	NO_OP
+-1
+-14.23655080795288
+___
+family_group	individual_behavior	mental_process
+exhibits	result_of
+-1
+-14.248886585235596
+___
+family_group	individual_behavior	mental_process
+performs	affects
+-1
+-14.25968673825264
+___
+family_group	behavior	mental_process
+performs	affects
+-1
+-14.360373675823212
+___
+family_group	social_behavior	mental_process
+performs	affects
+-1
+-14.391319513320923
+___
+family_group	governmental_or_regulatory_activity	occupation_or_discipline
+performs	method_of
+-1
+-14.513863801956177
+___
+family_group	machine_activity	event
+performs	isa
+-1
+-14.637705445289612
+___
+family_group	activity	event
+performs	isa
+-1
+-14.637705445289612
+___
+family_group	entity	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-14.662513136863708
+___
+family_group	entity	occupation_or_discipline
+isa	issue_in
+-1
+-14.662513136863708
+___
+family_group	conceptual_entity	occupation_or_discipline
+isa	issue_in
+-1
+-14.682900428771973
+___
+family_group	conceptual_entity	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-14.682900428771973
+___
+family_group	educational_activity	biomedical_occupation_or_discipline
+performs	method_of
+-1
+-14.888015508651733
+___
+family_group	educational_activity	occupation_or_discipline
+performs	method_of
+-1
+-14.888015508651733
+___
+family_group	occupational_activity	occupation_or_discipline
+performs	method_of
+-1
+-14.892653465270996
+___
+family_group	occupational_activity	biomedical_occupation_or_discipline
+performs	method_of
+-1
+-14.892653465270996
+___
+family_group	activity	biomedical_occupation_or_discipline
+performs	issue_in
+-1
+-15.07017958164215
+___
+family_group	activity	occupation_or_discipline
+performs	issue_in
+-1
+-15.07017958164215
+___
+family_group	machine_activity	biomedical_occupation_or_discipline
+performs	issue_in
+-1
+-15.07017958164215
+___
+family_group	machine_activity	occupation_or_discipline
+performs	issue_in
+-1
+-15.07017958164215
+___
+family_group	daily_or_recreational_activity	event
+performs	isa
+-1
+-15.131596326828003
+___
+family_group	behavior	event
+exhibits	isa
+-1
+-15.211320877075195
+___
+#####################
+age_group	social_behavior
+Reward:1
+age_group	group	social_behavior
+interacts_with	exhibits
+1
+-0.6956801691558212
+___
+age_group	patient_or_disabled_group	social_behavior
+interacts_with	exhibits
+1
+-0.6956805260851979
+___
+age_group	group	social_behavior
+interacts_with	performs
+1
+-6.760223388671875
+___
+age_group	patient_or_disabled_group	social_behavior
+interacts_with	performs
+1
+-6.760223865509033
+___
+age_group	age_group	occupation_or_discipline
+NO_OP	issue_in
+-1
+-9.970022201538086
+___
+age_group	age_group	entity
+NO_OP	isa
+-1
+-11.448665142059326
+___
+age_group	age_group	conceptual_entity
+NO_OP	isa
+-1
+-11.448665142059326
+___
+age_group	age_group	age_group
+NO_OP	NO_OP
+-1
+-11.66623306274414
+___
+age_group	age_group	clinical_drug
+NO_OP	uses
+-1
+-11.71552324295044
+___
+age_group	age_group	classification
+NO_OP	uses
+-1
+-11.71552324295044
+___
+age_group	age_group	research_device
+NO_OP	uses
+-1
+-11.71552324295044
+___
+age_group	age_group	intellectual_product
+NO_OP	uses
+-1
+-11.71552324295044
+___
+age_group	age_group	medical_device
+NO_OP	uses
+-1
+-11.71552324295044
+___
+age_group	age_group	regulation_or_law
+NO_OP	uses
+-1
+-11.71552324295044
+___
+age_group	age_group	manufactured_object
+NO_OP	uses
+-1
+-11.71552324295044
+___
+age_group	age_group	drug_delivery_device
+NO_OP	uses
+-1
+-11.71552324295044
+___
+age_group	age_group	group
+NO_OP	interacts_with
+-1
+-12.082005023956299
+___
+age_group	age_group	patient_or_disabled_group
+NO_OP	interacts_with
+-1
+-12.082005023956299
+___
+age_group	individual_behavior	social_behavior
+exhibits	process_of
+1
+-12.137288451194763
+___
+age_group	individual_behavior	mental_process
+exhibits	affects
+-1
+-12.155330777168274
+___
+age_group	age_group	drug_delivery_device
+NO_OP	produces
+-1
+-13.177642345428467
+___
+age_group	age_group	classification
+NO_OP	produces
+-1
+-13.177642345428467
+___
+age_group	age_group	medical_device
+NO_OP	produces
+-1
+-13.177642345428467
+___
+age_group	age_group	clinical_drug
+NO_OP	produces
+-1
+-13.177642345428467
+___
+age_group	age_group	manufactured_object
+NO_OP	produces
+-1
+-13.177642345428467
+___
+age_group	age_group	intellectual_product
+NO_OP	produces
+-1
+-13.177642345428467
+___
+age_group	classification	classification
+uses	NO_OP
+-1
+-13.626086741685867
+___
+age_group	intellectual_product	intellectual_product
+uses	NO_OP
+-1
+-13.7710582613945
+___
+age_group	individual_behavior	idea_or_concept
+exhibits	conceptually_related_to
+-1
+-14.061774730682373
+___
+age_group	entity	entity
+isa	NO_OP
+-1
+-14.216134905815125
+___
+age_group	conceptual_entity	conceptual_entity
+isa	NO_OP
+-1
+-14.236522197723389
+___
+age_group	individual_behavior	mental_process
+exhibits	manifestation_of
+-1
+-14.340214729309082
+___
+age_group	governmental_or_regulatory_activity	occupation_or_discipline
+performs	method_of
+-1
+-14.513835191726685
+___
+age_group	activity	event
+performs	isa
+-1
+-14.63767683506012
+___
+age_group	entity	occupation_or_discipline
+isa	issue_in
+-1
+-14.662484526634216
+___
+age_group	entity	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-14.662484526634216
+___
+age_group	patient_or_disabled_group	patient_or_disabled_group
+interacts_with	NO_OP
+-1
+-14.668739795684814
+___
+age_group	group	group
+interacts_with	NO_OP
+-1
+-14.668739795684814
+___
+age_group	conceptual_entity	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-14.68287181854248
+___
+age_group	conceptual_entity	occupation_or_discipline
+isa	issue_in
+-1
+-14.68287181854248
+___
+age_group	individual_behavior	social_behavior
+performs	process_of
+1
+-14.741918623447418
+___
+age_group	individual_behavior	mental_process
+exhibits	result_of
+-1
+-14.749600887298584
+___
+age_group	individual_behavior	mental_process
+performs	affects
+-1
+-14.757430851459503
+___
+age_group	behavior	social_behavior
+performs	affects
+1
+-14.814149022102356
+___
+age_group	behavior	mental_process
+performs	affects
+-1
+-14.814149022102356
+___
+age_group	group	intellectual_product
+interacts_with	uses
+-1
+-14.843817234039307
+___
+age_group	patient_or_disabled_group	manufactured_object
+interacts_with	uses
+-1
+-14.843817234039307
+___
+age_group	group	regulation_or_law
+interacts_with	uses
+-1
+-14.843817234039307
+___
+age_group	group	medical_device
+interacts_with	uses
+-1
+-14.843817234039307
+___
+age_group	group	clinical_drug
+interacts_with	uses
+-1
+-14.843817234039307
+___
+age_group	patient_or_disabled_group	intellectual_product
+interacts_with	uses
+-1
+-14.843817234039307
+___
+age_group	group	research_device
+interacts_with	uses
+-1
+-14.843817234039307
+___
+age_group	patient_or_disabled_group	classification
+interacts_with	uses
+-1
+-14.843817234039307
+___
+age_group	patient_or_disabled_group	clinical_drug
+interacts_with	uses
+-1
+-14.843817234039307
+___
+age_group	group	drug_delivery_device
+interacts_with	uses
+-1
+-14.843817234039307
+___
+age_group	patient_or_disabled_group	medical_device
+interacts_with	uses
+-1
+-14.843817234039307
+___
+age_group	patient_or_disabled_group	drug_delivery_device
+interacts_with	uses
+-1
+-14.843817234039307
+___
+age_group	patient_or_disabled_group	regulation_or_law
+interacts_with	uses
+-1
+-14.843817234039307
+___
+age_group	group	manufactured_object
+interacts_with	uses
+-1
+-14.843817234039307
+___
+age_group	educational_activity	biomedical_occupation_or_discipline
+performs	method_of
+-1
+-14.887986898422241
+___
+age_group	educational_activity	occupation_or_discipline
+performs	method_of
+-1
+-14.887986898422241
+___
+age_group	occupational_activity	occupation_or_discipline
+performs	method_of
+-1
+-14.892624855041504
+___
+age_group	occupational_activity	biomedical_occupation_or_discipline
+performs	method_of
+-1
+-14.892624855041504
+___
+age_group	activity	biomedical_occupation_or_discipline
+performs	issue_in
+-1
+-15.070150971412659
+___
+age_group	activity	occupation_or_discipline
+performs	issue_in
+-1
+-15.070150971412659
+___
+age_group	drug_delivery_device	neoplastic_process
+uses	prevents
+-1
+-15.30610477924347
+___
+age_group	drug_delivery_device	cell_or_molecular_dysfunction
+uses	prevents
+-1
+-15.30610477924347
+___
+age_group	drug_delivery_device	mental_or_behavioral_dysfunction
+uses	prevents
+-1
+-15.30610477924347
+___
+age_group	drug_delivery_device	injury_or_poisoning
+uses	prevents
+-1
+-15.30610477924347
+___
+age_group	drug_delivery_device	pathologic_function
+uses	prevents
+-1
+-15.30610477924347
+___
+age_group	drug_delivery_device	experimental_model_of_disease
+uses	prevents
+-1
+-15.30610477924347
+___
+age_group	patient_or_disabled_group	group
+interacts_with	interacts_with
+-1
+-15.320374011993408
+___
+age_group	manufactured_object	acquired_abnormality
+uses	causes
+-1
+-15.402393817901611
+___
+age_group	manufactured_object	disease_or_syndrome
+uses	causes
+-1
+-15.402393817901611
+___
+age_group	manufactured_object	congenital_abnormality
+uses	causes
+-1
+-15.402393817901611
+___
+age_group	manufactured_object	pathologic_function
+uses	causes
+-1
+-15.402393817901611
+___
+age_group	manufactured_object	injury_or_poisoning
+uses	causes
+-1
+-15.402393817901611
+___
+age_group	manufactured_object	anatomical_abnormality
+uses	causes
+-1
+-15.402393817901611
+___
+age_group	manufactured_object	experimental_model_of_disease
+uses	causes
+-1
+-15.402393817901611
+___
+age_group	clinical_drug	congenital_abnormality
+uses	causes
+-1
+-15.40239417552948
+___
+age_group	clinical_drug	neoplastic_process
+uses	causes
+-1
+-15.40239417552948
+___
+age_group	clinical_drug	disease_or_syndrome
+uses	causes
+-1
+-15.40239417552948
+___
+age_group	clinical_drug	experimental_model_of_disease
+uses	causes
+-1
+-15.40239417552948
+___
+age_group	clinical_drug	cell_or_molecular_dysfunction
+uses	causes
+-1
+-15.40239417552948
+___
+age_group	clinical_drug	pathologic_function
+uses	causes
+-1
+-15.40239417552948
+___
+age_group	clinical_drug	mental_or_behavioral_dysfunction
+uses	causes
+-1
+-15.40239417552948
+___
+age_group	medical_device	cell_or_molecular_dysfunction
+uses	prevents
+-1
+-15.449055671691895
+___
+age_group	medical_device	pathologic_function
+uses	prevents
+-1
+-15.449055671691895
+___
+age_group	medical_device	injury_or_poisoning
+uses	prevents
+-1
+-15.449055671691895
+___
+age_group	medical_device	disease_or_syndrome
+uses	prevents
+-1
+-15.449055671691895
+___
+age_group	medical_device	neoplastic_process
+uses	prevents
+-1
+-15.449055671691895
+___
+age_group	medical_device	mental_or_behavioral_dysfunction
+uses	prevents
+-1
+-15.449055671691895
+___
+age_group	medical_device	experimental_model_of_disease
+uses	prevents
+-1
+-15.449055671691895
+___
+age_group	research_device	cell_or_molecular_dysfunction
+uses	causes
+-1
+-15.535924196243286
+___
+age_group	research_device	mental_or_behavioral_dysfunction
+uses	causes
+-1
+-15.535924196243286
+___
+age_group	research_device	acquired_abnormality
+uses	causes
+-1
+-15.535924196243286
+___
+age_group	research_device	congenital_abnormality
+uses	causes
+-1
+-15.535924196243286
+___
+age_group	research_device	pathologic_function
+uses	causes
+-1
+-15.535924196243286
+___
+age_group	research_device	experimental_model_of_disease
+uses	causes
+-1
+-15.535924196243286
+___
+age_group	research_device	neoplastic_process
+uses	causes
+-1
+-15.535924196243286
+___
+#####################
+professional_or_occupational_group	diagnostic_procedure
+Reward:1
+professional_or_occupational_group	group	diagnostic_procedure
+interacts_with	performs
+1
+-1.1026391428895295
+___
+professional_or_occupational_group	patient_or_disabled_group	diagnostic_procedure
+interacts_with	performs
+1
+-1.1027200459502637
+___
+professional_or_occupational_group	family_group	diagnostic_procedure
+interacts_with	performs
+1
+-1.1030619994271547
+___
+professional_or_occupational_group	patient_or_disabled_group	diagnostic_procedure
+treats	performs
+1
+-8.168656319379807
+___
+professional_or_occupational_group	group	group
+interacts_with	NO_OP
+-1
+-9.011155724525452
+___
+professional_or_occupational_group	patient_or_disabled_group	patient_or_disabled_group
+interacts_with	NO_OP
+-1
+-9.011236310005188
+___
+professional_or_occupational_group	family_group	family_group
+interacts_with	NO_OP
+-1
+-9.01157820224762
+___
+professional_or_occupational_group	group	research_device
+interacts_with	uses
+-1
+-9.186232209205627
+___
+professional_or_occupational_group	group	drug_delivery_device
+interacts_with	uses
+-1
+-9.186232209205627
+___
+professional_or_occupational_group	group	manufactured_object
+interacts_with	uses
+-1
+-9.186232209205627
+___
+professional_or_occupational_group	group	medical_device
+interacts_with	uses
+-1
+-9.186232209205627
+___
+professional_or_occupational_group	group	regulation_or_law
+interacts_with	uses
+-1
+-9.186232209205627
+___
+professional_or_occupational_group	group	clinical_drug
+interacts_with	uses
+-1
+-9.186232209205627
+___
+professional_or_occupational_group	group	intellectual_product
+interacts_with	uses
+-1
+-9.186232209205627
+___
+professional_or_occupational_group	patient_or_disabled_group	regulation_or_law
+interacts_with	uses
+-1
+-9.186313271522522
+___
+professional_or_occupational_group	patient_or_disabled_group	manufactured_object
+interacts_with	uses
+-1
+-9.186313271522522
+___
+professional_or_occupational_group	patient_or_disabled_group	intellectual_product
+interacts_with	uses
+-1
+-9.186313271522522
+___
+professional_or_occupational_group	patient_or_disabled_group	medical_device
+interacts_with	uses
+-1
+-9.186313271522522
+___
+professional_or_occupational_group	patient_or_disabled_group	classification
+interacts_with	uses
+-1
+-9.186313271522522
+___
+professional_or_occupational_group	patient_or_disabled_group	clinical_drug
+interacts_with	uses
+-1
+-9.186313271522522
+___
+professional_or_occupational_group	patient_or_disabled_group	drug_delivery_device
+interacts_with	uses
+-1
+-9.186313271522522
+___
+professional_or_occupational_group	family_group	classification
+interacts_with	uses
+-1
+-9.186655640602112
+___
+professional_or_occupational_group	family_group	clinical_drug
+interacts_with	uses
+-1
+-9.186655640602112
+___
+professional_or_occupational_group	family_group	drug_delivery_device
+interacts_with	uses
+-1
+-9.186655640602112
+___
+professional_or_occupational_group	family_group	research_device
+interacts_with	uses
+-1
+-9.186655640602112
+___
+professional_or_occupational_group	family_group	intellectual_product
+interacts_with	uses
+-1
+-9.186655640602112
+___
+professional_or_occupational_group	family_group	manufactured_object
+interacts_with	uses
+-1
+-9.186655640602112
+___
+professional_or_occupational_group	family_group	regulation_or_law
+interacts_with	uses
+-1
+-9.186655640602112
+___
+professional_or_occupational_group	professional_or_occupational_group	patient_or_disabled_group
+NO_OP	treats
+-1
+-9.243072643876076
+___
+professional_or_occupational_group	patient_or_disabled_group	group
+treats	interacts_with
+-1
+-9.270495176315308
+___
+professional_or_occupational_group	patient_or_disabled_group	group
+interacts_with	interacts_with
+-1
+-9.662870049476624
+___
+professional_or_occupational_group	family_group	patient_or_disabled_group
+interacts_with	interacts_with
+-1
+-9.663212418556213
+___
+professional_or_occupational_group	family_group	age_group
+interacts_with	interacts_with
+-1
+-9.663212418556213
+___
+professional_or_occupational_group	group	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-9.896190285682678
+___
+professional_or_occupational_group	group	occupation_or_discipline
+interacts_with	issue_in
+-1
+-9.896190285682678
+___
+professional_or_occupational_group	patient_or_disabled_group	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-9.896271347999573
+___
+professional_or_occupational_group	family_group	occupation_or_discipline
+interacts_with	issue_in
+-1
+-9.896613717079163
+___
+professional_or_occupational_group	family_group	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-9.896613717079163
+___
+professional_or_occupational_group	group	medical_device
+interacts_with	produces
+-1
+-10.67029058933258
+___
+professional_or_occupational_group	group	clinical_drug
+interacts_with	produces
+-1
+-10.67029058933258
+___
+professional_or_occupational_group	group	intellectual_product
+interacts_with	produces
+-1
+-10.67029058933258
+___
+professional_or_occupational_group	group	drug_delivery_device
+interacts_with	produces
+-1
+-10.67029058933258
+___
+professional_or_occupational_group	group	manufactured_object
+interacts_with	produces
+-1
+-10.67029058933258
+___
+professional_or_occupational_group	group	classification
+interacts_with	produces
+-1
+-10.67029058933258
+___
+professional_or_occupational_group	group	regulation_or_law
+interacts_with	produces
+-1
+-10.67029058933258
+___
+professional_or_occupational_group	patient_or_disabled_group	classification
+interacts_with	produces
+-1
+-10.670371651649475
+___
+professional_or_occupational_group	patient_or_disabled_group	drug_delivery_device
+interacts_with	produces
+-1
+-10.670371651649475
+___
+professional_or_occupational_group	patient_or_disabled_group	manufactured_object
+interacts_with	produces
+-1
+-10.670371651649475
+___
+professional_or_occupational_group	patient_or_disabled_group	clinical_drug
+interacts_with	produces
+-1
+-10.670371651649475
+___
+professional_or_occupational_group	patient_or_disabled_group	intellectual_product
+interacts_with	produces
+-1
+-10.670371651649475
+___
+professional_or_occupational_group	patient_or_disabled_group	research_device
+interacts_with	produces
+-1
+-10.670371651649475
+___
+professional_or_occupational_group	patient_or_disabled_group	regulation_or_law
+interacts_with	produces
+-1
+-10.670371651649475
+___
+professional_or_occupational_group	family_group	regulation_or_law
+interacts_with	produces
+-1
+-10.670714020729065
+___
+professional_or_occupational_group	family_group	clinical_drug
+interacts_with	produces
+-1
+-10.670714020729065
+___
+professional_or_occupational_group	family_group	medical_device
+interacts_with	produces
+-1
+-10.670714020729065
+___
+professional_or_occupational_group	family_group	intellectual_product
+interacts_with	produces
+-1
+-10.670714020729065
+___
+professional_or_occupational_group	family_group	manufactured_object
+interacts_with	produces
+-1
+-10.670714020729065
+___
+professional_or_occupational_group	family_group	drug_delivery_device
+interacts_with	produces
+-1
+-10.670714020729065
+___
+professional_or_occupational_group	family_group	classification
+interacts_with	produces
+-1
+-10.670714020729065
+___
+professional_or_occupational_group	group	conceptual_entity
+interacts_with	isa
+-1
+-11.198753952980042
+___
+professional_or_occupational_group	group	entity
+interacts_with	isa
+-1
+-11.198753952980042
+___
+professional_or_occupational_group	patient_or_disabled_group	group
+interacts_with	isa
+-1
+-11.198835015296936
+___
+professional_or_occupational_group	patient_or_disabled_group	entity
+interacts_with	isa
+-1
+-11.198835015296936
+___
+professional_or_occupational_group	patient_or_disabled_group	conceptual_entity
+interacts_with	isa
+-1
+-11.198835015296936
+___
+professional_or_occupational_group	family_group	entity
+interacts_with	isa
+-1
+-11.199177384376526
+___
+professional_or_occupational_group	family_group	conceptual_entity
+interacts_with	isa
+-1
+-11.199177384376526
+___
+professional_or_occupational_group	family_group	group
+interacts_with	isa
+-1
+-11.199177384376526
+___
+professional_or_occupational_group	pathologic_function	disease_or_syndrome
+diagnoses	precedes
+-1
+-11.621935665607452
+___
+professional_or_occupational_group	pathologic_function	experimental_model_of_disease
+diagnoses	precedes
+-1
+-11.621935665607452
+___
+professional_or_occupational_group	patient_or_disabled_group	patient_or_disabled_group
+treats	NO_OP
+-1
+-11.646927833557129
+___
+professional_or_occupational_group	behavior	mental_process
+exhibits	affects
+-1
+-11.929585218429565
+___
+professional_or_occupational_group	social_behavior	mental_process
+exhibits	affects
+-1
+-11.96995124220848
+___
+professional_or_occupational_group	disease_or_syndrome	cell_or_molecular_dysfunction
+diagnoses	precedes
+-1
+-12.308315753936768
+___
+professional_or_occupational_group	disease_or_syndrome	pathologic_function
+diagnoses	precedes
+-1
+-12.308315753936768
+___
+professional_or_occupational_group	disease_or_syndrome	experimental_model_of_disease
+diagnoses	precedes
+-1
+-12.308315753936768
+___
+professional_or_occupational_group	disease_or_syndrome	mental_or_behavioral_dysfunction
+diagnoses	precedes
+-1
+-12.308315753936768
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	pathologic_function
+diagnoses	precedes
+-1
+-12.309174418449402
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+diagnoses	precedes
+-1
+-12.309174418449402
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	neoplastic_process
+diagnoses	precedes
+-1
+-12.309174418449402
+___
+professional_or_occupational_group	cell_or_molecular_dysfunction	disease_or_syndrome
+diagnoses	precedes
+-1
+-12.309174418449402
+___
+professional_or_occupational_group	neoplastic_process	mental_or_behavioral_dysfunction
+diagnoses	precedes
+-1
+-12.309953331947327
+___
+professional_or_occupational_group	neoplastic_process	experimental_model_of_disease
+diagnoses	precedes
+-1
+-12.309953331947327
+___
+professional_or_occupational_group	neoplastic_process	pathologic_function
+diagnoses	precedes
+-1
+-12.309953331947327
+___
+professional_or_occupational_group	neoplastic_process	disease_or_syndrome
+diagnoses	precedes
+-1
+-12.309953331947327
+___
+professional_or_occupational_group	mental_or_behavioral_dysfunction	neoplastic_process
+diagnoses	precedes
+-1
+-12.529582500457764
+___
+professional_or_occupational_group	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+diagnoses	precedes
+-1
+-12.529582500457764
+___
+professional_or_occupational_group	mental_or_behavioral_dysfunction	pathologic_function
+diagnoses	precedes
+-1
+-12.529582500457764
+___
+professional_or_occupational_group	mental_or_behavioral_dysfunction	experimental_model_of_disease
+diagnoses	precedes
+-1
+-12.529582500457764
+___
+professional_or_occupational_group	mental_or_behavioral_dysfunction	disease_or_syndrome
+diagnoses	precedes
+-1
+-12.529582500457764
+___
+professional_or_occupational_group	professional_or_occupational_group	pathologic_function
+NO_OP	diagnoses
+-1
+-12.88213849067688
+___
+professional_or_occupational_group	professional_or_occupational_group	cell_or_molecular_dysfunction
+NO_OP	diagnoses
+-1
+-12.88213849067688
+___
+professional_or_occupational_group	professional_or_occupational_group	neoplastic_process
+NO_OP	diagnoses
+-1
+-12.88213849067688
+___
+professional_or_occupational_group	professional_or_occupational_group	disease_or_syndrome
+NO_OP	diagnoses
+-1
+-12.88213849067688
+___
+professional_or_occupational_group	professional_or_occupational_group	mental_or_behavioral_dysfunction
+NO_OP	diagnoses
+-1
+-12.88213849067688
+___
+professional_or_occupational_group	patient_or_disabled_group	conceptual_entity
+treats	isa
+-1
+-13.409570693969727
+___
+professional_or_occupational_group	patient_or_disabled_group	entity
+treats	isa
+-1
+-13.409570693969727
+___
+professional_or_occupational_group	patient_or_disabled_group	group
+treats	isa
+-1
+-13.409570693969727
+___
+professional_or_occupational_group	intellectual_product	diagnostic_procedure
+uses	conceptual_part_of
+1
+-13.869152365718037
+___
+professional_or_occupational_group	patient_or_disabled_group	biomedical_occupation_or_discipline
+treats	issue_in
+-1
+-13.942172050476074
+___
+professional_or_occupational_group	classification	classification
+uses	NO_OP
+-1
+-14.031978160142899
+___
+#####################
+age_group	daily_or_recreational_activity
+Reward:1
+age_group	group	daily_or_recreational_activity
+interacts_with	performs
+1
+-0.6967485588975251
+___
+age_group	patient_or_disabled_group	daily_or_recreational_activity
+interacts_with	performs
+1
+-0.6968293429818004
+___
+age_group	group	group
+interacts_with	NO_OP
+-1
+-8.605265140533447
+___
+age_group	patient_or_disabled_group	patient_or_disabled_group
+interacts_with	NO_OP
+-1
+-8.605345726013184
+___
+age_group	group	drug_delivery_device
+interacts_with	uses
+-1
+-8.780341625213623
+___
+age_group	group	clinical_drug
+interacts_with	uses
+-1
+-8.780341625213623
+___
+age_group	group	regulation_or_law
+interacts_with	uses
+-1
+-8.780341625213623
+___
+age_group	group	medical_device
+interacts_with	uses
+-1
+-8.780341625213623
+___
+age_group	group	intellectual_product
+interacts_with	uses
+-1
+-8.780341625213623
+___
+age_group	group	research_device
+interacts_with	uses
+-1
+-8.780341625213623
+___
+age_group	group	manufactured_object
+interacts_with	uses
+-1
+-8.780341625213623
+___
+age_group	patient_or_disabled_group	regulation_or_law
+interacts_with	uses
+-1
+-8.780422687530518
+___
+age_group	patient_or_disabled_group	clinical_drug
+interacts_with	uses
+-1
+-8.780422687530518
+___
+age_group	patient_or_disabled_group	drug_delivery_device
+interacts_with	uses
+-1
+-8.780422687530518
+___
+age_group	patient_or_disabled_group	manufactured_object
+interacts_with	uses
+-1
+-8.780422687530518
+___
+age_group	patient_or_disabled_group	medical_device
+interacts_with	uses
+-1
+-8.780422687530518
+___
+age_group	patient_or_disabled_group	intellectual_product
+interacts_with	uses
+-1
+-8.780422687530518
+___
+age_group	patient_or_disabled_group	classification
+interacts_with	uses
+-1
+-8.780422687530518
+___
+age_group	patient_or_disabled_group	group
+interacts_with	interacts_with
+-1
+-9.25697946548462
+___
+age_group	group	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-9.490299701690674
+___
+age_group	group	occupation_or_discipline
+interacts_with	issue_in
+-1
+-9.490299701690674
+___
+age_group	patient_or_disabled_group	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-9.490380764007568
+___
+age_group	age_group	occupation_or_discipline
+NO_OP	issue_in
+-1
+-9.970022201538086
+___
+age_group	group	manufactured_object
+interacts_with	produces
+-1
+-10.264400005340576
+___
+age_group	group	classification
+interacts_with	produces
+-1
+-10.264400005340576
+___
+age_group	group	clinical_drug
+interacts_with	produces
+-1
+-10.264400005340576
+___
+age_group	group	regulation_or_law
+interacts_with	produces
+-1
+-10.264400005340576
+___
+age_group	group	intellectual_product
+interacts_with	produces
+-1
+-10.264400005340576
+___
+age_group	group	drug_delivery_device
+interacts_with	produces
+-1
+-10.264400005340576
+___
+age_group	group	medical_device
+interacts_with	produces
+-1
+-10.264400005340576
+___
+age_group	patient_or_disabled_group	research_device
+interacts_with	produces
+-1
+-10.26448106765747
+___
+age_group	patient_or_disabled_group	classification
+interacts_with	produces
+-1
+-10.26448106765747
+___
+age_group	patient_or_disabled_group	clinical_drug
+interacts_with	produces
+-1
+-10.26448106765747
+___
+age_group	patient_or_disabled_group	manufactured_object
+interacts_with	produces
+-1
+-10.26448106765747
+___
+age_group	patient_or_disabled_group	intellectual_product
+interacts_with	produces
+-1
+-10.26448106765747
+___
+age_group	patient_or_disabled_group	drug_delivery_device
+interacts_with	produces
+-1
+-10.26448106765747
+___
+age_group	patient_or_disabled_group	regulation_or_law
+interacts_with	produces
+-1
+-10.26448106765747
+___
+age_group	group	entity
+interacts_with	isa
+-1
+-10.792863368988037
+___
+age_group	group	conceptual_entity
+interacts_with	isa
+-1
+-10.792863368988037
+___
+age_group	patient_or_disabled_group	entity
+interacts_with	isa
+-1
+-10.792944431304932
+___
+age_group	patient_or_disabled_group	group
+interacts_with	isa
+-1
+-10.792944431304932
+___
+age_group	patient_or_disabled_group	conceptual_entity
+interacts_with	isa
+-1
+-10.792944431304932
+___
+age_group	age_group	conceptual_entity
+NO_OP	isa
+-1
+-11.448665142059326
+___
+age_group	age_group	entity
+NO_OP	isa
+-1
+-11.448665142059326
+___
+age_group	individual_behavior	mental_process
+exhibits	affects
+-1
+-11.654588878154755
+___
+age_group	age_group	age_group
+NO_OP	NO_OP
+-1
+-11.66623306274414
+___
+age_group	age_group	regulation_or_law
+NO_OP	uses
+-1
+-11.71552324295044
+___
+age_group	age_group	research_device
+NO_OP	uses
+-1
+-11.71552324295044
+___
+age_group	age_group	drug_delivery_device
+NO_OP	uses
+-1
+-11.71552324295044
+___
+age_group	age_group	manufactured_object
+NO_OP	uses
+-1
+-11.71552324295044
+___
+age_group	age_group	clinical_drug
+NO_OP	uses
+-1
+-11.71552324295044
+___
+age_group	age_group	intellectual_product
+NO_OP	uses
+-1
+-11.71552324295044
+___
+age_group	age_group	medical_device
+NO_OP	uses
+-1
+-11.71552324295044
+___
+age_group	age_group	classification
+NO_OP	uses
+-1
+-11.71552324295044
+___
+age_group	age_group	patient_or_disabled_group
+NO_OP	interacts_with
+-1
+-12.082005023956299
+___
+age_group	age_group	group
+NO_OP	interacts_with
+-1
+-12.082005023956299
+___
+age_group	age_group	medical_device
+NO_OP	produces
+-1
+-13.177642345428467
+___
+age_group	age_group	intellectual_product
+NO_OP	produces
+-1
+-13.177642345428467
+___
+age_group	age_group	classification
+NO_OP	produces
+-1
+-13.177642345428467
+___
+age_group	age_group	clinical_drug
+NO_OP	produces
+-1
+-13.177642345428467
+___
+age_group	age_group	drug_delivery_device
+NO_OP	produces
+-1
+-13.177642345428467
+___
+age_group	age_group	manufactured_object
+NO_OP	produces
+-1
+-13.177642345428467
+___
+age_group	individual_behavior	idea_or_concept
+exhibits	conceptually_related_to
+-1
+-13.561032772064209
+___
+age_group	classification	classification
+uses	NO_OP
+-1
+-13.626086741685867
+___
+age_group	intellectual_product	intellectual_product
+uses	NO_OP
+-1
+-13.7710582613945
+___
+age_group	individual_behavior	mental_process
+exhibits	manifestation_of
+-1
+-13.839472770690918
+___
+age_group	entity	entity
+isa	NO_OP
+-1
+-14.216134905815125
+___
+age_group	conceptual_entity	conceptual_entity
+isa	NO_OP
+-1
+-14.236522197723389
+___
+age_group	individual_behavior	mental_process
+exhibits	result_of
+-1
+-14.24885892868042
+___
+age_group	individual_behavior	mental_process
+performs	affects
+-1
+-14.259658128023148
+___
+age_group	behavior	mental_process
+performs	affects
+-1
+-14.36034506559372
+___
+age_group	governmental_or_regulatory_activity	occupation_or_discipline
+performs	method_of
+-1
+-14.513835191726685
+___
+age_group	activity	event
+performs	isa
+-1
+-14.63767683506012
+___
+age_group	entity	occupation_or_discipline
+isa	issue_in
+-1
+-14.662484526634216
+___
+age_group	entity	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-14.662484526634216
+___
+age_group	conceptual_entity	occupation_or_discipline
+isa	issue_in
+-1
+-14.68287181854248
+___
+age_group	conceptual_entity	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-14.68287181854248
+___
+age_group	educational_activity	biomedical_occupation_or_discipline
+performs	method_of
+-1
+-14.887986898422241
+___
+age_group	educational_activity	occupation_or_discipline
+performs	method_of
+-1
+-14.887986898422241
+___
+age_group	occupational_activity	biomedical_occupation_or_discipline
+performs	method_of
+-1
+-14.892624855041504
+___
+age_group	occupational_activity	occupation_or_discipline
+performs	method_of
+-1
+-14.892624855041504
+___
+age_group	activity	occupation_or_discipline
+performs	issue_in
+-1
+-15.070150971412659
+___
+age_group	activity	biomedical_occupation_or_discipline
+performs	issue_in
+-1
+-15.070150971412659
+___
+age_group	drug_delivery_device	experimental_model_of_disease
+uses	prevents
+-1
+-15.30610477924347
+___
+age_group	drug_delivery_device	mental_or_behavioral_dysfunction
+uses	prevents
+-1
+-15.30610477924347
+___
+age_group	drug_delivery_device	pathologic_function
+uses	prevents
+-1
+-15.30610477924347
+___
+age_group	drug_delivery_device	injury_or_poisoning
+uses	prevents
+-1
+-15.30610477924347
+___
+age_group	drug_delivery_device	neoplastic_process
+uses	prevents
+-1
+-15.30610477924347
+___
+age_group	drug_delivery_device	cell_or_molecular_dysfunction
+uses	prevents
+-1
+-15.30610477924347
+___
+age_group	individual_behavior	event
+exhibits	isa
+-1
+-15.34218692779541
+___
+age_group	individual_behavior	mental_process
+performs	manifestation_of
+-1
+-15.367029190063477
+___
+age_group	manufactured_object	injury_or_poisoning
+uses	causes
+-1
+-15.402393817901611
+___
+age_group	manufactured_object	disease_or_syndrome
+uses	causes
+-1
+-15.402393817901611
+___
+age_group	manufactured_object	acquired_abnormality
+uses	causes
+-1
+-15.402393817901611
+___
+age_group	manufactured_object	congenital_abnormality
+uses	causes
+-1
+-15.402393817901611
+___
+age_group	manufactured_object	experimental_model_of_disease
+uses	causes
+-1
+-15.402393817901611
+___
+age_group	manufactured_object	anatomical_abnormality
+uses	causes
+-1
+-15.402393817901611
+___
+age_group	manufactured_object	pathologic_function
+uses	causes
+-1
+-15.402393817901611
+___
+age_group	clinical_drug	cell_or_molecular_dysfunction
+uses	causes
+-1
+-15.40239417552948
+___
+age_group	clinical_drug	pathologic_function
+uses	causes
+-1
+-15.40239417552948
+___
+#####################
+family_group	research_activity
+Reward:1
+family_group	patient_or_disabled_group	research_activity
+interacts_with	performs
+1
+-0.696857952978462
+___
+family_group	age_group	research_activity
+interacts_with	performs
+1
+-0.6972452697809786
+___
+family_group	patient_or_disabled_group	patient_or_disabled_group
+interacts_with	NO_OP
+-1
+-8.605374217033386
+___
+family_group	age_group	age_group
+interacts_with	NO_OP
+-1
+-8.605761885643005
+___
+family_group	patient_or_disabled_group	manufactured_object
+interacts_with	uses
+-1
+-8.78045117855072
+___
+family_group	patient_or_disabled_group	regulation_or_law
+interacts_with	uses
+-1
+-8.78045117855072
+___
+family_group	patient_or_disabled_group	drug_delivery_device
+interacts_with	uses
+-1
+-8.78045117855072
+___
+family_group	patient_or_disabled_group	clinical_drug
+interacts_with	uses
+-1
+-8.78045117855072
+___
+family_group	patient_or_disabled_group	medical_device
+interacts_with	uses
+-1
+-8.78045117855072
+___
+family_group	patient_or_disabled_group	intellectual_product
+interacts_with	uses
+-1
+-8.78045117855072
+___
+family_group	patient_or_disabled_group	classification
+interacts_with	uses
+-1
+-8.78045117855072
+___
+family_group	age_group	medical_device
+interacts_with	uses
+-1
+-8.780838370323181
+___
+family_group	age_group	drug_delivery_device
+interacts_with	uses
+-1
+-8.780838370323181
+___
+family_group	age_group	regulation_or_law
+interacts_with	uses
+-1
+-8.780838370323181
+___
+family_group	age_group	manufactured_object
+interacts_with	uses
+-1
+-8.780838370323181
+___
+family_group	age_group	clinical_drug
+interacts_with	uses
+-1
+-8.780838370323181
+___
+family_group	age_group	classification
+interacts_with	uses
+-1
+-8.780838370323181
+___
+family_group	age_group	intellectual_product
+interacts_with	uses
+-1
+-8.780838370323181
+___
+family_group	age_group	research_device
+interacts_with	uses
+-1
+-8.780838370323181
+___
+family_group	patient_or_disabled_group	group
+interacts_with	interacts_with
+-1
+-9.257007956504822
+___
+family_group	age_group	group
+interacts_with	interacts_with
+-1
+-9.257395148277283
+___
+family_group	age_group	patient_or_disabled_group
+interacts_with	interacts_with
+-1
+-9.257395148277283
+___
+family_group	patient_or_disabled_group	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-9.490409255027771
+___
+family_group	age_group	occupation_or_discipline
+interacts_with	issue_in
+-1
+-9.490796446800232
+___
+family_group	family_group	occupation_or_discipline
+NO_OP	issue_in
+-1
+-10.240620732307434
+___
+family_group	family_group	biomedical_occupation_or_discipline
+NO_OP	issue_in
+-1
+-10.240620732307434
+___
+family_group	patient_or_disabled_group	manufactured_object
+interacts_with	produces
+-1
+-10.264509558677673
+___
+family_group	patient_or_disabled_group	clinical_drug
+interacts_with	produces
+-1
+-10.264509558677673
+___
+family_group	patient_or_disabled_group	classification
+interacts_with	produces
+-1
+-10.264509558677673
+___
+family_group	patient_or_disabled_group	regulation_or_law
+interacts_with	produces
+-1
+-10.264509558677673
+___
+family_group	patient_or_disabled_group	intellectual_product
+interacts_with	produces
+-1
+-10.264509558677673
+___
+family_group	patient_or_disabled_group	drug_delivery_device
+interacts_with	produces
+-1
+-10.264509558677673
+___
+family_group	patient_or_disabled_group	research_device
+interacts_with	produces
+-1
+-10.264509558677673
+___
+family_group	age_group	classification
+interacts_with	produces
+-1
+-10.264896750450134
+___
+family_group	age_group	clinical_drug
+interacts_with	produces
+-1
+-10.264896750450134
+___
+family_group	age_group	intellectual_product
+interacts_with	produces
+-1
+-10.264896750450134
+___
+family_group	age_group	medical_device
+interacts_with	produces
+-1
+-10.264896750450134
+___
+family_group	age_group	drug_delivery_device
+interacts_with	produces
+-1
+-10.264896750450134
+___
+family_group	age_group	manufactured_object
+interacts_with	produces
+-1
+-10.264896750450134
+___
+family_group	patient_or_disabled_group	conceptual_entity
+interacts_with	isa
+-1
+-10.792972922325134
+___
+family_group	patient_or_disabled_group	group
+interacts_with	isa
+-1
+-10.792972922325134
+___
+family_group	patient_or_disabled_group	entity
+interacts_with	isa
+-1
+-10.792972922325134
+___
+family_group	age_group	conceptual_entity
+interacts_with	isa
+-1
+-10.793360114097595
+___
+family_group	age_group	entity
+interacts_with	isa
+-1
+-10.793360114097595
+___
+family_group	behavior	mental_process
+exhibits	affects
+-1
+-11.523722410202026
+___
+family_group	social_behavior	mental_process
+exhibits	affects
+-1
+-11.564088433980942
+___
+family_group	individual_behavior	mental_process
+exhibits	affects
+-1
+-11.65461653470993
+___
+family_group	family_group	group
+NO_OP	isa
+-1
+-11.719263553619385
+___
+family_group	family_group	entity
+NO_OP	isa
+-1
+-11.719263553619385
+___
+family_group	family_group	conceptual_entity
+NO_OP	isa
+-1
+-11.719263553619385
+___
+family_group	family_group	family_group
+NO_OP	NO_OP
+-1
+-11.9368314743042
+___
+family_group	family_group	regulation_or_law
+NO_OP	uses
+-1
+-11.986121654510498
+___
+family_group	family_group	manufactured_object
+NO_OP	uses
+-1
+-11.986121654510498
+___
+family_group	family_group	drug_delivery_device
+NO_OP	uses
+-1
+-11.986121654510498
+___
+family_group	family_group	classification
+NO_OP	uses
+-1
+-11.986121654510498
+___
+family_group	family_group	intellectual_product
+NO_OP	uses
+-1
+-11.986121654510498
+___
+family_group	family_group	clinical_drug
+NO_OP	uses
+-1
+-11.986121654510498
+___
+family_group	family_group	research_device
+NO_OP	uses
+-1
+-11.986121654510498
+___
+family_group	family_group	age_group
+NO_OP	interacts_with
+-1
+-12.352603435516357
+___
+family_group	family_group	patient_or_disabled_group
+NO_OP	interacts_with
+-1
+-12.352603435516357
+___
+family_group	group	research_activity
+isa	performs
+1
+-13.398161249700934
+___
+family_group	family_group	clinical_drug
+NO_OP	produces
+-1
+-13.448240756988525
+___
+family_group	family_group	medical_device
+NO_OP	produces
+-1
+-13.448240756988525
+___
+family_group	family_group	intellectual_product
+NO_OP	produces
+-1
+-13.448240756988525
+___
+family_group	family_group	manufactured_object
+NO_OP	produces
+-1
+-13.448240756988525
+___
+family_group	family_group	classification
+NO_OP	produces
+-1
+-13.448240756988525
+___
+family_group	family_group	regulation_or_law
+NO_OP	produces
+-1
+-13.448240756988525
+___
+family_group	family_group	drug_delivery_device
+NO_OP	produces
+-1
+-13.448240756988525
+___
+family_group	individual_behavior	idea_or_concept
+exhibits	conceptually_related_to
+-1
+-13.561060428619385
+___
+family_group	classification	classification
+uses	NO_OP
+-1
+-13.62611535191536
+___
+family_group	behavior	mental_or_behavioral_dysfunction
+exhibits	manifestation_of
+-1
+-13.708606243133545
+___
+family_group	behavior	mental_process
+exhibits	manifestation_of
+-1
+-13.708606243133545
+___
+family_group	social_behavior	mental_process
+exhibits	manifestation_of
+-1
+-13.748972177505493
+___
+family_group	social_behavior	mental_or_behavioral_dysfunction
+exhibits	manifestation_of
+-1
+-13.748972177505493
+___
+family_group	intellectual_product	intellectual_product
+uses	NO_OP
+-1
+-13.771086871623993
+___
+family_group	individual_behavior	mental_process
+exhibits	manifestation_of
+-1
+-13.839500427246094
+___
+family_group	social_behavior	mental_process
+exhibits	result_of
+-1
+-14.158358335494995
+___
+family_group	entity	entity
+isa	NO_OP
+-1
+-14.216163516044617
+___
+family_group	conceptual_entity	conceptual_entity
+isa	NO_OP
+-1
+-14.23655080795288
+___
+family_group	individual_behavior	mental_process
+exhibits	result_of
+-1
+-14.248886585235596
+___
+family_group	individual_behavior	mental_process
+performs	affects
+-1
+-14.25968673825264
+___
+family_group	behavior	mental_process
+performs	affects
+-1
+-14.360373675823212
+___
+family_group	social_behavior	mental_process
+performs	affects
+-1
+-14.391319513320923
+___
+family_group	governmental_or_regulatory_activity	occupation_or_discipline
+performs	method_of
+-1
+-14.513863801956177
+___
+family_group	activity	event
+performs	isa
+-1
+-14.637705445289612
+___
+family_group	machine_activity	event
+performs	isa
+-1
+-14.637705445289612
+___
+family_group	entity	occupation_or_discipline
+isa	issue_in
+-1
+-14.662513136863708
+___
+family_group	entity	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-14.662513136863708
+___
+family_group	conceptual_entity	occupation_or_discipline
+isa	issue_in
+-1
+-14.682900428771973
+___
+family_group	conceptual_entity	biomedical_occupation_or_discipline
+isa	issue_in
+-1
+-14.682900428771973
+___
+family_group	educational_activity	biomedical_occupation_or_discipline
+performs	method_of
+-1
+-14.888015508651733
+___
+family_group	educational_activity	occupation_or_discipline
+performs	method_of
+-1
+-14.888015508651733
+___
+family_group	occupational_activity	biomedical_occupation_or_discipline
+performs	method_of
+-1
+-14.892653465270996
+___
+family_group	occupational_activity	occupation_or_discipline
+performs	method_of
+-1
+-14.892653465270996
+___
+family_group	machine_activity	biomedical_occupation_or_discipline
+performs	issue_in
+-1
+-15.07017958164215
+___
+family_group	activity	biomedical_occupation_or_discipline
+performs	issue_in
+-1
+-15.07017958164215
+___
+family_group	activity	occupation_or_discipline
+performs	issue_in
+-1
+-15.07017958164215
+___
+family_group	machine_activity	occupation_or_discipline
+performs	issue_in
+-1
+-15.07017958164215
+___
+family_group	daily_or_recreational_activity	event
+performs	isa
+-1
+-15.131596326828003
+___
+family_group	behavior	event
+exhibits	isa
+-1
+-15.211320877075195
+___
+#####################

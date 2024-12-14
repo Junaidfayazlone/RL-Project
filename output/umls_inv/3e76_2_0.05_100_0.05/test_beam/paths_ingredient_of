@@ -1,0 +1,2012 @@
+organophosphorus_compound	clinical_drug
+Reward:0
+organophosphorus_compound	mental_or_behavioral_dysfunction	disease_or_syndrome
+affects	_co-occurs_with
+-1
+-5.0496217012405396
+___
+organophosphorus_compound	neoplastic_process	mental_or_behavioral_dysfunction
+affects	_co-occurs_with
+-1
+-5.187228560447693
+___
+organophosphorus_compound	neoplastic_process	disease_or_syndrome
+affects	_co-occurs_with
+-1
+-5.187228560447693
+___
+organophosphorus_compound	pathologic_function	disease_or_syndrome
+affects	_co-occurs_with
+-1
+-5.231059908866882
+___
+organophosphorus_compound	organ_or_tissue_function	mental_process
+affects	_co-occurs_with
+-1
+-5.265948057174683
+___
+organophosphorus_compound	organ_or_tissue_function	organism_function
+affects	_co-occurs_with
+-1
+-5.265948057174683
+___
+organophosphorus_compound	physiologic_function	mental_process
+affects	_co-occurs_with
+-1
+-5.269459962844849
+___
+organophosphorus_compound	physiologic_function	cell_function
+affects	_co-occurs_with
+-1
+-5.269459962844849
+___
+organophosphorus_compound	chemical_viewed_structurally	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.336097240447998
+___
+organophosphorus_compound	cell_function	mental_process
+affects	_co-occurs_with
+-1
+-5.377722382545471
+___
+organophosphorus_compound	cell_function	organ_or_tissue_function
+affects	_co-occurs_with
+-1
+-5.377722382545471
+___
+organophosphorus_compound	nucleic_acid_nucleoside_or_nucleotide	occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.460959434509277
+___
+organophosphorus_compound	nucleic_acid_nucleoside_or_nucleotide	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.460959434509277
+___
+organophosphorus_compound	genetic_function	organism_function
+affects	_co-occurs_with
+-1
+-5.503674745559692
+___
+organophosphorus_compound	genetic_function	cell_function
+affects	_co-occurs_with
+-1
+-5.503674745559692
+___
+organophosphorus_compound	genetic_function	molecular_function
+affects	_co-occurs_with
+-1
+-5.503674745559692
+___
+organophosphorus_compound	organic_chemical	occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.514230728149414
+___
+organophosphorus_compound	organic_chemical	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.514230728149414
+___
+organophosphorus_compound	molecular_function	cell_function
+affects	_co-occurs_with
+-1
+-5.557664155960083
+___
+organophosphorus_compound	molecular_function	organism_function
+affects	_co-occurs_with
+-1
+-5.557664155960083
+___
+organophosphorus_compound	molecular_function	mental_process
+affects	_co-occurs_with
+-1
+-5.557664155960083
+___
+organophosphorus_compound	experimental_model_of_disease	neoplastic_process
+affects	_co-occurs_with
+-1
+-5.575506210327148
+___
+organophosphorus_compound	experimental_model_of_disease	cell_or_molecular_dysfunction
+affects	_co-occurs_with
+-1
+-5.575506210327148
+___
+organophosphorus_compound	chemical_viewed_structurally	molecular_function
+_interacts_with	affects
+-1
+-5.581620693206787
+___
+organophosphorus_compound	chemical_viewed_structurally	disease_or_syndrome
+_interacts_with	affects
+-1
+-5.581620693206787
+___
+organophosphorus_compound	chemical_viewed_structurally	mental_process
+_interacts_with	affects
+-1
+-5.581620693206787
+___
+organophosphorus_compound	chemical_viewed_structurally	physiologic_function
+_interacts_with	affects
+-1
+-5.581620693206787
+___
+organophosphorus_compound	chemical_viewed_structurally	mental_or_behavioral_dysfunction
+_interacts_with	affects
+-1
+-5.581620693206787
+___
+organophosphorus_compound	chemical_viewed_structurally	neoplastic_process
+_interacts_with	affects
+-1
+-5.581620693206787
+___
+organophosphorus_compound	chemical_viewed_structurally	genetic_function
+_interacts_with	affects
+-1
+-5.581620693206787
+___
+organophosphorus_compound	chemical_viewed_structurally	organism_function
+_interacts_with	affects
+-1
+-5.581620693206787
+___
+organophosphorus_compound	chemical_viewed_structurally	cell_function
+_interacts_with	affects
+-1
+-5.581620693206787
+___
+organophosphorus_compound	chemical_viewed_structurally	pathologic_function
+_interacts_with	affects
+-1
+-5.581620693206787
+___
+organophosphorus_compound	mental_process	organism_function
+affects	_degree_of
+-1
+-5.5948896408081055
+___
+organophosphorus_compound	chemical	occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.61904239654541
+___
+organophosphorus_compound	lipid	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.667952537536621
+___
+organophosphorus_compound	indicator_reagent_or_diagnostic_aid	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.682001113891602
+___
+organophosphorus_compound	indicator_reagent_or_diagnostic_aid	occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.682001113891602
+___
+organophosphorus_compound	eicosanoid	occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.68252420425415
+___
+organophosphorus_compound	nucleic_acid_nucleoside_or_nucleotide	natural_phenomenon_or_process
+_interacts_with	affects
+-1
+-5.706482887268066
+___
+organophosphorus_compound	nucleic_acid_nucleoside_or_nucleotide	disease_or_syndrome
+_interacts_with	affects
+-1
+-5.706482887268066
+___
+organophosphorus_compound	nucleic_acid_nucleoside_or_nucleotide	pathologic_function
+_interacts_with	affects
+-1
+-5.706482887268066
+___
+organophosphorus_compound	nucleic_acid_nucleoside_or_nucleotide	cell_function
+_interacts_with	affects
+-1
+-5.706482887268066
+___
+organophosphorus_compound	nucleic_acid_nucleoside_or_nucleotide	cell_or_molecular_dysfunction
+_interacts_with	affects
+-1
+-5.706482887268066
+___
+organophosphorus_compound	nucleic_acid_nucleoside_or_nucleotide	organ_or_tissue_function
+_interacts_with	affects
+-1
+-5.706482887268066
+___
+organophosphorus_compound	nucleic_acid_nucleoside_or_nucleotide	physiologic_function
+_interacts_with	affects
+-1
+-5.706482887268066
+___
+organophosphorus_compound	nucleic_acid_nucleoside_or_nucleotide	genetic_function
+_interacts_with	affects
+-1
+-5.706482887268066
+___
+organophosphorus_compound	nucleic_acid_nucleoside_or_nucleotide	neoplastic_process
+_interacts_with	affects
+-1
+-5.706482887268066
+___
+organophosphorus_compound	nucleic_acid_nucleoside_or_nucleotide	biologic_function
+_interacts_with	affects
+-1
+-5.706482887268066
+___
+organophosphorus_compound	nucleic_acid_nucleoside_or_nucleotide	organism_function
+_interacts_with	affects
+-1
+-5.706482887268066
+___
+organophosphorus_compound	chemical_viewed_functionally	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.739053010940552
+___
+organophosphorus_compound	organic_chemical	pathologic_function
+_interacts_with	affects
+-1
+-5.759754180908203
+___
+organophosphorus_compound	organic_chemical	mental_process
+_interacts_with	affects
+-1
+-5.759754180908203
+___
+organophosphorus_compound	organic_chemical	cell_function
+_interacts_with	affects
+-1
+-5.759754180908203
+___
+organophosphorus_compound	organic_chemical	disease_or_syndrome
+_interacts_with	affects
+-1
+-5.759754180908203
+___
+organophosphorus_compound	organic_chemical	genetic_function
+_interacts_with	affects
+-1
+-5.759754180908203
+___
+organophosphorus_compound	organic_chemical	molecular_function
+_interacts_with	affects
+-1
+-5.759754180908203
+___
+organophosphorus_compound	organic_chemical	mental_or_behavioral_dysfunction
+_interacts_with	affects
+-1
+-5.759754180908203
+___
+organophosphorus_compound	organic_chemical	organism_function
+_interacts_with	affects
+-1
+-5.759754180908203
+___
+organophosphorus_compound	organic_chemical	organ_or_tissue_function
+_interacts_with	affects
+-1
+-5.759754180908203
+___
+organophosphorus_compound	organic_chemical	experimental_model_of_disease
+_interacts_with	affects
+-1
+-5.759754180908203
+___
+organophosphorus_compound	organic_chemical	physiologic_function
+_interacts_with	affects
+-1
+-5.759754180908203
+___
+organophosphorus_compound	organic_chemical	cell_or_molecular_dysfunction
+_interacts_with	affects
+-1
+-5.759754180908203
+___
+organophosphorus_compound	antibiotic	occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.805124044418335
+___
+organophosphorus_compound	antibiotic	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.805124044418335
+___
+organophosphorus_compound	vitamin	occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.827641487121582
+___
+organophosphorus_compound	vitamin	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.827641487121582
+___
+organophosphorus_compound	biomedical_or_dental_material	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.833608388900757
+___
+organophosphorus_compound	biomedical_or_dental_material	occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.833608388900757
+___
+organophosphorus_compound	mental_process	genetic_function
+affects	_precedes
+-1
+-5.850675582885742
+___
+organophosphorus_compound	mental_process	organ_or_tissue_function
+affects	_precedes
+-1
+-5.850675582885742
+___
+organophosphorus_compound	mental_process	organism_function
+affects	_precedes
+-1
+-5.850675582885742
+___
+organophosphorus_compound	mental_process	molecular_function
+affects	_precedes
+-1
+-5.850675582885742
+___
+organophosphorus_compound	receptor	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.854201316833496
+___
+organophosphorus_compound	receptor	occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.854201316833496
+___
+organophosphorus_compound	inorganic_chemical	occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.869755268096924
+___
+organophosphorus_compound	inorganic_chemical	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.869755268096924
+___
+organophosphorus_compound	hormone	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.925336122512817
+___
+organophosphorus_compound	hormone	occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.925336122512817
+___
+organophosphorus_compound	chemical	mental_process
+interacts_with	affects
+-1
+-5.953889846801758
+___
+organophosphorus_compound	chemical	molecular_function
+interacts_with	affects
+-1
+-5.953889846801758
+___
+organophosphorus_compound	chemical	pathologic_function
+interacts_with	affects
+-1
+-5.953889846801758
+___
+organophosphorus_compound	chemical	experimental_model_of_disease
+interacts_with	affects
+-1
+-5.953889846801758
+___
+organophosphorus_compound	chemical	physiologic_function
+interacts_with	affects
+-1
+-5.953889846801758
+___
+organophosphorus_compound	chemical	biologic_function
+interacts_with	affects
+-1
+-5.953889846801758
+___
+organophosphorus_compound	chemical	cell_function
+interacts_with	affects
+-1
+-5.953889846801758
+___
+organophosphorus_compound	chemical	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-5.953889846801758
+___
+organophosphorus_compound	chemical	disease_or_syndrome
+interacts_with	affects
+-1
+-5.953889846801758
+___
+organophosphorus_compound	organism_function	mental_process
+affects	_degree_of
+-1
+-5.970566272735596
+___
+organophosphorus_compound	lipid	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-6.002799987792969
+___
+organophosphorus_compound	lipid	molecular_function
+interacts_with	affects
+-1
+-6.002799987792969
+___
+organophosphorus_compound	lipid	organism_function
+interacts_with	affects
+-1
+-6.002799987792969
+___
+organophosphorus_compound	lipid	natural_phenomenon_or_process
+interacts_with	affects
+-1
+-6.002799987792969
+___
+organophosphorus_compound	lipid	experimental_model_of_disease
+interacts_with	affects
+-1
+-6.002799987792969
+___
+organophosphorus_compound	lipid	disease_or_syndrome
+interacts_with	affects
+-1
+-6.002799987792969
+___
+organophosphorus_compound	lipid	neoplastic_process
+interacts_with	affects
+-1
+-6.002799987792969
+___
+organophosphorus_compound	lipid	cell_function
+interacts_with	affects
+-1
+-6.002799987792969
+___
+organophosphorus_compound	lipid	physiologic_function
+interacts_with	affects
+-1
+-6.002799987792969
+___
+organophosphorus_compound	lipid	organ_or_tissue_function
+interacts_with	affects
+-1
+-6.002799987792969
+___
+organophosphorus_compound	lipid	genetic_function
+interacts_with	affects
+-1
+-6.002799987792969
+___
+#####################
+chemical_viewed_structurally	clinical_drug
+Reward:0
+chemical_viewed_structurally	mental_or_behavioral_dysfunction	disease_or_syndrome
+affects	_co-occurs_with
+-1
+-5.112639546394348
+___
+chemical_viewed_structurally	neoplastic_process	mental_or_behavioral_dysfunction
+affects	_co-occurs_with
+-1
+-5.2502464056015015
+___
+chemical_viewed_structurally	neoplastic_process	disease_or_syndrome
+affects	_co-occurs_with
+-1
+-5.2502464056015015
+___
+chemical_viewed_structurally	pathologic_function	disease_or_syndrome
+affects	_co-occurs_with
+-1
+-5.294077754020691
+___
+chemical_viewed_structurally	physiologic_function	mental_process
+affects	_co-occurs_with
+-1
+-5.332477807998657
+___
+chemical_viewed_structurally	physiologic_function	cell_function
+affects	_co-occurs_with
+-1
+-5.332477807998657
+___
+chemical_viewed_structurally	cell_function	organ_or_tissue_function
+affects	_co-occurs_with
+-1
+-5.44074022769928
+___
+chemical_viewed_structurally	cell_function	mental_process
+affects	_co-occurs_with
+-1
+-5.44074022769928
+___
+chemical_viewed_structurally	genetic_function	organism_function
+affects	_co-occurs_with
+-1
+-5.566692590713501
+___
+chemical_viewed_structurally	genetic_function	molecular_function
+affects	_co-occurs_with
+-1
+-5.566692590713501
+___
+chemical_viewed_structurally	genetic_function	cell_function
+affects	_co-occurs_with
+-1
+-5.566692590713501
+___
+chemical_viewed_structurally	molecular_function	mental_process
+affects	_co-occurs_with
+-1
+-5.620682001113892
+___
+chemical_viewed_structurally	molecular_function	cell_function
+affects	_co-occurs_with
+-1
+-5.620682001113892
+___
+chemical_viewed_structurally	molecular_function	organism_function
+affects	_co-occurs_with
+-1
+-5.620682001113892
+___
+chemical_viewed_structurally	mental_process	organism_function
+affects	_degree_of
+-1
+-5.657907485961914
+___
+chemical_viewed_structurally	chemical	occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.682060241699219
+___
+chemical_viewed_structurally	indicator_reagent_or_diagnostic_aid	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.74501895904541
+___
+chemical_viewed_structurally	indicator_reagent_or_diagnostic_aid	occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.74501895904541
+___
+chemical_viewed_structurally	eicosanoid	occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.745542049407959
+___
+chemical_viewed_structurally	element_ion_or_isotope	occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.77148699760437
+___
+chemical_viewed_structurally	steroid	occupation_or_discipline
+_isa	issue_in
+-1
+-5.795438289642334
+___
+chemical_viewed_structurally	organophosphorus_compound	biomedical_occupation_or_discipline
+_isa	issue_in
+-1
+-5.801048278808594
+___
+chemical_viewed_structurally	element_ion_or_isotope	occupation_or_discipline
+_isa	issue_in
+-1
+-5.814003229141235
+___
+chemical_viewed_structurally	lipid	biomedical_occupation_or_discipline
+_isa	issue_in
+-1
+-5.815560579299927
+___
+chemical_viewed_structurally	nucleic_acid_nucleoside_or_nucleotide	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.823476076126099
+___
+chemical_viewed_structurally	nucleic_acid_nucleoside_or_nucleotide	occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.823476076126099
+___
+chemical_viewed_structurally	eicosanoid	occupation_or_discipline
+_isa	issue_in
+-1
+-5.830240249633789
+___
+chemical_viewed_structurally	steroid	occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.848665237426758
+___
+chemical_viewed_structurally	antibiotic	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.8681418895721436
+___
+chemical_viewed_structurally	antibiotic	occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.8681418895721436
+___
+chemical_viewed_structurally	organic_chemical	occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.885342121124268
+___
+chemical_viewed_structurally	organic_chemical	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.885342121124268
+___
+chemical_viewed_structurally	amino_acid_peptide_or_protein	occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.8877341747283936
+___
+chemical_viewed_structurally	amino_acid_peptide_or_protein	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.8877341747283936
+___
+chemical_viewed_structurally	vitamin	occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.890659332275391
+___
+chemical_viewed_structurally	vitamin	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.890659332275391
+___
+chemical_viewed_structurally	biomedical_or_dental_material	occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.896626234054565
+___
+chemical_viewed_structurally	biomedical_or_dental_material	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.896626234054565
+___
+chemical_viewed_structurally	mental_process	genetic_function
+affects	_precedes
+-1
+-5.913693428039551
+___
+chemical_viewed_structurally	mental_process	molecular_function
+affects	_precedes
+-1
+-5.913693428039551
+___
+chemical_viewed_structurally	mental_process	organ_or_tissue_function
+affects	_precedes
+-1
+-5.913693428039551
+___
+chemical_viewed_structurally	mental_process	organism_function
+affects	_precedes
+-1
+-5.913693428039551
+___
+chemical_viewed_structurally	receptor	occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.917219161987305
+___
+chemical_viewed_structurally	receptor	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.917219161987305
+___
+chemical_viewed_structurally	organophosphorus_compound	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.918844699859619
+___
+chemical_viewed_structurally	inorganic_chemical	occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.932773113250732
+___
+chemical_viewed_structurally	inorganic_chemical	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.932773113250732
+___
+chemical_viewed_structurally	neuroreactive_substance_or_biogenic_amine	occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.945842027664185
+___
+chemical_viewed_structurally	neuroreactive_substance_or_biogenic_amine	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.945842027664185
+___
+chemical_viewed_structurally	hazardous_or_poisonous_substance	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.984424829483032
+___
+chemical_viewed_structurally	hormone	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.988353967666626
+___
+chemical_viewed_structurally	hormone	occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.988353967666626
+___
+chemical_viewed_structurally	biologically_active_substance	occupation_or_discipline
+interacts_with	issue_in
+-1
+-6.000115156173706
+___
+chemical_viewed_structurally	biologically_active_substance	biomedical_occupation_or_discipline
+interacts_with	issue_in
+-1
+-6.000115156173706
+___
+chemical_viewed_structurally	chemical	pathologic_function
+interacts_with	affects
+-1
+-6.016907691955566
+___
+chemical_viewed_structurally	chemical	mental_process
+interacts_with	affects
+-1
+-6.016907691955566
+___
+chemical_viewed_structurally	chemical	physiologic_function
+interacts_with	affects
+-1
+-6.016907691955566
+___
+chemical_viewed_structurally	chemical	experimental_model_of_disease
+interacts_with	affects
+-1
+-6.016907691955566
+___
+chemical_viewed_structurally	chemical	molecular_function
+interacts_with	affects
+-1
+-6.016907691955566
+___
+chemical_viewed_structurally	chemical	biologic_function
+interacts_with	affects
+-1
+-6.016907691955566
+___
+chemical_viewed_structurally	chemical	cell_function
+interacts_with	affects
+-1
+-6.016907691955566
+___
+chemical_viewed_structurally	chemical	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-6.016907691955566
+___
+chemical_viewed_structurally	chemical	disease_or_syndrome
+interacts_with	affects
+-1
+-6.016907691955566
+___
+chemical_viewed_structurally	nucleic_acid_nucleoside_or_nucleotide	biomedical_occupation_or_discipline
+_isa	issue_in
+-1
+-6.024759531021118
+___
+chemical_viewed_structurally	nucleic_acid_nucleoside_or_nucleotide	occupation_or_discipline
+_isa	issue_in
+-1
+-6.024759531021118
+___
+chemical_viewed_structurally	organism_function	mental_process
+affects	_degree_of
+-1
+-6.033584117889404
+___
+chemical_viewed_structurally	inorganic_chemical	occupation_or_discipline
+_isa	issue_in
+-1
+-6.049183011054993
+___
+chemical_viewed_structurally	inorganic_chemical	biomedical_occupation_or_discipline
+_isa	issue_in
+-1
+-6.049183011054993
+___
+chemical_viewed_structurally	carbohydrate	biomedical_occupation_or_discipline
+_isa	issue_in
+-1
+-6.067975401878357
+___
+chemical_viewed_structurally	carbohydrate	occupation_or_discipline
+_isa	issue_in
+-1
+-6.067975401878357
+___
+chemical_viewed_structurally	indicator_reagent_or_diagnostic_aid	pathologic_function
+interacts_with	affects
+-1
+-6.079866409301758
+___
+chemical_viewed_structurally	indicator_reagent_or_diagnostic_aid	organ_or_tissue_function
+interacts_with	affects
+-1
+-6.079866409301758
+___
+chemical_viewed_structurally	indicator_reagent_or_diagnostic_aid	disease_or_syndrome
+interacts_with	affects
+-1
+-6.079866409301758
+___
+chemical_viewed_structurally	indicator_reagent_or_diagnostic_aid	mental_or_behavioral_dysfunction
+interacts_with	affects
+-1
+-6.079866409301758
+___
+chemical_viewed_structurally	indicator_reagent_or_diagnostic_aid	mental_process
+interacts_with	affects
+-1
+-6.079866409301758
+___
+chemical_viewed_structurally	indicator_reagent_or_diagnostic_aid	cell_function
+interacts_with	affects
+-1
+-6.079866409301758
+___
+chemical_viewed_structurally	indicator_reagent_or_diagnostic_aid	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-6.079866409301758
+___
+chemical_viewed_structurally	indicator_reagent_or_diagnostic_aid	molecular_function
+interacts_with	affects
+-1
+-6.079866409301758
+___
+chemical_viewed_structurally	indicator_reagent_or_diagnostic_aid	neoplastic_process
+interacts_with	affects
+-1
+-6.079866409301758
+___
+chemical_viewed_structurally	indicator_reagent_or_diagnostic_aid	biologic_function
+interacts_with	affects
+-1
+-6.079866409301758
+___
+chemical_viewed_structurally	indicator_reagent_or_diagnostic_aid	organism_function
+interacts_with	affects
+-1
+-6.079866409301758
+___
+chemical_viewed_structurally	eicosanoid	neoplastic_process
+interacts_with	affects
+-1
+-6.080389499664307
+___
+chemical_viewed_structurally	eicosanoid	genetic_function
+interacts_with	affects
+-1
+-6.080389499664307
+___
+chemical_viewed_structurally	eicosanoid	biologic_function
+interacts_with	affects
+-1
+-6.080389499664307
+___
+chemical_viewed_structurally	eicosanoid	organism_function
+interacts_with	affects
+-1
+-6.080389499664307
+___
+chemical_viewed_structurally	eicosanoid	physiologic_function
+interacts_with	affects
+-1
+-6.080389499664307
+___
+chemical_viewed_structurally	eicosanoid	experimental_model_of_disease
+interacts_with	affects
+-1
+-6.080389499664307
+___
+chemical_viewed_structurally	eicosanoid	natural_phenomenon_or_process
+interacts_with	affects
+-1
+-6.080389499664307
+___
+chemical_viewed_structurally	eicosanoid	cell_function
+interacts_with	affects
+-1
+-6.080389499664307
+___
+chemical_viewed_structurally	eicosanoid	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-6.080389499664307
+___
+chemical_viewed_structurally	eicosanoid	organ_or_tissue_function
+interacts_with	affects
+-1
+-6.080389499664307
+___
+chemical_viewed_structurally	eicosanoid	molecular_function
+interacts_with	affects
+-1
+-6.080389499664307
+___
+chemical_viewed_structurally	mental_process	genetic_function
+affects	precedes
+-1
+-6.101612091064453
+___
+chemical_viewed_structurally	organic_chemical	biomedical_occupation_or_discipline
+_isa	issue_in
+-1
+-6.1058807373046875
+___
+chemical_viewed_structurally	organic_chemical	occupation_or_discipline
+_isa	issue_in
+-1
+-6.1058807373046875
+___
+chemical_viewed_structurally	element_ion_or_isotope	neoplastic_process
+interacts_with	affects
+-1
+-6.106334447860718
+___
+chemical_viewed_structurally	element_ion_or_isotope	organism_function
+interacts_with	affects
+-1
+-6.106334447860718
+___
+chemical_viewed_structurally	element_ion_or_isotope	cell_function
+interacts_with	affects
+-1
+-6.106334447860718
+___
+chemical_viewed_structurally	element_ion_or_isotope	organ_or_tissue_function
+interacts_with	affects
+-1
+-6.106334447860718
+___
+chemical_viewed_structurally	element_ion_or_isotope	physiologic_function
+interacts_with	affects
+-1
+-6.106334447860718
+___
+#####################
+hormone	clinical_drug
+Reward:0
+hormone	embryonic_structure	body_substance
+disrupts	contains
+-1
+-5.180642187595367
+___
+hormone	mental_process	organism_function
+disrupts	_degree_of
+-1
+-5.186769962310791
+___
+hormone	cell_component	body_substance
+disrupts	contains
+-1
+-5.300398647785187
+___
+hormone	body_part_organ_or_organ_component	body_substance
+disrupts	consists_of
+-1
+-5.358194410800934
+___
+hormone	mental_or_behavioral_dysfunction	disease_or_syndrome
+affects	_co-occurs_with
+-1
+-5.366851449012756
+___
+hormone	neoplastic_process	disease_or_syndrome
+affects	_co-occurs_with
+-1
+-5.50445830821991
+___
+hormone	neoplastic_process	mental_or_behavioral_dysfunction
+affects	_co-occurs_with
+-1
+-5.50445830821991
+___
+hormone	pathologic_function	disease_or_syndrome
+affects	_co-occurs_with
+-1
+-5.548289656639099
+___
+hormone	organ_or_tissue_function	organism_function
+affects	_co-occurs_with
+-1
+-5.583177804946899
+___
+hormone	organ_or_tissue_function	mental_process
+affects	_co-occurs_with
+-1
+-5.583177804946899
+___
+hormone	cell_or_molecular_dysfunction	disease_or_syndrome
+affects	_co-occurs_with
+-1
+-5.585662007331848
+___
+hormone	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+affects	_co-occurs_with
+-1
+-5.585662007331848
+___
+hormone	cell_or_molecular_dysfunction	neoplastic_process
+affects	_co-occurs_with
+-1
+-5.585662007331848
+___
+hormone	physiologic_function	mental_process
+affects	_co-occurs_with
+-1
+-5.586689710617065
+___
+hormone	physiologic_function	cell_function
+affects	_co-occurs_with
+-1
+-5.586689710617065
+___
+hormone	organism_function	mental_process
+disrupts	_degree_of
+-1
+-5.635267972946167
+___
+hormone	chemical_viewed_structurally	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.653326988220215
+___
+hormone	gene_or_genome	genetic_function
+disrupts	carries_out
+-1
+-5.67223596572876
+___
+hormone	gene_or_genome	molecular_function
+disrupts	carries_out
+-1
+-5.67223596572876
+___
+hormone	lipid	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.686790227890015
+___
+hormone	cell_function	organ_or_tissue_function
+affects	_co-occurs_with
+-1
+-5.694952130317688
+___
+hormone	cell_function	mental_process
+affects	_co-occurs_with
+-1
+-5.694952130317688
+___
+hormone	eicosanoid	occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.702835321426392
+___
+hormone	element_ion_or_isotope	occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.735279321670532
+___
+hormone	chemical_viewed_functionally	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.737079381942749
+___
+hormone	antibiotic	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.757405519485474
+___
+hormone	antibiotic	occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.757405519485474
+___
+hormone	carbohydrate	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.7823121547698975
+___
+hormone	carbohydrate	occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.7823121547698975
+___
+hormone	amino_acid_peptide_or_protein	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.843614816665649
+___
+hormone	amino_acid_peptide_or_protein	occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.843614816665649
+___
+hormone	biomedical_or_dental_material	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.859179258346558
+___
+hormone	biomedical_or_dental_material	occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.859179258346558
+___
+hormone	neuroreactive_substance_or_biogenic_amine	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.871466159820557
+___
+hormone	neuroreactive_substance_or_biogenic_amine	occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.871466159820557
+___
+hormone	molecular_function	cell_function
+affects	_co-occurs_with
+-1
+-5.8748939037323
+___
+hormone	molecular_function	organism_function
+affects	_co-occurs_with
+-1
+-5.8748939037323
+___
+hormone	molecular_function	mental_process
+affects	_co-occurs_with
+-1
+-5.8748939037323
+___
+hormone	organophosphorus_compound	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.882906675338745
+___
+hormone	chemical_viewed_structurally	physiologic_function
+_interacts_with	affects
+-1
+-5.898850440979004
+___
+hormone	chemical_viewed_structurally	pathologic_function
+_interacts_with	affects
+-1
+-5.898850440979004
+___
+hormone	chemical_viewed_structurally	mental_or_behavioral_dysfunction
+_interacts_with	affects
+-1
+-5.898850440979004
+___
+hormone	chemical_viewed_structurally	neoplastic_process
+_interacts_with	affects
+-1
+-5.898850440979004
+___
+hormone	chemical_viewed_structurally	mental_process
+_interacts_with	affects
+-1
+-5.898850440979004
+___
+hormone	chemical_viewed_structurally	genetic_function
+_interacts_with	affects
+-1
+-5.898850440979004
+___
+hormone	chemical_viewed_structurally	organism_function
+_interacts_with	affects
+-1
+-5.898850440979004
+___
+hormone	chemical_viewed_structurally	cell_function
+_interacts_with	affects
+-1
+-5.898850440979004
+___
+hormone	chemical_viewed_structurally	disease_or_syndrome
+_interacts_with	affects
+-1
+-5.898850440979004
+___
+hormone	chemical_viewed_structurally	molecular_function
+_interacts_with	affects
+-1
+-5.898850440979004
+___
+hormone	inorganic_chemical	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.899491548538208
+___
+hormone	inorganic_chemical	occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.899491548538208
+___
+hormone	biologically_active_substance	occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.924339294433594
+___
+hormone	biologically_active_substance	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.924339294433594
+___
+hormone	lipid	disease_or_syndrome
+_interacts_with	affects
+-1
+-5.932313680648804
+___
+hormone	lipid	cell_function
+_interacts_with	affects
+-1
+-5.932313680648804
+___
+hormone	lipid	genetic_function
+_interacts_with	affects
+-1
+-5.932313680648804
+___
+hormone	lipid	experimental_model_of_disease
+_interacts_with	affects
+-1
+-5.932313680648804
+___
+hormone	lipid	natural_phenomenon_or_process
+_interacts_with	affects
+-1
+-5.932313680648804
+___
+hormone	lipid	molecular_function
+_interacts_with	affects
+-1
+-5.932313680648804
+___
+hormone	lipid	organ_or_tissue_function
+_interacts_with	affects
+-1
+-5.932313680648804
+___
+hormone	lipid	physiologic_function
+_interacts_with	affects
+-1
+-5.932313680648804
+___
+hormone	lipid	neoplastic_process
+_interacts_with	affects
+-1
+-5.932313680648804
+___
+hormone	lipid	cell_or_molecular_dysfunction
+_interacts_with	affects
+-1
+-5.932313680648804
+___
+hormone	lipid	organism_function
+_interacts_with	affects
+-1
+-5.932313680648804
+___
+hormone	chemical	occupation_or_discipline
+interacts_with	issue_in
+-1
+-5.936272144317627
+___
+hormone	eicosanoid	organ_or_tissue_function
+_interacts_with	affects
+-1
+-5.948358774185181
+___
+hormone	eicosanoid	organism_function
+_interacts_with	affects
+-1
+-5.948358774185181
+___
+hormone	eicosanoid	genetic_function
+_interacts_with	affects
+-1
+-5.948358774185181
+___
+hormone	eicosanoid	experimental_model_of_disease
+_interacts_with	affects
+-1
+-5.948358774185181
+___
+hormone	eicosanoid	natural_phenomenon_or_process
+_interacts_with	affects
+-1
+-5.948358774185181
+___
+hormone	eicosanoid	cell_function
+_interacts_with	affects
+-1
+-5.948358774185181
+___
+hormone	eicosanoid	neoplastic_process
+_interacts_with	affects
+-1
+-5.948358774185181
+___
+hormone	eicosanoid	cell_or_molecular_dysfunction
+_interacts_with	affects
+-1
+-5.948358774185181
+___
+hormone	eicosanoid	biologic_function
+_interacts_with	affects
+-1
+-5.948358774185181
+___
+hormone	eicosanoid	molecular_function
+_interacts_with	affects
+-1
+-5.948358774185181
+___
+hormone	eicosanoid	physiologic_function
+_interacts_with	affects
+-1
+-5.948358774185181
+___
+hormone	fully_formed_anatomical_structure	cell
+disrupts	_isa
+-1
+-5.971535801887512
+___
+hormone	fully_formed_anatomical_structure	cell_component
+disrupts	_isa
+-1
+-5.971535801887512
+___
+hormone	fully_formed_anatomical_structure	body_part_organ_or_organ_component
+disrupts	_isa
+-1
+-5.971535801887512
+___
+hormone	fully_formed_anatomical_structure	gene_or_genome
+disrupts	_isa
+-1
+-5.971535801887512
+___
+hormone	element_ion_or_isotope	biologic_function
+_interacts_with	affects
+-1
+-5.980802774429321
+___
+hormone	element_ion_or_isotope	genetic_function
+_interacts_with	affects
+-1
+-5.980802774429321
+___
+hormone	element_ion_or_isotope	neoplastic_process
+_interacts_with	affects
+-1
+-5.980802774429321
+___
+hormone	element_ion_or_isotope	mental_or_behavioral_dysfunction
+_interacts_with	affects
+-1
+-5.980802774429321
+___
+hormone	element_ion_or_isotope	physiologic_function
+_interacts_with	affects
+-1
+-5.980802774429321
+___
+hormone	element_ion_or_isotope	pathologic_function
+_interacts_with	affects
+-1
+-5.980802774429321
+___
+hormone	element_ion_or_isotope	organism_function
+_interacts_with	affects
+-1
+-5.980802774429321
+___
+hormone	element_ion_or_isotope	organ_or_tissue_function
+_interacts_with	affects
+-1
+-5.980802774429321
+___
+hormone	element_ion_or_isotope	disease_or_syndrome
+_interacts_with	affects
+-1
+-5.980802774429321
+___
+hormone	element_ion_or_isotope	cell_or_molecular_dysfunction
+_interacts_with	affects
+-1
+-5.980802774429321
+___
+hormone	element_ion_or_isotope	mental_process
+_interacts_with	affects
+-1
+-5.980802774429321
+___
+hormone	element_ion_or_isotope	cell_function
+_interacts_with	affects
+-1
+-5.980802774429321
+___
+hormone	chemical_viewed_functionally	disease_or_syndrome
+_interacts_with	affects
+-1
+-5.982602834701538
+___
+hormone	chemical_viewed_functionally	experimental_model_of_disease
+_interacts_with	affects
+-1
+-5.982602834701538
+___
+hormone	chemical_viewed_functionally	mental_or_behavioral_dysfunction
+_interacts_with	affects
+-1
+-5.982602834701538
+___
+hormone	chemical_viewed_functionally	molecular_function
+_interacts_with	affects
+-1
+-5.982602834701538
+___
+hormone	chemical_viewed_functionally	biologic_function
+_interacts_with	affects
+-1
+-5.982602834701538
+___
+hormone	chemical_viewed_functionally	mental_process
+_interacts_with	affects
+-1
+-5.982602834701538
+___
+hormone	chemical_viewed_functionally	cell_function
+_interacts_with	affects
+-1
+-5.982602834701538
+___
+hormone	chemical_viewed_functionally	natural_phenomenon_or_process
+_interacts_with	affects
+-1
+-5.982602834701538
+___
+#####################
+hazardous_or_poisonous_substance	clinical_drug
+Reward:0
+hazardous_or_poisonous_substance	body_part_organ_or_organ_component	body_substance
+disrupts	consists_of
+-1
+-5.52072149515152
+___
+hazardous_or_poisonous_substance	mental_or_behavioral_dysfunction	disease_or_syndrome
+affects	_co-occurs_with
+-1
+-5.529378056526184
+___
+hazardous_or_poisonous_substance	neoplastic_process	mental_or_behavioral_dysfunction
+affects	_co-occurs_with
+-1
+-5.666984915733337
+___
+hazardous_or_poisonous_substance	neoplastic_process	disease_or_syndrome
+affects	_co-occurs_with
+-1
+-5.666984915733337
+___
+hazardous_or_poisonous_substance	pathologic_function	disease_or_syndrome
+affects	_co-occurs_with
+-1
+-5.710816264152527
+___
+hazardous_or_poisonous_substance	organ_or_tissue_function	mental_process
+affects	_co-occurs_with
+-1
+-5.745704412460327
+___
+hazardous_or_poisonous_substance	organ_or_tissue_function	organism_function
+affects	_co-occurs_with
+-1
+-5.745704412460327
+___
+hazardous_or_poisonous_substance	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+affects	_co-occurs_with
+-1
+-5.748188614845276
+___
+hazardous_or_poisonous_substance	cell_or_molecular_dysfunction	disease_or_syndrome
+affects	_co-occurs_with
+-1
+-5.748188614845276
+___
+hazardous_or_poisonous_substance	cell_or_molecular_dysfunction	neoplastic_process
+affects	_co-occurs_with
+-1
+-5.748188614845276
+___
+hazardous_or_poisonous_substance	physiologic_function	cell_function
+affects	_co-occurs_with
+-1
+-5.749216318130493
+___
+hazardous_or_poisonous_substance	physiologic_function	mental_process
+affects	_co-occurs_with
+-1
+-5.749216318130493
+___
+hazardous_or_poisonous_substance	organism_function	mental_process
+disrupts	_degree_of
+-1
+-5.797795057296753
+___
+hazardous_or_poisonous_substance	chemical_viewed_structurally	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.815853595733643
+___
+hazardous_or_poisonous_substance	gene_or_genome	molecular_function
+disrupts	carries_out
+-1
+-5.834763050079346
+___
+hazardous_or_poisonous_substance	gene_or_genome	genetic_function
+disrupts	carries_out
+-1
+-5.834763050079346
+___
+hazardous_or_poisonous_substance	lipid	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.849316835403442
+___
+hazardous_or_poisonous_substance	cell_function	organ_or_tissue_function
+affects	_co-occurs_with
+-1
+-5.857478737831116
+___
+hazardous_or_poisonous_substance	cell_function	mental_process
+affects	_co-occurs_with
+-1
+-5.857478737831116
+___
+hazardous_or_poisonous_substance	eicosanoid	occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.865361928939819
+___
+hazardous_or_poisonous_substance	indicator_reagent_or_diagnostic_aid	occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.8684399127960205
+___
+hazardous_or_poisonous_substance	indicator_reagent_or_diagnostic_aid	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.8684399127960205
+___
+hazardous_or_poisonous_substance	chemical_viewed_functionally	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.899605989456177
+___
+hazardous_or_poisonous_substance	antibiotic	occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.919932126998901
+___
+hazardous_or_poisonous_substance	antibiotic	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.919932126998901
+___
+hazardous_or_poisonous_substance	nucleic_acid_nucleoside_or_nucleotide	occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.940715789794922
+___
+hazardous_or_poisonous_substance	nucleic_acid_nucleoside_or_nucleotide	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.940715789794922
+___
+hazardous_or_poisonous_substance	carbohydrate	occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.944838762283325
+___
+hazardous_or_poisonous_substance	carbohydrate	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.944838762283325
+___
+hazardous_or_poisonous_substance	cell	body_substance
+disrupts	contains
+-1
+-5.960465312004089
+___
+hazardous_or_poisonous_substance	vitamin	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.974124431610107
+___
+hazardous_or_poisonous_substance	vitamin	occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.974124431610107
+___
+hazardous_or_poisonous_substance	steroid	occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.974884510040283
+___
+hazardous_or_poisonous_substance	genetic_function	molecular_function
+affects	_co-occurs_with
+-1
+-5.983431100845337
+___
+hazardous_or_poisonous_substance	genetic_function	cell_function
+affects	_co-occurs_with
+-1
+-5.983431100845337
+___
+hazardous_or_poisonous_substance	genetic_function	organism_function
+affects	_co-occurs_with
+-1
+-5.983431100845337
+___
+hazardous_or_poisonous_substance	organic_chemical	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.993987083435059
+___
+hazardous_or_poisonous_substance	organic_chemical	occupation_or_discipline
+_interacts_with	issue_in
+-1
+-5.993987083435059
+___
+hazardous_or_poisonous_substance	amino_acid_peptide_or_protein	occupation_or_discipline
+_interacts_with	issue_in
+-1
+-6.006141424179077
+___
+hazardous_or_poisonous_substance	amino_acid_peptide_or_protein	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-6.006141424179077
+___
+hazardous_or_poisonous_substance	receptor	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-6.007907390594482
+___
+hazardous_or_poisonous_substance	receptor	occupation_or_discipline
+_interacts_with	issue_in
+-1
+-6.007907390594482
+___
+hazardous_or_poisonous_substance	tissue	body_substance
+disrupts	contains
+-1
+-6.01389741897583
+___
+hazardous_or_poisonous_substance	biomedical_or_dental_material	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-6.021705865859985
+___
+hazardous_or_poisonous_substance	biomedical_or_dental_material	occupation_or_discipline
+_interacts_with	issue_in
+-1
+-6.021705865859985
+___
+hazardous_or_poisonous_substance	neuroreactive_substance_or_biogenic_amine	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-6.033992767333984
+___
+hazardous_or_poisonous_substance	neuroreactive_substance_or_biogenic_amine	occupation_or_discipline
+_interacts_with	issue_in
+-1
+-6.033992767333984
+___
+hazardous_or_poisonous_substance	experimental_model_of_disease	neoplastic_process
+affects	_co-occurs_with
+-1
+-6.055262565612793
+___
+hazardous_or_poisonous_substance	experimental_model_of_disease	cell_or_molecular_dysfunction
+affects	_co-occurs_with
+-1
+-6.055262565612793
+___
+hazardous_or_poisonous_substance	chemical_viewed_structurally	molecular_function
+_interacts_with	affects
+-1
+-6.061377048492432
+___
+hazardous_or_poisonous_substance	chemical_viewed_structurally	organism_function
+_interacts_with	affects
+-1
+-6.061377048492432
+___
+hazardous_or_poisonous_substance	chemical_viewed_structurally	cell_function
+_interacts_with	affects
+-1
+-6.061377048492432
+___
+hazardous_or_poisonous_substance	chemical_viewed_structurally	pathologic_function
+_interacts_with	affects
+-1
+-6.061377048492432
+___
+hazardous_or_poisonous_substance	chemical_viewed_structurally	disease_or_syndrome
+_interacts_with	affects
+-1
+-6.061377048492432
+___
+hazardous_or_poisonous_substance	chemical_viewed_structurally	mental_process
+_interacts_with	affects
+-1
+-6.061377048492432
+___
+hazardous_or_poisonous_substance	chemical_viewed_structurally	genetic_function
+_interacts_with	affects
+-1
+-6.061377048492432
+___
+hazardous_or_poisonous_substance	chemical_viewed_structurally	neoplastic_process
+_interacts_with	affects
+-1
+-6.061377048492432
+___
+hazardous_or_poisonous_substance	chemical_viewed_structurally	mental_or_behavioral_dysfunction
+_interacts_with	affects
+-1
+-6.061377048492432
+___
+hazardous_or_poisonous_substance	chemical_viewed_structurally	physiologic_function
+_interacts_with	affects
+-1
+-6.061377048492432
+___
+hazardous_or_poisonous_substance	inorganic_chemical	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-6.062018156051636
+___
+hazardous_or_poisonous_substance	inorganic_chemical	occupation_or_discipline
+_interacts_with	issue_in
+-1
+-6.062018156051636
+___
+hazardous_or_poisonous_substance	hormone	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-6.072844982147217
+___
+hazardous_or_poisonous_substance	hormone	occupation_or_discipline
+_interacts_with	issue_in
+-1
+-6.072844982147217
+___
+hazardous_or_poisonous_substance	mental_process	organism_function
+affects	_degree_of
+-1
+-6.07464599609375
+___
+hazardous_or_poisonous_substance	biologically_active_substance	occupation_or_discipline
+_interacts_with	issue_in
+-1
+-6.0868659019470215
+___
+hazardous_or_poisonous_substance	biologically_active_substance	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-6.0868659019470215
+___
+hazardous_or_poisonous_substance	lipid	genetic_function
+_interacts_with	affects
+-1
+-6.0948402881622314
+___
+hazardous_or_poisonous_substance	lipid	neoplastic_process
+_interacts_with	affects
+-1
+-6.0948402881622314
+___
+hazardous_or_poisonous_substance	lipid	organ_or_tissue_function
+_interacts_with	affects
+-1
+-6.0948402881622314
+___
+hazardous_or_poisonous_substance	lipid	cell_function
+_interacts_with	affects
+-1
+-6.0948402881622314
+___
+hazardous_or_poisonous_substance	lipid	cell_or_molecular_dysfunction
+_interacts_with	affects
+-1
+-6.0948402881622314
+___
+hazardous_or_poisonous_substance	lipid	experimental_model_of_disease
+_interacts_with	affects
+-1
+-6.0948402881622314
+___
+hazardous_or_poisonous_substance	lipid	disease_or_syndrome
+_interacts_with	affects
+-1
+-6.0948402881622314
+___
+hazardous_or_poisonous_substance	lipid	molecular_function
+_interacts_with	affects
+-1
+-6.0948402881622314
+___
+hazardous_or_poisonous_substance	lipid	natural_phenomenon_or_process
+_interacts_with	affects
+-1
+-6.0948402881622314
+___
+hazardous_or_poisonous_substance	lipid	physiologic_function
+_interacts_with	affects
+-1
+-6.0948402881622314
+___
+hazardous_or_poisonous_substance	lipid	organism_function
+_interacts_with	affects
+-1
+-6.0948402881622314
+___
+hazardous_or_poisonous_substance	chemical	occupation_or_discipline
+interacts_with	issue_in
+-1
+-6.098798751831055
+___
+hazardous_or_poisonous_substance	eicosanoid	genetic_function
+_interacts_with	affects
+-1
+-6.110885381698608
+___
+hazardous_or_poisonous_substance	eicosanoid	organ_or_tissue_function
+_interacts_with	affects
+-1
+-6.110885381698608
+___
+hazardous_or_poisonous_substance	eicosanoid	natural_phenomenon_or_process
+_interacts_with	affects
+-1
+-6.110885381698608
+___
+hazardous_or_poisonous_substance	eicosanoid	physiologic_function
+_interacts_with	affects
+-1
+-6.110885381698608
+___
+hazardous_or_poisonous_substance	eicosanoid	cell_function
+_interacts_with	affects
+-1
+-6.110885381698608
+___
+hazardous_or_poisonous_substance	eicosanoid	cell_or_molecular_dysfunction
+_interacts_with	affects
+-1
+-6.110885381698608
+___
+hazardous_or_poisonous_substance	eicosanoid	molecular_function
+_interacts_with	affects
+-1
+-6.110885381698608
+___
+hazardous_or_poisonous_substance	eicosanoid	experimental_model_of_disease
+_interacts_with	affects
+-1
+-6.110885381698608
+___
+hazardous_or_poisonous_substance	eicosanoid	biologic_function
+_interacts_with	affects
+-1
+-6.110885381698608
+___
+hazardous_or_poisonous_substance	eicosanoid	neoplastic_process
+_interacts_with	affects
+-1
+-6.110885381698608
+___
+hazardous_or_poisonous_substance	eicosanoid	organism_function
+_interacts_with	affects
+-1
+-6.110885381698608
+___
+hazardous_or_poisonous_substance	indicator_reagent_or_diagnostic_aid	organism_function
+_interacts_with	affects
+-1
+-6.11396336555481
+___
+hazardous_or_poisonous_substance	indicator_reagent_or_diagnostic_aid	mental_process
+_interacts_with	affects
+-1
+-6.11396336555481
+___
+hazardous_or_poisonous_substance	indicator_reagent_or_diagnostic_aid	mental_or_behavioral_dysfunction
+_interacts_with	affects
+-1
+-6.11396336555481
+___
+hazardous_or_poisonous_substance	indicator_reagent_or_diagnostic_aid	cell_function
+_interacts_with	affects
+-1
+-6.11396336555481
+___
+hazardous_or_poisonous_substance	indicator_reagent_or_diagnostic_aid	pathologic_function
+_interacts_with	affects
+-1
+-6.11396336555481
+___
+hazardous_or_poisonous_substance	indicator_reagent_or_diagnostic_aid	disease_or_syndrome
+_interacts_with	affects
+-1
+-6.11396336555481
+___
+hazardous_or_poisonous_substance	indicator_reagent_or_diagnostic_aid	biologic_function
+_interacts_with	affects
+-1
+-6.11396336555481
+___
+hazardous_or_poisonous_substance	indicator_reagent_or_diagnostic_aid	neoplastic_process
+_interacts_with	affects
+-1
+-6.11396336555481
+___
+hazardous_or_poisonous_substance	indicator_reagent_or_diagnostic_aid	organ_or_tissue_function
+_interacts_with	affects
+-1
+-6.11396336555481
+___
+hazardous_or_poisonous_substance	indicator_reagent_or_diagnostic_aid	molecular_function
+_interacts_with	affects
+-1
+-6.11396336555481
+___
+hazardous_or_poisonous_substance	indicator_reagent_or_diagnostic_aid	cell_or_molecular_dysfunction
+_interacts_with	affects
+-1
+-6.11396336555481
+___
+#####################

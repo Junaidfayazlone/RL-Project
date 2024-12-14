@@ -1,0 +1,503 @@
+cell_component	body_system
+Reward:1
+cell_component	physiologic_function	cell_function
+affects	precedes
+-1
+-3.146183729171753
+___
+cell_component	physiologic_function	molecular_function
+affects	precedes
+-1
+-3.146183729171753
+___
+cell_component	physiologic_function	organism_function
+affects	precedes
+-1
+-3.146183729171753
+___
+cell_component	mental_process	molecular_function
+affects	precedes
+-1
+-3.2503254413604736
+___
+cell_component	mental_process	physiologic_function
+affects	precedes
+-1
+-3.2503254413604736
+___
+cell_component	mental_process	genetic_function
+affects	precedes
+-1
+-3.2503254413604736
+___
+cell_component	molecular_function	mental_process
+affects	precedes
+-1
+-3.431419610977173
+___
+cell_component	molecular_function	cell_function
+affects	precedes
+-1
+-3.431419610977173
+___
+cell_component	molecular_function	physiologic_function
+affects	precedes
+-1
+-3.431419610977173
+___
+cell_component	molecular_function	genetic_function
+affects	precedes
+-1
+-3.431419610977173
+___
+cell_component	body_space_or_junction	body_system
+adjacent_to	conceptual_part_of
+1
+-3.4820892810821533
+___
+cell_component	body_space_or_junction	fully_formed_anatomical_structure
+adjacent_to	conceptual_part_of
+-1
+-3.4820892810821533
+___
+cell_component	organ_or_tissue_function	organism_function
+affects	precedes
+-1
+-3.8348069190979004
+___
+cell_component	organ_or_tissue_function	molecular_function
+affects	precedes
+-1
+-3.8348069190979004
+___
+cell_component	organ_or_tissue_function	cell_function
+affects	precedes
+-1
+-3.8348069190979004
+___
+cell_component	organ_or_tissue_function	physiologic_function
+affects	precedes
+-1
+-3.8348069190979004
+___
+cell_component	organ_or_tissue_function	mental_process
+affects	precedes
+-1
+-3.8348069190979004
+___
+cell_component	organ_or_tissue_function	genetic_function
+affects	precedes
+-1
+-3.8348069190979004
+___
+cell_component	cell_function	organism_function
+affects	precedes
+-1
+-3.835171699523926
+___
+cell_component	cell_function	physiologic_function
+affects	precedes
+-1
+-3.835171699523926
+___
+cell_component	cell_function	mental_process
+affects	precedes
+-1
+-3.835171699523926
+___
+cell_component	cell_function	organ_or_tissue_function
+affects	precedes
+-1
+-3.835171699523926
+___
+cell_component	cell_function	molecular_function
+affects	precedes
+-1
+-3.835171699523926
+___
+cell_component	cell_function	genetic_function
+affects	precedes
+-1
+-3.835171699523926
+___
+cell_component	genetic_function	organism_function
+affects	precedes
+-1
+-3.835349678993225
+___
+cell_component	genetic_function	mental_process
+affects	precedes
+-1
+-3.835349678993225
+___
+cell_component	genetic_function	cell_function
+affects	precedes
+-1
+-3.835349678993225
+___
+cell_component	genetic_function	organ_or_tissue_function
+affects	precedes
+-1
+-3.835349678993225
+___
+cell_component	genetic_function	physiologic_function
+affects	precedes
+-1
+-3.835349678993225
+___
+cell_component	genetic_function	molecular_function
+affects	precedes
+-1
+-3.835349678993225
+___
+cell_component	organism_function	organ_or_tissue_function
+affects	precedes
+-1
+-3.889466643333435
+___
+cell_component	organism_function	mental_process
+affects	precedes
+-1
+-3.889466643333435
+___
+cell_component	organism_function	genetic_function
+affects	precedes
+-1
+-3.889466643333435
+___
+cell_component	organism_function	molecular_function
+affects	precedes
+-1
+-3.889466643333435
+___
+cell_component	organism_function	cell_function
+affects	precedes
+-1
+-3.889466643333435
+___
+cell_component	organism_function	physiologic_function
+affects	precedes
+-1
+-3.889466643333435
+___
+cell_component	mental_process	organism_function
+affects	degree_of
+-1
+-4.3470823764801025
+___
+cell_component	organism_function	mental_process
+affects	degree_of
+-1
+-4.986223459243774
+___
+cell_component	diagnostic_procedure	therapeutic_or_preventive_procedure
+location_of	precedes
+-1
+-7.098582146580156
+___
+cell_component	cell	body_system
+part_of	conceptual_part_of
+1
+-7.8827309012413025
+___
+cell_component	archaeon	archaeon
+part_of	NO_OP
+-1
+-7.913404077291489
+___
+cell_component	mammal	social_behavior
+part_of	exhibits
+-1
+-7.921000897884369
+___
+cell_component	amphibian	behavior
+part_of	exhibits
+-1
+-7.929523065686226
+___
+cell_component	tissue	body_system
+part_of	conceptual_part_of
+1
+-7.99122779071331
+___
+cell_component	body_space_or_junction	cell
+adjacent_to	surrounds
+-1
+-8.068080425262451
+___
+cell_component	physiologic_function	organism_function
+location_of	precedes
+-1
+-8.197186589241028
+___
+cell_component	physiologic_function	molecular_function
+location_of	precedes
+-1
+-8.197186589241028
+___
+cell_component	physiologic_function	cell_function
+location_of	precedes
+-1
+-8.197186589241028
+___
+cell_component	therapeutic_or_preventive_procedure	disease_or_syndrome
+location_of	prevents
+-1
+-8.209153294563293
+___
+cell_component	therapeutic_or_preventive_procedure	pathologic_function
+location_of	prevents
+-1
+-8.209153294563293
+___
+cell_component	therapeutic_or_preventive_procedure	cell_or_molecular_dysfunction
+location_of	prevents
+-1
+-8.209153294563293
+___
+cell_component	cell_component	genetic_function
+NO_OP	affects
+-1
+-8.264528274536133
+___
+cell_component	cell_component	mental_process
+NO_OP	affects
+-1
+-8.264528274536133
+___
+cell_component	cell_component	organ_or_tissue_function
+NO_OP	affects
+-1
+-8.264528274536133
+___
+cell_component	cell_component	organism_function
+NO_OP	affects
+-1
+-8.264528274536133
+___
+cell_component	cell_component	cell_function
+NO_OP	affects
+-1
+-8.264528274536133
+___
+cell_component	cell_component	molecular_function
+NO_OP	affects
+-1
+-8.264528274536133
+___
+cell_component	cell_component	physiologic_function
+NO_OP	affects
+-1
+-8.264528274536133
+___
+cell_component	mental_process	physiologic_function
+location_of	precedes
+-1
+-8.284676790237427
+___
+cell_component	mental_process	genetic_function
+location_of	precedes
+-1
+-8.284676790237427
+___
+cell_component	mental_process	molecular_function
+location_of	precedes
+-1
+-8.284676790237427
+___
+cell_component	fungus	cell_or_molecular_dysfunction
+location_of	causes
+-1
+-8.484837770462036
+___
+cell_component	fungus	neoplastic_process
+location_of	causes
+-1
+-8.484837770462036
+___
+cell_component	fungus	mental_or_behavioral_dysfunction
+location_of	causes
+-1
+-8.484837770462036
+___
+cell_component	fungus	experimental_model_of_disease
+location_of	causes
+-1
+-8.484837770462036
+___
+cell_component	molecular_function	mental_process
+location_of	precedes
+-1
+-8.484870314598083
+___
+cell_component	molecular_function	cell_function
+location_of	precedes
+-1
+-8.484870314598083
+___
+cell_component	molecular_function	genetic_function
+location_of	precedes
+-1
+-8.484870314598083
+___
+cell_component	molecular_function	physiologic_function
+location_of	precedes
+-1
+-8.484870314598083
+___
+cell_component	fish	behavior
+part_of	exhibits
+-1
+-8.533788621425629
+___
+cell_component	fish	social_behavior
+part_of	exhibits
+-1
+-8.533788621425629
+___
+cell_component	reptile	behavior
+part_of	exhibits
+-1
+-8.539843678474426
+___
+cell_component	reptile	individual_behavior
+part_of	exhibits
+-1
+-8.539843678474426
+___
+cell_component	vertebrate	behavior
+part_of	exhibits
+-1
+-8.545962691307068
+___
+cell_component	vertebrate	social_behavior
+part_of	exhibits
+-1
+-8.545962691307068
+___
+cell_component	animal	behavior
+part_of	exhibits
+-1
+-8.545965075492859
+___
+cell_component	animal	individual_behavior
+part_of	exhibits
+-1
+-8.545965075492859
+___
+cell_component	disease_or_syndrome	experimental_model_of_disease
+location_of	precedes
+-1
+-8.675541996955872
+___
+cell_component	disease_or_syndrome	mental_or_behavioral_dysfunction
+location_of	precedes
+-1
+-8.675541996955872
+___
+cell_component	disease_or_syndrome	cell_or_molecular_dysfunction
+location_of	precedes
+-1
+-8.675541996955872
+___
+cell_component	disease_or_syndrome	pathologic_function
+location_of	precedes
+-1
+-8.675541996955872
+___
+cell_component	body_substance	tissue
+contains	derivative_of
+-1
+-8.695079684257507
+___
+cell_component	virus	experimental_model_of_disease
+location_of	causes
+-1
+-8.707974910736084
+___
+cell_component	virus	cell_or_molecular_dysfunction
+location_of	causes
+-1
+-8.707974910736084
+___
+cell_component	virus	mental_or_behavioral_dysfunction
+location_of	causes
+-1
+-8.707974910736084
+___
+cell_component	virus	neoplastic_process
+location_of	causes
+-1
+-8.707974910736084
+___
+cell_component	virus	disease_or_syndrome
+location_of	causes
+-1
+-8.707974910736084
+___
+cell_component	cell_or_molecular_dysfunction	neoplastic_process
+location_of	precedes
+-1
+-8.730682373046875
+___
+cell_component	cell_or_molecular_dysfunction	disease_or_syndrome
+location_of	precedes
+-1
+-8.730682373046875
+___
+cell_component	cell_or_molecular_dysfunction	pathologic_function
+location_of	precedes
+-1
+-8.730682373046875
+___
+cell_component	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+location_of	precedes
+-1
+-8.730682373046875
+___
+cell_component	neoplastic_process	experimental_model_of_disease
+location_of	precedes
+-1
+-8.782105922698975
+___
+cell_component	neoplastic_process	disease_or_syndrome
+location_of	precedes
+-1
+-8.782105922698975
+___
+cell_component	neoplastic_process	mental_or_behavioral_dysfunction
+location_of	precedes
+-1
+-8.782105922698975
+___
+cell_component	neoplastic_process	pathologic_function
+location_of	precedes
+-1
+-8.782105922698975
+___
+cell_component	mental_or_behavioral_dysfunction	neoplastic_process
+location_of	precedes
+-1
+-8.863306045532227
+___
+cell_component	mental_or_behavioral_dysfunction	experimental_model_of_disease
+location_of	precedes
+-1
+-8.863306045532227
+___
+cell_component	mental_or_behavioral_dysfunction	disease_or_syndrome
+location_of	precedes
+-1
+-8.863306045532227
+___
+cell_component	mental_or_behavioral_dysfunction	pathologic_function
+location_of	precedes
+-1
+-8.863306045532227
+___
+cell_component	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+location_of	precedes
+-1
+-8.863306045532227
+___
+#####################

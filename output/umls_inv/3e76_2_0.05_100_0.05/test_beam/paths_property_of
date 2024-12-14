@@ -1,0 +1,2515 @@
+nucleotide_sequence	nucleic_acid_nucleoside_or_nucleotide
+Reward:0
+nucleotide_sequence	gene_or_genome	body_substance
+property_of	contains
+-1
+-0.005656250759784598
+___
+nucleotide_sequence	gene_or_genome	genetic_function
+property_of	carries_out
+-1
+-7.9082380486725015
+___
+nucleotide_sequence	gene_or_genome	molecular_function
+property_of	carries_out
+-1
+-7.9082380486725015
+___
+nucleotide_sequence	gene_or_genome	amino_acid_peptide_or_protein
+property_of	produces
+-1
+-8.152814025997941
+___
+nucleotide_sequence	gene_or_genome	steroid
+property_of	produces
+-1
+-8.152814025997941
+___
+nucleotide_sequence	gene_or_genome	immunologic_factor
+property_of	produces
+-1
+-8.152814025997941
+___
+nucleotide_sequence	gene_or_genome	receptor
+property_of	produces
+-1
+-8.152814025997941
+___
+nucleotide_sequence	gene_or_genome	organic_chemical
+property_of	produces
+-1
+-8.152814025997941
+___
+nucleotide_sequence	gene_or_genome	biologically_active_substance
+property_of	produces
+-1
+-8.152814025997941
+___
+nucleotide_sequence	gene_or_genome	carbohydrate
+property_of	produces
+-1
+-8.152814025997941
+___
+nucleotide_sequence	gene_or_genome	organophosphorus_compound
+property_of	produces
+-1
+-8.152814025997941
+___
+nucleotide_sequence	gene_or_genome	neuroreactive_substance_or_biogenic_amine
+property_of	produces
+-1
+-8.152814025997941
+___
+nucleotide_sequence	gene_or_genome	eicosanoid
+property_of	produces
+-1
+-8.152814025997941
+___
+nucleotide_sequence	gene_or_genome	hormone
+property_of	produces
+-1
+-8.152814025997941
+___
+nucleotide_sequence	gene_or_genome	enzyme
+property_of	produces
+-1
+-8.152814025997941
+___
+nucleotide_sequence	gene_or_genome	lipid
+property_of	produces
+-1
+-8.152814025997941
+___
+nucleotide_sequence	gene_or_genome	physical_object
+property_of	isa
+-1
+-8.716352577328507
+___
+nucleotide_sequence	gene_or_genome	anatomical_structure
+property_of	isa
+-1
+-8.716352577328507
+___
+nucleotide_sequence	gene_or_genome	fully_formed_anatomical_structure
+property_of	isa
+-1
+-8.716352577328507
+___
+nucleotide_sequence	gene_or_genome	biomedical_occupation_or_discipline
+property_of	issue_in
+-1
+-10.264023895382707
+___
+nucleotide_sequence	gene_or_genome	organism
+property_of	part_of
+-1
+-10.381143684506242
+___
+nucleotide_sequence	gene_or_genome	alga
+property_of	part_of
+-1
+-10.381143684506242
+___
+nucleotide_sequence	gene_or_genome	animal
+property_of	part_of
+-1
+-10.381143684506242
+___
+nucleotide_sequence	gene_or_genome	bird
+property_of	part_of
+-1
+-10.381143684506242
+___
+nucleotide_sequence	gene_or_genome	fungus
+property_of	part_of
+-1
+-10.381143684506242
+___
+nucleotide_sequence	gene_or_genome	amphibian
+property_of	part_of
+-1
+-10.381143684506242
+___
+nucleotide_sequence	gene_or_genome	human
+property_of	part_of
+-1
+-10.381143684506242
+___
+nucleotide_sequence	gene_or_genome	rickettsia_or_chlamydia
+property_of	part_of
+-1
+-10.381143684506242
+___
+nucleotide_sequence	gene_or_genome	archaeon
+property_of	part_of
+-1
+-10.381143684506242
+___
+nucleotide_sequence	gene_or_genome	virus
+property_of	part_of
+-1
+-10.381143684506242
+___
+nucleotide_sequence	gene_or_genome	bacterium
+property_of	part_of
+-1
+-10.381143684506242
+___
+nucleotide_sequence	gene_or_genome	fish
+property_of	part_of
+-1
+-10.381143684506242
+___
+nucleotide_sequence	gene_or_genome	mammal
+property_of	part_of
+-1
+-10.381143684506242
+___
+nucleotide_sequence	gene_or_genome	cell
+property_of	part_of
+-1
+-10.381143684506242
+___
+nucleotide_sequence	gene_or_genome	invertebrate
+property_of	part_of
+-1
+-10.381143684506242
+___
+nucleotide_sequence	nucleotide_sequence	occupation_or_discipline
+NO_OP	issue_in
+-1
+-10.896505236625671
+___
+nucleotide_sequence	nucleotide_sequence	biomedical_occupation_or_discipline
+NO_OP	issue_in
+-1
+-10.896505236625671
+___
+nucleotide_sequence	nucleotide_sequence	idea_or_concept
+NO_OP	isa
+-1
+-11.51164722442627
+___
+nucleotide_sequence	nucleotide_sequence	spatial_concept
+NO_OP	isa
+-1
+-11.51164722442627
+___
+nucleotide_sequence	nucleotide_sequence	conceptual_entity
+NO_OP	isa
+-1
+-11.51164722442627
+___
+nucleotide_sequence	nucleotide_sequence	entity
+NO_OP	isa
+-1
+-11.51164722442627
+___
+nucleotide_sequence	gene_or_genome	cell_function
+property_of	affects
+-1
+-12.25243675243837
+___
+nucleotide_sequence	gene_or_genome	genetic_function
+property_of	affects
+-1
+-12.25243675243837
+___
+nucleotide_sequence	gene_or_genome	organism_function
+property_of	affects
+-1
+-12.25243675243837
+___
+nucleotide_sequence	gene_or_genome	mental_process
+property_of	affects
+-1
+-12.25243675243837
+___
+nucleotide_sequence	gene_or_genome	molecular_function
+property_of	affects
+-1
+-12.25243675243837
+___
+nucleotide_sequence	gene_or_genome	physiologic_function
+property_of	affects
+-1
+-12.25243675243837
+___
+nucleotide_sequence	nucleotide_sequence	nucleotide_sequence
+NO_OP	NO_OP
+-1
+-12.404008865356445
+___
+nucleotide_sequence	gene_or_genome	injury_or_poisoning
+property_of	_disrupts
+-1
+-12.698561782955949
+___
+nucleotide_sequence	gene_or_genome	vitamin
+property_of	_disrupts
+-1
+-12.698561782955949
+___
+nucleotide_sequence	gene_or_genome	hormone
+property_of	_disrupts
+-1
+-12.698561782955949
+___
+nucleotide_sequence	gene_or_genome	antibiotic
+property_of	_disrupts
+-1
+-12.698561782955949
+___
+nucleotide_sequence	gene_or_genome	immunologic_factor
+property_of	_disrupts
+-1
+-12.698561782955949
+___
+nucleotide_sequence	gene_or_genome	neuroreactive_substance_or_biogenic_amine
+property_of	_disrupts
+-1
+-12.698561782955949
+___
+nucleotide_sequence	gene_or_genome	receptor
+property_of	_disrupts
+-1
+-12.698561782955949
+___
+nucleotide_sequence	gene_or_genome	hazardous_or_poisonous_substance
+property_of	_disrupts
+-1
+-12.698561782955949
+___
+nucleotide_sequence	gene_or_genome	pharmacologic_substance
+property_of	_disrupts
+-1
+-12.698561782955949
+___
+nucleotide_sequence	gene_or_genome	enzyme
+property_of	_disrupts
+-1
+-12.698561782955949
+___
+nucleotide_sequence	quantitative_concept	quantitative_concept
+_measurement_of	NO_OP
+-1
+-12.977530658245087
+___
+nucleotide_sequence	gene_or_genome	cell_or_molecular_dysfunction
+property_of	location_of
+-1
+-14.09703361523134
+___
+nucleotide_sequence	gene_or_genome	bacterium
+property_of	location_of
+-1
+-14.09703361523134
+___
+nucleotide_sequence	gene_or_genome	physiologic_function
+property_of	location_of
+-1
+-14.09703361523134
+___
+nucleotide_sequence	gene_or_genome	biologic_function
+property_of	location_of
+-1
+-14.09703361523134
+___
+nucleotide_sequence	gene_or_genome	molecular_function
+property_of	location_of
+-1
+-14.09703361523134
+___
+nucleotide_sequence	gene_or_genome	cell_function
+property_of	location_of
+-1
+-14.09703361523134
+___
+nucleotide_sequence	gene_or_genome	fungus
+property_of	location_of
+-1
+-14.09703361523134
+___
+nucleotide_sequence	gene_or_genome	pathologic_function
+property_of	location_of
+-1
+-14.09703361523134
+___
+nucleotide_sequence	gene_or_genome	organism_function
+property_of	location_of
+-1
+-14.09703361523134
+___
+nucleotide_sequence	gene_or_genome	congenital_abnormality
+property_of	location_of
+-1
+-14.09703361523134
+___
+nucleotide_sequence	gene_or_genome	genetic_function
+property_of	location_of
+-1
+-14.09703361523134
+___
+nucleotide_sequence	gene_or_genome	neoplastic_process
+property_of	location_of
+-1
+-14.09703361523134
+___
+nucleotide_sequence	gene_or_genome	anatomical_abnormality
+property_of	location_of
+-1
+-14.09703361523134
+___
+nucleotide_sequence	gene_or_genome	disease_or_syndrome
+property_of	location_of
+-1
+-14.09703361523134
+___
+nucleotide_sequence	gene_or_genome	mental_or_behavioral_dysfunction
+property_of	location_of
+-1
+-14.09703361523134
+___
+nucleotide_sequence	gene_or_genome	rickettsia_or_chlamydia
+property_of	location_of
+-1
+-14.09703361523134
+___
+nucleotide_sequence	gene_or_genome	injury_or_poisoning
+property_of	location_of
+-1
+-14.09703361523134
+___
+nucleotide_sequence	gene_or_genome	organ_or_tissue_function
+property_of	location_of
+-1
+-14.09703361523134
+___
+nucleotide_sequence	gene_or_genome	acquired_abnormality
+property_of	location_of
+-1
+-14.09703361523134
+___
+nucleotide_sequence	spatial_concept	geographic_area
+isa	_isa
+-1
+-14.765794157981873
+___
+nucleotide_sequence	spatial_concept	molecular_sequence
+isa	_isa
+-1
+-14.765794157981873
+___
+nucleotide_sequence	spatial_concept	body_location_or_region
+isa	_isa
+-1
+-14.765794157981873
+___
+nucleotide_sequence	spatial_concept	carbohydrate_sequence
+isa	_isa
+-1
+-14.765794157981873
+___
+nucleotide_sequence	spatial_concept	nucleotide_sequence
+isa	_isa
+-1
+-14.765794157981873
+___
+nucleotide_sequence	spatial_concept	amino_acid_sequence
+isa	_isa
+-1
+-14.765794157981873
+___
+nucleotide_sequence	spatial_concept	body_space_or_junction
+isa	_isa
+-1
+-14.765794157981873
+___
+nucleotide_sequence	nucleotide_sequence	mental_process
+NO_OP	result_of
+-1
+-14.88070297241211
+___
+nucleotide_sequence	idea_or_concept	spatial_concept
+isa	_isa
+-1
+-14.891381025314331
+___
+nucleotide_sequence	idea_or_concept	temporal_concept
+isa	_isa
+-1
+-14.891381025314331
+___
+nucleotide_sequence	idea_or_concept	quantitative_concept
+isa	_isa
+-1
+-14.891381025314331
+___
+nucleotide_sequence	idea_or_concept	body_space_or_junction
+isa	_isa
+-1
+-14.891381025314331
+___
+nucleotide_sequence	idea_or_concept	body_system
+isa	_isa
+-1
+-14.891381025314331
+___
+nucleotide_sequence	idea_or_concept	functional_concept
+isa	_isa
+-1
+-14.891381025314331
+___
+nucleotide_sequence	idea_or_concept	nucleotide_sequence
+isa	_isa
+-1
+-14.891381025314331
+___
+nucleotide_sequence	idea_or_concept	body_location_or_region
+isa	_isa
+-1
+-14.891381025314331
+___
+nucleotide_sequence	gene_or_genome	nucleotide_sequence
+property_of	_property_of
+-1
+-15.204151268124406
+___
+nucleotide_sequence	quantitative_concept	therapeutic_or_preventive_procedure
+_measurement_of	conceptual_part_of
+-1
+-15.615196466445923
+___
+nucleotide_sequence	conceptual_entity	age_group
+isa	_isa
+-1
+-16.138416290283203
+___
+nucleotide_sequence	conceptual_entity	amino_acid_sequence
+isa	_isa
+-1
+-16.138416290283203
+___
+nucleotide_sequence	conceptual_entity	patient_or_disabled_group
+isa	_isa
+-1
+-16.138416290283203
+___
+nucleotide_sequence	conceptual_entity	body_location_or_region
+isa	_isa
+-1
+-16.138416290283203
+___
+#####################
+group_attribute	family_group
+Reward:1
+group_attribute	age_group	family_group
+property_of	_interacts_with
+1
+-1.6095610802585725
+___
+group_attribute	patient_or_disabled_group	family_group
+property_of	_interacts_with
+1
+-1.6095725230916287
+___
+group_attribute	group	family_group
+property_of	_isa
+1
+-1.619199227541685
+___
+group_attribute	professional_or_occupational_group	family_group
+property_of	interacts_with
+1
+-1.691201813519001
+___
+group_attribute	population_group	family_group
+property_of	interacts_with
+1
+-1.7091516181826591
+___
+group_attribute	professional_or_occupational_group	neoplastic_process
+property_of	_occurs_in
+-1
+-6.353740930557251
+___
+group_attribute	professional_or_occupational_group	anatomical_abnormality
+property_of	_occurs_in
+-1
+-6.353740930557251
+___
+group_attribute	professional_or_occupational_group	cell_or_molecular_dysfunction
+property_of	_occurs_in
+-1
+-6.353740930557251
+___
+group_attribute	professional_or_occupational_group	disease_or_syndrome
+property_of	_occurs_in
+-1
+-6.353740930557251
+___
+group_attribute	professional_or_occupational_group	pathologic_function
+property_of	_occurs_in
+-1
+-6.353740930557251
+___
+group_attribute	professional_or_occupational_group	congenital_abnormality
+property_of	_occurs_in
+-1
+-6.353740930557251
+___
+group_attribute	professional_or_occupational_group	experimental_model_of_disease
+property_of	_occurs_in
+-1
+-6.353740930557251
+___
+group_attribute	population_group	pathologic_function
+property_of	_occurs_in
+-1
+-6.371690511703491
+___
+group_attribute	population_group	cell_or_molecular_dysfunction
+property_of	_occurs_in
+-1
+-6.371690511703491
+___
+group_attribute	population_group	injury_or_poisoning
+property_of	_occurs_in
+-1
+-6.371690511703491
+___
+group_attribute	population_group	anatomical_abnormality
+property_of	_occurs_in
+-1
+-6.371690511703491
+___
+group_attribute	population_group	experimental_model_of_disease
+property_of	_occurs_in
+-1
+-6.371690511703491
+___
+group_attribute	population_group	neoplastic_process
+property_of	_occurs_in
+-1
+-6.371690511703491
+___
+group_attribute	population_group	congenital_abnormality
+property_of	_occurs_in
+-1
+-6.371690511703491
+___
+group_attribute	population_group	disease_or_syndrome
+property_of	_occurs_in
+-1
+-6.371690511703491
+___
+group_attribute	population_group	mental_or_behavioral_dysfunction
+property_of	_occurs_in
+-1
+-6.371690511703491
+___
+group_attribute	population_group	acquired_abnormality
+property_of	_occurs_in
+-1
+-6.371690511703491
+___
+group_attribute	professional_or_occupational_group	neoplastic_process
+property_of	diagnoses
+-1
+-8.092893838882446
+___
+group_attribute	professional_or_occupational_group	cell_or_molecular_dysfunction
+property_of	diagnoses
+-1
+-8.092893838882446
+___
+group_attribute	professional_or_occupational_group	disease_or_syndrome
+property_of	diagnoses
+-1
+-8.092893838882446
+___
+group_attribute	professional_or_occupational_group	pathologic_function
+property_of	diagnoses
+-1
+-8.092893838882446
+___
+group_attribute	professional_or_occupational_group	mental_or_behavioral_dysfunction
+property_of	diagnoses
+-1
+-8.092893838882446
+___
+group_attribute	professional_or_occupational_group	drug_delivery_device
+property_of	produces
+-1
+-8.56163477897644
+___
+group_attribute	professional_or_occupational_group	clinical_drug
+property_of	produces
+-1
+-8.56163477897644
+___
+group_attribute	professional_or_occupational_group	medical_device
+property_of	produces
+-1
+-8.56163477897644
+___
+group_attribute	professional_or_occupational_group	intellectual_product
+property_of	produces
+-1
+-8.56163477897644
+___
+group_attribute	professional_or_occupational_group	research_device
+property_of	produces
+-1
+-8.56163477897644
+___
+group_attribute	professional_or_occupational_group	classification
+property_of	produces
+-1
+-8.56163477897644
+___
+group_attribute	professional_or_occupational_group	manufactured_object
+property_of	produces
+-1
+-8.56163477897644
+___
+group_attribute	group	disease_or_syndrome
+property_of	_occurs_in
+-1
+-8.572250127792358
+___
+group_attribute	group	acquired_abnormality
+property_of	_occurs_in
+-1
+-8.572250127792358
+___
+group_attribute	group	neoplastic_process
+property_of	_occurs_in
+-1
+-8.572250127792358
+___
+group_attribute	group	anatomical_abnormality
+property_of	_occurs_in
+-1
+-8.572250127792358
+___
+group_attribute	group	congenital_abnormality
+property_of	_occurs_in
+-1
+-8.572250127792358
+___
+group_attribute	group	cell_or_molecular_dysfunction
+property_of	_occurs_in
+-1
+-8.572250127792358
+___
+group_attribute	group	pathologic_function
+property_of	_occurs_in
+-1
+-8.572250127792358
+___
+group_attribute	group	mental_or_behavioral_dysfunction
+property_of	_occurs_in
+-1
+-8.572250127792358
+___
+group_attribute	group	injury_or_poisoning
+property_of	_occurs_in
+-1
+-8.572250127792358
+___
+group_attribute	population_group	intellectual_product
+property_of	produces
+-1
+-8.57958436012268
+___
+group_attribute	population_group	manufactured_object
+property_of	produces
+-1
+-8.57958436012268
+___
+group_attribute	population_group	research_device
+property_of	produces
+-1
+-8.57958436012268
+___
+group_attribute	population_group	clinical_drug
+property_of	produces
+-1
+-8.57958436012268
+___
+group_attribute	population_group	drug_delivery_device
+property_of	produces
+-1
+-8.57958436012268
+___
+group_attribute	population_group	classification
+property_of	produces
+-1
+-8.57958436012268
+___
+group_attribute	professional_or_occupational_group	conceptual_entity
+property_of	isa
+-1
+-9.125173330307007
+___
+group_attribute	population_group	conceptual_entity
+property_of	isa
+-1
+-9.143122911453247
+___
+group_attribute	population_group	entity
+property_of	isa
+-1
+-9.143122911453247
+___
+group_attribute	professional_or_occupational_group	research_device
+property_of	uses
+-1
+-9.783129453659058
+___
+group_attribute	professional_or_occupational_group	medical_device
+property_of	uses
+-1
+-9.783129453659058
+___
+group_attribute	professional_or_occupational_group	clinical_drug
+property_of	uses
+-1
+-9.783129453659058
+___
+group_attribute	professional_or_occupational_group	classification
+property_of	uses
+-1
+-9.783129453659058
+___
+group_attribute	professional_or_occupational_group	intellectual_product
+property_of	uses
+-1
+-9.783129453659058
+___
+group_attribute	population_group	intellectual_product
+property_of	uses
+-1
+-9.801079511642456
+___
+group_attribute	population_group	clinical_drug
+property_of	uses
+-1
+-9.801079511642456
+___
+group_attribute	population_group	research_device
+property_of	uses
+-1
+-9.801079511642456
+___
+group_attribute	population_group	drug_delivery_device
+property_of	uses
+-1
+-9.801079511642456
+___
+group_attribute	population_group	classification
+property_of	uses
+-1
+-9.801079511642456
+___
+group_attribute	population_group	manufactured_object
+property_of	uses
+-1
+-9.801079511642456
+___
+group_attribute	professional_or_occupational_group	behavior
+property_of	_associated_with
+-1
+-9.996042013168335
+___
+group_attribute	professional_or_occupational_group	individual_behavior
+property_of	_associated_with
+-1
+-9.996042013168335
+___
+group_attribute	professional_or_occupational_group	occupation_or_discipline
+property_of	practices
+-1
+-10.000657796859741
+___
+group_attribute	professional_or_occupational_group	biomedical_occupation_or_discipline
+property_of	practices
+-1
+-10.000657796859741
+___
+group_attribute	population_group	individual_behavior
+property_of	_associated_with
+-1
+-10.013992071151733
+___
+group_attribute	population_group	behavior
+property_of	_associated_with
+-1
+-10.013992071151733
+___
+group_attribute	population_group	social_behavior
+property_of	_associated_with
+-1
+-10.013992071151733
+___
+group_attribute	professional_or_occupational_group	occupation_or_discipline
+property_of	issue_in
+-1
+-10.672845602035522
+___
+group_attribute	professional_or_occupational_group	biomedical_occupation_or_discipline
+property_of	issue_in
+-1
+-10.672845602035522
+___
+group_attribute	professional_or_occupational_group	regulation_or_law
+property_of	_affects
+-1
+-10.687625646591187
+___
+group_attribute	population_group	biomedical_occupation_or_discipline
+property_of	issue_in
+-1
+-10.690795660018921
+___
+group_attribute	population_group	occupation_or_discipline
+property_of	issue_in
+-1
+-10.690795660018921
+___
+group_attribute	population_group	regulation_or_law
+property_of	_affects
+-1
+-10.705575704574585
+___
+group_attribute	group	intellectual_product
+property_of	produces
+-1
+-10.780144453048706
+___
+group_attribute	group	manufactured_object
+property_of	produces
+-1
+-10.780144453048706
+___
+group_attribute	group	regulation_or_law
+property_of	produces
+-1
+-10.780144453048706
+___
+group_attribute	group	clinical_drug
+property_of	produces
+-1
+-10.780144453048706
+___
+group_attribute	group	drug_delivery_device
+property_of	produces
+-1
+-10.780144453048706
+___
+group_attribute	group	classification
+property_of	produces
+-1
+-10.780144453048706
+___
+group_attribute	group	medical_device
+property_of	produces
+-1
+-10.780144453048706
+___
+group_attribute	group	entity
+property_of	isa
+-1
+-11.343683004379272
+___
+group_attribute	group	conceptual_entity
+property_of	isa
+-1
+-11.343683004379272
+___
+group_attribute	group	regulation_or_law
+property_of	uses
+-1
+-12.001639127731323
+___
+group_attribute	group	medical_device
+property_of	uses
+-1
+-12.001639127731323
+___
+group_attribute	group	clinical_drug
+property_of	uses
+-1
+-12.001639127731323
+___
+group_attribute	group	intellectual_product
+property_of	uses
+-1
+-12.001639127731323
+___
+group_attribute	group	research_device
+property_of	uses
+-1
+-12.001639127731323
+___
+group_attribute	group	manufactured_object
+property_of	uses
+-1
+-12.001639127731323
+___
+group_attribute	group	drug_delivery_device
+property_of	uses
+-1
+-12.001639127731323
+___
+group_attribute	group	social_behavior
+property_of	_associated_with
+-1
+-12.2145516872406
+___
+group_attribute	group	behavior
+property_of	_associated_with
+-1
+-12.2145516872406
+___
+group_attribute	group	individual_behavior
+property_of	_associated_with
+-1
+-12.2145516872406
+___
+group_attribute	group_attribute	occupation_or_discipline
+NO_OP	issue_in
+-1
+-12.80110788345337
+___
+group_attribute	group_attribute	biomedical_occupation_or_discipline
+NO_OP	issue_in
+-1
+-12.80110788345337
+___
+group_attribute	group	biomedical_occupation_or_discipline
+property_of	issue_in
+-1
+-12.891355276107788
+___
+group_attribute	group	occupation_or_discipline
+property_of	issue_in
+-1
+-12.891355276107788
+___
+group_attribute	age_group	congenital_abnormality
+property_of	_occurs_in
+-1
+-12.893952131271362
+___
+#####################
+organism_attribute	mammal
+Reward:1
+organism_attribute	human	mammal
+property_of	_interacts_with
+1
+-2.642799845081754
+___
+organism_attribute	archaeon	mammal
+property_of	_interacts_with
+1
+-2.642803301670938
+___
+organism_attribute	plant	mammal
+property_of	interacts_with
+1
+-2.7152040004730225
+___
+organism_attribute	bacterium	mammal
+property_of	interacts_with
+1
+-2.720319762825966
+___
+organism_attribute	invertebrate	mammal
+property_of	interacts_with
+1
+-2.7256265208125114
+___
+organism_attribute	fungus	mammal
+property_of	interacts_with
+1
+-2.727418601512909
+___
+organism_attribute	alga	mammal
+property_of	interacts_with
+1
+-2.7324417904019356
+___
+organism_attribute	reptile	mammal
+property_of	interacts_with
+1
+-2.7338740825653076
+___
+organism_attribute	amphibian	mammal
+property_of	interacts_with
+1
+-2.7341844961047173
+___
+organism_attribute	virus	mammal
+property_of	interacts_with
+1
+-2.7392632961273193
+___
+organism_attribute	vertebrate	mammal
+property_of	_isa
+1
+-2.7469110190868378
+___
+organism_attribute	rickettsia_or_chlamydia	mammal
+property_of	interacts_with
+1
+-2.7476194500923157
+___
+organism_attribute	fish	mammal
+property_of	interacts_with
+1
+-2.7516682744026184
+___
+organism_attribute	bird	cell
+property_of	_part_of
+-1
+-4.834922552108765
+___
+organism_attribute	bird	anatomical_abnormality
+property_of	_part_of
+-1
+-4.834922552108765
+___
+organism_attribute	bird	gene_or_genome
+property_of	_part_of
+-1
+-4.834922552108765
+___
+organism_attribute	bird	cell_component
+property_of	_part_of
+-1
+-4.834922552108765
+___
+organism_attribute	bird	tissue
+property_of	_part_of
+-1
+-4.834922552108765
+___
+organism_attribute	bird	body_part_organ_or_organ_component
+property_of	_part_of
+-1
+-4.834922552108765
+___
+organism_attribute	bird	acquired_abnormality
+property_of	_part_of
+-1
+-4.834922552108765
+___
+organism_attribute	bird	anatomical_structure
+property_of	_part_of
+-1
+-4.834922552108765
+___
+organism_attribute	vertebrate	mammal
+property_of	interacts_with
+1
+-5.037423133850098
+___
+organism_attribute	clinical_attribute	mammal
+_isa	property_of
+1
+-5.859543964266777
+___
+organism_attribute	clinical_attribute	organism_attribute
+_isa	_degree_of
+-1
+-7.3434964418411255
+___
+organism_attribute	plant	embryonic_structure
+property_of	_part_of
+-1
+-7.374434232711792
+___
+organism_attribute	plant	congenital_abnormality
+property_of	_part_of
+-1
+-7.374434232711792
+___
+organism_attribute	plant	cell
+property_of	_part_of
+-1
+-7.374434232711792
+___
+organism_attribute	plant	cell_component
+property_of	_part_of
+-1
+-7.374434232711792
+___
+organism_attribute	plant	tissue
+property_of	_part_of
+-1
+-7.374434232711792
+___
+organism_attribute	plant	anatomical_abnormality
+property_of	_part_of
+-1
+-7.374434232711792
+___
+organism_attribute	plant	body_part_organ_or_organ_component
+property_of	_part_of
+-1
+-7.374434232711792
+___
+organism_attribute	bacterium	body_part_organ_or_organ_component
+property_of	_part_of
+-1
+-7.379550218582153
+___
+organism_attribute	bacterium	cell_component
+property_of	_part_of
+-1
+-7.379550218582153
+___
+organism_attribute	bacterium	gene_or_genome
+property_of	_part_of
+-1
+-7.379550218582153
+___
+organism_attribute	bacterium	anatomical_structure
+property_of	_part_of
+-1
+-7.379550218582153
+___
+organism_attribute	bacterium	acquired_abnormality
+property_of	_part_of
+-1
+-7.379550218582153
+___
+organism_attribute	bacterium	tissue
+property_of	_part_of
+-1
+-7.379550218582153
+___
+organism_attribute	bacterium	fully_formed_anatomical_structure
+property_of	_part_of
+-1
+-7.379550218582153
+___
+organism_attribute	invertebrate	gene_or_genome
+property_of	_part_of
+-1
+-7.384856939315796
+___
+organism_attribute	invertebrate	tissue
+property_of	_part_of
+-1
+-7.384856939315796
+___
+organism_attribute	invertebrate	acquired_abnormality
+property_of	_part_of
+-1
+-7.384856939315796
+___
+organism_attribute	invertebrate	anatomical_structure
+property_of	_part_of
+-1
+-7.384856939315796
+___
+organism_attribute	invertebrate	congenital_abnormality
+property_of	_part_of
+-1
+-7.384856939315796
+___
+organism_attribute	invertebrate	embryonic_structure
+property_of	_part_of
+-1
+-7.384856939315796
+___
+organism_attribute	invertebrate	anatomical_abnormality
+property_of	_part_of
+-1
+-7.384856939315796
+___
+organism_attribute	invertebrate	cell_component
+property_of	_part_of
+-1
+-7.384856939315796
+___
+organism_attribute	fungus	acquired_abnormality
+property_of	_part_of
+-1
+-7.386648893356323
+___
+organism_attribute	fungus	anatomical_abnormality
+property_of	_part_of
+-1
+-7.386648893356323
+___
+organism_attribute	fungus	congenital_abnormality
+property_of	_part_of
+-1
+-7.386648893356323
+___
+organism_attribute	fungus	body_part_organ_or_organ_component
+property_of	_part_of
+-1
+-7.386648893356323
+___
+organism_attribute	fungus	gene_or_genome
+property_of	_part_of
+-1
+-7.386648893356323
+___
+organism_attribute	fungus	tissue
+property_of	_part_of
+-1
+-7.386648893356323
+___
+organism_attribute	fungus	fully_formed_anatomical_structure
+property_of	_part_of
+-1
+-7.386648893356323
+___
+organism_attribute	fungus	cell_component
+property_of	_part_of
+-1
+-7.386648893356323
+___
+organism_attribute	alga	anatomical_abnormality
+property_of	_part_of
+-1
+-7.391671895980835
+___
+organism_attribute	alga	cell_component
+property_of	_part_of
+-1
+-7.391671895980835
+___
+organism_attribute	alga	fully_formed_anatomical_structure
+property_of	_part_of
+-1
+-7.391671895980835
+___
+organism_attribute	alga	embryonic_structure
+property_of	_part_of
+-1
+-7.391671895980835
+___
+organism_attribute	alga	body_part_organ_or_organ_component
+property_of	_part_of
+-1
+-7.391671895980835
+___
+organism_attribute	alga	congenital_abnormality
+property_of	_part_of
+-1
+-7.391671895980835
+___
+organism_attribute	alga	gene_or_genome
+property_of	_part_of
+-1
+-7.391671895980835
+___
+organism_attribute	alga	cell
+property_of	_part_of
+-1
+-7.391671895980835
+___
+organism_attribute	alga	tissue
+property_of	_part_of
+-1
+-7.391671895980835
+___
+organism_attribute	reptile	cell_component
+property_of	_part_of
+-1
+-7.393104314804077
+___
+organism_attribute	reptile	tissue
+property_of	_part_of
+-1
+-7.393104314804077
+___
+organism_attribute	reptile	congenital_abnormality
+property_of	_part_of
+-1
+-7.393104314804077
+___
+organism_attribute	reptile	body_part_organ_or_organ_component
+property_of	_part_of
+-1
+-7.393104314804077
+___
+organism_attribute	reptile	anatomical_structure
+property_of	_part_of
+-1
+-7.393104314804077
+___
+organism_attribute	reptile	embryonic_structure
+property_of	_part_of
+-1
+-7.393104314804077
+___
+organism_attribute	reptile	acquired_abnormality
+property_of	_part_of
+-1
+-7.393104314804077
+___
+organism_attribute	reptile	anatomical_abnormality
+property_of	_part_of
+-1
+-7.393104314804077
+___
+organism_attribute	reptile	fully_formed_anatomical_structure
+property_of	_part_of
+-1
+-7.393104314804077
+___
+organism_attribute	amphibian	tissue
+property_of	_part_of
+-1
+-7.393414735794067
+___
+organism_attribute	amphibian	anatomical_structure
+property_of	_part_of
+-1
+-7.393414735794067
+___
+organism_attribute	amphibian	cell
+property_of	_part_of
+-1
+-7.393414735794067
+___
+organism_attribute	amphibian	congenital_abnormality
+property_of	_part_of
+-1
+-7.393414735794067
+___
+organism_attribute	amphibian	body_part_organ_or_organ_component
+property_of	_part_of
+-1
+-7.393414735794067
+___
+organism_attribute	amphibian	cell_component
+property_of	_part_of
+-1
+-7.393414735794067
+___
+organism_attribute	amphibian	anatomical_abnormality
+property_of	_part_of
+-1
+-7.393414735794067
+___
+organism_attribute	amphibian	gene_or_genome
+property_of	_part_of
+-1
+-7.393414735794067
+___
+organism_attribute	amphibian	embryonic_structure
+property_of	_part_of
+-1
+-7.393414735794067
+___
+organism_attribute	virus	gene_or_genome
+property_of	_part_of
+-1
+-7.398493528366089
+___
+organism_attribute	virus	cell_component
+property_of	_part_of
+-1
+-7.398493528366089
+___
+organism_attribute	virus	cell
+property_of	_part_of
+-1
+-7.398493528366089
+___
+organism_attribute	virus	body_part_organ_or_organ_component
+property_of	_part_of
+-1
+-7.398493528366089
+___
+organism_attribute	virus	acquired_abnormality
+property_of	_part_of
+-1
+-7.398493528366089
+___
+organism_attribute	virus	anatomical_structure
+property_of	_part_of
+-1
+-7.398493528366089
+___
+organism_attribute	virus	fully_formed_anatomical_structure
+property_of	_part_of
+-1
+-7.398493528366089
+___
+organism_attribute	virus	anatomical_abnormality
+property_of	_part_of
+-1
+-7.398493528366089
+___
+organism_attribute	virus	tissue
+property_of	_part_of
+-1
+-7.398493528366089
+___
+organism_attribute	rickettsia_or_chlamydia	congenital_abnormality
+property_of	_part_of
+-1
+-7.40684962272644
+___
+organism_attribute	rickettsia_or_chlamydia	tissue
+property_of	_part_of
+-1
+-7.40684962272644
+___
+organism_attribute	rickettsia_or_chlamydia	anatomical_abnormality
+property_of	_part_of
+-1
+-7.40684962272644
+___
+organism_attribute	rickettsia_or_chlamydia	body_part_organ_or_organ_component
+property_of	_part_of
+-1
+-7.40684962272644
+___
+organism_attribute	rickettsia_or_chlamydia	cell_component
+property_of	_part_of
+-1
+-7.40684962272644
+___
+organism_attribute	rickettsia_or_chlamydia	embryonic_structure
+property_of	_part_of
+-1
+-7.40684962272644
+___
+organism_attribute	rickettsia_or_chlamydia	fully_formed_anatomical_structure
+property_of	_part_of
+-1
+-7.40684962272644
+___
+organism_attribute	rickettsia_or_chlamydia	anatomical_structure
+property_of	_part_of
+-1
+-7.40684962272644
+___
+organism_attribute	rickettsia_or_chlamydia	cell
+property_of	_part_of
+-1
+-7.40684962272644
+___
+organism_attribute	rickettsia_or_chlamydia	gene_or_genome
+property_of	_part_of
+-1
+-7.40684962272644
+___
+#####################
+organism_attribute	organism
+Reward:1
+organism_attribute	plant	organism
+property_of	interacts_with
+1
+-2.715753309428692
+___
+organism_attribute	bacterium	organism
+property_of	interacts_with
+1
+-2.720319762825966
+___
+organism_attribute	bird	organism
+property_of	interacts_with
+1
+-2.7246425226330757
+___
+organism_attribute	vertebrate	organism
+property_of	interacts_with
+1
+-2.725303463637829
+___
+organism_attribute	invertebrate	organism
+property_of	interacts_with
+1
+-2.7261703610420227
+___
+organism_attribute	alga	organism
+property_of	interacts_with
+1
+-2.7324416786432266
+___
+organism_attribute	reptile	organism
+property_of	interacts_with
+1
+-2.734413132071495
+___
+organism_attribute	amphibian	organism
+property_of	interacts_with
+1
+-2.7347235828638077
+___
+organism_attribute	virus	organism
+property_of	interacts_with
+1
+-2.7392628714442253
+___
+organism_attribute	archaeon	organism
+property_of	interacts_with
+1
+-2.742572546005249
+___
+organism_attribute	rickettsia_or_chlamydia	organism
+property_of	interacts_with
+1
+-2.7481510266661644
+___
+organism_attribute	fungus	cell_component
+property_of	_part_of
+-1
+-4.883229970932007
+___
+organism_attribute	fungus	congenital_abnormality
+property_of	_part_of
+-1
+-4.883229970932007
+___
+organism_attribute	fungus	body_part_organ_or_organ_component
+property_of	_part_of
+-1
+-4.883229970932007
+___
+organism_attribute	fungus	acquired_abnormality
+property_of	_part_of
+-1
+-4.883229970932007
+___
+organism_attribute	fungus	fully_formed_anatomical_structure
+property_of	_part_of
+-1
+-4.883229970932007
+___
+organism_attribute	fungus	tissue
+property_of	_part_of
+-1
+-4.883229970932007
+___
+organism_attribute	fungus	gene_or_genome
+property_of	_part_of
+-1
+-4.883229970932007
+___
+organism_attribute	fungus	anatomical_abnormality
+property_of	_part_of
+-1
+-4.883229970932007
+___
+organism_attribute	human	embryonic_structure
+property_of	_part_of
+-1
+-5.023690938949585
+___
+organism_attribute	human	fully_formed_anatomical_structure
+property_of	_part_of
+-1
+-5.023690938949585
+___
+organism_attribute	human	cell
+property_of	_part_of
+-1
+-5.023690938949585
+___
+organism_attribute	human	congenital_abnormality
+property_of	_part_of
+-1
+-5.023690938949585
+___
+organism_attribute	human	anatomical_structure
+property_of	_part_of
+-1
+-5.023690938949585
+___
+organism_attribute	human	anatomical_abnormality
+property_of	_part_of
+-1
+-5.023690938949585
+___
+organism_attribute	human	tissue
+property_of	_part_of
+-1
+-5.023690938949585
+___
+organism_attribute	human	gene_or_genome
+property_of	_part_of
+-1
+-5.023690938949585
+___
+organism_attribute	human	body_part_organ_or_organ_component
+property_of	_part_of
+-1
+-5.023690938949585
+___
+organism_attribute	human	acquired_abnormality
+property_of	_part_of
+-1
+-5.023690938949585
+___
+organism_attribute	fish	cell
+property_of	_part_of
+-1
+-5.14563775062561
+___
+organism_attribute	fish	embryonic_structure
+property_of	_part_of
+-1
+-5.14563775062561
+___
+organism_attribute	fish	tissue
+property_of	_part_of
+-1
+-5.14563775062561
+___
+organism_attribute	fish	fully_formed_anatomical_structure
+property_of	_part_of
+-1
+-5.14563775062561
+___
+organism_attribute	fish	body_part_organ_or_organ_component
+property_of	_part_of
+-1
+-5.14563775062561
+___
+organism_attribute	fish	anatomical_abnormality
+property_of	_part_of
+-1
+-5.14563775062561
+___
+organism_attribute	fish	acquired_abnormality
+property_of	_part_of
+-1
+-5.14563775062561
+___
+organism_attribute	fish	anatomical_structure
+property_of	_part_of
+-1
+-5.14563775062561
+___
+organism_attribute	fish	gene_or_genome
+property_of	_part_of
+-1
+-5.14563775062561
+___
+organism_attribute	fish	congenital_abnormality
+property_of	_part_of
+-1
+-5.14563775062561
+___
+organism_attribute	fish	cell_component
+property_of	_part_of
+-1
+-5.14563775062561
+___
+organism_attribute	clinical_attribute	organism
+_isa	property_of
+1
+-5.859544053673744
+___
+organism_attribute	fungus	cell_or_molecular_dysfunction
+property_of	causes
+-1
+-7.2743566036224365
+___
+organism_attribute	fungus	mental_or_behavioral_dysfunction
+property_of	causes
+-1
+-7.2743566036224365
+___
+organism_attribute	fungus	experimental_model_of_disease
+property_of	causes
+-1
+-7.2743566036224365
+___
+organism_attribute	fungus	neoplastic_process
+property_of	causes
+-1
+-7.2743566036224365
+___
+organism_attribute	clinical_attribute	organism_attribute
+_isa	_degree_of
+-1
+-7.343496561050415
+___
+organism_attribute	plant	congenital_abnormality
+property_of	_part_of
+-1
+-7.374983549118042
+___
+organism_attribute	plant	anatomical_abnormality
+property_of	_part_of
+-1
+-7.374983549118042
+___
+organism_attribute	plant	embryonic_structure
+property_of	_part_of
+-1
+-7.374983549118042
+___
+organism_attribute	plant	body_part_organ_or_organ_component
+property_of	_part_of
+-1
+-7.374983549118042
+___
+organism_attribute	plant	cell
+property_of	_part_of
+-1
+-7.374983549118042
+___
+organism_attribute	plant	cell_component
+property_of	_part_of
+-1
+-7.374983549118042
+___
+organism_attribute	plant	tissue
+property_of	_part_of
+-1
+-7.374983549118042
+___
+organism_attribute	bacterium	fully_formed_anatomical_structure
+property_of	_part_of
+-1
+-7.379550218582153
+___
+organism_attribute	bacterium	tissue
+property_of	_part_of
+-1
+-7.379550218582153
+___
+organism_attribute	bacterium	acquired_abnormality
+property_of	_part_of
+-1
+-7.379550218582153
+___
+organism_attribute	bacterium	gene_or_genome
+property_of	_part_of
+-1
+-7.379550218582153
+___
+organism_attribute	bacterium	anatomical_structure
+property_of	_part_of
+-1
+-7.379550218582153
+___
+organism_attribute	bacterium	cell_component
+property_of	_part_of
+-1
+-7.379550218582153
+___
+organism_attribute	bacterium	body_part_organ_or_organ_component
+property_of	_part_of
+-1
+-7.379550218582153
+___
+organism_attribute	bird	cell_component
+property_of	_part_of
+-1
+-7.383872747421265
+___
+organism_attribute	bird	cell
+property_of	_part_of
+-1
+-7.383872747421265
+___
+organism_attribute	bird	body_part_organ_or_organ_component
+property_of	_part_of
+-1
+-7.383872747421265
+___
+organism_attribute	bird	anatomical_structure
+property_of	_part_of
+-1
+-7.383872747421265
+___
+organism_attribute	bird	tissue
+property_of	_part_of
+-1
+-7.383872747421265
+___
+organism_attribute	bird	acquired_abnormality
+property_of	_part_of
+-1
+-7.383872747421265
+___
+organism_attribute	bird	gene_or_genome
+property_of	_part_of
+-1
+-7.383872747421265
+___
+organism_attribute	bird	anatomical_abnormality
+property_of	_part_of
+-1
+-7.383872747421265
+___
+organism_attribute	vertebrate	acquired_abnormality
+property_of	_part_of
+-1
+-7.384533643722534
+___
+organism_attribute	vertebrate	cell_component
+property_of	_part_of
+-1
+-7.384533643722534
+___
+organism_attribute	vertebrate	fully_formed_anatomical_structure
+property_of	_part_of
+-1
+-7.384533643722534
+___
+organism_attribute	vertebrate	congenital_abnormality
+property_of	_part_of
+-1
+-7.384533643722534
+___
+organism_attribute	vertebrate	tissue
+property_of	_part_of
+-1
+-7.384533643722534
+___
+organism_attribute	vertebrate	body_part_organ_or_organ_component
+property_of	_part_of
+-1
+-7.384533643722534
+___
+organism_attribute	vertebrate	cell
+property_of	_part_of
+-1
+-7.384533643722534
+___
+organism_attribute	vertebrate	anatomical_structure
+property_of	_part_of
+-1
+-7.384533643722534
+___
+organism_attribute	invertebrate	tissue
+property_of	_part_of
+-1
+-7.3854005336761475
+___
+organism_attribute	invertebrate	gene_or_genome
+property_of	_part_of
+-1
+-7.3854005336761475
+___
+organism_attribute	invertebrate	anatomical_structure
+property_of	_part_of
+-1
+-7.3854005336761475
+___
+organism_attribute	invertebrate	embryonic_structure
+property_of	_part_of
+-1
+-7.3854005336761475
+___
+organism_attribute	invertebrate	anatomical_abnormality
+property_of	_part_of
+-1
+-7.3854005336761475
+___
+organism_attribute	invertebrate	cell_component
+property_of	_part_of
+-1
+-7.3854005336761475
+___
+organism_attribute	invertebrate	acquired_abnormality
+property_of	_part_of
+-1
+-7.3854005336761475
+___
+organism_attribute	invertebrate	congenital_abnormality
+property_of	_part_of
+-1
+-7.3854005336761475
+___
+organism_attribute	alga	tissue
+property_of	_part_of
+-1
+-7.391671895980835
+___
+organism_attribute	alga	anatomical_abnormality
+property_of	_part_of
+-1
+-7.391671895980835
+___
+organism_attribute	alga	congenital_abnormality
+property_of	_part_of
+-1
+-7.391671895980835
+___
+organism_attribute	alga	embryonic_structure
+property_of	_part_of
+-1
+-7.391671895980835
+___
+organism_attribute	alga	cell
+property_of	_part_of
+-1
+-7.391671895980835
+___
+organism_attribute	alga	body_part_organ_or_organ_component
+property_of	_part_of
+-1
+-7.391671895980835
+___
+organism_attribute	alga	gene_or_genome
+property_of	_part_of
+-1
+-7.391671895980835
+___
+organism_attribute	alga	fully_formed_anatomical_structure
+property_of	_part_of
+-1
+-7.391671895980835
+___
+organism_attribute	alga	cell_component
+property_of	_part_of
+-1
+-7.391671895980835
+___
+organism_attribute	reptile	anatomical_abnormality
+property_of	_part_of
+-1
+-7.393643140792847
+___
+organism_attribute	reptile	anatomical_structure
+property_of	_part_of
+-1
+-7.393643140792847
+___
+organism_attribute	reptile	acquired_abnormality
+property_of	_part_of
+-1
+-7.393643140792847
+___
+organism_attribute	reptile	congenital_abnormality
+property_of	_part_of
+-1
+-7.393643140792847
+___
+organism_attribute	reptile	body_part_organ_or_organ_component
+property_of	_part_of
+-1
+-7.393643140792847
+___
+organism_attribute	reptile	fully_formed_anatomical_structure
+property_of	_part_of
+-1
+-7.393643140792847
+___
+organism_attribute	reptile	embryonic_structure
+property_of	_part_of
+-1
+-7.393643140792847
+___
+#####################
+clinical_attribute	bacterium
+Reward:1
+clinical_attribute	bird	bacterium
+property_of	_interacts_with
+1
+-2.642340176869766
+___
+clinical_attribute	vertebrate	bacterium
+property_of	_interacts_with
+1
+-2.6423410112402053
+___
+clinical_attribute	mammal	bacterium
+property_of	_interacts_with
+1
+-2.6423519771924475
+___
+clinical_attribute	amphibian	bacterium
+property_of	_interacts_with
+1
+-2.642354837851599
+___
+clinical_attribute	organism	bacterium
+property_of	_interacts_with
+1
+-2.6423553146305494
+___
+clinical_attribute	human	bacterium
+property_of	_interacts_with
+1
+-2.642362823826261
+___
+clinical_attribute	animal	bacterium
+property_of	_interacts_with
+1
+-2.6423656844563084
+___
+clinical_attribute	fungus	bacterium
+property_of	interacts_with
+1
+-2.7269815802574158
+___
+clinical_attribute	alga	bacterium
+property_of	interacts_with
+1
+-2.7320046573877335
+___
+clinical_attribute	virus	bacterium
+property_of	interacts_with
+1
+-2.7388259544968605
+___
+clinical_attribute	rickettsia_or_chlamydia	bacterium
+property_of	interacts_with
+1
+-2.7471822053194046
+___
+clinical_attribute	plant	embryonic_structure
+property_of	_part_of
+-1
+-4.71432638168335
+___
+clinical_attribute	plant	cell
+property_of	_part_of
+-1
+-4.71432638168335
+___
+clinical_attribute	plant	body_part_organ_or_organ_component
+property_of	_part_of
+-1
+-4.71432638168335
+___
+clinical_attribute	plant	cell_component
+property_of	_part_of
+-1
+-4.71432638168335
+___
+clinical_attribute	plant	congenital_abnormality
+property_of	_part_of
+-1
+-4.71432638168335
+___
+clinical_attribute	plant	tissue
+property_of	_part_of
+-1
+-4.71432638168335
+___
+clinical_attribute	plant	anatomical_abnormality
+property_of	_part_of
+-1
+-4.71432638168335
+___
+clinical_attribute	archaeon	acquired_abnormality
+property_of	_part_of
+-1
+-5.042688608169556
+___
+clinical_attribute	archaeon	cell
+property_of	_part_of
+-1
+-5.042688608169556
+___
+clinical_attribute	archaeon	anatomical_structure
+property_of	_part_of
+-1
+-5.042688608169556
+___
+clinical_attribute	archaeon	anatomical_abnormality
+property_of	_part_of
+-1
+-5.042688608169556
+___
+clinical_attribute	archaeon	embryonic_structure
+property_of	_part_of
+-1
+-5.042688608169556
+___
+clinical_attribute	archaeon	gene_or_genome
+property_of	_part_of
+-1
+-5.042688608169556
+___
+clinical_attribute	archaeon	body_part_organ_or_organ_component
+property_of	_part_of
+-1
+-5.042688608169556
+___
+clinical_attribute	archaeon	cell_component
+property_of	_part_of
+-1
+-5.042688608169556
+___
+clinical_attribute	archaeon	tissue
+property_of	_part_of
+-1
+-5.042688608169556
+___
+clinical_attribute	archaeon	congenital_abnormality
+property_of	_part_of
+-1
+-5.042688608169556
+___
+clinical_attribute	fish	tissue
+property_of	_part_of
+-1
+-5.14008355140686
+___
+clinical_attribute	fish	congenital_abnormality
+property_of	_part_of
+-1
+-5.14008355140686
+___
+clinical_attribute	fish	cell
+property_of	_part_of
+-1
+-5.14008355140686
+___
+clinical_attribute	fish	embryonic_structure
+property_of	_part_of
+-1
+-5.14008355140686
+___
+clinical_attribute	fish	fully_formed_anatomical_structure
+property_of	_part_of
+-1
+-5.14008355140686
+___
+clinical_attribute	fish	acquired_abnormality
+property_of	_part_of
+-1
+-5.14008355140686
+___
+clinical_attribute	fish	gene_or_genome
+property_of	_part_of
+-1
+-5.14008355140686
+___
+clinical_attribute	fish	anatomical_structure
+property_of	_part_of
+-1
+-5.14008355140686
+___
+clinical_attribute	fish	anatomical_abnormality
+property_of	_part_of
+-1
+-5.14008355140686
+___
+clinical_attribute	fish	cell_component
+property_of	_part_of
+-1
+-5.14008355140686
+___
+clinical_attribute	fish	body_part_organ_or_organ_component
+property_of	_part_of
+-1
+-5.14008355140686
+___
+clinical_attribute	organism_attribute	bacterium
+_degree_of	property_of
+1
+-6.254594713449478
+___
+clinical_attribute	organism_attribute	clinical_attribute
+_degree_of	_isa
+-1
+-6.779686808586121
+___
+clinical_attribute	fungus	congenital_abnormality
+property_of	_part_of
+-1
+-7.38621187210083
+___
+clinical_attribute	fungus	cell_component
+property_of	_part_of
+-1
+-7.38621187210083
+___
+clinical_attribute	fungus	gene_or_genome
+property_of	_part_of
+-1
+-7.38621187210083
+___
+clinical_attribute	fungus	acquired_abnormality
+property_of	_part_of
+-1
+-7.38621187210083
+___
+clinical_attribute	fungus	fully_formed_anatomical_structure
+property_of	_part_of
+-1
+-7.38621187210083
+___
+clinical_attribute	fungus	body_part_organ_or_organ_component
+property_of	_part_of
+-1
+-7.38621187210083
+___
+clinical_attribute	fungus	tissue
+property_of	_part_of
+-1
+-7.38621187210083
+___
+clinical_attribute	fungus	anatomical_abnormality
+property_of	_part_of
+-1
+-7.38621187210083
+___
+clinical_attribute	alga	fully_formed_anatomical_structure
+property_of	_part_of
+-1
+-7.391234874725342
+___
+clinical_attribute	alga	cell_component
+property_of	_part_of
+-1
+-7.391234874725342
+___
+clinical_attribute	alga	congenital_abnormality
+property_of	_part_of
+-1
+-7.391234874725342
+___
+clinical_attribute	alga	tissue
+property_of	_part_of
+-1
+-7.391234874725342
+___
+clinical_attribute	alga	body_part_organ_or_organ_component
+property_of	_part_of
+-1
+-7.391234874725342
+___
+clinical_attribute	alga	anatomical_abnormality
+property_of	_part_of
+-1
+-7.391234874725342
+___
+clinical_attribute	alga	embryonic_structure
+property_of	_part_of
+-1
+-7.391234874725342
+___
+clinical_attribute	alga	gene_or_genome
+property_of	_part_of
+-1
+-7.391234874725342
+___
+clinical_attribute	alga	cell
+property_of	_part_of
+-1
+-7.391234874725342
+___
+clinical_attribute	virus	gene_or_genome
+property_of	_part_of
+-1
+-7.3980560302734375
+___
+clinical_attribute	virus	acquired_abnormality
+property_of	_part_of
+-1
+-7.3980560302734375
+___
+clinical_attribute	virus	cell_component
+property_of	_part_of
+-1
+-7.3980560302734375
+___
+clinical_attribute	virus	anatomical_structure
+property_of	_part_of
+-1
+-7.3980560302734375
+___
+clinical_attribute	virus	anatomical_abnormality
+property_of	_part_of
+-1
+-7.3980560302734375
+___
+clinical_attribute	virus	tissue
+property_of	_part_of
+-1
+-7.3980560302734375
+___
+clinical_attribute	virus	fully_formed_anatomical_structure
+property_of	_part_of
+-1
+-7.3980560302734375
+___
+clinical_attribute	virus	body_part_organ_or_organ_component
+property_of	_part_of
+-1
+-7.3980560302734375
+___
+clinical_attribute	virus	cell
+property_of	_part_of
+-1
+-7.3980560302734375
+___
+clinical_attribute	rickettsia_or_chlamydia	cell
+property_of	_part_of
+-1
+-7.406412601470947
+___
+clinical_attribute	rickettsia_or_chlamydia	anatomical_abnormality
+property_of	_part_of
+-1
+-7.406412601470947
+___
+clinical_attribute	rickettsia_or_chlamydia	gene_or_genome
+property_of	_part_of
+-1
+-7.406412601470947
+___
+clinical_attribute	rickettsia_or_chlamydia	embryonic_structure
+property_of	_part_of
+-1
+-7.406412601470947
+___
+clinical_attribute	rickettsia_or_chlamydia	body_part_organ_or_organ_component
+property_of	_part_of
+-1
+-7.406412601470947
+___
+clinical_attribute	rickettsia_or_chlamydia	cell_component
+property_of	_part_of
+-1
+-7.406412601470947
+___
+clinical_attribute	rickettsia_or_chlamydia	anatomical_structure
+property_of	_part_of
+-1
+-7.406412601470947
+___
+clinical_attribute	rickettsia_or_chlamydia	tissue
+property_of	_part_of
+-1
+-7.406412601470947
+___
+clinical_attribute	rickettsia_or_chlamydia	congenital_abnormality
+property_of	_part_of
+-1
+-7.406412601470947
+___
+clinical_attribute	rickettsia_or_chlamydia	fully_formed_anatomical_structure
+property_of	_part_of
+-1
+-7.406412601470947
+___
+clinical_attribute	plant	neoplastic_process
+property_of	_process_of
+-1
+-7.477815628051758
+___
+clinical_attribute	plant	genetic_function
+property_of	_process_of
+-1
+-7.477815628051758
+___
+clinical_attribute	plant	organism_function
+property_of	_process_of
+-1
+-7.477815628051758
+___
+clinical_attribute	plant	organ_or_tissue_function
+property_of	_process_of
+-1
+-7.477815628051758
+___
+clinical_attribute	plant	cell_or_molecular_dysfunction
+property_of	_process_of
+-1
+-7.477815628051758
+___
+clinical_attribute	plant	biologic_function
+property_of	_process_of
+-1
+-7.477815628051758
+___
+clinical_attribute	plant	disease_or_syndrome
+property_of	_process_of
+-1
+-7.477815628051758
+___
+clinical_attribute	plant	molecular_function
+property_of	_process_of
+-1
+-7.477815628051758
+___
+clinical_attribute	plant	cell_function
+property_of	_process_of
+-1
+-7.477815628051758
+___
+clinical_attribute	plant	experimental_model_of_disease
+property_of	_process_of
+-1
+-7.477815628051758
+___
+clinical_attribute	plant	physiologic_function
+property_of	_process_of
+-1
+-7.477815628051758
+___
+clinical_attribute	plant	entity
+property_of	isa
+-1
+-7.489067554473877
+___
+clinical_attribute	archaeon	experimental_model_of_disease
+property_of	_process_of
+-1
+-7.806178092956543
+___
+clinical_attribute	archaeon	organ_or_tissue_function
+property_of	_process_of
+-1
+-7.806178092956543
+___
+clinical_attribute	archaeon	biologic_function
+property_of	_process_of
+-1
+-7.806178092956543
+___
+clinical_attribute	archaeon	organism_function
+property_of	_process_of
+-1
+-7.806178092956543
+___
+clinical_attribute	archaeon	cell_function
+property_of	_process_of
+-1
+-7.806178092956543
+___
+clinical_attribute	archaeon	neoplastic_process
+property_of	_process_of
+-1
+-7.806178092956543
+___
+clinical_attribute	archaeon	mental_process
+property_of	_process_of
+-1
+-7.806178092956543
+___
+clinical_attribute	archaeon	genetic_function
+property_of	_process_of
+-1
+-7.806178092956543
+___
+clinical_attribute	archaeon	cell_or_molecular_dysfunction
+property_of	_process_of
+-1
+-7.806178092956543
+___
+clinical_attribute	archaeon	disease_or_syndrome
+property_of	_process_of
+-1
+-7.806178092956543
+___
+clinical_attribute	archaeon	physiologic_function
+property_of	_process_of
+-1
+-7.806178092956543
+___
+#####################

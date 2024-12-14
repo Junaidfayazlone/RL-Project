@@ -1,0 +1,2515 @@
+vertebrate	individual_behavior
+Reward:1
+vertebrate	behavior	individual_behavior
+exhibits	_isa
+1
+-0.7231949651613832
+___
+vertebrate	social_behavior	individual_behavior
+exhibits	_process_of
+1
+-1.197195827960968
+___
+vertebrate	social_behavior	individual_behavior
+exhibits	affects
+1
+-2.394444763660431
+___
+vertebrate	social_behavior	mental_process
+exhibits	affects
+-1
+-2.394444763660431
+___
+vertebrate	behavior	mental_process
+exhibits	affects
+-1
+-6.013398349285126
+___
+vertebrate	behavior	individual_behavior
+exhibits	affects
+1
+-6.013398349285126
+___
+vertebrate	invertebrate	individual_behavior
+_interacts_with	exhibits
+1
+-6.8689022033941
+___
+vertebrate	animal	individual_behavior
+_interacts_with	exhibits
+1
+-6.869309164583683
+___
+vertebrate	social_behavior	neoplastic_process
+exhibits	_result_of
+-1
+-7.074391067028046
+___
+vertebrate	social_behavior	mental_process
+exhibits	_result_of
+-1
+-7.074391067028046
+___
+vertebrate	social_behavior	mental_or_behavioral_dysfunction
+exhibits	_result_of
+-1
+-7.074391067028046
+___
+vertebrate	social_behavior	injury_or_poisoning
+exhibits	_result_of
+-1
+-7.074391067028046
+___
+vertebrate	social_behavior	pathologic_function
+exhibits	_result_of
+-1
+-7.074391067028046
+___
+vertebrate	behavior	individual_behavior
+exhibits	_affects
+1
+-7.258760631084442
+___
+vertebrate	behavior	mental_or_behavioral_dysfunction
+exhibits	_affects
+-1
+-7.258760631084442
+___
+vertebrate	behavior	mental_process
+exhibits	_affects
+-1
+-7.258760631084442
+___
+vertebrate	social_behavior	biomedical_occupation_or_discipline
+exhibits	issue_in
+-1
+-7.7850887179374695
+___
+vertebrate	social_behavior	occupation_or_discipline
+exhibits	issue_in
+-1
+-7.7850887179374695
+___
+vertebrate	social_behavior	mental_process
+exhibits	manifestation_of
+-1
+-8.1099573969841
+___
+vertebrate	social_behavior	mental_or_behavioral_dysfunction
+exhibits	manifestation_of
+-1
+-8.1099573969841
+___
+vertebrate	social_behavior	professional_or_occupational_group
+exhibits	_performs
+-1
+-8.2403022646904
+___
+vertebrate	social_behavior	patient_or_disabled_group
+exhibits	_performs
+-1
+-8.2403022646904
+___
+vertebrate	social_behavior	family_group
+exhibits	_performs
+-1
+-8.2403022646904
+___
+vertebrate	social_behavior	population_group
+exhibits	_performs
+-1
+-8.2403022646904
+___
+vertebrate	social_behavior	group
+exhibits	_performs
+-1
+-8.2403022646904
+___
+vertebrate	social_behavior	mental_process
+exhibits	result_of
+-1
+-8.683233439922333
+___
+vertebrate	fungus	organ_or_tissue_function
+_interacts_with	_process_of
+-1
+-9.180218696594238
+___
+vertebrate	fungus	pathologic_function
+_interacts_with	_process_of
+-1
+-9.180218696594238
+___
+vertebrate	fungus	genetic_function
+_interacts_with	_process_of
+-1
+-9.180218696594238
+___
+vertebrate	fungus	biologic_function
+_interacts_with	_process_of
+-1
+-9.180218696594238
+___
+vertebrate	fungus	organism_function
+_interacts_with	_process_of
+-1
+-9.180218696594238
+___
+vertebrate	fungus	cell_or_molecular_dysfunction
+_interacts_with	_process_of
+-1
+-9.180218696594238
+___
+vertebrate	fungus	experimental_model_of_disease
+_interacts_with	_process_of
+-1
+-9.180218696594238
+___
+vertebrate	fungus	disease_or_syndrome
+_interacts_with	_process_of
+-1
+-9.180218696594238
+___
+vertebrate	fungus	neoplastic_process
+_interacts_with	_process_of
+-1
+-9.180218696594238
+___
+vertebrate	fungus	physiologic_function
+_interacts_with	_process_of
+-1
+-9.180218696594238
+___
+vertebrate	social_behavior	family_group
+exhibits	associated_with
+-1
+-9.219740569591522
+___
+vertebrate	social_behavior	group
+exhibits	associated_with
+-1
+-9.219740569591522
+___
+vertebrate	social_behavior	age_group
+exhibits	associated_with
+-1
+-9.219740569591522
+___
+vertebrate	social_behavior	population_group
+exhibits	associated_with
+-1
+-9.219740569591522
+___
+vertebrate	social_behavior	clinical_attribute
+exhibits	associated_with
+-1
+-9.219740569591522
+___
+vertebrate	social_behavior	group_attribute
+exhibits	associated_with
+-1
+-9.219740569591522
+___
+vertebrate	social_behavior	organism_attribute
+exhibits	associated_with
+-1
+-9.219740569591522
+___
+vertebrate	social_behavior	biomedical_occupation_or_discipline
+exhibits	associated_with
+-1
+-9.219740569591522
+___
+vertebrate	social_behavior	occupation_or_discipline
+exhibits	associated_with
+-1
+-9.219740569591522
+___
+vertebrate	alga	cell_function
+_interacts_with	_process_of
+-1
+-9.268343210220337
+___
+vertebrate	alga	pathologic_function
+_interacts_with	_process_of
+-1
+-9.268343210220337
+___
+vertebrate	alga	organism_function
+_interacts_with	_process_of
+-1
+-9.268343210220337
+___
+vertebrate	alga	genetic_function
+_interacts_with	_process_of
+-1
+-9.268343210220337
+___
+vertebrate	alga	molecular_function
+_interacts_with	_process_of
+-1
+-9.268343210220337
+___
+vertebrate	alga	physiologic_function
+_interacts_with	_process_of
+-1
+-9.268343210220337
+___
+vertebrate	alga	organ_or_tissue_function
+_interacts_with	_process_of
+-1
+-9.268343210220337
+___
+vertebrate	alga	cell_or_molecular_dysfunction
+_interacts_with	_process_of
+-1
+-9.268343210220337
+___
+vertebrate	alga	neoplastic_process
+_interacts_with	_process_of
+-1
+-9.268343210220337
+___
+vertebrate	alga	biologic_function
+_interacts_with	_process_of
+-1
+-9.268343210220337
+___
+vertebrate	alga	experimental_model_of_disease
+_interacts_with	_process_of
+-1
+-9.268343210220337
+___
+vertebrate	plant	cell_function
+_interacts_with	_process_of
+-1
+-9.269074440002441
+___
+vertebrate	plant	molecular_function
+_interacts_with	_process_of
+-1
+-9.269074440002441
+___
+vertebrate	plant	cell_or_molecular_dysfunction
+_interacts_with	_process_of
+-1
+-9.269074440002441
+___
+vertebrate	plant	organ_or_tissue_function
+_interacts_with	_process_of
+-1
+-9.269074440002441
+___
+vertebrate	plant	neoplastic_process
+_interacts_with	_process_of
+-1
+-9.269074440002441
+___
+vertebrate	plant	organism_function
+_interacts_with	_process_of
+-1
+-9.269074440002441
+___
+vertebrate	plant	physiologic_function
+_interacts_with	_process_of
+-1
+-9.269074440002441
+___
+vertebrate	plant	experimental_model_of_disease
+_interacts_with	_process_of
+-1
+-9.269074440002441
+___
+vertebrate	plant	biologic_function
+_interacts_with	_process_of
+-1
+-9.269074440002441
+___
+vertebrate	plant	disease_or_syndrome
+_interacts_with	_process_of
+-1
+-9.269074440002441
+___
+vertebrate	plant	genetic_function
+_interacts_with	_process_of
+-1
+-9.269074440002441
+___
+vertebrate	bacterium	cell_function
+_interacts_with	_process_of
+-1
+-9.27553653717041
+___
+vertebrate	bacterium	physiologic_function
+_interacts_with	_process_of
+-1
+-9.27553653717041
+___
+vertebrate	bacterium	pathologic_function
+_interacts_with	_process_of
+-1
+-9.27553653717041
+___
+vertebrate	bacterium	organism_function
+_interacts_with	_process_of
+-1
+-9.27553653717041
+___
+vertebrate	bacterium	organ_or_tissue_function
+_interacts_with	_process_of
+-1
+-9.27553653717041
+___
+vertebrate	bacterium	molecular_function
+_interacts_with	_process_of
+-1
+-9.27553653717041
+___
+vertebrate	bacterium	disease_or_syndrome
+_interacts_with	_process_of
+-1
+-9.27553653717041
+___
+vertebrate	bacterium	cell_or_molecular_dysfunction
+_interacts_with	_process_of
+-1
+-9.27553653717041
+___
+vertebrate	bacterium	biologic_function
+_interacts_with	_process_of
+-1
+-9.27553653717041
+___
+vertebrate	bacterium	genetic_function
+_interacts_with	_process_of
+-1
+-9.27553653717041
+___
+vertebrate	bacterium	neoplastic_process
+_interacts_with	_process_of
+-1
+-9.27553653717041
+___
+vertebrate	virus	molecular_function
+_interacts_with	_process_of
+-1
+-9.276827335357666
+___
+vertebrate	virus	cell_or_molecular_dysfunction
+_interacts_with	_process_of
+-1
+-9.276827335357666
+___
+vertebrate	virus	cell_function
+_interacts_with	_process_of
+-1
+-9.276827335357666
+___
+vertebrate	virus	pathologic_function
+_interacts_with	_process_of
+-1
+-9.276827335357666
+___
+vertebrate	virus	genetic_function
+_interacts_with	_process_of
+-1
+-9.276827335357666
+___
+vertebrate	virus	organism_function
+_interacts_with	_process_of
+-1
+-9.276827335357666
+___
+vertebrate	virus	organ_or_tissue_function
+_interacts_with	_process_of
+-1
+-9.276827335357666
+___
+vertebrate	virus	experimental_model_of_disease
+_interacts_with	_process_of
+-1
+-9.276827335357666
+___
+vertebrate	virus	neoplastic_process
+_interacts_with	_process_of
+-1
+-9.276827335357666
+___
+vertebrate	virus	disease_or_syndrome
+_interacts_with	_process_of
+-1
+-9.276827335357666
+___
+vertebrate	virus	physiologic_function
+_interacts_with	_process_of
+-1
+-9.276827335357666
+___
+vertebrate	rickettsia_or_chlamydia	cell_or_molecular_dysfunction
+_interacts_with	_process_of
+-1
+-9.36229419708252
+___
+vertebrate	rickettsia_or_chlamydia	biologic_function
+_interacts_with	_process_of
+-1
+-9.36229419708252
+___
+vertebrate	rickettsia_or_chlamydia	pathologic_function
+_interacts_with	_process_of
+-1
+-9.36229419708252
+___
+vertebrate	rickettsia_or_chlamydia	experimental_model_of_disease
+_interacts_with	_process_of
+-1
+-9.36229419708252
+___
+vertebrate	rickettsia_or_chlamydia	molecular_function
+_interacts_with	_process_of
+-1
+-9.36229419708252
+___
+vertebrate	rickettsia_or_chlamydia	organ_or_tissue_function
+_interacts_with	_process_of
+-1
+-9.36229419708252
+___
+vertebrate	rickettsia_or_chlamydia	organism_function
+_interacts_with	_process_of
+-1
+-9.36229419708252
+___
+vertebrate	rickettsia_or_chlamydia	neoplastic_process
+_interacts_with	_process_of
+-1
+-9.36229419708252
+___
+vertebrate	rickettsia_or_chlamydia	cell_function
+_interacts_with	_process_of
+-1
+-9.36229419708252
+___
+vertebrate	rickettsia_or_chlamydia	genetic_function
+_interacts_with	_process_of
+-1
+-9.36229419708252
+___
+vertebrate	rickettsia_or_chlamydia	disease_or_syndrome
+_interacts_with	_process_of
+-1
+-9.36229419708252
+___
+#####################
+group	individual_behavior
+Reward:1
+group	behavior	individual_behavior
+exhibits	_isa
+1
+-0.7130901897326112
+___
+group	social_behavior	individual_behavior
+exhibits	_process_of
+1
+-1.187091052532196
+___
+group	social_behavior	mental_process
+exhibits	affects
+-1
+-2.384339988231659
+___
+group	social_behavior	individual_behavior
+exhibits	affects
+1
+-2.384339988231659
+___
+group	behavior	individual_behavior
+exhibits	affects
+1
+-6.003293573856354
+___
+group	behavior	mental_process
+exhibits	affects
+-1
+-6.003293573856354
+___
+group	age_group	individual_behavior
+_interacts_with	exhibits
+1
+-6.856960056720709
+___
+group	patient_or_disabled_group	individual_behavior
+_interacts_with	exhibits
+1
+-6.856961010344094
+___
+group	population_group	individual_behavior
+_interacts_with	exhibits
+1
+-6.85696613604523
+___
+group	social_behavior	neoplastic_process
+exhibits	_result_of
+-1
+-7.064286291599274
+___
+group	social_behavior	injury_or_poisoning
+exhibits	_result_of
+-1
+-7.064286291599274
+___
+group	social_behavior	mental_or_behavioral_dysfunction
+exhibits	_result_of
+-1
+-7.064286291599274
+___
+group	social_behavior	pathologic_function
+exhibits	_result_of
+-1
+-7.064286291599274
+___
+group	social_behavior	mental_process
+exhibits	_result_of
+-1
+-7.064286291599274
+___
+group	behavior	individual_behavior
+exhibits	_affects
+1
+-7.24865585565567
+___
+group	behavior	mental_or_behavioral_dysfunction
+exhibits	_affects
+-1
+-7.24865585565567
+___
+group	behavior	mental_process
+exhibits	_affects
+-1
+-7.24865585565567
+___
+group	social_behavior	occupation_or_discipline
+exhibits	issue_in
+-1
+-7.7749839425086975
+___
+group	social_behavior	biomedical_occupation_or_discipline
+exhibits	issue_in
+-1
+-7.7749839425086975
+___
+group	social_behavior	mental_or_behavioral_dysfunction
+exhibits	manifestation_of
+-1
+-8.099852621555328
+___
+group	social_behavior	mental_process
+exhibits	manifestation_of
+-1
+-8.099852621555328
+___
+group	social_behavior	professional_or_occupational_group
+exhibits	_performs
+-1
+-8.230197489261627
+___
+group	social_behavior	family_group
+exhibits	_performs
+-1
+-8.230197489261627
+___
+group	social_behavior	group
+exhibits	_performs
+-1
+-8.230197489261627
+___
+group	social_behavior	population_group
+exhibits	_performs
+-1
+-8.230197489261627
+___
+group	social_behavior	patient_or_disabled_group
+exhibits	_performs
+-1
+-8.230197489261627
+___
+group	social_behavior	mental_process
+exhibits	result_of
+-1
+-8.67312866449356
+___
+group	social_behavior	age_group
+exhibits	associated_with
+-1
+-9.20963579416275
+___
+group	social_behavior	family_group
+exhibits	associated_with
+-1
+-9.20963579416275
+___
+group	social_behavior	group_attribute
+exhibits	associated_with
+-1
+-9.20963579416275
+___
+group	social_behavior	group
+exhibits	associated_with
+-1
+-9.20963579416275
+___
+group	social_behavior	population_group
+exhibits	associated_with
+-1
+-9.20963579416275
+___
+group	social_behavior	clinical_attribute
+exhibits	associated_with
+-1
+-9.20963579416275
+___
+group	social_behavior	occupation_or_discipline
+exhibits	associated_with
+-1
+-9.20963579416275
+___
+group	social_behavior	organism_attribute
+exhibits	associated_with
+-1
+-9.20963579416275
+___
+group	social_behavior	biomedical_occupation_or_discipline
+exhibits	associated_with
+-1
+-9.20963579416275
+___
+group	professional_or_occupational_group	laboratory_procedure
+_interacts_with	performs
+-1
+-9.30479621887207
+___
+group	professional_or_occupational_group	occupational_activity
+_interacts_with	performs
+-1
+-9.30479621887207
+___
+group	professional_or_occupational_group	daily_or_recreational_activity
+_interacts_with	performs
+-1
+-9.30479621887207
+___
+group	professional_or_occupational_group	research_activity
+_interacts_with	performs
+-1
+-9.30479621887207
+___
+group	professional_or_occupational_group	molecular_biology_research_technique
+_interacts_with	performs
+-1
+-9.30479621887207
+___
+group	professional_or_occupational_group	therapeutic_or_preventive_procedure
+_interacts_with	performs
+-1
+-9.30479621887207
+___
+group	professional_or_occupational_group	educational_activity
+_interacts_with	performs
+-1
+-9.30479621887207
+___
+group	professional_or_occupational_group	individual_behavior
+_interacts_with	performs
+1
+-9.30479621887207
+___
+group	professional_or_occupational_group	activity
+_interacts_with	performs
+-1
+-9.30479621887207
+___
+group	family_group	individual_behavior
+_isa	exhibits
+1
+-9.755146425712155
+___
+group	patient_or_disabled_group	individual_behavior
+_isa	exhibits
+1
+-9.755269274523016
+___
+group	behavior	idea_or_concept
+exhibits	_conceptual_part_of
+-1
+-9.913735449314117
+___
+group	professional_or_occupational_group	pathologic_function
+_interacts_with	diagnoses
+-1
+-10.476036071777344
+___
+group	professional_or_occupational_group	neoplastic_process
+_interacts_with	diagnoses
+-1
+-10.476036071777344
+___
+group	professional_or_occupational_group	cell_or_molecular_dysfunction
+_interacts_with	diagnoses
+-1
+-10.476036071777344
+___
+group	professional_or_occupational_group	disease_or_syndrome
+_interacts_with	diagnoses
+-1
+-10.476036071777344
+___
+group	professional_or_occupational_group	mental_or_behavioral_dysfunction
+_interacts_with	diagnoses
+-1
+-10.476036071777344
+___
+group	behavior	experimental_model_of_disease
+exhibits	_result_of
+-1
+-10.683239996433258
+___
+group	behavior	disease_or_syndrome
+exhibits	_result_of
+-1
+-10.683239996433258
+___
+group	behavior	pathologic_function
+exhibits	_result_of
+-1
+-10.683239996433258
+___
+group	behavior	cell_or_molecular_dysfunction
+exhibits	_result_of
+-1
+-10.683239996433258
+___
+group	behavior	injury_or_poisoning
+exhibits	_result_of
+-1
+-10.683239996433258
+___
+group	behavior	acquired_abnormality
+exhibits	_result_of
+-1
+-10.683239996433258
+___
+group	behavior	mental_process
+exhibits	_result_of
+-1
+-10.683239996433258
+___
+group	behavior	neoplastic_process
+exhibits	_result_of
+-1
+-10.683239996433258
+___
+group	professional_or_occupational_group	patient_or_disabled_group
+_interacts_with	treats
+-1
+-10.942363262176514
+___
+group	regulation_or_law	professional_society
+_affects	affects
+-1
+-10.943899154663086
+___
+group	regulation_or_law	organization
+_affects	affects
+-1
+-10.943899154663086
+___
+group	regulation_or_law	health_care_related_organization
+_affects	affects
+-1
+-10.943899154663086
+___
+group	regulation_or_law	family_group
+_affects	affects
+-1
+-10.943899154663086
+___
+group	regulation_or_law	self_help_or_relief_organization
+_affects	affects
+-1
+-10.943899154663086
+___
+group	regulation_or_law	professional_or_occupational_group
+_affects	affects
+-1
+-10.943899154663086
+___
+group	regulation_or_law	age_group
+_affects	affects
+-1
+-10.943899154663086
+___
+group	regulation_or_law	group
+_affects	affects
+-1
+-10.943899154663086
+___
+group	regulation_or_law	patient_or_disabled_group
+_affects	affects
+-1
+-10.943899154663086
+___
+group	regulation_or_law	population_group
+_affects	affects
+-1
+-10.943899154663086
+___
+group	professional_or_occupational_group	occupation_or_discipline
+_interacts_with	issue_in
+-1
+-11.076735973358154
+___
+group	professional_or_occupational_group	biomedical_occupation_or_discipline
+_interacts_with	issue_in
+-1
+-11.076735973358154
+___
+group	molecular_biology_research_technique	mental_process
+performs	affects
+-1
+-11.08269664645195
+___
+group	individual_behavior	mental_process
+performs	affects
+-1
+-11.12002632021904
+___
+group	research_activity	molecular_biology_research_technique
+performs	_isa
+-1
+-11.217383205890656
+___
+group	behavior	occupation_or_discipline
+exhibits	issue_in
+-1
+-11.393937170505524
+___
+group	behavior	biomedical_occupation_or_discipline
+exhibits	issue_in
+-1
+-11.393937170505524
+___
+group	professional_or_occupational_group	regulation_or_law
+_interacts_with	_affects
+-1
+-11.434724807739258
+___
+group	professional_or_occupational_group	individual_behavior
+_interacts_with	_associated_with
+1
+-11.57815170288086
+___
+group	governmental_or_regulatory_activity	occupation_or_discipline
+performs	method_of
+-1
+-11.585750818252563
+___
+group	behavior	mental_or_behavioral_dysfunction
+exhibits	manifestation_of
+-1
+-11.718806326389313
+___
+group	behavior	mental_process
+exhibits	manifestation_of
+-1
+-11.718806326389313
+___
+group	daily_or_recreational_activity	occupation_or_discipline
+performs	issue_in
+-1
+-11.824297785758972
+___
+group	daily_or_recreational_activity	biomedical_occupation_or_discipline
+performs	issue_in
+-1
+-11.824297785758972
+___
+group	behavior	group
+exhibits	_performs
+-1
+-11.849150717258453
+___
+group	behavior	family_group
+exhibits	_performs
+-1
+-11.849150717258453
+___
+group	behavior	age_group
+exhibits	_performs
+-1
+-11.849150717258453
+___
+group	behavior	population_group
+exhibits	_performs
+-1
+-11.849150717258453
+___
+group	behavior	professional_or_occupational_group
+exhibits	_performs
+-1
+-11.849150717258453
+___
+group	behavior	patient_or_disabled_group
+exhibits	_performs
+-1
+-11.849150717258453
+___
+group	educational_activity	biomedical_occupation_or_discipline
+performs	method_of
+-1
+-11.89354133605957
+___
+group	educational_activity	occupation_or_discipline
+performs	method_of
+-1
+-11.89354133605957
+___
+group	individual_behavior	mental_process
+_associated_with	affects
+-1
+-11.913124844431877
+___
+group	social_behavior	individual_behavior
+performs	_process_of
+1
+-11.92907178401947
+___
+group	behavior	mental_process
+performs	affects
+-1
+-11.941724419593811
+___
+group	behavior	individual_behavior
+performs	affects
+1
+-11.941724419593811
+___
+group	social_behavior	individual_behavior
+performs	affects
+1
+-12.051555037498474
+___
+group	social_behavior	mental_process
+performs	affects
+-1
+-12.051555037498474
+___
+#####################
+amphibian	social_behavior
+Reward:1
+amphibian	behavior	social_behavior
+exhibits	_isa
+1
+-0.04587344918400049
+___
+amphibian	behavior	social_behavior
+exhibits	affects
+1
+-5.336076833307743
+___
+amphibian	behavior	mental_process
+exhibits	affects
+-1
+-5.336076833307743
+___
+amphibian	invertebrate	social_behavior
+_interacts_with	exhibits
+1
+-6.191580650396645
+___
+amphibian	vertebrate	social_behavior
+_interacts_with	exhibits
+1
+-6.192197392228991
+___
+amphibian	behavior	social_behavior
+exhibits	_affects
+1
+-6.5814391151070595
+___
+amphibian	behavior	mental_or_behavioral_dysfunction
+exhibits	_affects
+-1
+-6.5814391151070595
+___
+amphibian	behavior	mental_process
+exhibits	_affects
+-1
+-6.5814391151070595
+___
+amphibian	fungus	organ_or_tissue_function
+_interacts_with	_process_of
+-1
+-8.502897262573242
+___
+amphibian	fungus	biologic_function
+_interacts_with	_process_of
+-1
+-8.502897262573242
+___
+amphibian	fungus	neoplastic_process
+_interacts_with	_process_of
+-1
+-8.502897262573242
+___
+amphibian	fungus	disease_or_syndrome
+_interacts_with	_process_of
+-1
+-8.502897262573242
+___
+amphibian	fungus	pathologic_function
+_interacts_with	_process_of
+-1
+-8.502897262573242
+___
+amphibian	fungus	genetic_function
+_interacts_with	_process_of
+-1
+-8.502897262573242
+___
+amphibian	fungus	physiologic_function
+_interacts_with	_process_of
+-1
+-8.502897262573242
+___
+amphibian	fungus	cell_or_molecular_dysfunction
+_interacts_with	_process_of
+-1
+-8.502897262573242
+___
+amphibian	fungus	organism_function
+_interacts_with	_process_of
+-1
+-8.502897262573242
+___
+amphibian	fungus	experimental_model_of_disease
+_interacts_with	_process_of
+-1
+-8.502897262573242
+___
+amphibian	alga	cell_or_molecular_dysfunction
+_interacts_with	_process_of
+-1
+-8.59102177619934
+___
+amphibian	alga	biologic_function
+_interacts_with	_process_of
+-1
+-8.59102177619934
+___
+amphibian	alga	physiologic_function
+_interacts_with	_process_of
+-1
+-8.59102177619934
+___
+amphibian	alga	molecular_function
+_interacts_with	_process_of
+-1
+-8.59102177619934
+___
+amphibian	alga	experimental_model_of_disease
+_interacts_with	_process_of
+-1
+-8.59102177619934
+___
+amphibian	alga	organism_function
+_interacts_with	_process_of
+-1
+-8.59102177619934
+___
+amphibian	alga	genetic_function
+_interacts_with	_process_of
+-1
+-8.59102177619934
+___
+amphibian	alga	organ_or_tissue_function
+_interacts_with	_process_of
+-1
+-8.59102177619934
+___
+amphibian	alga	pathologic_function
+_interacts_with	_process_of
+-1
+-8.59102177619934
+___
+amphibian	alga	neoplastic_process
+_interacts_with	_process_of
+-1
+-8.59102177619934
+___
+amphibian	alga	cell_function
+_interacts_with	_process_of
+-1
+-8.59102177619934
+___
+amphibian	plant	disease_or_syndrome
+_interacts_with	_process_of
+-1
+-8.591753005981445
+___
+amphibian	plant	biologic_function
+_interacts_with	_process_of
+-1
+-8.591753005981445
+___
+amphibian	plant	organism_function
+_interacts_with	_process_of
+-1
+-8.591753005981445
+___
+amphibian	plant	physiologic_function
+_interacts_with	_process_of
+-1
+-8.591753005981445
+___
+amphibian	plant	experimental_model_of_disease
+_interacts_with	_process_of
+-1
+-8.591753005981445
+___
+amphibian	plant	organ_or_tissue_function
+_interacts_with	_process_of
+-1
+-8.591753005981445
+___
+amphibian	plant	genetic_function
+_interacts_with	_process_of
+-1
+-8.591753005981445
+___
+amphibian	plant	cell_or_molecular_dysfunction
+_interacts_with	_process_of
+-1
+-8.591753005981445
+___
+amphibian	plant	neoplastic_process
+_interacts_with	_process_of
+-1
+-8.591753005981445
+___
+amphibian	plant	cell_function
+_interacts_with	_process_of
+-1
+-8.591753005981445
+___
+amphibian	plant	molecular_function
+_interacts_with	_process_of
+-1
+-8.591753005981445
+___
+amphibian	animal	organ_or_tissue_function
+_interacts_with	_process_of
+-1
+-8.59242296218872
+___
+amphibian	animal	experimental_model_of_disease
+_interacts_with	_process_of
+-1
+-8.59242296218872
+___
+amphibian	animal	cell_or_molecular_dysfunction
+_interacts_with	_process_of
+-1
+-8.59242296218872
+___
+amphibian	animal	neoplastic_process
+_interacts_with	_process_of
+-1
+-8.59242296218872
+___
+amphibian	animal	genetic_function
+_interacts_with	_process_of
+-1
+-8.59242296218872
+___
+amphibian	animal	biologic_function
+_interacts_with	_process_of
+-1
+-8.59242296218872
+___
+amphibian	animal	molecular_function
+_interacts_with	_process_of
+-1
+-8.59242296218872
+___
+amphibian	animal	mental_process
+_interacts_with	_process_of
+-1
+-8.59242296218872
+___
+amphibian	animal	disease_or_syndrome
+_interacts_with	_process_of
+-1
+-8.59242296218872
+___
+amphibian	animal	physiologic_function
+_interacts_with	_process_of
+-1
+-8.59242296218872
+___
+amphibian	animal	pathologic_function
+_interacts_with	_process_of
+-1
+-8.59242296218872
+___
+amphibian	bacterium	neoplastic_process
+_interacts_with	_process_of
+-1
+-8.598215103149414
+___
+amphibian	bacterium	biologic_function
+_interacts_with	_process_of
+-1
+-8.598215103149414
+___
+amphibian	bacterium	physiologic_function
+_interacts_with	_process_of
+-1
+-8.598215103149414
+___
+amphibian	bacterium	cell_or_molecular_dysfunction
+_interacts_with	_process_of
+-1
+-8.598215103149414
+___
+amphibian	bacterium	disease_or_syndrome
+_interacts_with	_process_of
+-1
+-8.598215103149414
+___
+amphibian	bacterium	organism_function
+_interacts_with	_process_of
+-1
+-8.598215103149414
+___
+amphibian	bacterium	pathologic_function
+_interacts_with	_process_of
+-1
+-8.598215103149414
+___
+amphibian	bacterium	genetic_function
+_interacts_with	_process_of
+-1
+-8.598215103149414
+___
+amphibian	bacterium	cell_function
+_interacts_with	_process_of
+-1
+-8.598215103149414
+___
+amphibian	bacterium	organ_or_tissue_function
+_interacts_with	_process_of
+-1
+-8.598215103149414
+___
+amphibian	bacterium	molecular_function
+_interacts_with	_process_of
+-1
+-8.598215103149414
+___
+amphibian	virus	cell_function
+_interacts_with	_process_of
+-1
+-8.59950590133667
+___
+amphibian	virus	physiologic_function
+_interacts_with	_process_of
+-1
+-8.59950590133667
+___
+amphibian	virus	cell_or_molecular_dysfunction
+_interacts_with	_process_of
+-1
+-8.59950590133667
+___
+amphibian	virus	organism_function
+_interacts_with	_process_of
+-1
+-8.59950590133667
+___
+amphibian	virus	organ_or_tissue_function
+_interacts_with	_process_of
+-1
+-8.59950590133667
+___
+amphibian	virus	molecular_function
+_interacts_with	_process_of
+-1
+-8.59950590133667
+___
+amphibian	virus	neoplastic_process
+_interacts_with	_process_of
+-1
+-8.59950590133667
+___
+amphibian	virus	disease_or_syndrome
+_interacts_with	_process_of
+-1
+-8.59950590133667
+___
+amphibian	virus	pathologic_function
+_interacts_with	_process_of
+-1
+-8.59950590133667
+___
+amphibian	virus	genetic_function
+_interacts_with	_process_of
+-1
+-8.59950590133667
+___
+amphibian	virus	experimental_model_of_disease
+_interacts_with	_process_of
+-1
+-8.59950590133667
+___
+amphibian	rickettsia_or_chlamydia	pathologic_function
+_interacts_with	_process_of
+-1
+-8.684972763061523
+___
+amphibian	rickettsia_or_chlamydia	physiologic_function
+_interacts_with	_process_of
+-1
+-8.684972763061523
+___
+amphibian	rickettsia_or_chlamydia	genetic_function
+_interacts_with	_process_of
+-1
+-8.684972763061523
+___
+amphibian	rickettsia_or_chlamydia	disease_or_syndrome
+_interacts_with	_process_of
+-1
+-8.684972763061523
+___
+amphibian	rickettsia_or_chlamydia	organ_or_tissue_function
+_interacts_with	_process_of
+-1
+-8.684972763061523
+___
+amphibian	rickettsia_or_chlamydia	organism_function
+_interacts_with	_process_of
+-1
+-8.684972763061523
+___
+amphibian	rickettsia_or_chlamydia	biologic_function
+_interacts_with	_process_of
+-1
+-8.684972763061523
+___
+amphibian	rickettsia_or_chlamydia	experimental_model_of_disease
+_interacts_with	_process_of
+-1
+-8.684972763061523
+___
+amphibian	rickettsia_or_chlamydia	neoplastic_process
+_interacts_with	_process_of
+-1
+-8.684972763061523
+___
+amphibian	rickettsia_or_chlamydia	cell_function
+_interacts_with	_process_of
+-1
+-8.684972763061523
+___
+amphibian	rickettsia_or_chlamydia	cell_or_molecular_dysfunction
+_interacts_with	_process_of
+-1
+-8.684972763061523
+___
+amphibian	rickettsia_or_chlamydia	molecular_function
+_interacts_with	_process_of
+-1
+-8.684972763061523
+___
+amphibian	cell	body_system
+_part_of	conceptual_part_of
+-1
+-9.235077634453773
+___
+amphibian	tissue	body_system
+_part_of	conceptual_part_of
+-1
+-9.242162331938744
+___
+amphibian	behavior	idea_or_concept
+exhibits	_conceptual_part_of
+-1
+-9.246518708765507
+___
+amphibian	behavior	cell_or_molecular_dysfunction
+exhibits	_result_of
+-1
+-10.016023255884647
+___
+amphibian	behavior	pathologic_function
+exhibits	_result_of
+-1
+-10.016023255884647
+___
+amphibian	behavior	disease_or_syndrome
+exhibits	_result_of
+-1
+-10.016023255884647
+___
+amphibian	behavior	mental_process
+exhibits	_result_of
+-1
+-10.016023255884647
+___
+amphibian	behavior	injury_or_poisoning
+exhibits	_result_of
+-1
+-10.016023255884647
+___
+amphibian	behavior	experimental_model_of_disease
+exhibits	_result_of
+-1
+-10.016023255884647
+___
+amphibian	behavior	acquired_abnormality
+exhibits	_result_of
+-1
+-10.016023255884647
+___
+amphibian	behavior	neoplastic_process
+exhibits	_result_of
+-1
+-10.016023255884647
+___
+amphibian	human	social_behavior
+interacts_with	exhibits
+1
+-10.347518957220018
+___
+amphibian	bird	social_behavior
+interacts_with	exhibits
+1
+-10.347916877828538
+___
+amphibian	mammal	social_behavior
+interacts_with	exhibits
+1
+-10.347916877828538
+___
+amphibian	fish	social_behavior
+interacts_with	exhibits
+1
+-10.348512867931277
+___
+#####################
+reptile	social_behavior
+Reward:1
+reptile	behavior	social_behavior
+exhibits	_isa
+1
+-0.7248045885935426
+___
+reptile	individual_behavior	social_behavior
+exhibits	process_of
+1
+-0.9206060767173767
+___
+reptile	individual_behavior	mental_process
+exhibits	affects
+-1
+-3.063579559326172
+___
+reptile	individual_behavior	mental_process
+exhibits	_affects
+-1
+-4.308941841125488
+___
+reptile	individual_behavior	social_behavior
+exhibits	_affects
+1
+-4.308941841125488
+___
+reptile	individual_behavior	mental_or_behavioral_dysfunction
+exhibits	_affects
+-1
+-4.308941841125488
+___
+reptile	behavior	mental_process
+exhibits	affects
+-1
+-6.015007972717285
+___
+reptile	behavior	social_behavior
+exhibits	affects
+1
+-6.015007972717285
+___
+reptile	bird	social_behavior
+_interacts_with	exhibits
+1
+-6.870711402967572
+___
+reptile	vertebrate	social_behavior
+_interacts_with	exhibits
+1
+-6.871128628496081
+___
+reptile	fish	social_behavior
+_interacts_with	exhibits
+1
+-6.871334798168391
+___
+reptile	behavior	social_behavior
+exhibits	_affects
+1
+-7.260370254516602
+___
+reptile	behavior	mental_process
+exhibits	_affects
+-1
+-7.260370254516602
+___
+reptile	behavior	mental_or_behavioral_dysfunction
+exhibits	_affects
+-1
+-7.260370254516602
+___
+reptile	individual_behavior	cell_or_molecular_dysfunction
+exhibits	_result_of
+-1
+-7.743525981903076
+___
+reptile	individual_behavior	mental_or_behavioral_dysfunction
+exhibits	_result_of
+-1
+-7.743525981903076
+___
+reptile	individual_behavior	disease_or_syndrome
+exhibits	_result_of
+-1
+-7.743525981903076
+___
+reptile	individual_behavior	experimental_model_of_disease
+exhibits	_result_of
+-1
+-7.743525981903076
+___
+reptile	individual_behavior	acquired_abnormality
+exhibits	_result_of
+-1
+-7.743525981903076
+___
+reptile	individual_behavior	mental_process
+exhibits	_result_of
+-1
+-7.743525981903076
+___
+reptile	individual_behavior	injury_or_poisoning
+exhibits	_result_of
+-1
+-7.743525981903076
+___
+reptile	individual_behavior	pathologic_function
+exhibits	_result_of
+-1
+-7.743525981903076
+___
+reptile	individual_behavior	neoplastic_process
+exhibits	_result_of
+-1
+-7.743525981903076
+___
+reptile	individual_behavior	occupation_or_discipline
+exhibits	issue_in
+-1
+-8.4542236328125
+___
+reptile	individual_behavior	biomedical_occupation_or_discipline
+exhibits	issue_in
+-1
+-8.4542236328125
+___
+reptile	individual_behavior	mental_process
+exhibits	manifestation_of
+-1
+-8.77909231185913
+___
+reptile	individual_behavior	idea_or_concept
+exhibits	conceptually_related_to
+-1
+-8.824634075164795
+___
+reptile	individual_behavior	age_group
+exhibits	_performs
+-1
+-8.909436702728271
+___
+reptile	individual_behavior	group
+exhibits	_performs
+-1
+-8.909436702728271
+___
+reptile	individual_behavior	population_group
+exhibits	_performs
+-1
+-8.909436702728271
+___
+reptile	individual_behavior	professional_or_occupational_group
+exhibits	_performs
+-1
+-8.909436702728271
+___
+reptile	individual_behavior	family_group
+exhibits	_performs
+-1
+-8.909436702728271
+___
+reptile	fungus	experimental_model_of_disease
+_interacts_with	_process_of
+-1
+-9.181828498840332
+___
+reptile	fungus	organism_function
+_interacts_with	_process_of
+-1
+-9.181828498840332
+___
+reptile	fungus	pathologic_function
+_interacts_with	_process_of
+-1
+-9.181828498840332
+___
+reptile	fungus	physiologic_function
+_interacts_with	_process_of
+-1
+-9.181828498840332
+___
+reptile	fungus	genetic_function
+_interacts_with	_process_of
+-1
+-9.181828498840332
+___
+reptile	fungus	disease_or_syndrome
+_interacts_with	_process_of
+-1
+-9.181828498840332
+___
+reptile	fungus	organ_or_tissue_function
+_interacts_with	_process_of
+-1
+-9.181828498840332
+___
+reptile	fungus	neoplastic_process
+_interacts_with	_process_of
+-1
+-9.181828498840332
+___
+reptile	fungus	cell_or_molecular_dysfunction
+_interacts_with	_process_of
+-1
+-9.181828498840332
+___
+reptile	fungus	biologic_function
+_interacts_with	_process_of
+-1
+-9.181828498840332
+___
+reptile	alga	physiologic_function
+_interacts_with	_process_of
+-1
+-9.26995301246643
+___
+reptile	alga	molecular_function
+_interacts_with	_process_of
+-1
+-9.26995301246643
+___
+reptile	alga	cell_or_molecular_dysfunction
+_interacts_with	_process_of
+-1
+-9.26995301246643
+___
+reptile	alga	biologic_function
+_interacts_with	_process_of
+-1
+-9.26995301246643
+___
+reptile	alga	organ_or_tissue_function
+_interacts_with	_process_of
+-1
+-9.26995301246643
+___
+reptile	alga	organism_function
+_interacts_with	_process_of
+-1
+-9.26995301246643
+___
+reptile	alga	neoplastic_process
+_interacts_with	_process_of
+-1
+-9.26995301246643
+___
+reptile	alga	pathologic_function
+_interacts_with	_process_of
+-1
+-9.26995301246643
+___
+reptile	alga	experimental_model_of_disease
+_interacts_with	_process_of
+-1
+-9.26995301246643
+___
+reptile	alga	cell_function
+_interacts_with	_process_of
+-1
+-9.26995301246643
+___
+reptile	alga	genetic_function
+_interacts_with	_process_of
+-1
+-9.26995301246643
+___
+reptile	animal	biologic_function
+_interacts_with	_process_of
+-1
+-9.27135419845581
+___
+reptile	animal	experimental_model_of_disease
+_interacts_with	_process_of
+-1
+-9.27135419845581
+___
+reptile	animal	pathologic_function
+_interacts_with	_process_of
+-1
+-9.27135419845581
+___
+reptile	animal	genetic_function
+_interacts_with	_process_of
+-1
+-9.27135419845581
+___
+reptile	animal	molecular_function
+_interacts_with	_process_of
+-1
+-9.27135419845581
+___
+reptile	animal	cell_or_molecular_dysfunction
+_interacts_with	_process_of
+-1
+-9.27135419845581
+___
+reptile	animal	disease_or_syndrome
+_interacts_with	_process_of
+-1
+-9.27135419845581
+___
+reptile	animal	physiologic_function
+_interacts_with	_process_of
+-1
+-9.27135419845581
+___
+reptile	animal	organ_or_tissue_function
+_interacts_with	_process_of
+-1
+-9.27135419845581
+___
+reptile	animal	mental_process
+_interacts_with	_process_of
+-1
+-9.27135419845581
+___
+reptile	animal	neoplastic_process
+_interacts_with	_process_of
+-1
+-9.27135419845581
+___
+reptile	bacterium	biologic_function
+_interacts_with	_process_of
+-1
+-9.277146339416504
+___
+reptile	bacterium	cell_function
+_interacts_with	_process_of
+-1
+-9.277146339416504
+___
+reptile	bacterium	pathologic_function
+_interacts_with	_process_of
+-1
+-9.277146339416504
+___
+reptile	bacterium	disease_or_syndrome
+_interacts_with	_process_of
+-1
+-9.277146339416504
+___
+reptile	bacterium	physiologic_function
+_interacts_with	_process_of
+-1
+-9.277146339416504
+___
+reptile	bacterium	cell_or_molecular_dysfunction
+_interacts_with	_process_of
+-1
+-9.277146339416504
+___
+reptile	bacterium	genetic_function
+_interacts_with	_process_of
+-1
+-9.277146339416504
+___
+reptile	bacterium	organism_function
+_interacts_with	_process_of
+-1
+-9.277146339416504
+___
+reptile	bacterium	neoplastic_process
+_interacts_with	_process_of
+-1
+-9.277146339416504
+___
+reptile	bacterium	organ_or_tissue_function
+_interacts_with	_process_of
+-1
+-9.277146339416504
+___
+reptile	bacterium	molecular_function
+_interacts_with	_process_of
+-1
+-9.277146339416504
+___
+reptile	virus	physiologic_function
+_interacts_with	_process_of
+-1
+-9.27843713760376
+___
+reptile	virus	organism_function
+_interacts_with	_process_of
+-1
+-9.27843713760376
+___
+reptile	virus	experimental_model_of_disease
+_interacts_with	_process_of
+-1
+-9.27843713760376
+___
+reptile	virus	neoplastic_process
+_interacts_with	_process_of
+-1
+-9.27843713760376
+___
+reptile	virus	disease_or_syndrome
+_interacts_with	_process_of
+-1
+-9.27843713760376
+___
+reptile	virus	cell_or_molecular_dysfunction
+_interacts_with	_process_of
+-1
+-9.27843713760376
+___
+reptile	virus	pathologic_function
+_interacts_with	_process_of
+-1
+-9.27843713760376
+___
+reptile	virus	genetic_function
+_interacts_with	_process_of
+-1
+-9.27843713760376
+___
+reptile	virus	cell_function
+_interacts_with	_process_of
+-1
+-9.27843713760376
+___
+reptile	virus	molecular_function
+_interacts_with	_process_of
+-1
+-9.27843713760376
+___
+reptile	virus	organ_or_tissue_function
+_interacts_with	_process_of
+-1
+-9.27843713760376
+___
+reptile	individual_behavior	mental_process
+exhibits	result_of
+-1
+-9.352368831634521
+___
+reptile	rickettsia_or_chlamydia	neoplastic_process
+_interacts_with	_process_of
+-1
+-9.363903999328613
+___
+reptile	rickettsia_or_chlamydia	biologic_function
+_interacts_with	_process_of
+-1
+-9.363903999328613
+___
+reptile	rickettsia_or_chlamydia	organ_or_tissue_function
+_interacts_with	_process_of
+-1
+-9.363903999328613
+___
+reptile	rickettsia_or_chlamydia	cell_or_molecular_dysfunction
+_interacts_with	_process_of
+-1
+-9.363903999328613
+___
+reptile	rickettsia_or_chlamydia	genetic_function
+_interacts_with	_process_of
+-1
+-9.363903999328613
+___
+reptile	rickettsia_or_chlamydia	organism_function
+_interacts_with	_process_of
+-1
+-9.363903999328613
+___
+reptile	rickettsia_or_chlamydia	physiologic_function
+_interacts_with	_process_of
+-1
+-9.363903999328613
+___
+reptile	rickettsia_or_chlamydia	disease_or_syndrome
+_interacts_with	_process_of
+-1
+-9.363903999328613
+___
+reptile	rickettsia_or_chlamydia	cell_function
+_interacts_with	_process_of
+-1
+-9.363903999328613
+___
+reptile	rickettsia_or_chlamydia	experimental_model_of_disease
+_interacts_with	_process_of
+-1
+-9.363903999328613
+___
+reptile	rickettsia_or_chlamydia	pathologic_function
+_interacts_with	_process_of
+-1
+-9.363903999328613
+___
+reptile	rickettsia_or_chlamydia	molecular_function
+_interacts_with	_process_of
+-1
+-9.363903999328613
+___
+reptile	amphibian	organism_function
+_interacts_with	_process_of
+-1
+-9.43725323677063
+___
+#####################
+age_group	behavior
+Reward:1
+age_group	individual_behavior	mental_process
+exhibits	affects
+-1
+-1.1041931603103876
+___
+age_group	individual_behavior	behavior
+exhibits	affects
+1
+-1.1041931603103876
+___
+age_group	individual_behavior	mental_or_behavioral_dysfunction
+exhibits	_affects
+-1
+-2.349555203691125
+___
+age_group	individual_behavior	mental_process
+exhibits	_affects
+-1
+-2.349555203691125
+___
+age_group	individual_behavior	behavior
+exhibits	_affects
+1
+-2.349555203691125
+___
+age_group	individual_behavior	disease_or_syndrome
+exhibits	_result_of
+-1
+-5.784138867631555
+___
+age_group	individual_behavior	neoplastic_process
+exhibits	_result_of
+-1
+-5.784138867631555
+___
+age_group	individual_behavior	experimental_model_of_disease
+exhibits	_result_of
+-1
+-5.784138867631555
+___
+age_group	individual_behavior	mental_or_behavioral_dysfunction
+exhibits	_result_of
+-1
+-5.784138867631555
+___
+age_group	individual_behavior	pathologic_function
+exhibits	_result_of
+-1
+-5.784138867631555
+___
+age_group	individual_behavior	cell_or_molecular_dysfunction
+exhibits	_result_of
+-1
+-5.784138867631555
+___
+age_group	individual_behavior	acquired_abnormality
+exhibits	_result_of
+-1
+-5.784138867631555
+___
+age_group	individual_behavior	injury_or_poisoning
+exhibits	_result_of
+-1
+-5.784138867631555
+___
+age_group	individual_behavior	mental_process
+exhibits	_result_of
+-1
+-5.784138867631555
+___
+age_group	family_group	behavior
+_interacts_with	exhibits
+1
+-6.1642255767510505
+___
+age_group	population_group	behavior
+_interacts_with	exhibits
+1
+-6.164230344846146
+___
+age_group	individual_behavior	biomedical_occupation_or_discipline
+exhibits	issue_in
+-1
+-6.494836995378137
+___
+age_group	individual_behavior	occupation_or_discipline
+exhibits	issue_in
+-1
+-6.494836995378137
+___
+age_group	individual_behavior	mental_process
+exhibits	manifestation_of
+-1
+-6.819706151261926
+___
+age_group	individual_behavior	idea_or_concept
+exhibits	conceptually_related_to
+-1
+-6.86524791456759
+___
+age_group	individual_behavior	population_group
+exhibits	_performs
+-1
+-6.950050542131066
+___
+age_group	individual_behavior	age_group
+exhibits	_performs
+-1
+-6.950050542131066
+___
+age_group	individual_behavior	professional_or_occupational_group
+exhibits	_performs
+-1
+-6.950050542131066
+___
+age_group	individual_behavior	family_group
+exhibits	_performs
+-1
+-6.950050542131066
+___
+age_group	individual_behavior	group
+exhibits	_performs
+-1
+-6.950050542131066
+___
+age_group	individual_behavior	mental_process
+exhibits	result_of
+-1
+-7.392981717363
+___
+age_group	individual_behavior	injury_or_poisoning
+exhibits	associated_with
+-1
+-7.929488370195031
+___
+age_group	individual_behavior	professional_or_occupational_group
+exhibits	associated_with
+-1
+-7.929488370195031
+___
+age_group	individual_behavior	cell_or_molecular_dysfunction
+exhibits	associated_with
+-1
+-7.929488370195031
+___
+age_group	individual_behavior	age_group
+exhibits	associated_with
+-1
+-7.929488370195031
+___
+age_group	individual_behavior	biomedical_occupation_or_discipline
+exhibits	associated_with
+-1
+-7.929488370195031
+___
+age_group	individual_behavior	pathologic_function
+exhibits	associated_with
+-1
+-7.929488370195031
+___
+age_group	individual_behavior	geographic_area
+exhibits	associated_with
+-1
+-7.929488370195031
+___
+age_group	individual_behavior	clinical_attribute
+exhibits	associated_with
+-1
+-7.929488370195031
+___
+age_group	individual_behavior	organism_attribute
+exhibits	associated_with
+-1
+-7.929488370195031
+___
+age_group	individual_behavior	disease_or_syndrome
+exhibits	associated_with
+-1
+-7.929488370195031
+___
+age_group	individual_behavior	group_attribute
+exhibits	associated_with
+-1
+-7.929488370195031
+___
+age_group	individual_behavior	patient_or_disabled_group
+exhibits	associated_with
+-1
+-7.929488370195031
+___
+age_group	individual_behavior	mental_or_behavioral_dysfunction
+exhibits	associated_with
+-1
+-7.929488370195031
+___
+age_group	individual_behavior	anatomical_abnormality
+exhibits	associated_with
+-1
+-7.929488370195031
+___
+age_group	individual_behavior	experimental_model_of_disease
+exhibits	associated_with
+-1
+-7.929488370195031
+___
+age_group	individual_behavior	congenital_abnormality
+exhibits	associated_with
+-1
+-7.929488370195031
+___
+age_group	individual_behavior	population_group
+exhibits	associated_with
+-1
+-7.929488370195031
+___
+age_group	individual_behavior	family_group
+exhibits	associated_with
+-1
+-7.929488370195031
+___
+age_group	individual_behavior	group
+exhibits	associated_with
+-1
+-7.929488370195031
+___
+age_group	individual_behavior	acquired_abnormality
+exhibits	associated_with
+-1
+-7.929488370195031
+___
+age_group	regulation_or_law	self_help_or_relief_organization
+_affects	affects
+-1
+-10.251163482666016
+___
+age_group	regulation_or_law	organization
+_affects	affects
+-1
+-10.251163482666016
+___
+age_group	regulation_or_law	patient_or_disabled_group
+_affects	affects
+-1
+-10.251163482666016
+___
+age_group	regulation_or_law	age_group
+_affects	affects
+-1
+-10.251163482666016
+___
+age_group	regulation_or_law	health_care_related_organization
+_affects	affects
+-1
+-10.251163482666016
+___
+age_group	regulation_or_law	family_group
+_affects	affects
+-1
+-10.251163482666016
+___
+age_group	regulation_or_law	professional_or_occupational_group
+_affects	affects
+-1
+-10.251163482666016
+___
+age_group	regulation_or_law	population_group
+_affects	affects
+-1
+-10.251163482666016
+___
+age_group	regulation_or_law	group
+_affects	affects
+-1
+-10.251163482666016
+___
+age_group	regulation_or_law	professional_society
+_affects	affects
+-1
+-10.251163482666016
+___
+age_group	patient_or_disabled_group	behavior
+interacts_with	exhibits
+1
+-10.320433258555568
+___
+age_group	group	behavior
+interacts_with	exhibits
+1
+-10.320436596310174
+___
+age_group	behavior	mental_process
+performs	affects
+-1
+-10.421589270234108
+___
+age_group	research_activity	molecular_biology_research_technique
+performs	_isa
+-1
+-10.524647533893585
+___
+age_group	governmental_or_regulatory_activity	occupation_or_discipline
+performs	method_of
+-1
+-10.893015146255493
+___
+age_group	individual_behavior	mental_process
+performs	affects
+-1
+-11.049246966838837
+___
+age_group	individual_behavior	behavior
+performs	affects
+1
+-11.049246966838837
+___
+age_group	educational_activity	biomedical_occupation_or_discipline
+performs	method_of
+-1
+-11.2008056640625
+___
+age_group	educational_activity	occupation_or_discipline
+performs	method_of
+-1
+-11.2008056640625
+___
+age_group	therapeutic_or_preventive_procedure	disease_or_syndrome
+performs	prevents
+-1
+-11.661641716957092
+___
+age_group	therapeutic_or_preventive_procedure	pathologic_function
+performs	prevents
+-1
+-11.661641716957092
+___
+age_group	therapeutic_or_preventive_procedure	cell_or_molecular_dysfunction
+performs	prevents
+-1
+-11.661641716957092
+___
+age_group	individual_behavior	behavior
+exhibits	isa
+1
+-11.706833073869348
+___
+age_group	individual_behavior	activity
+exhibits	isa
+-1
+-11.706833073869348
+___
+age_group	individual_behavior	event
+exhibits	isa
+-1
+-11.706833073869348
+___
+age_group	injury_or_poisoning	experimental_model_of_disease
+_occurs_in	_co-occurs_with
+-1
+-11.75899589061737
+___
+age_group	injury_or_poisoning	neoplastic_process
+_occurs_in	_co-occurs_with
+-1
+-11.75899589061737
+___
+age_group	injury_or_poisoning	cell_or_molecular_dysfunction
+_occurs_in	_co-occurs_with
+-1
+-11.75899589061737
+___
+age_group	social_behavior	mental_process
+_associated_with	affects
+-1
+-11.761555969715118
+___
+age_group	social_behavior	behavior
+_associated_with	affects
+1
+-11.761555969715118
+___
+age_group	governmental_or_regulatory_activity	biomedical_occupation_or_discipline
+performs	issue_in
+-1
+-11.825841665267944
+___
+age_group	governmental_or_regulatory_activity	occupation_or_discipline
+performs	issue_in
+-1
+-11.825841665267944
+___
+age_group	individual_behavior	mental_process
+_associated_with	affects
+-1
+-11.830780744552612
+___
+age_group	individual_behavior	behavior
+_associated_with	affects
+1
+-11.830780744552612
+___
+age_group	mental_process	organism_function
+_produces	_degree_of
+-1
+-12.092929124832153
+___
+age_group	educational_activity	biomedical_occupation_or_discipline
+performs	issue_in
+-1
+-12.133632183074951
+___
+age_group	occupational_activity	governmental_or_regulatory_activity
+performs	_isa
+-1
+-12.155752062797546
+___
+age_group	occupational_activity	diagnostic_procedure
+performs	_isa
+-1
+-12.155752062797546
+___
+age_group	occupational_activity	laboratory_procedure
+performs	_isa
+-1
+-12.155752062797546
+___
+age_group	occupational_activity	therapeutic_or_preventive_procedure
+performs	_isa
+-1
+-12.155752062797546
+___
+age_group	occupational_activity	health_care_activity
+performs	_isa
+-1
+-12.155752062797546
+___
+age_group	occupational_activity	molecular_biology_research_technique
+performs	_isa
+-1
+-12.155752062797546
+___
+age_group	occupational_activity	educational_activity
+performs	_isa
+-1
+-12.155752062797546
+___
+age_group	organism_function	mental_process
+_produces	_degree_of
+-1
+-12.388136506080627
+___
+age_group	activity	behavior
+performs	_isa
+1
+-12.399391889572144
+___
+age_group	activity	therapeutic_or_preventive_procedure
+performs	_isa
+-1
+-12.399391889572144
+___
+age_group	activity	occupational_activity
+performs	_isa
+-1
+-12.399391889572144
+___
+age_group	activity	health_care_activity
+performs	_isa
+-1
+-12.399391889572144
+___
+age_group	activity	research_activity
+performs	_isa
+-1
+-12.399391889572144
+___
+age_group	activity	governmental_or_regulatory_activity
+performs	_isa
+-1
+-12.399391889572144
+___
+age_group	activity	daily_or_recreational_activity
+performs	_isa
+-1
+-12.399391889572144
+___
+age_group	activity	diagnostic_procedure
+performs	_isa
+-1
+-12.399391889572144
+___
+age_group	activity	molecular_biology_research_technique
+performs	_isa
+-1
+-12.399391889572144
+___
+age_group	health_care_activity	pathologic_function
+performs	affects
+-1
+-12.650165319442749
+___
+#####################

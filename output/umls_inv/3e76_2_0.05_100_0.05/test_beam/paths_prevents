@@ -1,0 +1,1006 @@
+therapeutic_or_preventive_procedure	neoplastic_process
+Reward:1
+therapeutic_or_preventive_procedure	disease_or_syndrome	neoplastic_process
+prevents	_degree_of
+1
+-1.2344210743904114
+___
+therapeutic_or_preventive_procedure	pathologic_function	neoplastic_process
+prevents	_degree_of
+1
+-1.2528740018606186
+___
+therapeutic_or_preventive_procedure	cell_or_molecular_dysfunction	neoplastic_process
+prevents	precedes
+1
+-1.385004609823227
+___
+therapeutic_or_preventive_procedure	cell_or_molecular_dysfunction	neoplastic_process
+prevents	_co-occurs_with
+1
+-2.821612000465393
+___
+therapeutic_or_preventive_procedure	pathologic_function	neoplastic_process
+prevents	_isa
+1
+-4.397144794464111
+___
+therapeutic_or_preventive_procedure	disease_or_syndrome	neoplastic_process
+prevents	degree_of
+1
+-4.4178431034088135
+___
+therapeutic_or_preventive_procedure	pathologic_function	neoplastic_process
+prevents	degree_of
+1
+-4.436295986175537
+___
+therapeutic_or_preventive_procedure	injury_or_poisoning	neoplastic_process
+treats	_co-occurs_with
+1
+-5.001351032551611
+___
+therapeutic_or_preventive_procedure	disease_or_syndrome	neoplastic_process
+prevents	_precedes
+1
+-5.012321710586548
+___
+therapeutic_or_preventive_procedure	pathologic_function	neoplastic_process
+treats	_degree_of
+1
+-5.101375445723534
+___
+therapeutic_or_preventive_procedure	disease_or_syndrome	neoplastic_process
+treats	_degree_of
+1
+-5.103854447603226
+___
+therapeutic_or_preventive_procedure	experimental_model_of_disease	neoplastic_process
+treats	_degree_of
+1
+-5.17116405069828
+___
+therapeutic_or_preventive_procedure	cell_or_molecular_dysfunction	neoplastic_process
+treats	precedes
+1
+-5.289935141801834
+___
+therapeutic_or_preventive_procedure	neoplastic_process	acquired_abnormality
+treats	complicates
+-1
+-5.6628798842430115
+___
+therapeutic_or_preventive_procedure	acquired_abnormality	congenital_abnormality
+treats	_co-occurs_with
+-1
+-5.694222450256348
+___
+therapeutic_or_preventive_procedure	acquired_abnormality	neoplastic_process
+treats	_co-occurs_with
+1
+-5.694222450256348
+___
+therapeutic_or_preventive_procedure	congenital_abnormality	acquired_abnormality
+treats	complicates
+-1
+-5.725394248962402
+___
+therapeutic_or_preventive_procedure	anatomical_abnormality	congenital_abnormality
+treats	_co-occurs_with
+-1
+-5.816209852695465
+___
+therapeutic_or_preventive_procedure	anatomical_abnormality	acquired_abnormality
+treats	_co-occurs_with
+-1
+-5.816209852695465
+___
+therapeutic_or_preventive_procedure	neoplastic_process	neoplastic_process
+treats	NO_OP
+1
+-6.272418975830078
+___
+therapeutic_or_preventive_procedure	congenital_abnormality	congenital_abnormality
+treats	NO_OP
+-1
+-6.334933280944824
+___
+therapeutic_or_preventive_procedure	cell_or_molecular_dysfunction	neoplastic_process
+treats	_co-occurs_with
+1
+-6.383618354797363
+___
+therapeutic_or_preventive_procedure	sign_or_symptom	acquired_abnormality
+treats	diagnoses
+-1
+-6.62277352809906
+___
+therapeutic_or_preventive_procedure	sign_or_symptom	anatomical_abnormality
+treats	diagnoses
+-1
+-6.62277352809906
+___
+therapeutic_or_preventive_procedure	sign_or_symptom	congenital_abnormality
+treats	diagnoses
+-1
+-6.62277352809906
+___
+therapeutic_or_preventive_procedure	sign_or_symptom	neoplastic_process
+treats	diagnoses
+1
+-6.62277352809906
+___
+therapeutic_or_preventive_procedure	sign_or_symptom	injury_or_poisoning
+treats	diagnoses
+-1
+-6.62277352809906
+___
+therapeutic_or_preventive_procedure	anatomical_abnormality	congenital_abnormality
+treats	_isa
+-1
+-7.1650495529174805
+___
+therapeutic_or_preventive_procedure	experimental_model_of_disease	neoplastic_process
+treats	_co-occurs_with
+1
+-7.397181987762451
+___
+therapeutic_or_preventive_procedure	neoplastic_process	injury_or_poisoning
+treats	co-occurs_with
+-1
+-7.522317886352539
+___
+therapeutic_or_preventive_procedure	neoplastic_process	acquired_abnormality
+treats	co-occurs_with
+-1
+-7.522317886352539
+___
+therapeutic_or_preventive_procedure	congenital_abnormality	acquired_abnormality
+treats	co-occurs_with
+-1
+-7.584832191467285
+___
+therapeutic_or_preventive_procedure	congenital_abnormality	anatomical_abnormality
+treats	co-occurs_with
+-1
+-7.584832191467285
+___
+therapeutic_or_preventive_procedure	pathologic_function	neoplastic_process
+treats	degree_of
+1
+-7.657537221908569
+___
+therapeutic_or_preventive_procedure	disease_or_syndrome	neoplastic_process
+treats	degree_of
+1
+-7.660016298294067
+___
+therapeutic_or_preventive_procedure	experimental_model_of_disease	neoplastic_process
+treats	degree_of
+1
+-7.727325916290283
+___
+therapeutic_or_preventive_procedure	injury_or_poisoning	neoplastic_process
+associated_with	_co-occurs_with
+1
+-8.010917866777163
+___
+therapeutic_or_preventive_procedure	pathologic_function	neoplastic_process
+associated_with	_degree_of
+1
+-8.252963736653328
+___
+therapeutic_or_preventive_procedure	congenital_abnormality	acquired_abnormality
+associated_with	complicates
+-1
+-8.434613555669785
+___
+therapeutic_or_preventive_procedure	cell_or_molecular_dysfunction	neoplastic_process
+associated_with	precedes
+1
+-8.452614188194275
+___
+therapeutic_or_preventive_procedure	neoplastic_process	acquired_abnormality
+associated_with	complicates
+-1
+-8.453056365251541
+___
+therapeutic_or_preventive_procedure	congenital_abnormality	rickettsia_or_chlamydia
+treats	location_of
+-1
+-8.500848293304443
+___
+therapeutic_or_preventive_procedure	congenital_abnormality	virus
+treats	location_of
+-1
+-8.500848293304443
+___
+therapeutic_or_preventive_procedure	congenital_abnormality	neoplastic_process
+treats	location_of
+1
+-8.500848293304443
+___
+therapeutic_or_preventive_procedure	disease_or_syndrome	neoplastic_process
+associated_with	_degree_of
+1
+-8.566617012023926
+___
+therapeutic_or_preventive_procedure	disease_or_syndrome	neoplastic_process
+treats	_precedes
+1
+-8.631884813308716
+___
+therapeutic_or_preventive_procedure	pathologic_function	neoplastic_process
+treats	_isa
+1
+-8.676233053207397
+___
+therapeutic_or_preventive_procedure	anatomical_abnormality	acquired_abnormality
+associated_with	_co-occurs_with
+-1
+-8.732816576957703
+___
+therapeutic_or_preventive_procedure	anatomical_abnormality	congenital_abnormality
+associated_with	_co-occurs_with
+-1
+-8.732816576957703
+___
+therapeutic_or_preventive_procedure	experimental_model_of_disease	neoplastic_process
+associated_with	_degree_of
+1
+-8.774068593978882
+___
+therapeutic_or_preventive_procedure	experimental_model_of_disease	neoplastic_process
+associated_with	_co-occurs_with
+1
+-8.85103964805603
+___
+therapeutic_or_preventive_procedure	cell_or_molecular_dysfunction	neoplastic_process
+associated_with	_co-occurs_with
+1
+-9.040281653404236
+___
+therapeutic_or_preventive_procedure	disease_or_syndrome	neoplastic_process
+prevents	_occurs_in
+1
+-9.06336236000061
+___
+therapeutic_or_preventive_procedure	diagnostic_procedure	therapeutic_or_preventive_procedure
+_precedes	precedes
+-1
+-9.086063623428345
+___
+therapeutic_or_preventive_procedure	disease_or_syndrome	neoplastic_process
+associated_with	_precedes
+1
+-9.216524124145508
+___
+therapeutic_or_preventive_procedure	pathologic_function	neoplastic_process
+associated_with	degree_of
+1
+-9.768985509872437
+___
+therapeutic_or_preventive_procedure	congenital_abnormality	anatomical_abnormality
+associated_with	co-occurs_with
+-1
+-10.063207387924194
+___
+therapeutic_or_preventive_procedure	congenital_abnormality	acquired_abnormality
+associated_with	co-occurs_with
+-1
+-10.063207387924194
+___
+therapeutic_or_preventive_procedure	neoplastic_process	acquired_abnormality
+associated_with	co-occurs_with
+-1
+-10.081650257110596
+___
+therapeutic_or_preventive_procedure	neoplastic_process	injury_or_poisoning
+associated_with	co-occurs_with
+-1
+-10.081650257110596
+___
+therapeutic_or_preventive_procedure	disease_or_syndrome	neoplastic_process
+associated_with	degree_of
+1
+-10.08263874053955
+___
+therapeutic_or_preventive_procedure	neoplastic_process	organism_function
+treats	_process_of
+-1
+-10.109275341033936
+___
+therapeutic_or_preventive_procedure	neoplastic_process	natural_phenomenon_or_process
+treats	_process_of
+-1
+-10.109275341033936
+___
+therapeutic_or_preventive_procedure	neoplastic_process	mental_process
+treats	_process_of
+-1
+-10.109275341033936
+___
+therapeutic_or_preventive_procedure	neoplastic_process	physiologic_function
+treats	_process_of
+-1
+-10.109275341033936
+___
+therapeutic_or_preventive_procedure	neoplastic_process	biologic_function
+treats	_process_of
+-1
+-10.109275341033936
+___
+therapeutic_or_preventive_procedure	neoplastic_process	molecular_function
+treats	_process_of
+-1
+-10.109275341033936
+___
+therapeutic_or_preventive_procedure	experimental_model_of_disease	neoplastic_process
+associated_with	degree_of
+1
+-10.290090322494507
+___
+therapeutic_or_preventive_procedure	therapeutic_or_preventive_procedure	diagnostic_procedure
+NO_OP	_precedes
+-1
+-10.376045167446136
+___
+therapeutic_or_preventive_procedure	diagnostic_procedure	injury_or_poisoning
+_precedes	diagnoses
+-1
+-10.523710489273071
+___
+therapeutic_or_preventive_procedure	diagnostic_procedure	acquired_abnormality
+_precedes	diagnoses
+-1
+-10.523710489273071
+___
+therapeutic_or_preventive_procedure	diagnostic_procedure	neoplastic_process
+_precedes	diagnoses
+1
+-10.523710489273071
+___
+therapeutic_or_preventive_procedure	disease_or_syndrome	neoplastic_process
+complicates	_degree_of
+1
+-10.947181448340416
+___
+therapeutic_or_preventive_procedure	experimental_model_of_disease	neoplastic_process
+complicates	_degree_of
+1
+-11.019493073225021
+___
+therapeutic_or_preventive_procedure	cell_or_molecular_dysfunction	neoplastic_process
+complicates	precedes
+1
+-11.092589199543
+___
+therapeutic_or_preventive_procedure	mental_or_behavioral_dysfunction	neoplastic_process
+complicates	precedes
+1
+-11.149928867816925
+___
+therapeutic_or_preventive_procedure	pathologic_function	neoplastic_process
+associated_with	_isa
+1
+-11.164472341537476
+___
+therapeutic_or_preventive_procedure	congenital_abnormality	congenital_abnormality
+associated_with	NO_OP
+-1
+-11.250233888626099
+___
+therapeutic_or_preventive_procedure	neoplastic_process	neoplastic_process
+associated_with	NO_OP
+1
+-11.2686767578125
+___
+therapeutic_or_preventive_procedure	neoplastic_process	acquired_abnormality
+complicates	complicates
+-1
+-11.331985890865326
+___
+therapeutic_or_preventive_procedure	anatomical_abnormality	congenital_abnormality
+associated_with	_isa
+-1
+-11.567354202270508
+___
+therapeutic_or_preventive_procedure	disease_or_syndrome	neoplastic_process
+treats	_occurs_in
+1
+-11.675184726715088
+___
+therapeutic_or_preventive_procedure	neoplastic_process	organism_function
+treats	manifestation_of
+-1
+-11.723721981048584
+___
+therapeutic_or_preventive_procedure	neoplastic_process	injury_or_poisoning
+treats	manifestation_of
+-1
+-11.723721981048584
+___
+therapeutic_or_preventive_procedure	neoplastic_process	physiologic_function
+treats	manifestation_of
+-1
+-11.723721981048584
+___
+therapeutic_or_preventive_procedure	neoplastic_process	molecular_function
+treats	manifestation_of
+-1
+-11.723721981048584
+___
+therapeutic_or_preventive_procedure	sign_or_symptom	clinical_attribute
+treats	evaluation_of
+-1
+-11.74695110321045
+___
+therapeutic_or_preventive_procedure	sign_or_symptom	neoplastic_process
+treats	evaluation_of
+1
+-11.74695110321045
+___
+therapeutic_or_preventive_procedure	sign_or_symptom	genetic_function
+treats	evaluation_of
+-1
+-11.74695110321045
+___
+therapeutic_or_preventive_procedure	sign_or_symptom	organ_or_tissue_function
+treats	evaluation_of
+-1
+-11.74695110321045
+___
+therapeutic_or_preventive_procedure	sign_or_symptom	molecular_function
+treats	evaluation_of
+-1
+-11.74695110321045
+___
+therapeutic_or_preventive_procedure	sign_or_symptom	mental_process
+treats	evaluation_of
+-1
+-11.74695110321045
+___
+therapeutic_or_preventive_procedure	sign_or_symptom	organism_attribute
+treats	evaluation_of
+-1
+-11.74695110321045
+___
+therapeutic_or_preventive_procedure	sign_or_symptom	cell_function
+treats	evaluation_of
+-1
+-11.74695110321045
+___
+therapeutic_or_preventive_procedure	sign_or_symptom	organism_function
+treats	evaluation_of
+-1
+-11.74695110321045
+___
+therapeutic_or_preventive_procedure	sign_or_symptom	physiologic_function
+treats	evaluation_of
+-1
+-11.74695110321045
+___
+therapeutic_or_preventive_procedure	congenital_abnormality	biologic_function
+treats	manifestation_of
+-1
+-11.78623628616333
+___
+therapeutic_or_preventive_procedure	congenital_abnormality	physiologic_function
+treats	manifestation_of
+-1
+-11.78623628616333
+___
+therapeutic_or_preventive_procedure	congenital_abnormality	neoplastic_process
+treats	manifestation_of
+1
+-11.78623628616333
+___
+therapeutic_or_preventive_procedure	congenital_abnormality	cell_function
+treats	manifestation_of
+-1
+-11.78623628616333
+___
+#####################
+antibiotic	pathologic_function
+Reward:1
+antibiotic	neoplastic_process	pathologic_function
+prevents	_degree_of
+1
+-1.651700109243393
+___
+antibiotic	mental_or_behavioral_dysfunction	pathologic_function
+prevents	precedes
+1
+-1.7469504624605179
+___
+antibiotic	cell_or_molecular_dysfunction	pathologic_function
+prevents	_degree_of
+1
+-1.8606622219085693
+___
+antibiotic	experimental_model_of_disease	pathologic_function
+prevents	_degree_of
+1
+-1.9095365703105927
+___
+antibiotic	cell_or_molecular_dysfunction	pathologic_function
+prevents	precedes
+1
+-3.119577169418335
+___
+antibiotic	experimental_model_of_disease	pathologic_function
+prevents	precedes
+1
+-3.1684515476226807
+___
+antibiotic	neoplastic_process	pathologic_function
+diagnoses	_degree_of
+1
+-3.171760465949774
+___
+antibiotic	experimental_model_of_disease	pathologic_function
+diagnoses	_degree_of
+1
+-3.365369215607643
+___
+antibiotic	mental_or_behavioral_dysfunction	pathologic_function
+prevents	degree_of
+1
+-3.6714576482772827
+___
+antibiotic	pathologic_function	pathologic_function
+diagnoses	NO_OP
+1
+-3.849741220474243
+___
+antibiotic	pathologic_function	acquired_abnormality
+diagnoses	complicates
+-1
+-4.641926527023315
+___
+antibiotic	pathologic_function	congenital_abnormality
+diagnoses	complicates
+-1
+-4.641926527023315
+___
+antibiotic	neoplastic_process	pathologic_function
+prevents	degree_of
+1
+-4.835122227668762
+___
+antibiotic	experimental_model_of_disease	pathologic_function
+diagnoses	precedes
+1
+-4.934415221214294
+___
+antibiotic	experimental_model_of_disease	pathologic_function
+prevents	degree_of
+1
+-5.092958569526672
+___
+antibiotic	congenital_abnormality	pathologic_function
+causes	_co-occurs_with
+1
+-5.36668009206187
+___
+antibiotic	injury_or_poisoning	pathologic_function
+causes	_occurs_in
+1
+-5.465520538389683
+___
+antibiotic	injury_or_poisoning	pathologic_function
+treats	_occurs_in
+1
+-5.47133032977581
+___
+antibiotic	neoplastic_process	pathologic_function
+treats	_degree_of
+1
+-5.515990197658539
+___
+antibiotic	mental_or_behavioral_dysfunction	pathologic_function
+causes	precedes
+1
+-5.534067898988724
+___
+antibiotic	neoplastic_process	pathologic_function
+causes	_degree_of
+1
+-5.5833636075258255
+___
+antibiotic	mental_or_behavioral_dysfunction	pathologic_function
+treats	precedes
+1
+-5.655764877796173
+___
+antibiotic	experimental_model_of_disease	pathologic_function
+prevents	_precedes
+1
+-5.687437176704407
+___
+antibiotic	cell_or_molecular_dysfunction	pathologic_function
+treats	_degree_of
+1
+-5.719324201345444
+___
+antibiotic	disease_or_syndrome	pathologic_function
+treats	_degree_of
+1
+-5.741278231143951
+___
+antibiotic	disease_or_syndrome	pathologic_function
+causes	precedes
+1
+-6.1274818778038025
+___
+antibiotic	experimental_model_of_disease	pathologic_function
+causes	precedes
+1
+-6.209134995937347
+___
+antibiotic	neoplastic_process	pathologic_function
+diagnoses	degree_of
+1
+-6.377182960510254
+___
+antibiotic	disease_or_syndrome	pathologic_function
+causes	_degree_of
+1
+-6.391594409942627
+___
+antibiotic	experimental_model_of_disease	pathologic_function
+causes	_degree_of
+1
+-6.473247528076172
+___
+antibiotic	anatomical_abnormality	acquired_abnormality
+causes	_co-occurs_with
+-1
+-6.487550139427185
+___
+antibiotic	anatomical_abnormality	congenital_abnormality
+causes	_co-occurs_with
+-1
+-6.487550139427185
+___
+antibiotic	anatomical_abnormality	pathologic_function
+causes	_co-occurs_with
+1
+-6.487550139427185
+___
+antibiotic	pathologic_function	acquired_abnormality
+treats	complicates
+-1
+-6.525727033615112
+___
+antibiotic	pathologic_function	congenital_abnormality
+treats	complicates
+-1
+-6.525727033615112
+___
+antibiotic	experimental_model_of_disease	pathologic_function
+diagnoses	degree_of
+1
+-6.570791721343994
+___
+antibiotic	pathologic_function	acquired_abnormality
+diagnoses	co-occurs_with
+-1
+-6.580102920532227
+___
+antibiotic	pathologic_function	anatomical_abnormality
+diagnoses	co-occurs_with
+-1
+-6.580102920532227
+___
+antibiotic	anatomical_abnormality	acquired_abnormality
+treats	_co-occurs_with
+-1
+-6.621595025062561
+___
+antibiotic	anatomical_abnormality	pathologic_function
+treats	_co-occurs_with
+1
+-6.621595025062561
+___
+antibiotic	anatomical_abnormality	congenital_abnormality
+treats	_co-occurs_with
+-1
+-6.621595025062561
+___
+antibiotic	cell_or_molecular_dysfunction	pathologic_function
+treats	precedes
+1
+-6.851658940315247
+___
+antibiotic	disease_or_syndrome	pathologic_function
+treats	precedes
+1
+-6.873612880706787
+___
+antibiotic	neoplastic_process	pathologic_function
+causes	degree_of
+1
+-7.0218058824539185
+___
+antibiotic	sign_or_symptom	congenital_abnormality
+treats	diagnoses
+-1
+-7.061767935752869
+___
+antibiotic	sign_or_symptom	acquired_abnormality
+treats	diagnoses
+-1
+-7.061767935752869
+___
+antibiotic	sign_or_symptom	injury_or_poisoning
+treats	diagnoses
+-1
+-7.061767935752869
+___
+antibiotic	sign_or_symptom	anatomical_abnormality
+treats	diagnoses
+-1
+-7.061767935752869
+___
+antibiotic	sign_or_symptom	pathologic_function
+treats	diagnoses
+1
+-7.061767935752869
+___
+antibiotic	mental_or_behavioral_dysfunction	pathologic_function
+treats	degree_of
+1
+-7.079591989517212
+___
+antibiotic	disease_or_syndrome	pathologic_function
+causes	_precedes
+1
+-7.1152215003967285
+___
+antibiotic	pathologic_function	pathologic_function
+treats	NO_OP
+1
+-7.135266065597534
+___
+antibiotic	experimental_model_of_disease	pathologic_function
+causes	_precedes
+1
+-7.196874618530273
+___
+antibiotic	mental_or_behavioral_dysfunction	pathologic_function
+causes	degree_of
+1
+-7.23662257194519
+___
+antibiotic	experimental_model_of_disease	pathologic_function
+diagnoses	_precedes
+1
+-7.572354793548584
+___
+antibiotic	experimental_model_of_disease	pathologic_function
+causes	degree_of
+1
+-7.911689758300781
+___
+antibiotic	anatomical_abnormality	congenital_abnormality
+treats	_isa
+-1
+-7.970434665679932
+___
+antibiotic	neoplastic_process	pathologic_function
+treats	degree_of
+1
+-8.072152137756348
+___
+antibiotic	pathologic_function	acquired_abnormality
+treats	co-occurs_with
+-1
+-8.385164976119995
+___
+antibiotic	pathologic_function	anatomical_abnormality
+treats	co-occurs_with
+-1
+-8.385164976119995
+___
+antibiotic	injury_or_poisoning	congenital_abnormality
+causes	complicates
+-1
+-9.146990060806274
+___
+antibiotic	injury_or_poisoning	pathologic_function
+causes	complicates
+1
+-9.146990060806274
+___
+antibiotic	injury_or_poisoning	anatomical_abnormality
+causes	complicates
+-1
+-9.146990060806274
+___
+antibiotic	injury_or_poisoning	acquired_abnormality
+causes	complicates
+-1
+-9.146990060806274
+___
+antibiotic	anatomical_abnormality	congenital_abnormality
+causes	_isa
+-1
+-9.173970699310303
+___
+antibiotic	disease_or_syndrome	pathologic_function
+treats	_precedes
+1
+-9.26930856704712
+___
+antibiotic	steroid	acquired_abnormality
+_interacts_with	causes
+-1
+-9.444642186164856
+___
+antibiotic	steroid	injury_or_poisoning
+_interacts_with	causes
+-1
+-9.444642186164856
+___
+antibiotic	steroid	pathologic_function
+_interacts_with	causes
+1
+-9.444642186164856
+___
+antibiotic	inorganic_chemical	injury_or_poisoning
+_interacts_with	causes
+-1
+-9.444644212722778
+___
+antibiotic	inorganic_chemical	acquired_abnormality
+_interacts_with	causes
+-1
+-9.444644212722778
+___
+antibiotic	inorganic_chemical	pathologic_function
+_interacts_with	causes
+1
+-9.444644212722778
+___
+antibiotic	lipid	pathologic_function
+_interacts_with	causes
+1
+-9.44472849369049
+___
+antibiotic	lipid	anatomical_abnormality
+_interacts_with	causes
+-1
+-9.44472849369049
+___
+antibiotic	lipid	injury_or_poisoning
+_interacts_with	causes
+-1
+-9.44472849369049
+___
+antibiotic	chemical_viewed_functionally	injury_or_poisoning
+_interacts_with	causes
+-1
+-9.44543182849884
+___
+antibiotic	chemical_viewed_functionally	congenital_abnormality
+_interacts_with	causes
+-1
+-9.44543182849884
+___
+antibiotic	chemical_viewed_functionally	pathologic_function
+_interacts_with	causes
+1
+-9.44543182849884
+___
+antibiotic	neoplastic_process	pathologic_function
+prevents	_occurs_in
+1
+-9.480641484260559
+___
+antibiotic	pharmacologic_substance	pathologic_function
+_interacts_with	prevents
+1
+-9.694499492645264
+___
+antibiotic	organophosphorus_compound	congenital_abnormality
+_interacts_with	causes
+-1
+-9.732320308685303
+___
+antibiotic	organophosphorus_compound	injury_or_poisoning
+_interacts_with	causes
+-1
+-9.732320308685303
+___
+antibiotic	organophosphorus_compound	anatomical_abnormality
+_interacts_with	causes
+-1
+-9.732320308685303
+___
+antibiotic	organophosphorus_compound	acquired_abnormality
+_interacts_with	causes
+-1
+-9.732320308685303
+___
+antibiotic	organic_chemical	anatomical_abnormality
+_interacts_with	causes
+-1
+-9.732580780982971
+___
+antibiotic	organic_chemical	acquired_abnormality
+_interacts_with	causes
+-1
+-9.732580780982971
+___
+antibiotic	organic_chemical	injury_or_poisoning
+_interacts_with	causes
+-1
+-9.732580780982971
+___
+antibiotic	organic_chemical	pathologic_function
+_interacts_with	causes
+1
+-9.732580780982971
+___
+antibiotic	pharmacologic_substance	acquired_abnormality
+_interacts_with	causes
+-1
+-9.746862888336182
+___
+antibiotic	pharmacologic_substance	anatomical_abnormality
+_interacts_with	causes
+-1
+-9.746862888336182
+___
+antibiotic	pharmacologic_substance	congenital_abnormality
+_interacts_with	causes
+-1
+-9.746862888336182
+___
+antibiotic	eicosanoid	acquired_abnormality
+_interacts_with	causes
+-1
+-9.955463171005249
+___
+antibiotic	eicosanoid	congenital_abnormality
+_interacts_with	causes
+-1
+-9.955463171005249
+___
+antibiotic	eicosanoid	injury_or_poisoning
+_interacts_with	causes
+-1
+-9.955463171005249
+___
+antibiotic	eicosanoid	anatomical_abnormality
+_interacts_with	causes
+-1
+-9.955463171005249
+___
+antibiotic	eicosanoid	pathologic_function
+_interacts_with	causes
+1
+-9.955463171005249
+___
+antibiotic	element_ion_or_isotope	anatomical_abnormality
+_interacts_with	causes
+-1
+-9.955464124679565
+___
+antibiotic	element_ion_or_isotope	acquired_abnormality
+_interacts_with	causes
+-1
+-9.955464124679565
+___
+antibiotic	element_ion_or_isotope	injury_or_poisoning
+_interacts_with	causes
+-1
+-9.955464124679565
+___
+antibiotic	element_ion_or_isotope	pathologic_function
+_interacts_with	causes
+1
+-9.955464124679565
+___
+#####################

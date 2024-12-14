@@ -1,0 +1,2515 @@
+laboratory_procedure	genetic_function
+Reward:1
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	acquired_abnormality
+analyzes	causes
+-1
+-3.9689045548439026
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	congenital_abnormality
+analyzes	causes
+-1
+-3.9689045548439026
+___
+laboratory_procedure	chemical	acquired_abnormality
+analyzes	causes
+-1
+-4.0607709884643555
+___
+laboratory_procedure	chemical	congenital_abnormality
+analyzes	causes
+-1
+-4.0607709884643555
+___
+laboratory_procedure	chemical_viewed_functionally	congenital_abnormality
+analyzes	causes
+-1
+-4.0852121114730835
+___
+laboratory_procedure	chemical_viewed_functionally	injury_or_poisoning
+analyzes	causes
+-1
+-4.0852121114730835
+___
+laboratory_procedure	inorganic_chemical	injury_or_poisoning
+analyzes	causes
+-1
+-4.119678258895874
+___
+laboratory_procedure	inorganic_chemical	acquired_abnormality
+analyzes	causes
+-1
+-4.119678258895874
+___
+laboratory_procedure	antibiotic	injury_or_poisoning
+analyzes	treats
+-1
+-4.488718271255493
+___
+laboratory_procedure	antibiotic	sign_or_symptom
+analyzes	treats
+-1
+-4.488718271255493
+___
+laboratory_procedure	antibiotic	anatomical_abnormality
+analyzes	treats
+-1
+-4.488718271255493
+___
+laboratory_procedure	element_ion_or_isotope	congenital_abnormality
+analyzes	causes
+-1
+-4.5218048095703125
+___
+laboratory_procedure	element_ion_or_isotope	injury_or_poisoning
+analyzes	causes
+-1
+-4.5218048095703125
+___
+laboratory_procedure	element_ion_or_isotope	anatomical_abnormality
+analyzes	causes
+-1
+-4.5218048095703125
+___
+laboratory_procedure	element_ion_or_isotope	acquired_abnormality
+analyzes	causes
+-1
+-4.5218048095703125
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	anatomical_abnormality
+analyzes	causes
+-1
+-4.686566591262817
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	congenital_abnormality
+analyzes	causes
+-1
+-4.686566591262817
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	acquired_abnormality
+analyzes	causes
+-1
+-4.686566591262817
+___
+laboratory_procedure	lipid	anatomical_abnormality
+analyzes	causes
+-1
+-4.703179955482483
+___
+laboratory_procedure	lipid	injury_or_poisoning
+analyzes	causes
+-1
+-4.703179955482483
+___
+laboratory_procedure	steroid	acquired_abnormality
+analyzes	causes
+-1
+-4.70865273475647
+___
+laboratory_procedure	steroid	injury_or_poisoning
+analyzes	causes
+-1
+-4.70865273475647
+___
+laboratory_procedure	organic_chemical	anatomical_abnormality
+analyzes	causes
+-1
+-4.758081316947937
+___
+laboratory_procedure	organic_chemical	injury_or_poisoning
+analyzes	causes
+-1
+-4.758081316947937
+___
+laboratory_procedure	organic_chemical	acquired_abnormality
+analyzes	causes
+-1
+-4.758081316947937
+___
+laboratory_procedure	eicosanoid	acquired_abnormality
+analyzes	causes
+-1
+-5.020939826965332
+___
+laboratory_procedure	eicosanoid	anatomical_abnormality
+analyzes	causes
+-1
+-5.020939826965332
+___
+laboratory_procedure	eicosanoid	congenital_abnormality
+analyzes	causes
+-1
+-5.020939826965332
+___
+laboratory_procedure	eicosanoid	injury_or_poisoning
+analyzes	causes
+-1
+-5.020939826965332
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	laboratory_procedure
+analyzes	_analyzes
+-1
+-5.055508375167847
+___
+laboratory_procedure	hazardous_or_poisonous_substance	anatomical_abnormality
+analyzes	causes
+-1
+-5.076426267623901
+___
+laboratory_procedure	hazardous_or_poisonous_substance	injury_or_poisoning
+analyzes	causes
+-1
+-5.076426267623901
+___
+laboratory_procedure	hazardous_or_poisonous_substance	acquired_abnormality
+analyzes	causes
+-1
+-5.076426267623901
+___
+laboratory_procedure	chemical	diagnostic_procedure
+analyzes	_analyzes
+-1
+-5.147374868392944
+___
+laboratory_procedure	chemical	laboratory_procedure
+analyzes	_analyzes
+-1
+-5.147374868392944
+___
+laboratory_procedure	chemical_viewed_functionally	diagnostic_procedure
+analyzes	_analyzes
+-1
+-5.171815872192383
+___
+laboratory_procedure	chemical_viewed_functionally	laboratory_procedure
+analyzes	_analyzes
+-1
+-5.171815872192383
+___
+laboratory_procedure	inorganic_chemical	laboratory_procedure
+analyzes	_analyzes
+-1
+-5.206281900405884
+___
+laboratory_procedure	inorganic_chemical	diagnostic_procedure
+analyzes	_analyzes
+-1
+-5.206281900405884
+___
+laboratory_procedure	receptor	congenital_abnormality
+analyzes	causes
+-1
+-5.285612344741821
+___
+laboratory_procedure	receptor	anatomical_abnormality
+analyzes	causes
+-1
+-5.285612344741821
+___
+laboratory_procedure	natural_phenomenon_or_process	genetic_function
+assesses_effect_of	_isa
+1
+-5.365893054753542
+___
+laboratory_procedure	biologic_function	genetic_function
+assesses_effect_of	_isa
+1
+-5.372774291783571
+___
+laboratory_procedure	hazardous_or_poisonous_substance	genetic_function
+analyzes	complicates
+1
+-5.39885401725769
+___
+laboratory_procedure	hazardous_or_poisonous_substance	acquired_abnormality
+analyzes	complicates
+-1
+-5.39885401725769
+___
+laboratory_procedure	hazardous_or_poisonous_substance	injury_or_poisoning
+analyzes	complicates
+-1
+-5.39885401725769
+___
+laboratory_procedure	body_substance	body_part_organ_or_organ_component
+analyzes	_contains
+-1
+-5.469834327697754
+___
+laboratory_procedure	body_substance	body_space_or_junction
+analyzes	_contains
+-1
+-5.469834327697754
+___
+laboratory_procedure	body_substance	tissue
+analyzes	_contains
+-1
+-5.469834327697754
+___
+laboratory_procedure	body_substance	gene_or_genome
+analyzes	_contains
+-1
+-5.469834327697754
+___
+laboratory_procedure	body_substance	cell
+analyzes	_contains
+-1
+-5.469834327697754
+___
+laboratory_procedure	body_substance	fully_formed_anatomical_structure
+analyzes	_contains
+-1
+-5.469834327697754
+___
+laboratory_procedure	body_substance	cell_component
+analyzes	_contains
+-1
+-5.469834327697754
+___
+laboratory_procedure	body_substance	embryonic_structure
+analyzes	_contains
+-1
+-5.469834327697754
+___
+laboratory_procedure	biologically_active_substance	anatomical_abnormality
+analyzes	causes
+-1
+-5.4881603717803955
+___
+laboratory_procedure	biologically_active_substance	congenital_abnormality
+analyzes	causes
+-1
+-5.4881603717803955
+___
+laboratory_procedure	biologically_active_substance	acquired_abnormality
+analyzes	causes
+-1
+-5.4881603717803955
+___
+laboratory_procedure	immunologic_factor	bacterium
+analyzes	indicates
+-1
+-5.504237651824951
+___
+laboratory_procedure	immunologic_factor	virus
+analyzes	indicates
+-1
+-5.504237651824951
+___
+laboratory_procedure	immunologic_factor	rickettsia_or_chlamydia
+analyzes	indicates
+-1
+-5.504237651824951
+___
+laboratory_procedure	enzyme	anatomical_abnormality
+analyzes	causes
+-1
+-5.5223305225372314
+___
+laboratory_procedure	enzyme	acquired_abnormality
+analyzes	causes
+-1
+-5.5223305225372314
+___
+laboratory_procedure	enzyme	injury_or_poisoning
+analyzes	causes
+-1
+-5.5223305225372314
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	cell
+analyzes	_produces
+-1
+-5.599968671798706
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-5.599968671798706
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-5.599968671798706
+___
+laboratory_procedure	receptor	congenital_abnormality
+analyzes	complicates
+-1
+-5.60804009437561
+___
+laboratory_procedure	receptor	injury_or_poisoning
+analyzes	complicates
+-1
+-5.60804009437561
+___
+laboratory_procedure	receptor	acquired_abnormality
+analyzes	complicates
+-1
+-5.60804009437561
+___
+laboratory_procedure	receptor	anatomical_abnormality
+analyzes	complicates
+-1
+-5.60804009437561
+___
+laboratory_procedure	element_ion_or_isotope	laboratory_procedure
+analyzes	_analyzes
+-1
+-5.608408689498901
+___
+laboratory_procedure	lipid	tissue
+analyzes	_produces
+-1
+-5.616581916809082
+___
+laboratory_procedure	lipid	cell_component
+analyzes	_produces
+-1
+-5.616581916809082
+___
+laboratory_procedure	lipid	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-5.616581916809082
+___
+laboratory_procedure	lipid	gene_or_genome
+analyzes	_produces
+-1
+-5.616581916809082
+___
+laboratory_procedure	lipid	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-5.616581916809082
+___
+laboratory_procedure	lipid	cell
+analyzes	_produces
+-1
+-5.616581916809082
+___
+laboratory_procedure	steroid	cell_component
+analyzes	_produces
+-1
+-5.622054815292358
+___
+laboratory_procedure	steroid	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-5.622054815292358
+___
+laboratory_procedure	steroid	cell
+analyzes	_produces
+-1
+-5.622054815292358
+___
+laboratory_procedure	steroid	gene_or_genome
+analyzes	_produces
+-1
+-5.622054815292358
+___
+laboratory_procedure	steroid	tissue
+analyzes	_produces
+-1
+-5.622054815292358
+___
+laboratory_procedure	steroid	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-5.622054815292358
+___
+laboratory_procedure	immunologic_factor	injury_or_poisoning
+analyzes	causes
+-1
+-5.655770778656006
+___
+laboratory_procedure	immunologic_factor	anatomical_abnormality
+analyzes	causes
+-1
+-5.655770778656006
+___
+laboratory_procedure	organic_chemical	cell
+analyzes	_produces
+-1
+-5.671483278274536
+___
+laboratory_procedure	organic_chemical	cell_component
+analyzes	_produces
+-1
+-5.671483278274536
+___
+laboratory_procedure	organic_chemical	gene_or_genome
+analyzes	_produces
+-1
+-5.671483278274536
+___
+laboratory_procedure	organic_chemical	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-5.671483278274536
+___
+laboratory_procedure	cell_function	genetic_function
+assesses_effect_of	precedes
+1
+-5.731795787811279
+___
+laboratory_procedure	mental_process	genetic_function
+assesses_effect_of	precedes
+1
+-5.74227899312973
+___
+laboratory_procedure	organ_or_tissue_function	genetic_function
+assesses_effect_of	precedes
+1
+-5.7426832020282745
+___
+laboratory_procedure	molecular_function	genetic_function
+assesses_effect_of	precedes
+1
+-5.743521183729172
+___
+laboratory_procedure	organism_function	genetic_function
+assesses_effect_of	precedes
+1
+-5.7440913915634155
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	diagnostic_procedure
+analyzes	_analyzes
+-1
+-5.773170232772827
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	laboratory_procedure
+analyzes	_analyzes
+-1
+-5.773170232772827
+___
+laboratory_procedure	lipid	laboratory_procedure
+analyzes	_analyzes
+-1
+-5.789783716201782
+___
+laboratory_procedure	lipid	diagnostic_procedure
+analyzes	_analyzes
+-1
+-5.789783716201782
+___
+laboratory_procedure	steroid	diagnostic_procedure
+analyzes	_analyzes
+-1
+-5.7952563762664795
+___
+laboratory_procedure	steroid	laboratory_procedure
+analyzes	_analyzes
+-1
+-5.7952563762664795
+___
+#####################
+laboratory_procedure	element_ion_or_isotope
+Reward:1
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	element_ion_or_isotope
+analyzes	_interacts_with
+1
+-3.0017510594116175
+___
+laboratory_procedure	chemical_viewed_functionally	element_ion_or_isotope
+analyzes	_interacts_with
+1
+-3.001760475883202
+___
+laboratory_procedure	inorganic_chemical	element_ion_or_isotope
+analyzes	_interacts_with
+1
+-3.0017650052905083
+___
+laboratory_procedure	receptor	element_ion_or_isotope
+analyzes	_interacts_with
+1
+-3.0020108738099225
+___
+laboratory_procedure	biologically_active_substance	element_ion_or_isotope
+analyzes	_interacts_with
+1
+-3.0020716463332064
+___
+laboratory_procedure	immunologic_factor	element_ion_or_isotope
+analyzes	_interacts_with
+1
+-3.002191274019424
+___
+laboratory_procedure	antibiotic	element_ion_or_isotope
+analyzes	_interacts_with
+1
+-3.002761572599411
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	element_ion_or_isotope
+analyzes	interacts_with
+1
+-3.0656698644161224
+___
+laboratory_procedure	lipid	element_ion_or_isotope
+analyzes	interacts_with
+1
+-3.0667260736227036
+___
+laboratory_procedure	steroid	element_ion_or_isotope
+analyzes	interacts_with
+1
+-3.0670775324106216
+___
+laboratory_procedure	organic_chemical	element_ion_or_isotope
+analyzes	interacts_with
+1
+-3.070335328578949
+___
+laboratory_procedure	chemical	element_ion_or_isotope
+analyzes	_interacts_with
+1
+-3.247263580560684
+___
+laboratory_procedure	chemical	element_ion_or_isotope
+analyzes	_isa
+1
+-4.526333451271057
+___
+laboratory_procedure	element_ion_or_isotope	anatomical_abnormality
+analyzes	causes
+-1
+-4.656515598297119
+___
+laboratory_procedure	element_ion_or_isotope	acquired_abnormality
+analyzes	causes
+-1
+-4.656515598297119
+___
+laboratory_procedure	element_ion_or_isotope	congenital_abnormality
+analyzes	causes
+-1
+-4.656515598297119
+___
+laboratory_procedure	element_ion_or_isotope	injury_or_poisoning
+analyzes	causes
+-1
+-4.656515598297119
+___
+laboratory_procedure	hazardous_or_poisonous_substance	acquired_abnormality
+analyzes	causes
+-1
+-4.915642738342285
+___
+laboratory_procedure	hazardous_or_poisonous_substance	injury_or_poisoning
+analyzes	causes
+-1
+-4.915642738342285
+___
+laboratory_procedure	hazardous_or_poisonous_substance	anatomical_abnormality
+analyzes	causes
+-1
+-4.915642738342285
+___
+laboratory_procedure	element_ion_or_isotope	element_ion_or_isotope
+analyzes	NO_OP
+1
+-4.944046854972839
+___
+laboratory_procedure	eicosanoid	anatomical_abnormality
+analyzes	causes
+-1
+-5.008831024169922
+___
+laboratory_procedure	eicosanoid	acquired_abnormality
+analyzes	causes
+-1
+-5.008831024169922
+___
+laboratory_procedure	eicosanoid	injury_or_poisoning
+analyzes	causes
+-1
+-5.008831024169922
+___
+laboratory_procedure	eicosanoid	congenital_abnormality
+analyzes	causes
+-1
+-5.008831024169922
+___
+laboratory_procedure	hazardous_or_poisonous_substance	injury_or_poisoning
+analyzes	complicates
+-1
+-5.238070487976074
+___
+laboratory_procedure	hazardous_or_poisonous_substance	acquired_abnormality
+analyzes	complicates
+-1
+-5.238070487976074
+___
+laboratory_procedure	chemical_viewed_functionally	element_ion_or_isotope
+assesses_effect_of	_interacts_with
+1
+-5.363358023110777
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	element_ion_or_isotope
+assesses_effect_of	_interacts_with
+1
+-5.363369220984168
+___
+laboratory_procedure	inorganic_chemical	element_ion_or_isotope
+assesses_effect_of	_interacts_with
+1
+-5.363466661365237
+___
+laboratory_procedure	receptor	element_ion_or_isotope
+assesses_effect_of	_interacts_with
+1
+-5.365544834639877
+___
+laboratory_procedure	neuroreactive_substance_or_biogenic_amine	element_ion_or_isotope
+assesses_effect_of	_interacts_with
+1
+-5.365562902297825
+___
+laboratory_procedure	hormone	element_ion_or_isotope
+assesses_effect_of	_interacts_with
+1
+-5.36591836437583
+___
+laboratory_procedure	immunologic_factor	element_ion_or_isotope
+assesses_effect_of	_interacts_with
+1
+-5.3667548834346235
+___
+laboratory_procedure	antibiotic	element_ion_or_isotope
+assesses_effect_of	_interacts_with
+1
+-5.367709557525814
+___
+laboratory_procedure	pharmacologic_substance	element_ion_or_isotope
+assesses_effect_of	_interacts_with
+1
+-5.368881331756711
+___
+laboratory_procedure	chemical_viewed_structurally	element_ion_or_isotope
+assesses_effect_of	_isa
+1
+-5.379456119611859
+___
+laboratory_procedure	enzyme	acquired_abnormality
+analyzes	causes
+-1
+-5.3861143589019775
+___
+laboratory_procedure	enzyme	anatomical_abnormality
+analyzes	causes
+-1
+-5.3861143589019775
+___
+laboratory_procedure	enzyme	injury_or_poisoning
+analyzes	causes
+-1
+-5.3861143589019775
+___
+laboratory_procedure	body_substance	embryonic_structure
+analyzes	_contains
+-1
+-5.452479839324951
+___
+laboratory_procedure	body_substance	fully_formed_anatomical_structure
+analyzes	_contains
+-1
+-5.452479839324951
+___
+laboratory_procedure	body_substance	cell_component
+analyzes	_contains
+-1
+-5.452479839324951
+___
+laboratory_procedure	body_substance	cell
+analyzes	_contains
+-1
+-5.452479839324951
+___
+laboratory_procedure	body_substance	gene_or_genome
+analyzes	_contains
+-1
+-5.452479839324951
+___
+laboratory_procedure	body_substance	body_part_organ_or_organ_component
+analyzes	_contains
+-1
+-5.452479839324951
+___
+laboratory_procedure	body_substance	tissue
+analyzes	_contains
+-1
+-5.452479839324951
+___
+laboratory_procedure	body_substance	body_space_or_junction
+analyzes	_contains
+-1
+-5.452479839324951
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	element_ion_or_isotope
+assesses_effect_of	interacts_with
+1
+-5.550387620925903
+___
+laboratory_procedure	organic_chemical	element_ion_or_isotope
+assesses_effect_of	interacts_with
+1
+-5.566717401146889
+___
+laboratory_procedure	lipid	element_ion_or_isotope
+assesses_effect_of	interacts_with
+1
+-5.5670676827430725
+___
+laboratory_procedure	steroid	element_ion_or_isotope
+assesses_effect_of	interacts_with
+1
+-5.569064229726791
+___
+laboratory_procedure	carbohydrate	element_ion_or_isotope
+assesses_effect_of	interacts_with
+1
+-5.591018438339233
+___
+laboratory_procedure	amino_acid_peptide_or_protein	element_ion_or_isotope
+assesses_effect_of	interacts_with
+1
+-5.605764210224152
+___
+laboratory_procedure	enzyme	congenital_abnormality
+analyzes	complicates
+-1
+-5.708542108535767
+___
+laboratory_procedure	enzyme	injury_or_poisoning
+analyzes	complicates
+-1
+-5.708542108535767
+___
+laboratory_procedure	enzyme	acquired_abnormality
+analyzes	complicates
+-1
+-5.708542108535767
+___
+laboratory_procedure	enzyme	anatomical_abnormality
+analyzes	complicates
+-1
+-5.708542108535767
+___
+laboratory_procedure	element_ion_or_isotope	laboratory_procedure
+analyzes	_analyzes
+-1
+-5.743119478225708
+___
+laboratory_procedure	chemical	element_ion_or_isotope
+assesses_effect_of	_interacts_with
+1
+-5.75141778588295
+___
+laboratory_procedure	hazardous_or_poisonous_substance	cell
+analyzes	disrupts
+-1
+-5.9163713455200195
+___
+laboratory_procedure	hazardous_or_poisonous_substance	body_part_organ_or_organ_component
+analyzes	disrupts
+-1
+-5.9163713455200195
+___
+laboratory_procedure	hazardous_or_poisonous_substance	gene_or_genome
+analyzes	disrupts
+-1
+-5.9163713455200195
+___
+laboratory_procedure	hazardous_or_poisonous_substance	fully_formed_anatomical_structure
+analyzes	disrupts
+-1
+-5.9163713455200195
+___
+laboratory_procedure	hazardous_or_poisonous_substance	tissue
+analyzes	disrupts
+-1
+-5.9163713455200195
+___
+laboratory_procedure	eicosanoid	cell
+analyzes	_produces
+-1
+-5.9222328662872314
+___
+laboratory_procedure	eicosanoid	cell_component
+analyzes	_produces
+-1
+-5.9222328662872314
+___
+laboratory_procedure	eicosanoid	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-5.9222328662872314
+___
+laboratory_procedure	eicosanoid	tissue
+analyzes	_produces
+-1
+-5.9222328662872314
+___
+laboratory_procedure	eicosanoid	gene_or_genome
+analyzes	_produces
+-1
+-5.9222328662872314
+___
+laboratory_procedure	eicosanoid	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-5.9222328662872314
+___
+laboratory_procedure	hazardous_or_poisonous_substance	laboratory_procedure
+analyzes	_analyzes
+-1
+-6.002246618270874
+___
+laboratory_procedure	eicosanoid	laboratory_procedure
+analyzes	_analyzes
+-1
+-6.095434904098511
+___
+laboratory_procedure	eicosanoid	diagnostic_procedure
+analyzes	_analyzes
+-1
+-6.095434904098511
+___
+laboratory_procedure	body_substance	acquired_abnormality
+analyzes	causes
+-1
+-6.133453369140625
+___
+laboratory_procedure	body_substance	congenital_abnormality
+analyzes	causes
+-1
+-6.133453369140625
+___
+laboratory_procedure	body_substance	injury_or_poisoning
+analyzes	causes
+-1
+-6.133453369140625
+___
+laboratory_procedure	body_substance	anatomical_abnormality
+analyzes	causes
+-1
+-6.133453369140625
+___
+laboratory_procedure	enzyme	gene_or_genome
+analyzes	_produces
+-1
+-6.299516439437866
+___
+laboratory_procedure	enzyme	cell
+analyzes	_produces
+-1
+-6.299516439437866
+___
+laboratory_procedure	enzyme	tissue
+analyzes	_produces
+-1
+-6.299516439437866
+___
+laboratory_procedure	enzyme	cell_component
+analyzes	_produces
+-1
+-6.299516439437866
+___
+laboratory_procedure	enzyme	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-6.299516439437866
+___
+laboratory_procedure	enzyme	cell_component
+analyzes	disrupts
+-1
+-6.386842966079712
+___
+laboratory_procedure	enzyme	body_part_organ_or_organ_component
+analyzes	disrupts
+-1
+-6.386842966079712
+___
+laboratory_procedure	enzyme	fully_formed_anatomical_structure
+analyzes	disrupts
+-1
+-6.386842966079712
+___
+laboratory_procedure	enzyme	cell
+analyzes	disrupts
+-1
+-6.386842966079712
+___
+laboratory_procedure	enzyme	gene_or_genome
+analyzes	disrupts
+-1
+-6.386842966079712
+___
+laboratory_procedure	body_substance	body_substance
+analyzes	NO_OP
+-1
+-6.420984506607056
+___
+laboratory_procedure	enzyme	diagnostic_procedure
+analyzes	_analyzes
+-1
+-6.472718000411987
+___
+laboratory_procedure	enzyme	laboratory_procedure
+analyzes	_analyzes
+-1
+-6.472718000411987
+___
+laboratory_procedure	chemical	element_ion_or_isotope
+assesses_effect_of	_isa
+1
+-6.497054696083069
+___
+laboratory_procedure	biologic_function	therapeutic_or_preventive_procedure
+assesses_effect_of	_complicates
+-1
+-6.5704240798950195
+___
+laboratory_procedure	molecular_function	therapeutic_or_preventive_procedure
+assesses_effect_of	_complicates
+-1
+-6.645942687988281
+___
+laboratory_procedure	organism_function	therapeutic_or_preventive_procedure
+assesses_effect_of	_complicates
+-1
+-6.679174184799194
+___
+laboratory_procedure	pathologic_function	injury_or_poisoning
+assesses_effect_of	_complicates
+-1
+-6.6963359117507935
+___
+laboratory_procedure	organ_or_tissue_function	therapeutic_or_preventive_procedure
+assesses_effect_of	_complicates
+-1
+-6.769048810005188
+___
+laboratory_procedure	cell_or_molecular_dysfunction	injury_or_poisoning
+assesses_effect_of	_complicates
+-1
+-6.788957357406616
+___
+laboratory_procedure	eicosanoid	body_substance
+analyzes	_consists_of
+-1
+-6.903939485549927
+___
+laboratory_procedure	mental_or_behavioral_dysfunction	injury_or_poisoning
+assesses_effect_of	_complicates
+-1
+-6.907036900520325
+___
+#####################
+diagnostic_procedure	element_ion_or_isotope
+Reward:1
+diagnostic_procedure	inorganic_chemical	element_ion_or_isotope
+analyzes	_interacts_with
+1
+-3.173754515592009
+___
+diagnostic_procedure	biomedical_or_dental_material	element_ion_or_isotope
+analyzes	_interacts_with
+1
+-3.1737775149813388
+___
+diagnostic_procedure	chemical_viewed_functionally	element_ion_or_isotope
+analyzes	_interacts_with
+1
+-3.1737838307453785
+___
+diagnostic_procedure	receptor	element_ion_or_isotope
+analyzes	_interacts_with
+1
+-3.1745419123908505
+___
+diagnostic_procedure	biologically_active_substance	element_ion_or_isotope
+analyzes	_interacts_with
+1
+-3.174639549222775
+___
+diagnostic_procedure	hormone	element_ion_or_isotope
+analyzes	_interacts_with
+1
+-3.1747211043257266
+___
+diagnostic_procedure	immunologic_factor	element_ion_or_isotope
+analyzes	_interacts_with
+1
+-3.175068086129613
+___
+diagnostic_procedure	antibiotic	element_ion_or_isotope
+analyzes	_interacts_with
+1
+-3.1855735247954726
+___
+diagnostic_procedure	chemical_viewed_structurally	element_ion_or_isotope
+analyzes	_isa
+1
+-3.1868481477722526
+___
+diagnostic_procedure	organic_chemical	element_ion_or_isotope
+analyzes	interacts_with
+1
+-3.310599699616432
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	element_ion_or_isotope
+analyzes	interacts_with
+1
+-3.316125437617302
+___
+diagnostic_procedure	lipid	element_ion_or_isotope
+analyzes	interacts_with
+1
+-3.3171019703149796
+___
+diagnostic_procedure	steroid	element_ion_or_isotope
+analyzes	interacts_with
+1
+-3.3193832635879517
+___
+diagnostic_procedure	carbohydrate	element_ion_or_isotope
+analyzes	interacts_with
+1
+-3.3211409598588943
+___
+diagnostic_procedure	amino_acid_peptide_or_protein	element_ion_or_isotope
+analyzes	interacts_with
+1
+-3.326159805059433
+___
+diagnostic_procedure	chemical	element_ion_or_isotope
+analyzes	_interacts_with
+1
+-3.4192237108945847
+___
+diagnostic_procedure	chemical	element_ion_or_isotope
+analyzes	_isa
+1
+-4.698293566703796
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	diagnostic_procedure
+precedes	_precedes
+-1
+-4.851428389549255
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	element_ion_or_isotope
+assesses_effect_of	_interacts_with
+1
+-5.536182917887345
+___
+diagnostic_procedure	chemical_viewed_functionally	element_ion_or_isotope
+assesses_effect_of	_interacts_with
+1
+-5.536557229002938
+___
+diagnostic_procedure	inorganic_chemical	element_ion_or_isotope
+assesses_effect_of	_interacts_with
+1
+-5.536594580858946
+___
+diagnostic_procedure	biomedical_or_dental_material	element_ion_or_isotope
+assesses_effect_of	_interacts_with
+1
+-5.5366120669059455
+___
+diagnostic_procedure	receptor	element_ion_or_isotope
+assesses_effect_of	_interacts_with
+1
+-5.543006613850594
+___
+diagnostic_procedure	biologically_active_substance	element_ion_or_isotope
+assesses_effect_of	_interacts_with
+1
+-5.543736660853028
+___
+diagnostic_procedure	hormone	element_ion_or_isotope
+assesses_effect_of	_interacts_with
+1
+-5.543792759999633
+___
+diagnostic_procedure	neuroreactive_substance_or_biogenic_amine	element_ion_or_isotope
+assesses_effect_of	_interacts_with
+1
+-5.5439192382618785
+___
+diagnostic_procedure	immunologic_factor	element_ion_or_isotope
+assesses_effect_of	_interacts_with
+1
+-5.546454379335046
+___
+diagnostic_procedure	chemical_viewed_structurally	element_ion_or_isotope
+assesses_effect_of	_isa
+1
+-5.554332369938493
+___
+diagnostic_procedure	antibiotic	element_ion_or_isotope
+assesses_effect_of	_interacts_with
+1
+-5.570687800645828
+___
+diagnostic_procedure	pharmacologic_substance	element_ion_or_isotope
+assesses_effect_of	_interacts_with
+1
+-5.57762499153614
+___
+diagnostic_procedure	organophosphorus_compound	injury_or_poisoning
+analyzes	causes
+-1
+-5.732093811035156
+___
+diagnostic_procedure	organophosphorus_compound	acquired_abnormality
+analyzes	causes
+-1
+-5.732093811035156
+___
+diagnostic_procedure	organophosphorus_compound	disease_or_syndrome
+analyzes	causes
+-1
+-5.732093811035156
+___
+diagnostic_procedure	organophosphorus_compound	experimental_model_of_disease
+analyzes	causes
+-1
+-5.732093811035156
+___
+diagnostic_procedure	organophosphorus_compound	cell_or_molecular_dysfunction
+analyzes	causes
+-1
+-5.732093811035156
+___
+diagnostic_procedure	organophosphorus_compound	anatomical_abnormality
+analyzes	causes
+-1
+-5.732093811035156
+___
+diagnostic_procedure	organophosphorus_compound	neoplastic_process
+analyzes	causes
+-1
+-5.732093811035156
+___
+diagnostic_procedure	organophosphorus_compound	congenital_abnormality
+analyzes	causes
+-1
+-5.732093811035156
+___
+diagnostic_procedure	organophosphorus_compound	mental_or_behavioral_dysfunction
+analyzes	causes
+-1
+-5.732093811035156
+___
+diagnostic_procedure	eicosanoid	anatomical_abnormality
+analyzes	causes
+-1
+-5.77162766456604
+___
+diagnostic_procedure	eicosanoid	acquired_abnormality
+analyzes	causes
+-1
+-5.77162766456604
+___
+diagnostic_procedure	eicosanoid	congenital_abnormality
+analyzes	causes
+-1
+-5.77162766456604
+___
+diagnostic_procedure	eicosanoid	injury_or_poisoning
+analyzes	causes
+-1
+-5.77162766456604
+___
+diagnostic_procedure	eicosanoid	experimental_model_of_disease
+analyzes	causes
+-1
+-5.77162766456604
+___
+diagnostic_procedure	eicosanoid	disease_or_syndrome
+analyzes	causes
+-1
+-5.77162766456604
+___
+diagnostic_procedure	eicosanoid	pathologic_function
+analyzes	causes
+-1
+-5.77162766456604
+___
+diagnostic_procedure	eicosanoid	mental_or_behavioral_dysfunction
+analyzes	causes
+-1
+-5.77162766456604
+___
+diagnostic_procedure	eicosanoid	cell_or_molecular_dysfunction
+analyzes	causes
+-1
+-5.77162766456604
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	element_ion_or_isotope
+assesses_effect_of	interacts_with
+1
+-5.888003468513489
+___
+diagnostic_procedure	organic_chemical	element_ion_or_isotope
+assesses_effect_of	interacts_with
+1
+-5.890084952116013
+___
+diagnostic_procedure	carbohydrate	element_ion_or_isotope
+assesses_effect_of	interacts_with
+1
+-5.906299412250519
+___
+diagnostic_procedure	steroid	element_ion_or_isotope
+assesses_effect_of	interacts_with
+1
+-5.913257271051407
+___
+diagnostic_procedure	amino_acid_peptide_or_protein	element_ion_or_isotope
+assesses_effect_of	interacts_with
+1
+-5.923730671405792
+___
+diagnostic_procedure	chemical	element_ion_or_isotope
+assesses_effect_of	_interacts_with
+1
+-5.924060016870499
+___
+diagnostic_procedure	body_substance	body_space_or_junction
+analyzes	_contains
+-1
+-6.02263331413269
+___
+diagnostic_procedure	body_substance	gene_or_genome
+analyzes	_contains
+-1
+-6.02263331413269
+___
+diagnostic_procedure	body_substance	cell
+analyzes	_contains
+-1
+-6.02263331413269
+___
+diagnostic_procedure	body_substance	embryonic_structure
+analyzes	_contains
+-1
+-6.02263331413269
+___
+diagnostic_procedure	body_substance	cell_component
+analyzes	_contains
+-1
+-6.02263331413269
+___
+diagnostic_procedure	body_substance	fully_formed_anatomical_structure
+analyzes	_contains
+-1
+-6.02263331413269
+___
+diagnostic_procedure	body_substance	tissue
+analyzes	_contains
+-1
+-6.02263331413269
+___
+diagnostic_procedure	body_substance	body_part_organ_or_organ_component
+analyzes	_contains
+-1
+-6.02263331413269
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	occupation_or_discipline
+precedes	method_of
+-1
+-6.424393653869629
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	cell_or_molecular_dysfunction
+precedes	prevents
+-1
+-6.426435470581055
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	disease_or_syndrome
+precedes	prevents
+-1
+-6.426435470581055
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	pathologic_function
+precedes	prevents
+-1
+-6.426435470581055
+___
+diagnostic_procedure	vitamin	neoplastic_process
+analyzes	causes
+-1
+-6.558632850646973
+___
+diagnostic_procedure	vitamin	acquired_abnormality
+analyzes	causes
+-1
+-6.558632850646973
+___
+diagnostic_procedure	vitamin	mental_or_behavioral_dysfunction
+analyzes	causes
+-1
+-6.558632850646973
+___
+diagnostic_procedure	vitamin	disease_or_syndrome
+analyzes	causes
+-1
+-6.558632850646973
+___
+diagnostic_procedure	vitamin	pathologic_function
+analyzes	causes
+-1
+-6.558632850646973
+___
+diagnostic_procedure	vitamin	experimental_model_of_disease
+analyzes	causes
+-1
+-6.558632850646973
+___
+diagnostic_procedure	vitamin	congenital_abnormality
+analyzes	causes
+-1
+-6.558632850646973
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	machine_activity
+precedes	_method_of
+-1
+-6.6129350662231445
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	molecular_biology_research_technique
+precedes	_method_of
+-1
+-6.6129350662231445
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	laboratory_procedure
+precedes	_method_of
+-1
+-6.6129350662231445
+___
+diagnostic_procedure	organophosphorus_compound	cell_component
+analyzes	_produces
+-1
+-6.645495891571045
+___
+diagnostic_procedure	organophosphorus_compound	cell
+analyzes	_produces
+-1
+-6.645495891571045
+___
+diagnostic_procedure	organophosphorus_compound	gene_or_genome
+analyzes	_produces
+-1
+-6.645495891571045
+___
+diagnostic_procedure	organophosphorus_compound	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-6.645495891571045
+___
+diagnostic_procedure	organophosphorus_compound	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-6.645495891571045
+___
+diagnostic_procedure	chemical	element_ion_or_isotope
+assesses_effect_of	_isa
+1
+-6.669696927070618
+___
+diagnostic_procedure	enzyme	disease_or_syndrome
+analyzes	causes
+-1
+-6.67326545715332
+___
+diagnostic_procedure	enzyme	experimental_model_of_disease
+analyzes	causes
+-1
+-6.67326545715332
+___
+diagnostic_procedure	enzyme	acquired_abnormality
+analyzes	causes
+-1
+-6.67326545715332
+___
+diagnostic_procedure	enzyme	anatomical_abnormality
+analyzes	causes
+-1
+-6.67326545715332
+___
+diagnostic_procedure	enzyme	injury_or_poisoning
+analyzes	causes
+-1
+-6.67326545715332
+___
+diagnostic_procedure	enzyme	neoplastic_process
+analyzes	causes
+-1
+-6.67326545715332
+___
+diagnostic_procedure	enzyme	mental_or_behavioral_dysfunction
+analyzes	causes
+-1
+-6.67326545715332
+___
+diagnostic_procedure	enzyme	cell_or_molecular_dysfunction
+analyzes	causes
+-1
+-6.67326545715332
+___
+diagnostic_procedure	enzyme	pathologic_function
+analyzes	causes
+-1
+-6.67326545715332
+___
+diagnostic_procedure	eicosanoid	cell
+analyzes	_produces
+-1
+-6.68502950668335
+___
+diagnostic_procedure	eicosanoid	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-6.68502950668335
+___
+diagnostic_procedure	eicosanoid	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-6.68502950668335
+___
+diagnostic_procedure	eicosanoid	cell_component
+analyzes	_produces
+-1
+-6.68502950668335
+___
+diagnostic_procedure	eicosanoid	gene_or_genome
+analyzes	_produces
+-1
+-6.68502950668335
+___
+diagnostic_procedure	eicosanoid	tissue
+analyzes	_produces
+-1
+-6.68502950668335
+___
+diagnostic_procedure	body_substance	cell_or_molecular_dysfunction
+analyzes	causes
+-1
+-6.703606843948364
+___
+diagnostic_procedure	body_substance	anatomical_abnormality
+analyzes	causes
+-1
+-6.703606843948364
+___
+diagnostic_procedure	body_substance	congenital_abnormality
+analyzes	causes
+-1
+-6.703606843948364
+___
+#####################
+laboratory_procedure	disease_or_syndrome
+Reward:1
+laboratory_procedure	chemical	acquired_abnormality
+analyzes	causes
+-1
+-4.091725826263428
+___
+laboratory_procedure	chemical	congenital_abnormality
+analyzes	causes
+-1
+-4.091725826263428
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	disease_or_syndrome
+analyzes	causes
+1
+-4.315741777420044
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	congenital_abnormality
+analyzes	causes
+-1
+-4.315741777420044
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	acquired_abnormality
+analyzes	causes
+-1
+-4.315741777420044
+___
+laboratory_procedure	chemical_viewed_functionally	congenital_abnormality
+analyzes	causes
+-1
+-4.3766762018203735
+___
+laboratory_procedure	chemical_viewed_functionally	injury_or_poisoning
+analyzes	causes
+-1
+-4.3766762018203735
+___
+laboratory_procedure	chemical_viewed_functionally	disease_or_syndrome
+analyzes	causes
+1
+-4.3766762018203735
+___
+laboratory_procedure	inorganic_chemical	acquired_abnormality
+analyzes	causes
+-1
+-4.4025397300720215
+___
+laboratory_procedure	inorganic_chemical	injury_or_poisoning
+analyzes	causes
+-1
+-4.4025397300720215
+___
+laboratory_procedure	inorganic_chemical	disease_or_syndrome
+analyzes	causes
+1
+-4.4025397300720215
+___
+laboratory_procedure	antibiotic	disease_or_syndrome
+analyzes	treats
+1
+-4.713107109069824
+___
+laboratory_procedure	antibiotic	injury_or_poisoning
+analyzes	treats
+-1
+-4.713107109069824
+___
+laboratory_procedure	antibiotic	anatomical_abnormality
+analyzes	treats
+-1
+-4.713107109069824
+___
+laboratory_procedure	antibiotic	sign_or_symptom
+analyzes	treats
+-1
+-4.713107109069824
+___
+laboratory_procedure	element_ion_or_isotope	injury_or_poisoning
+analyzes	causes
+-1
+-4.719570279121399
+___
+laboratory_procedure	element_ion_or_isotope	anatomical_abnormality
+analyzes	causes
+-1
+-4.719570279121399
+___
+laboratory_procedure	element_ion_or_isotope	congenital_abnormality
+analyzes	causes
+-1
+-4.719570279121399
+___
+laboratory_procedure	element_ion_or_isotope	disease_or_syndrome
+analyzes	causes
+1
+-4.719570279121399
+___
+laboratory_procedure	element_ion_or_isotope	acquired_abnormality
+analyzes	causes
+-1
+-4.719570279121399
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	congenital_abnormality
+analyzes	causes
+-1
+-4.856696367263794
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	anatomical_abnormality
+analyzes	causes
+-1
+-4.856696367263794
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	acquired_abnormality
+analyzes	causes
+-1
+-4.856696367263794
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	disease_or_syndrome
+analyzes	causes
+1
+-4.856696367263794
+___
+laboratory_procedure	steroid	disease_or_syndrome
+analyzes	causes
+1
+-4.861339569091797
+___
+laboratory_procedure	steroid	acquired_abnormality
+analyzes	causes
+-1
+-4.861339569091797
+___
+laboratory_procedure	steroid	injury_or_poisoning
+analyzes	causes
+-1
+-4.861339569091797
+___
+laboratory_procedure	lipid	disease_or_syndrome
+analyzes	causes
+1
+-4.8707287311553955
+___
+laboratory_procedure	lipid	anatomical_abnormality
+analyzes	causes
+-1
+-4.8707287311553955
+___
+laboratory_procedure	lipid	injury_or_poisoning
+analyzes	causes
+-1
+-4.8707287311553955
+___
+laboratory_procedure	organic_chemical	disease_or_syndrome
+analyzes	causes
+1
+-4.9173548221588135
+___
+laboratory_procedure	organic_chemical	anatomical_abnormality
+analyzes	causes
+-1
+-4.9173548221588135
+___
+laboratory_procedure	organic_chemical	injury_or_poisoning
+analyzes	causes
+-1
+-4.9173548221588135
+___
+laboratory_procedure	organic_chemical	acquired_abnormality
+analyzes	causes
+-1
+-4.9173548221588135
+___
+laboratory_procedure	eicosanoid	anatomical_abnormality
+analyzes	causes
+-1
+-5.134904861450195
+___
+laboratory_procedure	eicosanoid	acquired_abnormality
+analyzes	causes
+-1
+-5.134904861450195
+___
+laboratory_procedure	eicosanoid	injury_or_poisoning
+analyzes	causes
+-1
+-5.134904861450195
+___
+laboratory_procedure	eicosanoid	disease_or_syndrome
+analyzes	causes
+1
+-5.134904861450195
+___
+laboratory_procedure	eicosanoid	congenital_abnormality
+analyzes	causes
+-1
+-5.134904861450195
+___
+laboratory_procedure	hazardous_or_poisonous_substance	acquired_abnormality
+analyzes	causes
+-1
+-5.142243385314941
+___
+laboratory_procedure	hazardous_or_poisonous_substance	injury_or_poisoning
+analyzes	causes
+-1
+-5.142243385314941
+___
+laboratory_procedure	hazardous_or_poisonous_substance	disease_or_syndrome
+analyzes	causes
+1
+-5.142243385314941
+___
+laboratory_procedure	hazardous_or_poisonous_substance	anatomical_abnormality
+analyzes	causes
+-1
+-5.142243385314941
+___
+laboratory_procedure	chemical	diagnostic_procedure
+analyzes	_analyzes
+-1
+-5.178329706192017
+___
+laboratory_procedure	chemical	laboratory_procedure
+analyzes	_analyzes
+-1
+-5.178329706192017
+___
+laboratory_procedure	receptor	congenital_abnormality
+analyzes	causes
+-1
+-5.348049163818359
+___
+laboratory_procedure	receptor	disease_or_syndrome
+analyzes	causes
+1
+-5.348049163818359
+___
+laboratory_procedure	receptor	anatomical_abnormality
+analyzes	causes
+-1
+-5.348049163818359
+___
+laboratory_procedure	natural_phenomenon_or_process	disease_or_syndrome
+assesses_effect_of	_isa
+1
+-5.365848375251517
+___
+laboratory_procedure	biologic_function	disease_or_syndrome
+assesses_effect_of	_isa
+1
+-5.372696755453944
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	laboratory_procedure
+analyzes	_analyzes
+-1
+-5.402345418930054
+___
+laboratory_procedure	biologically_active_substance	congenital_abnormality
+analyzes	causes
+-1
+-5.457097768783569
+___
+laboratory_procedure	biologically_active_substance	anatomical_abnormality
+analyzes	causes
+-1
+-5.457097768783569
+___
+laboratory_procedure	biologically_active_substance	acquired_abnormality
+analyzes	causes
+-1
+-5.457097768783569
+___
+laboratory_procedure	chemical_viewed_functionally	laboratory_procedure
+analyzes	_analyzes
+-1
+-5.463279962539673
+___
+laboratory_procedure	chemical_viewed_functionally	diagnostic_procedure
+analyzes	_analyzes
+-1
+-5.463279962539673
+___
+laboratory_procedure	hazardous_or_poisonous_substance	injury_or_poisoning
+analyzes	complicates
+-1
+-5.4646711349487305
+___
+laboratory_procedure	hazardous_or_poisonous_substance	acquired_abnormality
+analyzes	complicates
+-1
+-5.4646711349487305
+___
+laboratory_procedure	hazardous_or_poisonous_substance	disease_or_syndrome
+analyzes	complicates
+1
+-5.4646711349487305
+___
+laboratory_procedure	inorganic_chemical	diagnostic_procedure
+analyzes	_analyzes
+-1
+-5.48914361000061
+___
+laboratory_procedure	inorganic_chemical	laboratory_procedure
+analyzes	_analyzes
+-1
+-5.48914361000061
+___
+laboratory_procedure	body_substance	tissue
+analyzes	_contains
+-1
+-5.495193243026733
+___
+laboratory_procedure	body_substance	body_space_or_junction
+analyzes	_contains
+-1
+-5.495193243026733
+___
+laboratory_procedure	body_substance	cell_component
+analyzes	_contains
+-1
+-5.495193243026733
+___
+laboratory_procedure	body_substance	cell
+analyzes	_contains
+-1
+-5.495193243026733
+___
+laboratory_procedure	body_substance	gene_or_genome
+analyzes	_contains
+-1
+-5.495193243026733
+___
+laboratory_procedure	body_substance	body_part_organ_or_organ_component
+analyzes	_contains
+-1
+-5.495193243026733
+___
+laboratory_procedure	body_substance	embryonic_structure
+analyzes	_contains
+-1
+-5.495193243026733
+___
+laboratory_procedure	body_substance	fully_formed_anatomical_structure
+analyzes	_contains
+-1
+-5.495193243026733
+___
+laboratory_procedure	enzyme	disease_or_syndrome
+analyzes	causes
+1
+-5.571926832199097
+___
+laboratory_procedure	enzyme	anatomical_abnormality
+analyzes	causes
+-1
+-5.571926832199097
+___
+laboratory_procedure	enzyme	injury_or_poisoning
+analyzes	causes
+-1
+-5.571926832199097
+___
+laboratory_procedure	enzyme	acquired_abnormality
+analyzes	causes
+-1
+-5.571926832199097
+___
+laboratory_procedure	cell_or_molecular_dysfunction	disease_or_syndrome
+assesses_effect_of	_co-occurs_with
+1
+-5.576554924249649
+___
+laboratory_procedure	immunologic_factor	bacterium
+analyzes	indicates
+-1
+-5.623235464096069
+___
+laboratory_procedure	immunologic_factor	rickettsia_or_chlamydia
+analyzes	indicates
+-1
+-5.623235464096069
+___
+laboratory_procedure	immunologic_factor	virus
+analyzes	indicates
+-1
+-5.623235464096069
+___
+laboratory_procedure	immunologic_factor	disease_or_syndrome
+analyzes	indicates
+1
+-5.623235464096069
+___
+laboratory_procedure	receptor	injury_or_poisoning
+analyzes	complicates
+-1
+-5.670476913452148
+___
+laboratory_procedure	receptor	anatomical_abnormality
+analyzes	complicates
+-1
+-5.670476913452148
+___
+laboratory_procedure	receptor	acquired_abnormality
+analyzes	complicates
+-1
+-5.670476913452148
+___
+laboratory_procedure	receptor	congenital_abnormality
+analyzes	complicates
+-1
+-5.670476913452148
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	cell
+analyzes	_produces
+-1
+-5.770098447799683
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-5.770098447799683
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-5.770098447799683
+___
+laboratory_procedure	steroid	tissue
+analyzes	_produces
+-1
+-5.7747414112091064
+___
+laboratory_procedure	steroid	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-5.7747414112091064
+___
+laboratory_procedure	steroid	gene_or_genome
+analyzes	_produces
+-1
+-5.7747414112091064
+___
+laboratory_procedure	steroid	cell_component
+analyzes	_produces
+-1
+-5.7747414112091064
+___
+laboratory_procedure	steroid	cell
+analyzes	_produces
+-1
+-5.7747414112091064
+___
+laboratory_procedure	steroid	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-5.7747414112091064
+___
+laboratory_procedure	immunologic_factor	disease_or_syndrome
+analyzes	causes
+1
+-5.774768590927124
+___
+laboratory_procedure	immunologic_factor	anatomical_abnormality
+analyzes	causes
+-1
+-5.774768590927124
+___
+laboratory_procedure	immunologic_factor	injury_or_poisoning
+analyzes	causes
+-1
+-5.774768590927124
+___
+laboratory_procedure	biologically_active_substance	disease_or_syndrome
+analyzes	complicates
+1
+-5.779525518417358
+___
+laboratory_procedure	biologically_active_substance	anatomical_abnormality
+analyzes	complicates
+-1
+-5.779525518417358
+___
+laboratory_procedure	biologically_active_substance	congenital_abnormality
+analyzes	complicates
+-1
+-5.779525518417358
+___
+laboratory_procedure	biologically_active_substance	acquired_abnormality
+analyzes	complicates
+-1
+-5.779525518417358
+___
+laboratory_procedure	biologically_active_substance	injury_or_poisoning
+analyzes	complicates
+-1
+-5.779525518417358
+___
+laboratory_procedure	lipid	gene_or_genome
+analyzes	_produces
+-1
+-5.784130811691284
+___
+#####################
+diagnostic_procedure	vitamin
+Reward:1
+diagnostic_procedure	receptor	vitamin
+analyzes	_interacts_with
+1
+-3.1745420313673094
+___
+diagnostic_procedure	immunologic_factor	vitamin
+analyzes	_interacts_with
+1
+-3.1750684431754053
+___
+diagnostic_procedure	inorganic_chemical	vitamin
+analyzes	interacts_with
+1
+-3.2712154760956764
+___
+diagnostic_procedure	biomedical_or_dental_material	vitamin
+analyzes	interacts_with
+1
+-3.277552329003811
+___
+diagnostic_procedure	chemical_viewed_functionally	vitamin
+analyzes	interacts_with
+1
+-3.2792703211307526
+___
+diagnostic_procedure	chemical_viewed_structurally	vitamin
+analyzes	interacts_with
+1
+-3.3064634650945663
+___
+diagnostic_procedure	organic_chemical	vitamin
+analyzes	interacts_with
+1
+-3.310599699616432
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	vitamin
+analyzes	interacts_with
+1
+-3.3161255419254303
+___
+diagnostic_procedure	lipid	vitamin
+analyzes	interacts_with
+1
+-3.317101866006851
+___
+diagnostic_procedure	steroid	vitamin
+analyzes	interacts_with
+1
+-3.31938336789608
+___
+diagnostic_procedure	carbohydrate	vitamin
+analyzes	interacts_with
+1
+-3.321140870451927
+___
+diagnostic_procedure	organophosphorus_compound	vitamin
+analyzes	interacts_with
+1
+-3.3228079080581665
+___
+diagnostic_procedure	amino_acid_peptide_or_protein	vitamin
+analyzes	interacts_with
+1
+-3.3261599093675613
+___
+diagnostic_procedure	eicosanoid	vitamin
+analyzes	interacts_with
+1
+-3.3283883780241013
+___
+diagnostic_procedure	chemical	vitamin
+analyzes	_interacts_with
+1
+-3.4192236065864563
+___
+diagnostic_procedure	biologically_active_substance	vitamin
+analyzes	interacts_with
+1
+-3.4893620908260345
+___
+diagnostic_procedure	chemical	vitamin
+analyzes	_isa
+1
+-4.698293447494507
+___
+diagnostic_procedure	antibiotic	vitamin
+analyzes	interacts_with
+1
+-4.723694086074829
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	diagnostic_procedure
+precedes	_precedes
+-1
+-4.851428389549255
+___
+diagnostic_procedure	antibiotic	neoplastic_process
+analyzes	prevents
+-1
+-5.135241746902466
+___
+diagnostic_procedure	antibiotic	cell_or_molecular_dysfunction
+analyzes	prevents
+-1
+-5.135241746902466
+___
+diagnostic_procedure	antibiotic	mental_or_behavioral_dysfunction
+analyzes	prevents
+-1
+-5.135241746902466
+___
+diagnostic_procedure	antibiotic	experimental_model_of_disease
+analyzes	prevents
+-1
+-5.135241746902466
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	vitamin
+assesses_effect_of	_interacts_with
+1
+-5.536183155956678
+___
+diagnostic_procedure	hazardous_or_poisonous_substance	vitamin
+assesses_effect_of	_interacts_with
+1
+-5.541581137105823
+___
+diagnostic_procedure	receptor	vitamin
+assesses_effect_of	_interacts_with
+1
+-5.5430067321285605
+___
+diagnostic_procedure	immunologic_factor	vitamin
+assesses_effect_of	_interacts_with
+1
+-5.546454497613013
+___
+diagnostic_procedure	chemical_viewed_functionally	vitamin
+assesses_effect_of	interacts_with
+1
+-5.7947803139686584
+___
+diagnostic_procedure	inorganic_chemical	vitamin
+assesses_effect_of	interacts_with
+1
+-5.798822641372681
+___
+diagnostic_procedure	biomedical_or_dental_material	vitamin
+assesses_effect_of	interacts_with
+1
+-5.800723612308502
+___
+diagnostic_procedure	chemical_viewed_structurally	vitamin
+assesses_effect_of	interacts_with
+1
+-5.826984167098999
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	vitamin
+assesses_effect_of	interacts_with
+1
+-5.888003557920456
+___
+diagnostic_procedure	organic_chemical	vitamin
+assesses_effect_of	interacts_with
+1
+-5.890084952116013
+___
+diagnostic_procedure	carbohydrate	vitamin
+assesses_effect_of	interacts_with
+1
+-5.906299412250519
+___
+diagnostic_procedure	steroid	vitamin
+assesses_effect_of	interacts_with
+1
+-5.913257271051407
+___
+diagnostic_procedure	eicosanoid	vitamin
+assesses_effect_of	interacts_with
+1
+-5.921334862709045
+___
+diagnostic_procedure	amino_acid_peptide_or_protein	vitamin
+assesses_effect_of	interacts_with
+1
+-5.923730760812759
+___
+diagnostic_procedure	chemical	vitamin
+assesses_effect_of	_interacts_with
+1
+-5.9240599274635315
+___
+diagnostic_procedure	body_substance	gene_or_genome
+analyzes	_contains
+-1
+-6.02263331413269
+___
+diagnostic_procedure	body_substance	body_space_or_junction
+analyzes	_contains
+-1
+-6.02263331413269
+___
+diagnostic_procedure	body_substance	fully_formed_anatomical_structure
+analyzes	_contains
+-1
+-6.02263331413269
+___
+diagnostic_procedure	body_substance	cell_component
+analyzes	_contains
+-1
+-6.02263331413269
+___
+diagnostic_procedure	body_substance	body_part_organ_or_organ_component
+analyzes	_contains
+-1
+-6.02263331413269
+___
+diagnostic_procedure	body_substance	embryonic_structure
+analyzes	_contains
+-1
+-6.02263331413269
+___
+diagnostic_procedure	body_substance	cell
+analyzes	_contains
+-1
+-6.02263331413269
+___
+diagnostic_procedure	body_substance	tissue
+analyzes	_contains
+-1
+-6.02263331413269
+___
+diagnostic_procedure	biologically_active_substance	vitamin
+assesses_effect_of	interacts_with
+1
+-6.372773766517639
+___
+diagnostic_procedure	neuroreactive_substance_or_biogenic_amine	vitamin
+assesses_effect_of	interacts_with
+1
+-6.383923232555389
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	occupation_or_discipline
+precedes	method_of
+-1
+-6.424393653869629
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	disease_or_syndrome
+precedes	prevents
+-1
+-6.426435470581055
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	pathologic_function
+precedes	prevents
+-1
+-6.426435470581055
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	cell_or_molecular_dysfunction
+precedes	prevents
+-1
+-6.426435470581055
+___
+diagnostic_procedure	vitamin	pathologic_function
+analyzes	causes
+-1
+-6.583722114562988
+___
+diagnostic_procedure	vitamin	neoplastic_process
+analyzes	causes
+-1
+-6.583722114562988
+___
+diagnostic_procedure	vitamin	disease_or_syndrome
+analyzes	causes
+-1
+-6.583722114562988
+___
+diagnostic_procedure	vitamin	acquired_abnormality
+analyzes	causes
+-1
+-6.583722114562988
+___
+diagnostic_procedure	vitamin	congenital_abnormality
+analyzes	causes
+-1
+-6.583722114562988
+___
+diagnostic_procedure	vitamin	experimental_model_of_disease
+analyzes	causes
+-1
+-6.583722114562988
+___
+diagnostic_procedure	vitamin	mental_or_behavioral_dysfunction
+analyzes	causes
+-1
+-6.583722114562988
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	machine_activity
+precedes	_method_of
+-1
+-6.6129350662231445
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	laboratory_procedure
+precedes	_method_of
+-1
+-6.6129350662231445
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	molecular_biology_research_technique
+precedes	_method_of
+-1
+-6.6129350662231445
+___
+diagnostic_procedure	hormone	cell_or_molecular_dysfunction
+analyzes	causes
+-1
+-6.632172107696533
+___
+diagnostic_procedure	hormone	anatomical_abnormality
+analyzes	causes
+-1
+-6.632172107696533
+___
+diagnostic_procedure	hormone	disease_or_syndrome
+analyzes	causes
+-1
+-6.632172107696533
+___
+diagnostic_procedure	hormone	mental_or_behavioral_dysfunction
+analyzes	causes
+-1
+-6.632172107696533
+___
+diagnostic_procedure	hormone	congenital_abnormality
+analyzes	causes
+-1
+-6.632172107696533
+___
+diagnostic_procedure	hormone	injury_or_poisoning
+analyzes	causes
+-1
+-6.632172107696533
+___
+diagnostic_procedure	hormone	pathologic_function
+analyzes	causes
+-1
+-6.632172107696533
+___
+diagnostic_procedure	hormone	experimental_model_of_disease
+analyzes	causes
+-1
+-6.632172107696533
+___
+diagnostic_procedure	hormone	acquired_abnormality
+analyzes	causes
+-1
+-6.632172107696533
+___
+diagnostic_procedure	hormone	neoplastic_process
+analyzes	causes
+-1
+-6.632172107696533
+___
+diagnostic_procedure	chemical	vitamin
+assesses_effect_of	_isa
+1
+-6.669696807861328
+___
+diagnostic_procedure	enzyme	cell_or_molecular_dysfunction
+analyzes	causes
+-1
+-6.67326545715332
+___
+diagnostic_procedure	enzyme	disease_or_syndrome
+analyzes	causes
+-1
+-6.67326545715332
+___
+diagnostic_procedure	enzyme	injury_or_poisoning
+analyzes	causes
+-1
+-6.67326545715332
+___
+diagnostic_procedure	enzyme	pathologic_function
+analyzes	causes
+-1
+-6.67326545715332
+___
+diagnostic_procedure	enzyme	anatomical_abnormality
+analyzes	causes
+-1
+-6.67326545715332
+___
+diagnostic_procedure	enzyme	neoplastic_process
+analyzes	causes
+-1
+-6.67326545715332
+___
+diagnostic_procedure	enzyme	mental_or_behavioral_dysfunction
+analyzes	causes
+-1
+-6.67326545715332
+___
+diagnostic_procedure	enzyme	experimental_model_of_disease
+analyzes	causes
+-1
+-6.67326545715332
+___
+diagnostic_procedure	enzyme	acquired_abnormality
+analyzes	causes
+-1
+-6.67326545715332
+___
+diagnostic_procedure	body_substance	congenital_abnormality
+analyzes	causes
+-1
+-6.703606843948364
+___
+diagnostic_procedure	body_substance	disease_or_syndrome
+analyzes	causes
+-1
+-6.703606843948364
+___
+diagnostic_procedure	body_substance	mental_or_behavioral_dysfunction
+analyzes	causes
+-1
+-6.703606843948364
+___
+diagnostic_procedure	body_substance	pathologic_function
+analyzes	causes
+-1
+-6.703606843948364
+___
+diagnostic_procedure	body_substance	cell_or_molecular_dysfunction
+analyzes	causes
+-1
+-6.703606843948364
+___
+diagnostic_procedure	body_substance	experimental_model_of_disease
+analyzes	causes
+-1
+-6.703606843948364
+___
+diagnostic_procedure	body_substance	neoplastic_process
+analyzes	causes
+-1
+-6.703606843948364
+___
+diagnostic_procedure	body_substance	injury_or_poisoning
+analyzes	causes
+-1
+-6.703606843948364
+___
+diagnostic_procedure	body_substance	anatomical_abnormality
+analyzes	causes
+-1
+-6.703606843948364
+___
+diagnostic_procedure	body_substance	acquired_abnormality
+analyzes	causes
+-1
+-6.703606843948364
+___
+diagnostic_procedure	vitamin	vitamin
+analyzes	NO_OP
+1
+-6.871253252029419
+___
+diagnostic_procedure	vitamin	cell_function
+analyzes	complicates
+-1
+-6.906149864196777
+___
+diagnostic_procedure	vitamin	neoplastic_process
+analyzes	complicates
+-1
+-6.906149864196777
+___
+diagnostic_procedure	vitamin	pathologic_function
+analyzes	complicates
+-1
+-6.906149864196777
+___
+diagnostic_procedure	vitamin	molecular_function
+analyzes	complicates
+-1
+-6.906149864196777
+___
+diagnostic_procedure	vitamin	biologic_function
+analyzes	complicates
+-1
+-6.906149864196777
+___
+diagnostic_procedure	vitamin	disease_or_syndrome
+analyzes	complicates
+-1
+-6.906149864196777
+___
+diagnostic_procedure	vitamin	experimental_model_of_disease
+analyzes	complicates
+-1
+-6.906149864196777
+___
+#####################

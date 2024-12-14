@@ -1,0 +1,2515 @@
+laboratory_procedure	genetic_function
+Reward:1
+laboratory_procedure	body_substance	body_substance
+analyzes	NO_OP
+-1
+-4.50542813539505
+___
+laboratory_procedure	temporal_concept	temporal_concept
+measures	NO_OP
+-1
+-5.153795130550861
+___
+laboratory_procedure	lipid	genetic_function
+analyzes	affects
+1
+-5.186554193496704
+___
+laboratory_procedure	steroid	genetic_function
+analyzes	affects
+1
+-5.294240117073059
+___
+laboratory_procedure	chemical_viewed_functionally	genetic_function
+analyzes	affects
+1
+-5.294240117073059
+___
+laboratory_procedure	body_substance	body_substance
+measures	NO_OP
+-1
+-5.34805303812027
+___
+laboratory_procedure	biologic_function	body_substance
+assesses_effect_of	produces
+-1
+-5.40082061290741
+___
+laboratory_procedure	lipid	genetic_function
+assesses_effect_of	affects
+1
+-5.4327569007873535
+___
+laboratory_procedure	molecular_function	body_substance
+assesses_effect_of	produces
+-1
+-5.480543851852417
+___
+laboratory_procedure	inorganic_chemical	genetic_function
+analyzes	affects
+1
+-5.4817503690719604
+___
+laboratory_procedure	organ_or_tissue_function	body_substance
+assesses_effect_of	produces
+-1
+-5.5106037855148315
+___
+laboratory_procedure	chemical	congenital_abnormality
+analyzes	causes
+-1
+-5.528120756149292
+___
+laboratory_procedure	chemical	acquired_abnormality
+analyzes	causes
+-1
+-5.528120756149292
+___
+laboratory_procedure	cell_function	body_substance
+assesses_effect_of	produces
+-1
+-5.537276744842529
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	genetic_function
+analyzes	affects
+1
+-5.538858652114868
+___
+laboratory_procedure	organic_chemical	genetic_function
+analyzes	affects
+1
+-5.538858652114868
+___
+laboratory_procedure	natural_phenomenon_or_process	genetic_function
+assesses_effect_of	process_of
+1
+-5.539908051490784
+___
+laboratory_procedure	chemical_viewed_functionally	genetic_function
+assesses_effect_of	affects
+1
+-5.579034447669983
+___
+laboratory_procedure	steroid	genetic_function
+assesses_effect_of	affects
+1
+-5.5790345668792725
+___
+laboratory_procedure	lipid	anatomical_abnormality
+analyzes	causes
+-1
+-5.591524600982666
+___
+laboratory_procedure	lipid	injury_or_poisoning
+analyzes	causes
+-1
+-5.591524600982666
+___
+laboratory_procedure	element_ion_or_isotope	genetic_function
+analyzes	affects
+1
+-5.602970838546753
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	congenital_abnormality
+analyzes	causes
+-1
+-5.644646644592285
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	acquired_abnormality
+analyzes	causes
+-1
+-5.644646644592285
+___
+laboratory_procedure	eicosanoid	genetic_function
+analyzes	affects
+1
+-5.664460897445679
+___
+laboratory_procedure	steroid	acquired_abnormality
+analyzes	causes
+-1
+-5.6992106437683105
+___
+laboratory_procedure	chemical_viewed_functionally	injury_or_poisoning
+analyzes	causes
+-1
+-5.6992106437683105
+___
+laboratory_procedure	chemical_viewed_functionally	congenital_abnormality
+analyzes	causes
+-1
+-5.6992106437683105
+___
+laboratory_procedure	steroid	injury_or_poisoning
+analyzes	causes
+-1
+-5.6992106437683105
+___
+laboratory_procedure	mental_or_behavioral_dysfunction	body_substance
+assesses_effect_of	produces
+-1
+-5.760378360748291
+___
+laboratory_procedure	mental_or_behavioral_dysfunction	tissue
+assesses_effect_of	produces
+-1
+-5.760378360748291
+___
+laboratory_procedure	organophosphorus_compound	genetic_function
+assesses_effect_of	affects
+1
+-5.77783203125
+___
+laboratory_procedure	chemical_viewed_structurally	genetic_function
+assesses_effect_of	affects
+1
+-5.77783203125
+___
+laboratory_procedure	lipid	genetic_function
+measures	affects
+1
+-5.780023574829102
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	genetic_function
+assesses_effect_of	affects
+1
+-5.780811071395874
+___
+laboratory_procedure	organic_chemical	genetic_function
+assesses_effect_of	affects
+1
+-5.780811071395874
+___
+laboratory_procedure	cell_or_molecular_dysfunction	body_substance
+assesses_effect_of	produces
+-1
+-5.789403796195984
+___
+laboratory_procedure	pathologic_function	body_substance
+assesses_effect_of	produces
+-1
+-5.8010642528533936
+___
+laboratory_procedure	inorganic_chemical	genetic_function
+assesses_effect_of	affects
+1
+-5.805631875991821
+___
+laboratory_procedure	carbohydrate	genetic_function
+assesses_effect_of	affects
+1
+-5.863391160964966
+___
+laboratory_procedure	mental_process	body_substance
+assesses_effect_of	produces
+-1
+-5.868006467819214
+___
+laboratory_procedure	mental_process	age_group
+assesses_effect_of	produces
+-1
+-5.868006467819214
+___
+laboratory_procedure	mental_process	family_group
+assesses_effect_of	produces
+-1
+-5.868006467819214
+___
+laboratory_procedure	amino_acid_peptide_or_protein	genetic_function
+assesses_effect_of	affects
+1
+-5.870342969894409
+___
+laboratory_procedure	eicosanoid	genetic_function
+assesses_effect_of	affects
+1
+-5.876726150512695
+___
+laboratory_procedure	inorganic_chemical	acquired_abnormality
+analyzes	causes
+-1
+-5.886720895767212
+___
+laboratory_procedure	inorganic_chemical	injury_or_poisoning
+analyzes	causes
+-1
+-5.886720895767212
+___
+laboratory_procedure	organic_chemical	injury_or_poisoning
+analyzes	causes
+-1
+-5.94382905960083
+___
+laboratory_procedure	organic_chemical	acquired_abnormality
+analyzes	causes
+-1
+-5.94382905960083
+___
+laboratory_procedure	organic_chemical	anatomical_abnormality
+analyzes	causes
+-1
+-5.94382905960083
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	congenital_abnormality
+analyzes	causes
+-1
+-5.94382905960083
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	anatomical_abnormality
+analyzes	causes
+-1
+-5.94382905960083
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	acquired_abnormality
+analyzes	causes
+-1
+-5.94382905960083
+___
+laboratory_procedure	steroid	genetic_function
+measures	affects
+1
+-5.947317957878113
+___
+laboratory_procedure	chemical_viewed_functionally	genetic_function
+measures	affects
+1
+-5.947318017482758
+___
+laboratory_procedure	organism_function	body_substance
+assesses_effect_of	produces
+-1
+-5.951868772506714
+___
+laboratory_procedure	organism_function	age_group
+assesses_effect_of	produces
+-1
+-5.951868772506714
+___
+laboratory_procedure	organism_function	family_group
+assesses_effect_of	produces
+-1
+-5.951868772506714
+___
+laboratory_procedure	element_ion_or_isotope	acquired_abnormality
+analyzes	causes
+-1
+-6.007941246032715
+___
+laboratory_procedure	element_ion_or_isotope	injury_or_poisoning
+analyzes	causes
+-1
+-6.007941246032715
+___
+laboratory_procedure	element_ion_or_isotope	congenital_abnormality
+analyzes	causes
+-1
+-6.007941246032715
+___
+laboratory_procedure	element_ion_or_isotope	anatomical_abnormality
+analyzes	causes
+-1
+-6.007941246032715
+___
+laboratory_procedure	hazardous_or_poisonous_substance	genetic_function
+analyzes	affects
+1
+-6.013331890106201
+___
+laboratory_procedure	chemical	occupation_or_discipline
+analyzes	issue_in
+-1
+-6.035454988479614
+___
+laboratory_procedure	chemical	entity
+analyzes	isa
+-1
+-6.0554492473602295
+___
+laboratory_procedure	chemical	substance
+analyzes	isa
+-1
+-6.0554492473602295
+___
+laboratory_procedure	chemical	physical_object
+analyzes	isa
+-1
+-6.0554492473602295
+___
+laboratory_procedure	immunologic_factor	genetic_function
+analyzes	affects
+1
+-6.067770481109619
+___
+laboratory_procedure	eicosanoid	congenital_abnormality
+analyzes	causes
+-1
+-6.069431304931641
+___
+laboratory_procedure	eicosanoid	injury_or_poisoning
+analyzes	causes
+-1
+-6.069431304931641
+___
+laboratory_procedure	eicosanoid	anatomical_abnormality
+analyzes	causes
+-1
+-6.069431304931641
+___
+laboratory_procedure	eicosanoid	acquired_abnormality
+analyzes	causes
+-1
+-6.069431304931641
+___
+laboratory_procedure	receptor	genetic_function
+analyzes	affects
+1
+-6.0774900913238525
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	genetic_function
+measures	affects
+1
+-6.088952660560608
+___
+laboratory_procedure	lipid	biomedical_occupation_or_discipline
+analyzes	issue_in
+-1
+-6.098858833312988
+___
+laboratory_procedure	lipid	physical_object
+analyzes	isa
+-1
+-6.1188530921936035
+___
+laboratory_procedure	organophosphorus_compound	genetic_function
+measures	affects
+1
+-6.12037980556488
+___
+laboratory_procedure	element_ion_or_isotope	genetic_function
+measures	affects
+1
+-6.12037980556488
+___
+laboratory_procedure	chemical_viewed_structurally	genetic_function
+measures	affects
+1
+-6.12037992477417
+___
+laboratory_procedure	lipid	physical_object
+assesses_effect_of	isa
+-1
+-6.1257312297821045
+___
+laboratory_procedure	chemical	physical_object
+assesses_effect_of	isa
+-1
+-6.12578558921814
+___
+laboratory_procedure	chemical	substance
+assesses_effect_of	isa
+-1
+-6.12578558921814
+___
+laboratory_procedure	chemical	entity
+assesses_effect_of	isa
+-1
+-6.12578558921814
+___
+laboratory_procedure	carbohydrate	genetic_function
+measures	affects
+1
+-6.1332104206085205
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	biomedical_occupation_or_discipline
+analyzes	issue_in
+-1
+-6.151980876922607
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	occupation_or_discipline
+analyzes	issue_in
+-1
+-6.151980876922607
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	entity
+analyzes	isa
+-1
+-6.171975135803223
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	substance
+analyzes	isa
+-1
+-6.171975135803223
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	physical_object
+analyzes	isa
+-1
+-6.171975135803223
+___
+laboratory_procedure	inorganic_chemical	genetic_function
+measures	affects
+1
+-6.173710823059082
+___
+laboratory_procedure	eicosanoid	genetic_function
+measures	affects
+1
+-6.177098274230957
+___
+laboratory_procedure	biologically_active_substance	genetic_function
+analyzes	affects
+1
+-6.190841913223267
+___
+laboratory_procedure	lipid	clinical_drug
+assesses_effect_of	ingredient_of
+-1
+-6.196288347244263
+___
+laboratory_procedure	chemical	clinical_drug
+assesses_effect_of	ingredient_of
+-1
+-6.196342706680298
+___
+laboratory_procedure	amino_acid_peptide_or_protein	genetic_function
+measures	affects
+1
+-6.201152324676514
+___
+laboratory_procedure	chemical_viewed_functionally	biomedical_occupation_or_discipline
+analyzes	issue_in
+-1
+-6.206544876098633
+___
+laboratory_procedure	steroid	occupation_or_discipline
+analyzes	issue_in
+-1
+-6.206544876098633
+___
+laboratory_procedure	enzyme	genetic_function
+analyzes	affects
+1
+-6.221013069152832
+___
+laboratory_procedure	chemical	clinical_drug
+analyzes	ingredient_of
+-1
+-6.2228004932403564
+___
+laboratory_procedure	chemical_viewed_functionally	physical_object
+analyzes	isa
+-1
+-6.226539134979248
+___
+#####################
+laboratory_procedure	element_ion_or_isotope
+Reward:1
+laboratory_procedure	lipid	element_ion_or_isotope
+analyzes	interacts_with
+1
+-3.965667001903057
+___
+laboratory_procedure	steroid	element_ion_or_isotope
+analyzes	interacts_with
+1
+-3.9689876791089773
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	element_ion_or_isotope
+analyzes	interacts_with
+1
+-3.977946724742651
+___
+laboratory_procedure	organic_chemical	element_ion_or_isotope
+analyzes	interacts_with
+1
+-3.9779468402266502
+___
+laboratory_procedure	element_ion_or_isotope	element_ion_or_isotope
+analyzes	NO_OP
+1
+-4.2806656062603
+___
+laboratory_procedure	lipid	element_ion_or_isotope
+assesses_effect_of	interacts_with
+1
+-4.293237026780844
+___
+laboratory_procedure	steroid	element_ion_or_isotope
+assesses_effect_of	interacts_with
+1
+-4.29681821167469
+___
+laboratory_procedure	chemical_viewed_structurally	element_ion_or_isotope
+assesses_effect_of	interacts_with
+1
+-4.302578862756491
+___
+laboratory_procedure	organic_chemical	element_ion_or_isotope
+assesses_effect_of	interacts_with
+1
+-4.30267384275794
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	element_ion_or_isotope
+assesses_effect_of	interacts_with
+1
+-4.3026739582419395
+___
+laboratory_procedure	carbohydrate	element_ion_or_isotope
+assesses_effect_of	interacts_with
+1
+-4.305420940741897
+___
+laboratory_procedure	amino_acid_peptide_or_protein	element_ion_or_isotope
+assesses_effect_of	interacts_with
+1
+-4.305662274360657
+___
+laboratory_procedure	body_substance	body_substance
+analyzes	NO_OP
+-1
+-4.50542813539505
+___
+laboratory_procedure	lipid	element_ion_or_isotope
+measures	interacts_with
+1
+-5.077477086219005
+___
+laboratory_procedure	steroid	element_ion_or_isotope
+measures	interacts_with
+1
+-5.078159461263567
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	element_ion_or_isotope
+measures	interacts_with
+1
+-5.07883257814683
+___
+laboratory_procedure	chemical_viewed_structurally	element_ion_or_isotope
+measures	interacts_with
+1
+-5.078995351213962
+___
+laboratory_procedure	carbohydrate	element_ion_or_isotope
+measures	interacts_with
+1
+-5.079063304467127
+___
+laboratory_procedure	amino_acid_peptide_or_protein	element_ion_or_isotope
+measures	interacts_with
+1
+-5.079437794163823
+___
+laboratory_procedure	temporal_concept	temporal_concept
+measures	NO_OP
+-1
+-5.153795130550861
+___
+laboratory_procedure	element_ion_or_isotope	element_ion_or_isotope
+measures	NO_OP
+1
+-5.166050471365452
+___
+laboratory_procedure	body_substance	body_substance
+measures	NO_OP
+-1
+-5.34805303812027
+___
+laboratory_procedure	biologic_function	body_substance
+assesses_effect_of	produces
+-1
+-5.351234793663025
+___
+laboratory_procedure	chemical_viewed_functionally	congenital_abnormality
+analyzes	causes
+-1
+-5.398990869522095
+___
+laboratory_procedure	chemical_viewed_functionally	injury_or_poisoning
+analyzes	causes
+-1
+-5.398990869522095
+___
+laboratory_procedure	molecular_function	body_substance
+assesses_effect_of	produces
+-1
+-5.403167486190796
+___
+laboratory_procedure	organ_or_tissue_function	body_substance
+assesses_effect_of	produces
+-1
+-5.441917538642883
+___
+laboratory_procedure	cell_function	body_substance
+assesses_effect_of	produces
+-1
+-5.483598828315735
+___
+laboratory_procedure	chemical	acquired_abnormality
+analyzes	causes
+-1
+-5.528120756149292
+___
+laboratory_procedure	chemical	congenital_abnormality
+analyzes	causes
+-1
+-5.528120756149292
+___
+laboratory_procedure	inorganic_chemical	acquired_abnormality
+analyzes	causes
+-1
+-5.644646525382996
+___
+laboratory_procedure	inorganic_chemical	injury_or_poisoning
+analyzes	causes
+-1
+-5.644646525382996
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	acquired_abnormality
+analyzes	causes
+-1
+-5.644646644592285
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	congenital_abnormality
+analyzes	causes
+-1
+-5.644646644592285
+___
+laboratory_procedure	mental_or_behavioral_dysfunction	body_substance
+assesses_effect_of	produces
+-1
+-5.721731543540955
+___
+laboratory_procedure	mental_or_behavioral_dysfunction	tissue
+assesses_effect_of	produces
+-1
+-5.721731543540955
+___
+laboratory_procedure	cell_or_molecular_dysfunction	body_substance
+assesses_effect_of	produces
+-1
+-5.741424202919006
+___
+laboratory_procedure	pathologic_function	body_substance
+assesses_effect_of	produces
+-1
+-5.768107175827026
+___
+laboratory_procedure	mental_process	age_group
+assesses_effect_of	produces
+-1
+-5.816551923751831
+___
+laboratory_procedure	mental_process	body_substance
+assesses_effect_of	produces
+-1
+-5.816551923751831
+___
+laboratory_procedure	mental_process	family_group
+assesses_effect_of	produces
+-1
+-5.816551923751831
+___
+laboratory_procedure	natural_phenomenon_or_process	phenomenon_or_process
+assesses_effect_of	result_of
+-1
+-5.8356239795684814
+___
+laboratory_procedure	natural_phenomenon_or_process	injury_or_poisoning
+assesses_effect_of	result_of
+-1
+-5.8356239795684814
+___
+laboratory_procedure	natural_phenomenon_or_process	environmental_effect_of_humans
+assesses_effect_of	result_of
+-1
+-5.8356239795684814
+___
+laboratory_procedure	natural_phenomenon_or_process	acquired_abnormality
+assesses_effect_of	result_of
+-1
+-5.8356239795684814
+___
+laboratory_procedure	eicosanoid	injury_or_poisoning
+analyzes	causes
+-1
+-5.872078895568848
+___
+laboratory_procedure	eicosanoid	congenital_abnormality
+analyzes	causes
+-1
+-5.872078895568848
+___
+laboratory_procedure	eicosanoid	anatomical_abnormality
+analyzes	causes
+-1
+-5.872078895568848
+___
+laboratory_procedure	eicosanoid	acquired_abnormality
+analyzes	causes
+-1
+-5.872078895568848
+___
+laboratory_procedure	organism_function	family_group
+assesses_effect_of	produces
+-1
+-5.904279112815857
+___
+laboratory_procedure	organism_function	body_substance
+assesses_effect_of	produces
+-1
+-5.904279112815857
+___
+laboratory_procedure	organism_function	age_group
+assesses_effect_of	produces
+-1
+-5.904279112815857
+___
+laboratory_procedure	chemical_viewed_functionally	biomedical_occupation_or_discipline
+analyzes	issue_in
+-1
+-5.906325101852417
+___
+laboratory_procedure	chemical_viewed_functionally	physical_object
+analyzes	isa
+-1
+-5.926319360733032
+___
+laboratory_procedure	chemical_viewed_functionally	substance
+analyzes	isa
+-1
+-5.926319360733032
+___
+laboratory_procedure	chemical_viewed_functionally	physical_object
+assesses_effect_of	isa
+-1
+-5.954393267631531
+___
+laboratory_procedure	chemical_viewed_functionally	substance
+assesses_effect_of	isa
+-1
+-5.954393267631531
+___
+laboratory_procedure	chemical_viewed_functionally	clinical_drug
+assesses_effect_of	ingredient_of
+-1
+-6.024950385093689
+___
+laboratory_procedure	chemical	occupation_or_discipline
+analyzes	issue_in
+-1
+-6.035454988479614
+___
+laboratory_procedure	chemical	entity
+analyzes	isa
+-1
+-6.0554492473602295
+___
+laboratory_procedure	chemical	substance
+analyzes	isa
+-1
+-6.0554492473602295
+___
+laboratory_procedure	chemical	physical_object
+analyzes	isa
+-1
+-6.0554492473602295
+___
+laboratory_procedure	chemical_viewed_functionally	clinical_drug
+analyzes	ingredient_of
+-1
+-6.093670606613159
+___
+laboratory_procedure	chemical_viewed_functionally	biomedical_occupation_or_discipline
+assesses_effect_of	issue_in
+-1
+-6.094914674758911
+___
+laboratory_procedure	chemical	substance
+assesses_effect_of	isa
+-1
+-6.12578558921814
+___
+laboratory_procedure	chemical	physical_object
+assesses_effect_of	isa
+-1
+-6.12578558921814
+___
+laboratory_procedure	chemical	entity
+assesses_effect_of	isa
+-1
+-6.12578558921814
+___
+laboratory_procedure	inorganic_chemical	biomedical_occupation_or_discipline
+analyzes	issue_in
+-1
+-6.151980876922607
+___
+laboratory_procedure	inorganic_chemical	occupation_or_discipline
+analyzes	issue_in
+-1
+-6.151980876922607
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	occupation_or_discipline
+analyzes	issue_in
+-1
+-6.151980876922607
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	biomedical_occupation_or_discipline
+analyzes	issue_in
+-1
+-6.151980876922607
+___
+laboratory_procedure	hazardous_or_poisonous_substance	acquired_abnormality
+analyzes	causes
+-1
+-6.156861305236816
+___
+laboratory_procedure	hazardous_or_poisonous_substance	anatomical_abnormality
+analyzes	causes
+-1
+-6.156861305236816
+___
+laboratory_procedure	hazardous_or_poisonous_substance	injury_or_poisoning
+analyzes	causes
+-1
+-6.156861305236816
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	entity
+analyzes	isa
+-1
+-6.171975135803223
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	substance
+analyzes	isa
+-1
+-6.171975135803223
+___
+laboratory_procedure	inorganic_chemical	substance
+analyzes	isa
+-1
+-6.171975135803223
+___
+laboratory_procedure	inorganic_chemical	entity
+analyzes	isa
+-1
+-6.171975135803223
+___
+laboratory_procedure	inorganic_chemical	physical_object
+analyzes	isa
+-1
+-6.171975135803223
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	physical_object
+analyzes	isa
+-1
+-6.171975135803223
+___
+laboratory_procedure	quantitative_concept	quantitative_concept
+measures	NO_OP
+-1
+-6.185986518859863
+___
+laboratory_procedure	chemical	clinical_drug
+assesses_effect_of	ingredient_of
+-1
+-6.196342706680298
+___
+laboratory_procedure	chemical_viewed_functionally	injury_or_poisoning
+assesses_effect_of	causes
+-1
+-6.210533857345581
+___
+laboratory_procedure	chemical_viewed_functionally	congenital_abnormality
+assesses_effect_of	causes
+-1
+-6.210533857345581
+___
+laboratory_procedure	organophosphorus_compound	entity
+assesses_effect_of	isa
+-1
+-6.2184154987335205
+___
+laboratory_procedure	organophosphorus_compound	physical_object
+assesses_effect_of	isa
+-1
+-6.2184154987335205
+___
+laboratory_procedure	organophosphorus_compound	substance
+assesses_effect_of	isa
+-1
+-6.2184154987335205
+___
+laboratory_procedure	chemical	clinical_drug
+analyzes	ingredient_of
+-1
+-6.2228004932403564
+___
+laboratory_procedure	inorganic_chemical	entity
+assesses_effect_of	isa
+-1
+-6.254055976867676
+___
+laboratory_procedure	inorganic_chemical	substance
+assesses_effect_of	isa
+-1
+-6.254055976867676
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	physical_object
+assesses_effect_of	isa
+-1
+-6.254055976867676
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	entity
+assesses_effect_of	isa
+-1
+-6.254055976867676
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	substance
+assesses_effect_of	isa
+-1
+-6.254055976867676
+___
+laboratory_procedure	inorganic_chemical	physical_object
+assesses_effect_of	isa
+-1
+-6.254055976867676
+___
+laboratory_procedure	chemical	occupation_or_discipline
+assesses_effect_of	issue_in
+-1
+-6.26630699634552
+___
+laboratory_procedure	body_substance	tissue
+analyzes	derivative_of
+-1
+-6.276627063751221
+___
+laboratory_procedure	immunologic_factor	injury_or_poisoning
+analyzes	causes
+-1
+-6.305150985717773
+___
+laboratory_procedure	immunologic_factor	anatomical_abnormality
+analyzes	causes
+-1
+-6.305150985717773
+___
+laboratory_procedure	receptor	anatomical_abnormality
+analyzes	causes
+-1
+-6.316633939743042
+___
+laboratory_procedure	receptor	congenital_abnormality
+analyzes	causes
+-1
+-6.316633939743042
+___
+#####################
+diagnostic_procedure	element_ion_or_isotope
+Reward:1
+diagnostic_procedure	lipid	element_ion_or_isotope
+analyzes	interacts_with
+1
+-4.0300449430942535
+___
+diagnostic_procedure	chemical_viewed_structurally	element_ion_or_isotope
+analyzes	interacts_with
+1
+-4.035938993096352
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	element_ion_or_isotope
+analyzes	interacts_with
+1
+-4.040950804948807
+___
+diagnostic_procedure	carbohydrate	element_ion_or_isotope
+analyzes	interacts_with
+1
+-4.040950804948807
+___
+diagnostic_procedure	organic_chemical	element_ion_or_isotope
+analyzes	interacts_with
+1
+-4.043417766690254
+___
+diagnostic_procedure	steroid	element_ion_or_isotope
+analyzes	interacts_with
+1
+-4.047835797071457
+___
+diagnostic_procedure	amino_acid_peptide_or_protein	element_ion_or_isotope
+analyzes	interacts_with
+1
+-4.048787608742714
+___
+diagnostic_procedure	chemical_viewed_structurally	element_ion_or_isotope
+assesses_effect_of	interacts_with
+1
+-4.331561386585236
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	element_ion_or_isotope
+assesses_effect_of	interacts_with
+1
+-4.338161692023277
+___
+diagnostic_procedure	carbohydrate	element_ion_or_isotope
+assesses_effect_of	interacts_with
+1
+-4.338161692023277
+___
+diagnostic_procedure	organic_chemical	element_ion_or_isotope
+assesses_effect_of	interacts_with
+1
+-4.34213275462389
+___
+diagnostic_procedure	amino_acid_peptide_or_protein	element_ion_or_isotope
+assesses_effect_of	interacts_with
+1
+-4.344852164387703
+___
+diagnostic_procedure	steroid	element_ion_or_isotope
+assesses_effect_of	interacts_with
+1
+-4.345782324671745
+___
+diagnostic_procedure	body_substance	body_substance
+analyzes	NO_OP
+-1
+-4.644886612892151
+___
+diagnostic_procedure	chemical_viewed_structurally	element_ion_or_isotope
+measures	interacts_with
+1
+-5.043712986633182
+___
+diagnostic_procedure	lipid	element_ion_or_isotope
+measures	interacts_with
+1
+-5.044039096683264
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	element_ion_or_isotope
+measures	interacts_with
+1
+-5.04536585137248
+___
+diagnostic_procedure	carbohydrate	element_ion_or_isotope
+measures	interacts_with
+1
+-5.04536596685648
+___
+diagnostic_procedure	organic_chemical	element_ion_or_isotope
+measures	interacts_with
+1
+-5.046949805691838
+___
+diagnostic_procedure	steroid	element_ion_or_isotope
+measures	interacts_with
+1
+-5.04832430370152
+___
+diagnostic_procedure	body_substance	body_substance
+measures	NO_OP
+-1
+-5.321929484605789
+___
+diagnostic_procedure	element_ion_or_isotope	element_ion_or_isotope
+measures	NO_OP
+1
+-5.572710573673248
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	drug_delivery_device
+precedes	uses
+-1
+-5.8316450119018555
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	medical_device
+precedes	uses
+-1
+-5.8316450119018555
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	manufactured_object
+precedes	uses
+-1
+-5.8316450119018555
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	research_device
+precedes	uses
+-1
+-5.8316450119018555
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	food
+precedes	uses
+-1
+-5.8316450119018555
+___
+diagnostic_procedure	mental_process	organism_function
+measures	degree_of
+-1
+-6.386932969093323
+___
+diagnostic_procedure	body_substance	tissue
+analyzes	derivative_of
+-1
+-6.416085481643677
+___
+diagnostic_procedure	organism_function	mental_process
+measures	degree_of
+-1
+-6.553766965866089
+___
+diagnostic_procedure	quantitative_concept	quantitative_concept
+measures	NO_OP
+-1
+-6.590176701545715
+___
+diagnostic_procedure	chemical	molecular_function
+analyzes	affects
+-1
+-6.6359498500823975
+___
+diagnostic_procedure	chemical	mental_process
+analyzes	affects
+-1
+-6.6359498500823975
+___
+diagnostic_procedure	chemical	disease_or_syndrome
+analyzes	affects
+-1
+-6.6359498500823975
+___
+diagnostic_procedure	chemical	experimental_model_of_disease
+analyzes	affects
+-1
+-6.6359498500823975
+___
+diagnostic_procedure	chemical	cell_or_molecular_dysfunction
+analyzes	affects
+-1
+-6.6359498500823975
+___
+diagnostic_procedure	chemical	cell_function
+analyzes	affects
+-1
+-6.6359498500823975
+___
+diagnostic_procedure	chemical	physiologic_function
+analyzes	affects
+-1
+-6.6359498500823975
+___
+diagnostic_procedure	chemical	biologic_function
+analyzes	affects
+-1
+-6.6359498500823975
+___
+diagnostic_procedure	chemical	pathologic_function
+analyzes	affects
+-1
+-6.6359498500823975
+___
+diagnostic_procedure	chemical_viewed_functionally	cell_function
+analyzes	affects
+-1
+-6.7905919551849365
+___
+diagnostic_procedure	chemical_viewed_functionally	cell_or_molecular_dysfunction
+analyzes	affects
+-1
+-6.7905919551849365
+___
+diagnostic_procedure	chemical_viewed_functionally	mental_or_behavioral_dysfunction
+analyzes	affects
+-1
+-6.7905919551849365
+___
+diagnostic_procedure	chemical_viewed_functionally	molecular_function
+analyzes	affects
+-1
+-6.7905919551849365
+___
+diagnostic_procedure	chemical_viewed_functionally	organ_or_tissue_function
+analyzes	affects
+-1
+-6.7905919551849365
+___
+diagnostic_procedure	chemical_viewed_functionally	disease_or_syndrome
+analyzes	affects
+-1
+-6.7905919551849365
+___
+diagnostic_procedure	chemical_viewed_functionally	experimental_model_of_disease
+analyzes	affects
+-1
+-6.7905919551849365
+___
+diagnostic_procedure	chemical_viewed_functionally	natural_phenomenon_or_process
+analyzes	affects
+-1
+-6.7905919551849365
+___
+diagnostic_procedure	chemical_viewed_functionally	organism_function
+analyzes	affects
+-1
+-6.7905919551849365
+___
+diagnostic_procedure	chemical_viewed_functionally	mental_process
+analyzes	affects
+-1
+-6.7905919551849365
+___
+diagnostic_procedure	chemical_viewed_functionally	biologic_function
+analyzes	affects
+-1
+-6.7905919551849365
+___
+diagnostic_procedure	chemical_viewed_functionally	genetic_function
+analyzes	affects
+-1
+-6.7905919551849365
+___
+diagnostic_procedure	eicosanoid	experimental_model_of_disease
+analyzes	affects
+-1
+-6.82981276512146
+___
+diagnostic_procedure	eicosanoid	molecular_function
+analyzes	affects
+-1
+-6.82981276512146
+___
+diagnostic_procedure	eicosanoid	cell_function
+analyzes	affects
+-1
+-6.82981276512146
+___
+diagnostic_procedure	eicosanoid	natural_phenomenon_or_process
+analyzes	affects
+-1
+-6.82981276512146
+___
+diagnostic_procedure	eicosanoid	organism_function
+analyzes	affects
+-1
+-6.82981276512146
+___
+diagnostic_procedure	eicosanoid	physiologic_function
+analyzes	affects
+-1
+-6.82981276512146
+___
+diagnostic_procedure	eicosanoid	neoplastic_process
+analyzes	affects
+-1
+-6.82981276512146
+___
+diagnostic_procedure	eicosanoid	organ_or_tissue_function
+analyzes	affects
+-1
+-6.82981276512146
+___
+diagnostic_procedure	eicosanoid	biologic_function
+analyzes	affects
+-1
+-6.82981276512146
+___
+diagnostic_procedure	eicosanoid	genetic_function
+analyzes	affects
+-1
+-6.82981276512146
+___
+diagnostic_procedure	eicosanoid	cell_or_molecular_dysfunction
+analyzes	affects
+-1
+-6.82981276512146
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	therapeutic_or_preventive_procedure
+precedes	NO_OP
+-1
+-6.833555698394775
+___
+diagnostic_procedure	chemical	physiologic_function
+assesses_effect_of	affects
+-1
+-6.8694541454315186
+___
+diagnostic_procedure	chemical	disease_or_syndrome
+assesses_effect_of	affects
+-1
+-6.8694541454315186
+___
+diagnostic_procedure	chemical	cell_or_molecular_dysfunction
+assesses_effect_of	affects
+-1
+-6.8694541454315186
+___
+diagnostic_procedure	chemical	experimental_model_of_disease
+assesses_effect_of	affects
+-1
+-6.8694541454315186
+___
+diagnostic_procedure	chemical	mental_process
+assesses_effect_of	affects
+-1
+-6.8694541454315186
+___
+diagnostic_procedure	chemical	biologic_function
+assesses_effect_of	affects
+-1
+-6.8694541454315186
+___
+diagnostic_procedure	chemical	molecular_function
+assesses_effect_of	affects
+-1
+-6.8694541454315186
+___
+diagnostic_procedure	chemical	cell_function
+assesses_effect_of	affects
+-1
+-6.8694541454315186
+___
+diagnostic_procedure	chemical	pathologic_function
+assesses_effect_of	affects
+-1
+-6.8694541454315186
+___
+diagnostic_procedure	biomedical_or_dental_material	cell_function
+analyzes	affects
+-1
+-6.88470983505249
+___
+diagnostic_procedure	biomedical_or_dental_material	disease_or_syndrome
+analyzes	affects
+-1
+-6.88470983505249
+___
+diagnostic_procedure	biomedical_or_dental_material	pathologic_function
+analyzes	affects
+-1
+-6.88470983505249
+___
+diagnostic_procedure	biomedical_or_dental_material	genetic_function
+analyzes	affects
+-1
+-6.88470983505249
+___
+diagnostic_procedure	biomedical_or_dental_material	mental_process
+analyzes	affects
+-1
+-6.88470983505249
+___
+diagnostic_procedure	biomedical_or_dental_material	neoplastic_process
+analyzes	affects
+-1
+-6.88470983505249
+___
+diagnostic_procedure	biomedical_or_dental_material	organism_function
+analyzes	affects
+-1
+-6.88470983505249
+___
+diagnostic_procedure	biomedical_or_dental_material	natural_phenomenon_or_process
+analyzes	affects
+-1
+-6.88470983505249
+___
+diagnostic_procedure	biomedical_or_dental_material	molecular_function
+analyzes	affects
+-1
+-6.88470983505249
+___
+diagnostic_procedure	biomedical_or_dental_material	physiologic_function
+analyzes	affects
+-1
+-6.88470983505249
+___
+diagnostic_procedure	biomedical_or_dental_material	mental_or_behavioral_dysfunction
+analyzes	affects
+-1
+-6.88470983505249
+___
+diagnostic_procedure	biomedical_or_dental_material	organ_or_tissue_function
+analyzes	affects
+-1
+-6.88470983505249
+___
+diagnostic_procedure	biomedical_or_dental_material	experimental_model_of_disease
+analyzes	affects
+-1
+-6.88470983505249
+___
+diagnostic_procedure	inorganic_chemical	mental_or_behavioral_dysfunction
+analyzes	affects
+-1
+-6.901234149932861
+___
+diagnostic_procedure	inorganic_chemical	cell_or_molecular_dysfunction
+analyzes	affects
+-1
+-6.901234149932861
+___
+diagnostic_procedure	inorganic_chemical	experimental_model_of_disease
+analyzes	affects
+-1
+-6.901234149932861
+___
+diagnostic_procedure	inorganic_chemical	mental_process
+analyzes	affects
+-1
+-6.901234149932861
+___
+diagnostic_procedure	inorganic_chemical	genetic_function
+analyzes	affects
+-1
+-6.901234149932861
+___
+diagnostic_procedure	inorganic_chemical	biologic_function
+analyzes	affects
+-1
+-6.901234149932861
+___
+diagnostic_procedure	inorganic_chemical	pathologic_function
+analyzes	affects
+-1
+-6.901234149932861
+___
+diagnostic_procedure	inorganic_chemical	disease_or_syndrome
+analyzes	affects
+-1
+-6.901234149932861
+___
+diagnostic_procedure	inorganic_chemical	organ_or_tissue_function
+analyzes	affects
+-1
+-6.901234149932861
+___
+diagnostic_procedure	inorganic_chemical	molecular_function
+analyzes	affects
+-1
+-6.901234149932861
+___
+diagnostic_procedure	inorganic_chemical	natural_phenomenon_or_process
+analyzes	affects
+-1
+-6.901234149932861
+___
+diagnostic_procedure	inorganic_chemical	physiologic_function
+analyzes	affects
+-1
+-6.901234149932861
+___
+diagnostic_procedure	inorganic_chemical	neoplastic_process
+analyzes	affects
+-1
+-6.901234149932861
+___
+diagnostic_procedure	inorganic_chemical	organism_function
+analyzes	affects
+-1
+-6.901234149932861
+___
+#####################
+laboratory_procedure	disease_or_syndrome
+Reward:1
+laboratory_procedure	body_substance	body_substance
+analyzes	NO_OP
+-1
+-4.540572643280029
+___
+laboratory_procedure	temporal_concept	temporal_concept
+measures	NO_OP
+-1
+-5.153795130550861
+___
+laboratory_procedure	body_substance	body_substance
+measures	NO_OP
+-1
+-5.352918922901154
+___
+laboratory_procedure	lipid	disease_or_syndrome
+analyzes	affects
+1
+-5.362731575965881
+___
+laboratory_procedure	chemical	disease_or_syndrome
+analyzes	affects
+1
+-5.3914488554000854
+___
+laboratory_procedure	biologic_function	body_substance
+assesses_effect_of	produces
+-1
+-5.391919374465942
+___
+laboratory_procedure	natural_phenomenon_or_process	disease_or_syndrome
+assesses_effect_of	process_of
+1
+-5.406715512275696
+___
+laboratory_procedure	molecular_function	body_substance
+assesses_effect_of	produces
+-1
+-5.436118721961975
+___
+laboratory_procedure	chemical_viewed_functionally	disease_or_syndrome
+analyzes	affects
+1
+-5.4537893533706665
+___
+laboratory_procedure	organ_or_tissue_function	body_substance
+assesses_effect_of	produces
+-1
+-5.492730259895325
+___
+laboratory_procedure	cell_function	body_substance
+assesses_effect_of	produces
+-1
+-5.514041900634766
+___
+laboratory_procedure	lipid	disease_or_syndrome
+assesses_effect_of	affects
+1
+-5.547801733016968
+___
+laboratory_procedure	steroid	acquired_abnormality
+analyzes	causes
+-1
+-5.6088889837265015
+___
+laboratory_procedure	steroid	injury_or_poisoning
+analyzes	causes
+-1
+-5.6088889837265015
+___
+laboratory_procedure	steroid	disease_or_syndrome
+analyzes	causes
+1
+-5.6088889837265015
+___
+laboratory_procedure	inorganic_chemical	disease_or_syndrome
+analyzes	affects
+1
+-5.6157615184783936
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	disease_or_syndrome
+analyzes	affects
+1
+-5.6157615184783936
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	disease_or_syndrome
+analyzes	affects
+1
+-5.665883660316467
+___
+laboratory_procedure	organic_chemical	disease_or_syndrome
+analyzes	affects
+1
+-5.665883660316467
+___
+laboratory_procedure	chemical_viewed_functionally	disease_or_syndrome
+assesses_effect_of	affects
+1
+-5.679180383682251
+___
+laboratory_procedure	chemical	disease_or_syndrome
+assesses_effect_of	affects
+1
+-5.706620216369629
+___
+laboratory_procedure	element_ion_or_isotope	disease_or_syndrome
+analyzes	affects
+1
+-5.722560405731201
+___
+laboratory_procedure	lipid	anatomical_abnormality
+analyzes	causes
+-1
+-5.767702102661133
+___
+laboratory_procedure	lipid	disease_or_syndrome
+analyzes	causes
+1
+-5.767702102661133
+___
+laboratory_procedure	lipid	injury_or_poisoning
+analyzes	causes
+-1
+-5.767702102661133
+___
+laboratory_procedure	chemical	congenital_abnormality
+analyzes	causes
+-1
+-5.796419382095337
+___
+laboratory_procedure	chemical	acquired_abnormality
+analyzes	causes
+-1
+-5.796419382095337
+___
+laboratory_procedure	mental_or_behavioral_dysfunction	body_substance
+assesses_effect_of	produces
+-1
+-5.83102560043335
+___
+laboratory_procedure	mental_or_behavioral_dysfunction	tissue
+assesses_effect_of	produces
+-1
+-5.83102560043335
+___
+laboratory_procedure	lipid	disease_or_syndrome
+measures	affects
+1
+-5.839830279350281
+___
+laboratory_procedure	mental_process	family_group
+assesses_effect_of	produces
+-1
+-5.851763367652893
+___
+laboratory_procedure	mental_process	body_substance
+assesses_effect_of	produces
+-1
+-5.851763367652893
+___
+laboratory_procedure	mental_process	age_group
+assesses_effect_of	produces
+-1
+-5.851763367652893
+___
+laboratory_procedure	chemical_viewed_functionally	congenital_abnormality
+analyzes	causes
+-1
+-5.858759880065918
+___
+laboratory_procedure	chemical_viewed_functionally	disease_or_syndrome
+analyzes	causes
+1
+-5.858759880065918
+___
+laboratory_procedure	chemical_viewed_functionally	injury_or_poisoning
+analyzes	causes
+-1
+-5.858759880065918
+___
+laboratory_procedure	organophosphorus_compound	disease_or_syndrome
+assesses_effect_of	affects
+1
+-5.8606486320495605
+___
+laboratory_procedure	chemical_viewed_structurally	disease_or_syndrome
+assesses_effect_of	affects
+1
+-5.8606486320495605
+___
+laboratory_procedure	organic_chemical	disease_or_syndrome
+assesses_effect_of	affects
+1
+-5.863391160964966
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	disease_or_syndrome
+assesses_effect_of	affects
+1
+-5.863391160964966
+___
+laboratory_procedure	inorganic_chemical	disease_or_syndrome
+assesses_effect_of	affects
+1
+-5.886266827583313
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	disease_or_syndrome
+assesses_effect_of	affects
+1
+-5.886266827583313
+___
+laboratory_procedure	cell_or_molecular_dysfunction	body_substance
+assesses_effect_of	produces
+-1
+-5.918539524078369
+___
+laboratory_procedure	organism_function	age_group
+assesses_effect_of	produces
+-1
+-5.936580181121826
+___
+laboratory_procedure	organism_function	family_group
+assesses_effect_of	produces
+-1
+-5.936580181121826
+___
+laboratory_procedure	organism_function	body_substance
+assesses_effect_of	produces
+-1
+-5.936580181121826
+___
+laboratory_procedure	carbohydrate	disease_or_syndrome
+assesses_effect_of	affects
+1
+-5.939668893814087
+___
+laboratory_procedure	amino_acid_peptide_or_protein	disease_or_syndrome
+assesses_effect_of	affects
+1
+-5.9461119174957275
+___
+laboratory_procedure	pathologic_function	body_substance
+assesses_effect_of	produces
+-1
+-5.951832890510559
+___
+laboratory_procedure	chemical_viewed_functionally	disease_or_syndrome
+measures	affects
+1
+-5.998141407966614
+___
+laboratory_procedure	eicosanoid	acquired_abnormality
+analyzes	causes
+-1
+-6.007938385009766
+___
+laboratory_procedure	eicosanoid	congenital_abnormality
+analyzes	causes
+-1
+-6.007938385009766
+___
+laboratory_procedure	eicosanoid	disease_or_syndrome
+analyzes	causes
+1
+-6.007938385009766
+___
+laboratory_procedure	eicosanoid	anatomical_abnormality
+analyzes	causes
+-1
+-6.007938385009766
+___
+laboratory_procedure	eicosanoid	injury_or_poisoning
+analyzes	causes
+-1
+-6.007938385009766
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	acquired_abnormality
+analyzes	causes
+-1
+-6.0207319259643555
+___
+laboratory_procedure	inorganic_chemical	disease_or_syndrome
+analyzes	causes
+1
+-6.0207319259643555
+___
+laboratory_procedure	inorganic_chemical	injury_or_poisoning
+analyzes	causes
+-1
+-6.0207319259643555
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	congenital_abnormality
+analyzes	causes
+-1
+-6.0207319259643555
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	disease_or_syndrome
+analyzes	causes
+1
+-6.0207319259643555
+___
+laboratory_procedure	inorganic_chemical	acquired_abnormality
+analyzes	causes
+-1
+-6.0207319259643555
+___
+laboratory_procedure	experimental_model_of_disease	disease_or_syndrome
+measures	degree_of
+1
+-6.037948489189148
+___
+laboratory_procedure	cell_or_molecular_dysfunction	disease_or_syndrome
+measures	degree_of
+1
+-6.0582491755485535
+___
+laboratory_procedure	neoplastic_process	disease_or_syndrome
+measures	degree_of
+1
+-6.059830546379089
+___
+laboratory_procedure	organic_chemical	acquired_abnormality
+analyzes	causes
+-1
+-6.070854187011719
+___
+laboratory_procedure	organic_chemical	injury_or_poisoning
+analyzes	causes
+-1
+-6.070854187011719
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	anatomical_abnormality
+analyzes	causes
+-1
+-6.070854187011719
+___
+laboratory_procedure	organic_chemical	anatomical_abnormality
+analyzes	causes
+-1
+-6.070854187011719
+___
+laboratory_procedure	organic_chemical	disease_or_syndrome
+analyzes	causes
+1
+-6.070854187011719
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	congenital_abnormality
+analyzes	causes
+-1
+-6.070854187011719
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	disease_or_syndrome
+analyzes	causes
+1
+-6.070854187011719
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	acquired_abnormality
+analyzes	causes
+-1
+-6.070854187011719
+___
+laboratory_procedure	steroid	physical_object
+assesses_effect_of	isa
+-1
+-6.089545011520386
+___
+laboratory_procedure	steroid	entity
+assesses_effect_of	isa
+-1
+-6.089545011520386
+___
+laboratory_procedure	chemical	disease_or_syndrome
+measures	affects
+1
+-6.090595006942749
+___
+laboratory_procedure	natural_phenomenon_or_process	disease_or_syndrome
+measures	process_of
+1
+-6.095557808876038
+___
+laboratory_procedure	steroid	occupation_or_discipline
+analyzes	issue_in
+-1
+-6.116223335266113
+___
+laboratory_procedure	receptor	disease_or_syndrome
+analyzes	affects
+1
+-6.121249675750732
+___
+laboratory_procedure	element_ion_or_isotope	injury_or_poisoning
+analyzes	causes
+-1
+-6.127530813217163
+___
+laboratory_procedure	element_ion_or_isotope	congenital_abnormality
+analyzes	causes
+-1
+-6.127530813217163
+___
+laboratory_procedure	element_ion_or_isotope	disease_or_syndrome
+analyzes	causes
+1
+-6.127530813217163
+___
+laboratory_procedure	element_ion_or_isotope	anatomical_abnormality
+analyzes	causes
+-1
+-6.127530813217163
+___
+laboratory_procedure	element_ion_or_isotope	acquired_abnormality
+analyzes	causes
+-1
+-6.127530813217163
+___
+laboratory_procedure	immunologic_factor	disease_or_syndrome
+analyzes	affects
+1
+-6.128961801528931
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	disease_or_syndrome
+measures	affects
+1
+-6.133210301399231
+___
+laboratory_procedure	steroid	entity
+analyzes	isa
+-1
+-6.1362175941467285
+___
+laboratory_procedure	steroid	physical_object
+analyzes	isa
+-1
+-6.1362175941467285
+___
+laboratory_procedure	biologically_active_substance	disease_or_syndrome
+analyzes	affects
+1
+-6.159731864929199
+___
+laboratory_procedure	steroid	clinical_drug
+assesses_effect_of	ingredient_of
+-1
+-6.160102128982544
+___
+laboratory_procedure	element_ion_or_isotope	disease_or_syndrome
+measures	affects
+1
+-6.163297176361084
+___
+laboratory_procedure	organophosphorus_compound	disease_or_syndrome
+measures	affects
+1
+-6.163297176361084
+___
+laboratory_procedure	chemical_viewed_structurally	disease_or_syndrome
+measures	affects
+1
+-6.1632972955703735
+___
+laboratory_procedure	carbohydrate	disease_or_syndrome
+measures	affects
+1
+-6.175592064857483
+___
+laboratory_procedure	quantitative_concept	quantitative_concept
+measures	NO_OP
+-1
+-6.185986518859863
+___
+laboratory_procedure	inorganic_chemical	disease_or_syndrome
+measures	affects
+1
+-6.214444160461426
+___
+laboratory_procedure	natural_phenomenon_or_process	acquired_abnormality
+assesses_effect_of	result_of
+-1
+-6.226137638092041
+___
+laboratory_procedure	natural_phenomenon_or_process	phenomenon_or_process
+assesses_effect_of	result_of
+-1
+-6.226137638092041
+___
+laboratory_procedure	natural_phenomenon_or_process	injury_or_poisoning
+assesses_effect_of	result_of
+-1
+-6.226137638092041
+___
+laboratory_procedure	natural_phenomenon_or_process	environmental_effect_of_humans
+assesses_effect_of	result_of
+-1
+-6.226137638092041
+___
+laboratory_procedure	steroid	occupation_or_discipline
+assesses_effect_of	issue_in
+-1
+-6.230066418647766
+___
+#####################
+diagnostic_procedure	vitamin
+Reward:1
+diagnostic_procedure	lipid	vitamin
+analyzes	interacts_with
+1
+-4.0300449430942535
+___
+diagnostic_procedure	chemical_viewed_functionally	vitamin
+analyzes	interacts_with
+1
+-4.035479366779327
+___
+diagnostic_procedure	chemical_viewed_structurally	vitamin
+analyzes	interacts_with
+1
+-4.035938993096352
+___
+diagnostic_procedure	eicosanoid	vitamin
+analyzes	interacts_with
+1
+-4.040891870856285
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	vitamin
+analyzes	interacts_with
+1
+-4.040950700640678
+___
+diagnostic_procedure	carbohydrate	vitamin
+analyzes	interacts_with
+1
+-4.040950804948807
+___
+diagnostic_procedure	organic_chemical	vitamin
+analyzes	interacts_with
+1
+-4.043417766690254
+___
+diagnostic_procedure	steroid	vitamin
+analyzes	interacts_with
+1
+-4.047835797071457
+___
+diagnostic_procedure	biomedical_or_dental_material	vitamin
+analyzes	interacts_with
+1
+-4.048780187964439
+___
+diagnostic_procedure	amino_acid_peptide_or_protein	vitamin
+analyzes	interacts_with
+1
+-4.048787713050842
+___
+diagnostic_procedure	inorganic_chemical	vitamin
+analyzes	interacts_with
+1
+-4.051228046417236
+___
+diagnostic_procedure	organophosphorus_compound	vitamin
+analyzes	interacts_with
+1
+-4.060482874512672
+___
+diagnostic_procedure	biologically_active_substance	vitamin
+analyzes	interacts_with
+1
+-4.119796350598335
+___
+diagnostic_procedure	antibiotic	vitamin
+analyzes	interacts_with
+1
+-4.135264202952385
+___
+diagnostic_procedure	chemical_viewed_structurally	vitamin
+assesses_effect_of	interacts_with
+1
+-4.331561386585236
+___
+diagnostic_procedure	chemical_viewed_functionally	vitamin
+assesses_effect_of	interacts_with
+1
+-4.336806066334248
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	vitamin
+assesses_effect_of	interacts_with
+1
+-4.338161587715149
+___
+diagnostic_procedure	carbohydrate	vitamin
+assesses_effect_of	interacts_with
+1
+-4.338161587715149
+___
+diagnostic_procedure	eicosanoid	vitamin
+assesses_effect_of	interacts_with
+1
+-4.338587120175362
+___
+diagnostic_procedure	organic_chemical	vitamin
+assesses_effect_of	interacts_with
+1
+-4.34213275462389
+___
+diagnostic_procedure	amino_acid_peptide_or_protein	vitamin
+assesses_effect_of	interacts_with
+1
+-4.344852164387703
+___
+diagnostic_procedure	steroid	vitamin
+assesses_effect_of	interacts_with
+1
+-4.345782324671745
+___
+diagnostic_procedure	biomedical_or_dental_material	vitamin
+assesses_effect_of	interacts_with
+1
+-4.349303737282753
+___
+diagnostic_procedure	inorganic_chemical	vitamin
+assesses_effect_of	interacts_with
+1
+-4.35323078930378
+___
+diagnostic_procedure	neuroreactive_substance_or_biogenic_amine	vitamin
+assesses_effect_of	interacts_with
+1
+-4.387969359755516
+___
+diagnostic_procedure	biologically_active_substance	vitamin
+assesses_effect_of	interacts_with
+1
+-4.388648495078087
+___
+diagnostic_procedure	antibiotic	vitamin
+assesses_effect_of	interacts_with
+1
+-4.392939075827599
+___
+diagnostic_procedure	pharmacologic_substance	vitamin
+assesses_effect_of	interacts_with
+1
+-4.430864974856377
+___
+diagnostic_procedure	body_substance	body_substance
+analyzes	NO_OP
+-1
+-4.644886612892151
+___
+diagnostic_procedure	chemical_viewed_structurally	vitamin
+measures	interacts_with
+1
+-5.043712986633182
+___
+diagnostic_procedure	lipid	vitamin
+measures	interacts_with
+1
+-5.044039096683264
+___
+diagnostic_procedure	carbohydrate	vitamin
+measures	interacts_with
+1
+-5.04536585137248
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	vitamin
+measures	interacts_with
+1
+-5.04536585137248
+___
+diagnostic_procedure	eicosanoid	vitamin
+measures	interacts_with
+1
+-5.045599691569805
+___
+diagnostic_procedure	chemical_viewed_functionally	vitamin
+measures	interacts_with
+1
+-5.046291707083583
+___
+diagnostic_procedure	organic_chemical	vitamin
+measures	interacts_with
+1
+-5.046949805691838
+___
+diagnostic_procedure	steroid	vitamin
+measures	interacts_with
+1
+-5.04832430370152
+___
+diagnostic_procedure	organophosphorus_compound	vitamin
+measures	interacts_with
+1
+-5.050717448815703
+___
+diagnostic_procedure	inorganic_chemical	vitamin
+measures	interacts_with
+1
+-5.050773434340954
+___
+diagnostic_procedure	antibiotic	vitamin
+measures	interacts_with
+1
+-5.0516005754470825
+___
+diagnostic_procedure	neuroreactive_substance_or_biogenic_amine	vitamin
+measures	interacts_with
+1
+-5.054376564919949
+___
+diagnostic_procedure	biologically_active_substance	vitamin
+measures	interacts_with
+1
+-5.054959449917078
+___
+diagnostic_procedure	vitamin	vitamin
+analyzes	NO_OP
+1
+-5.190942287445068
+___
+diagnostic_procedure	body_substance	body_substance
+measures	NO_OP
+-1
+-5.321929484605789
+___
+diagnostic_procedure	vitamin	vitamin
+measures	NO_OP
+1
+-5.656395077705383
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	food
+precedes	uses
+-1
+-5.8316450119018555
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	drug_delivery_device
+precedes	uses
+-1
+-5.8316450119018555
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	manufactured_object
+precedes	uses
+-1
+-5.8316450119018555
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	research_device
+precedes	uses
+-1
+-5.8316450119018555
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	medical_device
+precedes	uses
+-1
+-5.8316450119018555
+___
+diagnostic_procedure	body_substance	tissue
+analyzes	derivative_of
+-1
+-6.416085481643677
+___
+diagnostic_procedure	mental_process	organism_function
+measures	degree_of
+-1
+-6.439751386642456
+___
+diagnostic_procedure	organism_function	mental_process
+measures	degree_of
+-1
+-6.553766965866089
+___
+diagnostic_procedure	quantitative_concept	quantitative_concept
+measures	NO_OP
+-1
+-6.590176701545715
+___
+diagnostic_procedure	chemical	molecular_function
+analyzes	affects
+-1
+-6.6359498500823975
+___
+diagnostic_procedure	chemical	disease_or_syndrome
+analyzes	affects
+-1
+-6.6359498500823975
+___
+diagnostic_procedure	chemical	physiologic_function
+analyzes	affects
+-1
+-6.6359498500823975
+___
+diagnostic_procedure	chemical	biologic_function
+analyzes	affects
+-1
+-6.6359498500823975
+___
+diagnostic_procedure	chemical	cell_function
+analyzes	affects
+-1
+-6.6359498500823975
+___
+diagnostic_procedure	chemical	mental_process
+analyzes	affects
+-1
+-6.6359498500823975
+___
+diagnostic_procedure	chemical	pathologic_function
+analyzes	affects
+-1
+-6.6359498500823975
+___
+diagnostic_procedure	chemical	cell_or_molecular_dysfunction
+analyzes	affects
+-1
+-6.6359498500823975
+___
+diagnostic_procedure	chemical	experimental_model_of_disease
+analyzes	affects
+-1
+-6.6359498500823975
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	therapeutic_or_preventive_procedure
+precedes	NO_OP
+-1
+-6.833555698394775
+___
+diagnostic_procedure	chemical	physiologic_function
+assesses_effect_of	affects
+-1
+-6.8694541454315186
+___
+diagnostic_procedure	chemical	experimental_model_of_disease
+assesses_effect_of	affects
+-1
+-6.8694541454315186
+___
+diagnostic_procedure	chemical	disease_or_syndrome
+assesses_effect_of	affects
+-1
+-6.8694541454315186
+___
+diagnostic_procedure	chemical	pathologic_function
+assesses_effect_of	affects
+-1
+-6.8694541454315186
+___
+diagnostic_procedure	chemical	cell_or_molecular_dysfunction
+assesses_effect_of	affects
+-1
+-6.8694541454315186
+___
+diagnostic_procedure	chemical	biologic_function
+assesses_effect_of	affects
+-1
+-6.8694541454315186
+___
+diagnostic_procedure	chemical	mental_process
+assesses_effect_of	affects
+-1
+-6.8694541454315186
+___
+diagnostic_procedure	chemical	molecular_function
+assesses_effect_of	affects
+-1
+-6.8694541454315186
+___
+diagnostic_procedure	chemical	cell_function
+assesses_effect_of	affects
+-1
+-6.8694541454315186
+___
+diagnostic_procedure	mental_or_behavioral_dysfunction	neoplastic_process
+measures	degree_of
+-1
+-6.916726589202881
+___
+diagnostic_procedure	mental_or_behavioral_dysfunction	experimental_model_of_disease
+measures	degree_of
+-1
+-6.916726589202881
+___
+diagnostic_procedure	mental_or_behavioral_dysfunction	pathologic_function
+measures	degree_of
+-1
+-6.916726589202881
+___
+diagnostic_procedure	disease_or_syndrome	experimental_model_of_disease
+measures	degree_of
+-1
+-6.969263195991516
+___
+diagnostic_procedure	disease_or_syndrome	pathologic_function
+measures	degree_of
+-1
+-6.969263195991516
+___
+diagnostic_procedure	disease_or_syndrome	neoplastic_process
+measures	degree_of
+-1
+-6.969263195991516
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	mental_process
+assesses_effect_of	affects
+-1
+-6.980699777603149
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	molecular_function
+assesses_effect_of	affects
+-1
+-6.980699777603149
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	organism_function
+assesses_effect_of	affects
+-1
+-6.980699777603149
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	cell_or_molecular_dysfunction
+assesses_effect_of	affects
+-1
+-6.980699777603149
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	disease_or_syndrome
+assesses_effect_of	affects
+-1
+-6.980699777603149
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	mental_or_behavioral_dysfunction
+assesses_effect_of	affects
+-1
+-6.980699777603149
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	pathologic_function
+assesses_effect_of	affects
+-1
+-6.980699777603149
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	neoplastic_process
+assesses_effect_of	affects
+-1
+-6.980699777603149
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	organ_or_tissue_function
+assesses_effect_of	affects
+-1
+-6.980699777603149
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	cell_function
+assesses_effect_of	affects
+-1
+-6.980699777603149
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	biologic_function
+assesses_effect_of	affects
+-1
+-6.980699777603149
+___
+diagnostic_procedure	chemical	neoplastic_process
+analyzes	causes
+-1
+-7.040920257568359
+___
+diagnostic_procedure	chemical	congenital_abnormality
+analyzes	causes
+-1
+-7.040920257568359
+___
+diagnostic_procedure	chemical	acquired_abnormality
+analyzes	causes
+-1
+-7.040920257568359
+___
+diagnostic_procedure	chemical	pathologic_function
+analyzes	causes
+-1
+-7.040920257568359
+___
+diagnostic_procedure	chemical	experimental_model_of_disease
+analyzes	causes
+-1
+-7.040920257568359
+___
+diagnostic_procedure	chemical	mental_or_behavioral_dysfunction
+analyzes	causes
+-1
+-7.040920257568359
+___
+diagnostic_procedure	chemical	cell_or_molecular_dysfunction
+analyzes	causes
+-1
+-7.040920257568359
+___
+diagnostic_procedure	pathologic_function	cell_or_molecular_dysfunction
+measures	degree_of
+-1
+-7.065172910690308
+___
+diagnostic_procedure	pathologic_function	experimental_model_of_disease
+measures	degree_of
+-1
+-7.065172910690308
+___
+diagnostic_procedure	pathologic_function	disease_or_syndrome
+measures	degree_of
+-1
+-7.065172910690308
+___
+#####################

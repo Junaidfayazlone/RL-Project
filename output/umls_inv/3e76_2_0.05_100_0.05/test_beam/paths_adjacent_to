@@ -1,0 +1,503 @@
+tissue	body_space_or_junction
+Reward:1
+tissue	embryonic_structure	embryonic_structure
+_developmental_form_of	NO_OP
+-1
+-0.5581827610731125
+___
+tissue	body_part_organ_or_organ_component	body_space_or_junction
+developmental_form_of	_contains
+1
+-2.4615679383277893
+___
+tissue	embryonic_structure	cell
+_developmental_form_of	developmental_form_of
+-1
+-2.6788775473833084
+___
+tissue	embryonic_structure	tissue
+_developmental_form_of	developmental_form_of
+-1
+-2.6788775473833084
+___
+tissue	embryonic_structure	body_part_organ_or_organ_component
+_developmental_form_of	developmental_form_of
+-1
+-2.6788775473833084
+___
+tissue	body_part_organ_or_organ_component	embryonic_structure
+developmental_form_of	_developmental_form_of
+-1
+-3.7515244483947754
+___
+tissue	body_part_organ_or_organ_component	tissue
+developmental_form_of	_developmental_form_of
+-1
+-3.7515244483947754
+___
+tissue	body_part_organ_or_organ_component	tissue
+developmental_form_of	adjacent_to
+-1
+-4.8401265144348145
+___
+tissue	body_part_organ_or_organ_component	cell
+developmental_form_of	adjacent_to
+-1
+-4.8401265144348145
+___
+tissue	body_part_organ_or_organ_component	body_space_or_junction
+developmental_form_of	adjacent_to
+1
+-4.8401265144348145
+___
+tissue	embryonic_structure	body_substance
+_developmental_form_of	contains
+-1
+-4.869846776127815
+___
+tissue	body_part_organ_or_organ_component	body_space_or_junction
+developmental_form_of	_part_of
+1
+-4.921323299407959
+___
+tissue	body_part_organ_or_organ_component	body_substance
+developmental_form_of	_part_of
+-1
+-4.921323299407959
+___
+tissue	body_part_organ_or_organ_component	body_substance
+developmental_form_of	consists_of
+-1
+-5.052956581115723
+___
+tissue	body_part_organ_or_organ_component	body_part_organ_or_organ_component
+developmental_form_of	NO_OP
+-1
+-5.2689735889434814
+___
+tissue	body_part_organ_or_organ_component	body_substance
+developmental_form_of	contains
+-1
+-7.047876358032227
+___
+tissue	body_part_organ_or_organ_component	body_substance
+developmental_form_of	connected_to
+-1
+-7.3741984367370605
+___
+tissue	body_part_organ_or_organ_component	body_space_or_junction
+developmental_form_of	connected_to
+1
+-7.3741984367370605
+___
+tissue	body_part_organ_or_organ_component	tissue
+developmental_form_of	connected_to
+-1
+-7.3741984367370605
+___
+tissue	embryonic_structure	human
+_developmental_form_of	part_of
+-1
+-7.399719670414925
+___
+tissue	embryonic_structure	fish
+_developmental_form_of	part_of
+-1
+-7.399719670414925
+___
+tissue	embryonic_structure	rickettsia_or_chlamydia
+_developmental_form_of	part_of
+-1
+-7.399719670414925
+___
+tissue	embryonic_structure	alga
+_developmental_form_of	part_of
+-1
+-7.399719670414925
+___
+tissue	embryonic_structure	animal
+_developmental_form_of	part_of
+-1
+-7.399719670414925
+___
+tissue	embryonic_structure	archaeon
+_developmental_form_of	part_of
+-1
+-7.399719670414925
+___
+tissue	embryonic_structure	plant
+_developmental_form_of	part_of
+-1
+-7.399719670414925
+___
+tissue	embryonic_structure	amphibian
+_developmental_form_of	part_of
+-1
+-7.399719670414925
+___
+tissue	embryonic_structure	organism
+_developmental_form_of	part_of
+-1
+-7.399719670414925
+___
+tissue	embryonic_structure	invertebrate
+_developmental_form_of	part_of
+-1
+-7.399719670414925
+___
+tissue	embryonic_structure	reptile
+_developmental_form_of	part_of
+-1
+-7.399719670414925
+___
+tissue	embryonic_structure	mammal
+_developmental_form_of	part_of
+-1
+-7.399719670414925
+___
+tissue	cell	body_space_or_junction
+_part_of	_interconnects
+1
+-8.007291316986084
+___
+tissue	body_part_organ_or_organ_component	experimental_model_of_disease
+developmental_form_of	location_of
+-1
+-8.07717514038086
+___
+tissue	body_part_organ_or_organ_component	acquired_abnormality
+developmental_form_of	location_of
+-1
+-8.07717514038086
+___
+tissue	body_part_organ_or_organ_component	injury_or_poisoning
+developmental_form_of	location_of
+-1
+-8.07717514038086
+___
+tissue	body_part_organ_or_organ_component	anatomical_abnormality
+developmental_form_of	location_of
+-1
+-8.07717514038086
+___
+tissue	body_part_organ_or_organ_component	rickettsia_or_chlamydia
+developmental_form_of	location_of
+-1
+-8.07717514038086
+___
+tissue	body_part_organ_or_organ_component	cell_or_molecular_dysfunction
+developmental_form_of	location_of
+-1
+-8.07717514038086
+___
+tissue	body_part_organ_or_organ_component	pathologic_function
+developmental_form_of	location_of
+-1
+-8.07717514038086
+___
+tissue	body_part_organ_or_organ_component	body_space_or_junction
+developmental_form_of	location_of
+1
+-8.07717514038086
+___
+tissue	body_part_organ_or_organ_component	diagnostic_procedure
+developmental_form_of	location_of
+-1
+-8.07717514038086
+___
+tissue	body_part_organ_or_organ_component	biologic_function
+developmental_form_of	location_of
+-1
+-8.07717514038086
+___
+tissue	body_part_organ_or_organ_component	virus
+developmental_form_of	location_of
+-1
+-8.07717514038086
+___
+tissue	body_part_organ_or_organ_component	body_location_or_region
+developmental_form_of	location_of
+-1
+-8.07717514038086
+___
+tissue	body_part_organ_or_organ_component	mental_or_behavioral_dysfunction
+developmental_form_of	location_of
+-1
+-8.07717514038086
+___
+tissue	body_part_organ_or_organ_component	organism_function
+developmental_form_of	location_of
+-1
+-8.07717514038086
+___
+tissue	body_part_organ_or_organ_component	disease_or_syndrome
+developmental_form_of	location_of
+-1
+-8.07717514038086
+___
+tissue	body_part_organ_or_organ_component	therapeutic_or_preventive_procedure
+developmental_form_of	location_of
+-1
+-8.07717514038086
+___
+tissue	body_part_organ_or_organ_component	congenital_abnormality
+developmental_form_of	location_of
+-1
+-8.07717514038086
+___
+tissue	body_part_organ_or_organ_component	physiologic_function
+developmental_form_of	location_of
+-1
+-8.07717514038086
+___
+tissue	body_part_organ_or_organ_component	neoplastic_process
+developmental_form_of	location_of
+-1
+-8.07717514038086
+___
+tissue	body_part_organ_or_organ_component	bacterium
+developmental_form_of	location_of
+-1
+-8.07717514038086
+___
+tissue	embryonic_structure	biologic_function
+_developmental_form_of	location_of
+-1
+-8.077835991978645
+___
+tissue	embryonic_structure	neoplastic_process
+_developmental_form_of	location_of
+-1
+-8.077835991978645
+___
+tissue	embryonic_structure	physiologic_function
+_developmental_form_of	location_of
+-1
+-8.077835991978645
+___
+tissue	embryonic_structure	molecular_function
+_developmental_form_of	location_of
+-1
+-8.077835991978645
+___
+tissue	embryonic_structure	cell_function
+_developmental_form_of	location_of
+-1
+-8.077835991978645
+___
+tissue	embryonic_structure	organism_function
+_developmental_form_of	location_of
+-1
+-8.077835991978645
+___
+tissue	embryonic_structure	pathologic_function
+_developmental_form_of	location_of
+-1
+-8.077835991978645
+___
+tissue	embryonic_structure	bacterium
+_developmental_form_of	location_of
+-1
+-8.077835991978645
+___
+tissue	embryonic_structure	genetic_function
+_developmental_form_of	location_of
+-1
+-8.077835991978645
+___
+tissue	embryonic_structure	mental_process
+_developmental_form_of	location_of
+-1
+-8.077835991978645
+___
+tissue	embryonic_structure	organ_or_tissue_function
+_developmental_form_of	location_of
+-1
+-8.077835991978645
+___
+tissue	embryonic_structure	disease_or_syndrome
+_developmental_form_of	location_of
+-1
+-8.077835991978645
+___
+tissue	embryonic_structure	entity
+_developmental_form_of	isa
+-1
+-8.17736430466175
+___
+tissue	embryonic_structure	anatomical_structure
+_developmental_form_of	isa
+-1
+-8.17736430466175
+___
+tissue	embryonic_structure	physical_object
+_developmental_form_of	isa
+-1
+-8.17736430466175
+___
+tissue	cell	embryonic_structure
+_part_of	_developmental_form_of
+-1
+-8.755606174468994
+___
+tissue	body_part_organ_or_organ_component	injury_or_poisoning
+developmental_form_of	_disrupts
+-1
+-8.797619342803955
+___
+tissue	body_part_organ_or_organ_component	pharmacologic_substance
+developmental_form_of	_disrupts
+-1
+-8.797619342803955
+___
+tissue	body_part_organ_or_organ_component	hormone
+developmental_form_of	_disrupts
+-1
+-8.797619342803955
+___
+tissue	body_part_organ_or_organ_component	enzyme
+developmental_form_of	_disrupts
+-1
+-8.797619342803955
+___
+tissue	body_part_organ_or_organ_component	biologically_active_substance
+developmental_form_of	_disrupts
+-1
+-8.797619342803955
+___
+tissue	body_part_organ_or_organ_component	hazardous_or_poisonous_substance
+developmental_form_of	_disrupts
+-1
+-8.797619342803955
+___
+tissue	body_part_organ_or_organ_component	neuroreactive_substance_or_biogenic_amine
+developmental_form_of	_disrupts
+-1
+-8.797619342803955
+___
+tissue	body_part_organ_or_organ_component	vitamin
+developmental_form_of	_disrupts
+-1
+-8.797619342803955
+___
+tissue	body_part_organ_or_organ_component	antibiotic
+developmental_form_of	_disrupts
+-1
+-8.797619342803955
+___
+tissue	body_part_organ_or_organ_component	receptor
+developmental_form_of	_disrupts
+-1
+-8.797619342803955
+___
+tissue	body_part_organ_or_organ_component	archaeon
+developmental_form_of	part_of
+-1
+-8.95400333404541
+___
+tissue	body_part_organ_or_organ_component	animal
+developmental_form_of	part_of
+-1
+-8.95400333404541
+___
+tissue	body_part_organ_or_organ_component	amphibian
+developmental_form_of	part_of
+-1
+-8.95400333404541
+___
+tissue	body_part_organ_or_organ_component	bird
+developmental_form_of	part_of
+-1
+-8.95400333404541
+___
+tissue	body_part_organ_or_organ_component	alga
+developmental_form_of	part_of
+-1
+-8.95400333404541
+___
+tissue	body_part_organ_or_organ_component	bacterium
+developmental_form_of	part_of
+-1
+-8.95400333404541
+___
+tissue	body_part_organ_or_organ_component	virus
+developmental_form_of	part_of
+-1
+-8.95400333404541
+___
+tissue	body_part_organ_or_organ_component	fish
+developmental_form_of	part_of
+-1
+-8.95400333404541
+___
+tissue	body_part_organ_or_organ_component	mammal
+developmental_form_of	part_of
+-1
+-8.95400333404541
+___
+tissue	body_part_organ_or_organ_component	organism
+developmental_form_of	part_of
+-1
+-8.95400333404541
+___
+tissue	body_part_organ_or_organ_component	fungus
+developmental_form_of	part_of
+-1
+-8.95400333404541
+___
+tissue	body_part_organ_or_organ_component	vertebrate
+developmental_form_of	part_of
+-1
+-8.95400333404541
+___
+tissue	body_part_organ_or_organ_component	plant
+developmental_form_of	part_of
+-1
+-8.95400333404541
+___
+tissue	body_part_organ_or_organ_component	rickettsia_or_chlamydia
+developmental_form_of	part_of
+-1
+-8.95400333404541
+___
+tissue	body_part_organ_or_organ_component	reptile
+developmental_form_of	part_of
+-1
+-8.95400333404541
+___
+tissue	body_part_organ_or_organ_component	human
+developmental_form_of	part_of
+-1
+-8.95400333404541
+___
+tissue	cell_component	body_space_or_junction
+_part_of	adjacent_to
+1
+-9.078205347061157
+___
+tissue	tissue	body_part_organ_or_organ_component
+NO_OP	developmental_form_of
+-1
+-9.282769069075584
+___
+tissue	cell_component	cell_component
+_part_of	NO_OP
+-1
+-9.366841316223145
+___
+tissue	mammal	social_behavior
+part_of	exhibits
+-1
+-9.512072324752808
+___
+tissue	body_system	body_system
+conceptual_part_of	NO_OP
+-1
+-9.687031308189034
+___
+tissue	amphibian	behavior
+part_of	exhibits
+-1
+-9.710264563560486
+___
+#####################

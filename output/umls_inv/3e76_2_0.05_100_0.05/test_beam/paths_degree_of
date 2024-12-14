@@ -1,0 +1,2012 @@
+mental_or_behavioral_dysfunction	disease_or_syndrome
+Reward:1
+mental_or_behavioral_dysfunction	disease_or_syndrome	mental_or_behavioral_dysfunction
+precedes	precedes
+-1
+-1.4357811184599996
+___
+mental_or_behavioral_dysfunction	neoplastic_process	disease_or_syndrome
+precedes	precedes
+1
+-1.4580515585839748
+___
+mental_or_behavioral_dysfunction	pathologic_function	disease_or_syndrome
+precedes	_isa
+1
+-2.1394999027252197
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+precedes	degree_of
+-1
+-2.4608734846115112
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	disease_or_syndrome
+precedes	_co-occurs_with
+1
+-2.681035876274109
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+precedes	_co-occurs_with
+-1
+-2.681035876274109
+___
+mental_or_behavioral_dysfunction	pathologic_function	disease_or_syndrome
+precedes	_degree_of
+1
+-2.880582094192505
+___
+mental_or_behavioral_dysfunction	pathologic_function	mental_or_behavioral_dysfunction
+precedes	_precedes
+-1
+-3.57299542427063
+___
+mental_or_behavioral_dysfunction	pathologic_function	disease_or_syndrome
+precedes	_precedes
+1
+-3.57299542427063
+___
+mental_or_behavioral_dysfunction	disease_or_syndrome	mental_or_behavioral_dysfunction
+_precedes	precedes
+-1
+-4.946687248535454
+___
+mental_or_behavioral_dysfunction	pathologic_function	disease_or_syndrome
+precedes	degree_of
+1
+-5.241923570632935
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+_degree_of	_co-occurs_with
+-1
+-5.360191345214844
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	disease_or_syndrome
+_degree_of	_co-occurs_with
+1
+-5.360191345214844
+___
+mental_or_behavioral_dysfunction	neoplastic_process	disease_or_syndrome
+precedes	_degree_of
+1
+-5.37920069694519
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+_degree_of	degree_of
+-1
+-5.413131237030029
+___
+mental_or_behavioral_dysfunction	pathologic_function	disease_or_syndrome
+precedes	_co-occurs_with
+1
+-5.462085723876953
+___
+mental_or_behavioral_dysfunction	experimental_model_of_disease	mental_or_behavioral_dysfunction
+_precedes	precedes
+-1
+-5.677459239959717
+___
+mental_or_behavioral_dysfunction	experimental_model_of_disease	disease_or_syndrome
+_precedes	precedes
+1
+-5.677459239959717
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	injury_or_poisoning
+precedes	co-occurs_with
+-1
+-5.860834121704102
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	acquired_abnormality
+precedes	co-occurs_with
+-1
+-5.860834121704102
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	anatomical_abnormality
+precedes	co-occurs_with
+-1
+-5.860834121704102
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+_precedes	degree_of
+-1
+-5.968454599380493
+___
+mental_or_behavioral_dysfunction	disease_or_syndrome	mental_or_behavioral_dysfunction
+precedes	_precedes
+-1
+-6.049343585968018
+___
+mental_or_behavioral_dysfunction	neoplastic_process	mental_or_behavioral_dysfunction
+precedes	_precedes
+-1
+-6.0716142654418945
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+_precedes	_co-occurs_with
+-1
+-6.106881380081177
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	disease_or_syndrome
+_precedes	_co-occurs_with
+1
+-6.106881380081177
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	acquired_abnormality
+precedes	complicates
+-1
+-6.896454811096191
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	congenital_abnormality
+precedes	complicates
+-1
+-6.896454811096191
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	disease_or_syndrome
+precedes	complicates
+1
+-6.896454811096191
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	anatomical_abnormality
+precedes	complicates
+-1
+-6.896454811096191
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	mental_process
+precedes	manifestation_of
+-1
+-7.145697116851807
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	physiologic_function
+precedes	manifestation_of
+-1
+-7.145697116851807
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	organism_function
+precedes	manifestation_of
+-1
+-7.145697116851807
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+precedes	manifestation_of
+-1
+-7.145697116851807
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	organ_or_tissue_function
+precedes	manifestation_of
+-1
+-7.145697116851807
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	disease_or_syndrome
+precedes	manifestation_of
+1
+-7.145697116851807
+___
+mental_or_behavioral_dysfunction	neoplastic_process	disease_or_syndrome
+degree_of	precedes
+1
+-7.590804029256105
+___
+mental_or_behavioral_dysfunction	mental_or_behavioral_dysfunction	disease_or_syndrome
+NO_OP	precedes
+1
+-7.605162292718887
+___
+mental_or_behavioral_dysfunction	neoplastic_process	mental_or_behavioral_dysfunction
+precedes	_co-occurs_with
+-1
+-7.960704803466797
+___
+mental_or_behavioral_dysfunction	neoplastic_process	disease_or_syndrome
+precedes	_co-occurs_with
+1
+-7.960704803466797
+___
+mental_or_behavioral_dysfunction	pathologic_function	anatomical_abnormality
+precedes	co-occurs_with
+-1
+-8.641883850097656
+___
+mental_or_behavioral_dysfunction	pathologic_function	acquired_abnormality
+precedes	co-occurs_with
+-1
+-8.641883850097656
+___
+mental_or_behavioral_dysfunction	pathologic_function	disease_or_syndrome
+degree_of	_isa
+1
+-8.68548858165741
+___
+mental_or_behavioral_dysfunction	experimental_model_of_disease	mental_or_behavioral_dysfunction
+_precedes	_degree_of
+-1
+-8.962893962860107
+___
+mental_or_behavioral_dysfunction	experimental_model_of_disease	disease_or_syndrome
+_precedes	_degree_of
+1
+-8.962893962860107
+___
+mental_or_behavioral_dysfunction	pathologic_function	mental_or_behavioral_dysfunction
+degree_of	_precedes
+-1
+-9.05615222454071
+___
+mental_or_behavioral_dysfunction	pathologic_function	disease_or_syndrome
+degree_of	_precedes
+1
+-9.05615222454071
+___
+mental_or_behavioral_dysfunction	disease_or_syndrome	mental_or_behavioral_dysfunction
+_co-occurs_with	precedes
+-1
+-9.063525473698974
+___
+mental_or_behavioral_dysfunction	disease_or_syndrome	mental_or_behavioral_dysfunction
+_precedes	_precedes
+-1
+-9.229456424713135
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	anatomical_abnormality
+_degree_of	co-occurs_with
+-1
+-9.241710186004639
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	acquired_abnormality
+_degree_of	co-occurs_with
+-1
+-9.241710186004639
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	injury_or_poisoning
+_degree_of	co-occurs_with
+-1
+-9.241710186004639
+___
+mental_or_behavioral_dysfunction	pathologic_function	disease_or_syndrome
+degree_of	_degree_of
+1
+-9.312389254570007
+___
+mental_or_behavioral_dysfunction	pathologic_function	congenital_abnormality
+precedes	complicates
+-1
+-9.677504539489746
+___
+mental_or_behavioral_dysfunction	pathologic_function	mental_or_behavioral_dysfunction
+precedes	complicates
+-1
+-9.677504539489746
+___
+mental_or_behavioral_dysfunction	pathologic_function	acquired_abnormality
+precedes	complicates
+-1
+-9.677504539489746
+___
+mental_or_behavioral_dysfunction	pathologic_function	disease_or_syndrome
+precedes	complicates
+1
+-9.677504539489746
+___
+mental_or_behavioral_dysfunction	anatomical_abnormality	congenital_abnormality
+co-occurs_with	_isa
+-1
+-9.796698104590178
+___
+mental_or_behavioral_dysfunction	pathologic_function	molecular_function
+precedes	manifestation_of
+-1
+-9.92674732208252
+___
+mental_or_behavioral_dysfunction	pathologic_function	organism_function
+precedes	manifestation_of
+-1
+-9.92674732208252
+___
+mental_or_behavioral_dysfunction	pathologic_function	cell_function
+precedes	manifestation_of
+-1
+-9.92674732208252
+___
+mental_or_behavioral_dysfunction	pathologic_function	mental_or_behavioral_dysfunction
+precedes	manifestation_of
+-1
+-9.92674732208252
+___
+mental_or_behavioral_dysfunction	pathologic_function	physiologic_function
+precedes	manifestation_of
+-1
+-9.92674732208252
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	disease_or_syndrome
+precedes	_process_of
+1
+-9.951839447021484
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	mental_process
+precedes	_process_of
+-1
+-9.951839447021484
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	cell_function
+precedes	_process_of
+-1
+-9.951839447021484
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	organ_or_tissue_function
+precedes	_process_of
+-1
+-9.951839447021484
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	molecular_function
+precedes	_process_of
+-1
+-9.951839447021484
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	biologic_function
+precedes	_process_of
+-1
+-9.951839447021484
+___
+mental_or_behavioral_dysfunction	experimental_model_of_disease	mental_or_behavioral_dysfunction
+_precedes	_precedes
+-1
+-9.960228443145752
+___
+mental_or_behavioral_dysfunction	experimental_model_of_disease	disease_or_syndrome
+_precedes	_precedes
+1
+-9.960228443145752
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	congenital_abnormality
+_degree_of	complicates
+-1
+-10.090411186218262
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	anatomical_abnormality
+_degree_of	complicates
+-1
+-10.090411186218262
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	acquired_abnormality
+_degree_of	complicates
+-1
+-10.090411186218262
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	disease_or_syndrome
+_degree_of	complicates
+1
+-10.090411186218262
+___
+mental_or_behavioral_dysfunction	pathologic_function	disease_or_syndrome
+co-occurs_with	_isa
+1
+-10.112256199121475
+___
+mental_or_behavioral_dysfunction	disease_or_syndrome	mental_or_behavioral_dysfunction
+complicates	precedes
+-1
+-10.20471329241991
+___
+mental_or_behavioral_dysfunction	neoplastic_process	disease_or_syndrome
+complicates	precedes
+1
+-10.226549059152603
+___
+mental_or_behavioral_dysfunction	neoplastic_process	disease_or_syndrome
+_occurs_in	precedes
+1
+-10.258180290460587
+___
+mental_or_behavioral_dysfunction	anatomical_abnormality	congenital_abnormality
+complicates	_isa
+-1
+-10.33270075917244
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	physiologic_function
+_degree_of	manifestation_of
+-1
+-10.360448837280273
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	mental_process
+_degree_of	manifestation_of
+-1
+-10.360448837280273
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	organism_function
+_degree_of	manifestation_of
+-1
+-10.360448837280273
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	organ_or_tissue_function
+_degree_of	manifestation_of
+-1
+-10.360448837280273
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	disease_or_syndrome
+_degree_of	manifestation_of
+1
+-10.360448837280273
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+_degree_of	manifestation_of
+-1
+-10.360448837280273
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	anatomical_abnormality
+_precedes	co-occurs_with
+-1
+-10.38035535812378
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	injury_or_poisoning
+_precedes	co-occurs_with
+-1
+-10.38035535812378
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	acquired_abnormality
+_precedes	co-occurs_with
+-1
+-10.38035535812378
+___
+mental_or_behavioral_dysfunction	clinical_attribute	organism_attribute
+associated_with	_degree_of
+-1
+-10.439954201225191
+___
+mental_or_behavioral_dysfunction	pathologic_function	disease_or_syndrome
+degree_of	_co-occurs_with
+1
+-10.710027694702148
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	disease_or_syndrome
+co-occurs_with	_co-occurs_with
+1
+-10.857105612754822
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+co-occurs_with	_co-occurs_with
+-1
+-10.857105612754822
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+co-occurs_with	degree_of
+-1
+-10.861446738243103
+___
+mental_or_behavioral_dysfunction	congenital_abnormality	disease_or_syndrome
+complicates	_co-occurs_with
+1
+-10.871025025844574
+___
+mental_or_behavioral_dysfunction	congenital_abnormality	mental_or_behavioral_dysfunction
+complicates	_co-occurs_with
+-1
+-10.871025025844574
+___
+mental_or_behavioral_dysfunction	disease_or_syndrome	mental_or_behavioral_dysfunction
+precedes	_occurs_in
+-1
+-10.90325927734375
+___
+mental_or_behavioral_dysfunction	experimental_model_of_disease	mental_or_behavioral_dysfunction
+complicates	precedes
+-1
+-10.914130091667175
+___
+mental_or_behavioral_dysfunction	experimental_model_of_disease	disease_or_syndrome
+complicates	precedes
+1
+-10.914130091667175
+___
+mental_or_behavioral_dysfunction	pathologic_function	disease_or_syndrome
+complicates	_isa
+1
+-10.922414600849152
+___
+#####################
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+Reward:1
+mental_or_behavioral_dysfunction	neoplastic_process	mental_or_behavioral_dysfunction
+precedes	_precedes
+-1
+-1.7498249411582947
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+precedes	degree_of
+-1
+-2.1152438521385193
+___
+mental_or_behavioral_dysfunction	disease_or_syndrome	cell_or_molecular_dysfunction
+precedes	precedes
+1
+-2.138532876968384
+___
+mental_or_behavioral_dysfunction	disease_or_syndrome	mental_or_behavioral_dysfunction
+precedes	precedes
+-1
+-2.138532876968384
+___
+mental_or_behavioral_dysfunction	pathologic_function	cell_or_molecular_dysfunction
+precedes	_degree_of
+1
+-2.172716736793518
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+precedes	_co-occurs_with
+-1
+-2.335406243801117
+___
+mental_or_behavioral_dysfunction	pathologic_function	mental_or_behavioral_dysfunction
+precedes	_precedes
+-1
+-2.865130066871643
+___
+mental_or_behavioral_dysfunction	pathologic_function	cell_or_molecular_dysfunction
+precedes	_precedes
+1
+-2.865130066871643
+___
+mental_or_behavioral_dysfunction	neoplastic_process	cell_or_molecular_dysfunction
+precedes	degree_of
+1
+-3.418753147125244
+___
+mental_or_behavioral_dysfunction	neoplastic_process	mental_or_behavioral_dysfunction
+precedes	_co-occurs_with
+-1
+-3.638915538787842
+___
+mental_or_behavioral_dysfunction	pathologic_function	cell_or_molecular_dysfunction
+precedes	degree_of
+1
+-4.534058094024658
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+_degree_of	_co-occurs_with
+-1
+-4.962146043777466
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+_degree_of	degree_of
+-1
+-5.015085935592651
+___
+mental_or_behavioral_dysfunction	experimental_model_of_disease	mental_or_behavioral_dysfunction
+_precedes	precedes
+-1
+-5.0205041617155075
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	injury_or_poisoning
+precedes	co-occurs_with
+-1
+-5.515204429626465
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	acquired_abnormality
+precedes	co-occurs_with
+-1
+-5.515204429626465
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	anatomical_abnormality
+precedes	co-occurs_with
+-1
+-5.515204429626465
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+_precedes	degree_of
+-1
+-5.594849705696106
+___
+mental_or_behavioral_dysfunction	disease_or_syndrome	cell_or_molecular_dysfunction
+_precedes	precedes
+1
+-5.658015787601471
+___
+mental_or_behavioral_dysfunction	disease_or_syndrome	mental_or_behavioral_dysfunction
+_precedes	precedes
+-1
+-5.658015787601471
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+_precedes	_co-occurs_with
+-1
+-5.7332764863967896
+___
+mental_or_behavioral_dysfunction	disease_or_syndrome	cell_or_molecular_dysfunction
+precedes	_degree_of
+1
+-6.0596818923950195
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	acquired_abnormality
+precedes	complicates
+-1
+-6.550825119018555
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	anatomical_abnormality
+precedes	complicates
+-1
+-6.550825119018555
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	congenital_abnormality
+precedes	complicates
+-1
+-6.550825119018555
+___
+mental_or_behavioral_dysfunction	neoplastic_process	mental_or_behavioral_dysfunction
+precedes	_occurs_in
+-1
+-6.603740215301514
+___
+mental_or_behavioral_dysfunction	disease_or_syndrome	cell_or_molecular_dysfunction
+precedes	_precedes
+1
+-6.7520952224731445
+___
+mental_or_behavioral_dysfunction	disease_or_syndrome	mental_or_behavioral_dysfunction
+precedes	_precedes
+-1
+-6.7520952224731445
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	physiologic_function
+precedes	manifestation_of
+-1
+-6.80006742477417
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+precedes	manifestation_of
+-1
+-6.80006742477417
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	organism_function
+precedes	manifestation_of
+-1
+-6.80006742477417
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	mental_process
+precedes	manifestation_of
+-1
+-6.80006742477417
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	organ_or_tissue_function
+precedes	manifestation_of
+-1
+-6.80006742477417
+___
+mental_or_behavioral_dysfunction	neoplastic_process	cell_or_molecular_dysfunction
+precedes	co-occurs_with
+1
+-6.818713665008545
+___
+mental_or_behavioral_dysfunction	neoplastic_process	injury_or_poisoning
+precedes	co-occurs_with
+-1
+-6.818713665008545
+___
+mental_or_behavioral_dysfunction	neoplastic_process	acquired_abnormality
+precedes	co-occurs_with
+-1
+-6.818713665008545
+___
+mental_or_behavioral_dysfunction	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+NO_OP	precedes
+1
+-7.626058805733919
+___
+mental_or_behavioral_dysfunction	neoplastic_process	mental_or_behavioral_dysfunction
+degree_of	_precedes
+-1
+-7.818713843822479
+___
+mental_or_behavioral_dysfunction	neoplastic_process	acquired_abnormality
+precedes	complicates
+-1
+-7.854334354400635
+___
+mental_or_behavioral_dysfunction	neoplastic_process	mental_or_behavioral_dysfunction
+precedes	complicates
+-1
+-7.854334354400635
+___
+mental_or_behavioral_dysfunction	pathologic_function	acquired_abnormality
+precedes	co-occurs_with
+-1
+-7.934018611907959
+___
+mental_or_behavioral_dysfunction	pathologic_function	anatomical_abnormality
+precedes	co-occurs_with
+-1
+-7.934018611907959
+___
+mental_or_behavioral_dysfunction	neoplastic_process	physiologic_function
+precedes	manifestation_of
+-1
+-8.10357666015625
+___
+mental_or_behavioral_dysfunction	neoplastic_process	cell_or_molecular_dysfunction
+precedes	manifestation_of
+1
+-8.10357666015625
+___
+mental_or_behavioral_dysfunction	neoplastic_process	mental_or_behavioral_dysfunction
+precedes	manifestation_of
+-1
+-8.10357666015625
+___
+mental_or_behavioral_dysfunction	neoplastic_process	injury_or_poisoning
+precedes	manifestation_of
+-1
+-8.10357666015625
+___
+mental_or_behavioral_dysfunction	neoplastic_process	organism_function
+precedes	manifestation_of
+-1
+-8.10357666015625
+___
+mental_or_behavioral_dysfunction	neoplastic_process	molecular_function
+precedes	manifestation_of
+-1
+-8.10357666015625
+___
+mental_or_behavioral_dysfunction	experimental_model_of_disease	mental_or_behavioral_dysfunction
+_precedes	_degree_of
+-1
+-8.305938959121704
+___
+mental_or_behavioral_dysfunction	experimental_model_of_disease	cell_or_molecular_dysfunction
+_precedes	_degree_of
+1
+-8.305938959121704
+___
+mental_or_behavioral_dysfunction	pathologic_function	mental_or_behavioral_dysfunction
+degree_of	_precedes
+-1
+-8.60723340511322
+___
+mental_or_behavioral_dysfunction	pathologic_function	cell_or_molecular_dysfunction
+degree_of	_precedes
+1
+-8.60723340511322
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	anatomical_abnormality
+_degree_of	co-occurs_with
+-1
+-8.84366512298584
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	acquired_abnormality
+_degree_of	co-occurs_with
+-1
+-8.84366512298584
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	injury_or_poisoning
+_degree_of	co-occurs_with
+-1
+-8.84366512298584
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	cell_or_molecular_dysfunction
+precedes	NO_OP
+1
+-8.854463577270508
+___
+mental_or_behavioral_dysfunction	pathologic_function	cell_or_molecular_dysfunction
+degree_of	_degree_of
+1
+-8.863470435142517
+___
+mental_or_behavioral_dysfunction	disease_or_syndrome	cell_or_molecular_dysfunction
+_precedes	_degree_of
+1
+-8.943450450897217
+___
+mental_or_behavioral_dysfunction	pathologic_function	acquired_abnormality
+precedes	complicates
+-1
+-8.969639301300049
+___
+mental_or_behavioral_dysfunction	pathologic_function	mental_or_behavioral_dysfunction
+precedes	complicates
+-1
+-8.969639301300049
+___
+mental_or_behavioral_dysfunction	pathologic_function	congenital_abnormality
+precedes	complicates
+-1
+-8.969639301300049
+___
+mental_or_behavioral_dysfunction	pathologic_function	cell_or_molecular_dysfunction
+precedes	complicates
+1
+-8.969639301300049
+___
+mental_or_behavioral_dysfunction	pathologic_function	physiologic_function
+precedes	manifestation_of
+-1
+-9.218881607055664
+___
+mental_or_behavioral_dysfunction	pathologic_function	molecular_function
+precedes	manifestation_of
+-1
+-9.218881607055664
+___
+mental_or_behavioral_dysfunction	pathologic_function	organism_function
+precedes	manifestation_of
+-1
+-9.218881607055664
+___
+mental_or_behavioral_dysfunction	pathologic_function	cell_function
+precedes	manifestation_of
+-1
+-9.218881607055664
+___
+mental_or_behavioral_dysfunction	pathologic_function	mental_or_behavioral_dysfunction
+precedes	manifestation_of
+-1
+-9.218881607055664
+___
+mental_or_behavioral_dysfunction	experimental_model_of_disease	mental_or_behavioral_dysfunction
+_precedes	_precedes
+-1
+-9.30327320098877
+___
+mental_or_behavioral_dysfunction	neoplastic_process	mental_or_behavioral_dysfunction
+degree_of	_co-occurs_with
+-1
+-9.472589254379272
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	biologic_function
+precedes	_process_of
+-1
+-9.606209754943848
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	cell_function
+precedes	_process_of
+-1
+-9.606209754943848
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	organ_or_tissue_function
+precedes	_process_of
+-1
+-9.606209754943848
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	molecular_function
+precedes	_process_of
+-1
+-9.606209754943848
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	mental_process
+precedes	_process_of
+-1
+-9.606209754943848
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	congenital_abnormality
+_degree_of	complicates
+-1
+-9.692365646362305
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	acquired_abnormality
+_degree_of	complicates
+-1
+-9.692365646362305
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	anatomical_abnormality
+_degree_of	complicates
+-1
+-9.692365646362305
+___
+mental_or_behavioral_dysfunction	disease_or_syndrome	cell_or_molecular_dysfunction
+_co-occurs_with	precedes
+1
+-9.778007984161377
+___
+mental_or_behavioral_dysfunction	disease_or_syndrome	mental_or_behavioral_dysfunction
+_co-occurs_with	precedes
+-1
+-9.778007984161377
+___
+mental_or_behavioral_dysfunction	anatomical_abnormality	congenital_abnormality
+co-occurs_with	_isa
+-1
+-9.796698331832886
+___
+mental_or_behavioral_dysfunction	disease_or_syndrome	cell_or_molecular_dysfunction
+_precedes	_precedes
+1
+-9.940784931182861
+___
+mental_or_behavioral_dysfunction	disease_or_syndrome	mental_or_behavioral_dysfunction
+_precedes	_precedes
+-1
+-9.940784931182861
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+_degree_of	manifestation_of
+-1
+-9.962403297424316
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	organ_or_tissue_function
+_degree_of	manifestation_of
+-1
+-9.962403297424316
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	mental_process
+_degree_of	manifestation_of
+-1
+-9.962403297424316
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	physiologic_function
+_degree_of	manifestation_of
+-1
+-9.962403297424316
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	organism_function
+_degree_of	manifestation_of
+-1
+-9.962403297424316
+___
+mental_or_behavioral_dysfunction	neoplastic_process	cell_or_molecular_dysfunction
+degree_of	degree_of
+1
+-10.005894422531128
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	anatomical_abnormality
+_precedes	co-occurs_with
+-1
+-10.006750583648682
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	acquired_abnormality
+_precedes	co-occurs_with
+-1
+-10.006750583648682
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	injury_or_poisoning
+_precedes	co-occurs_with
+-1
+-10.006750583648682
+___
+mental_or_behavioral_dysfunction	experimental_model_of_disease	mental_or_behavioral_dysfunction
+complicates	precedes
+-1
+-10.238676592707634
+___
+mental_or_behavioral_dysfunction	neoplastic_process	mental_or_behavioral_dysfunction
+complicates	_precedes
+-1
+-10.317258089780807
+___
+mental_or_behavioral_dysfunction	anatomical_abnormality	congenital_abnormality
+complicates	_isa
+-1
+-10.3327017724514
+___
+mental_or_behavioral_dysfunction	neoplastic_process	mental_or_behavioral_dysfunction
+_occurs_in	_precedes
+-1
+-10.432993218302727
+___
+mental_or_behavioral_dysfunction	clinical_attribute	organism_attribute
+associated_with	_degree_of
+-1
+-10.439954201225191
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+co-occurs_with	_co-occurs_with
+-1
+-10.458952784538269
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+co-occurs_with	degree_of
+-1
+-10.46329391002655
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+associated_with	_co-occurs_with
+-1
+-10.551060318946838
+___
+mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+complicates	_co-occurs_with
+-1
+-10.577381014823914
+___
+#####################
+disease_or_syndrome	cell_or_molecular_dysfunction
+Reward:1
+disease_or_syndrome	cell_or_molecular_dysfunction	disease_or_syndrome
+precedes	_co-occurs_with
+-1
+-1.4313711076974869
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+precedes	precedes
+1
+-1.9192824959754944
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	disease_or_syndrome
+precedes	precedes
+-1
+-1.9192824959754944
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+precedes	_isa
+-1
+-2.146913170814514
+___
+disease_or_syndrome	pathologic_function	cell_or_molecular_dysfunction
+precedes	_degree_of
+1
+-2.8879953622817993
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+precedes	_degree_of
+-1
+-2.8879953622817993
+___
+disease_or_syndrome	pathologic_function	cell_or_molecular_dysfunction
+precedes	_precedes
+1
+-3.580408811569214
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+precedes	_precedes
+-1
+-3.580408811569214
+___
+disease_or_syndrome	neoplastic_process	disease_or_syndrome
+_degree_of	precedes
+-1
+-4.0346046872437
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	disease_or_syndrome
+_degree_of	_co-occurs_with
+-1
+-4.139936745166779
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	anatomical_abnormality
+precedes	co-occurs_with
+-1
+-4.611169338226318
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	injury_or_poisoning
+precedes	co-occurs_with
+-1
+-4.611169338226318
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	acquired_abnormality
+precedes	co-occurs_with
+-1
+-4.611169338226318
+___
+disease_or_syndrome	neoplastic_process	disease_or_syndrome
+_precedes	precedes
+-1
+-4.755991153419018
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	disease_or_syndrome
+_precedes	_co-occurs_with
+-1
+-4.7955194637179375
+___
+disease_or_syndrome	experimental_model_of_disease	disease_or_syndrome
+_precedes	precedes
+-1
+-4.803863510489464
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+_degree_of	_isa
+-1
+-5.064051508903503
+___
+disease_or_syndrome	pathologic_function	cell_or_molecular_dysfunction
+precedes	degree_of
+1
+-5.2493369579315186
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+precedes	degree_of
+-1
+-5.2493369579315186
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	disease_or_syndrome
+_precedes	precedes
+-1
+-5.439472079277039
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+_precedes	precedes
+1
+-5.439472079277039
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+precedes	_co-occurs_with
+-1
+-5.469499349594116
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	congenital_abnormality
+precedes	complicates
+-1
+-5.646789789199829
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	acquired_abnormality
+precedes	complicates
+-1
+-5.646789789199829
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	anatomical_abnormality
+precedes	complicates
+-1
+-5.646789789199829
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	disease_or_syndrome
+precedes	complicates
+-1
+-5.646789789199829
+___
+disease_or_syndrome	pathologic_function	cell_or_molecular_dysfunction
+_degree_of	_degree_of
+1
+-5.815388560295105
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+_degree_of	_degree_of
+-1
+-5.815388560295105
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+precedes	_degree_of
+1
+-5.8404319286346436
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	disease_or_syndrome
+precedes	manifestation_of
+-1
+-5.896032094955444
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	physiologic_function
+precedes	manifestation_of
+-1
+-5.896032094955444
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	organism_function
+precedes	manifestation_of
+-1
+-5.896032094955444
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	organ_or_tissue_function
+precedes	manifestation_of
+-1
+-5.896032094955444
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	mental_process
+precedes	manifestation_of
+-1
+-5.896032094955444
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+_precedes	_isa
+-1
+-5.990486979484558
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+_degree_of	_precedes
+-1
+-6.0355730056762695
+___
+disease_or_syndrome	pathologic_function	cell_or_molecular_dysfunction
+_degree_of	_precedes
+1
+-6.0355730056762695
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+_precedes	_degree_of
+-1
+-6.142086863517761
+___
+disease_or_syndrome	pathologic_function	cell_or_molecular_dysfunction
+_precedes	_degree_of
+1
+-6.142086863517761
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+precedes	_precedes
+1
+-6.5328452587127686
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	disease_or_syndrome
+precedes	_precedes
+-1
+-6.5328452587127686
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+_precedes	_precedes
+-1
+-7.139421463012695
+___
+disease_or_syndrome	pathologic_function	cell_or_molecular_dysfunction
+_precedes	_precedes
+1
+-7.139421463012695
+___
+disease_or_syndrome	neoplastic_process	disease_or_syndrome
+degree_of	precedes
+-1
+-7.348082819953561
+___
+disease_or_syndrome	disease_or_syndrome	cell_or_molecular_dysfunction
+NO_OP	precedes
+1
+-7.406450033187866
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	cell_or_molecular_dysfunction
+precedes	NO_OP
+1
+-7.950428247451782
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+_degree_of	_co-occurs_with
+-1
+-7.977440357208252
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	acquired_abnormality
+_degree_of	co-occurs_with
+-1
+-8.021455764770508
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	anatomical_abnormality
+_degree_of	co-occurs_with
+-1
+-8.021455764770508
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	injury_or_poisoning
+_degree_of	co-occurs_with
+-1
+-8.021455764770508
+___
+disease_or_syndrome	neoplastic_process	disease_or_syndrome
+_degree_of	_degree_of
+-1
+-8.024027347564697
+___
+disease_or_syndrome	pathologic_function	cell_or_molecular_dysfunction
+_degree_of	degree_of
+1
+-8.030380249023438
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+_degree_of	degree_of
+-1
+-8.030380249023438
+___
+disease_or_syndrome	neoplastic_process	disease_or_syndrome
+_precedes	_degree_of
+-1
+-8.041425943374634
+___
+disease_or_syndrome	experimental_model_of_disease	cell_or_molecular_dysfunction
+_precedes	_degree_of
+1
+-8.089298248291016
+___
+disease_or_syndrome	experimental_model_of_disease	disease_or_syndrome
+_precedes	_degree_of
+-1
+-8.089298248291016
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	disease_or_syndrome
+precedes	_co-occurs_with
+-1
+-8.421935796737671
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+_precedes	degree_of
+-1
+-8.510222434997559
+___
+disease_or_syndrome	pathologic_function	cell_or_molecular_dysfunction
+_precedes	degree_of
+1
+-8.510222434997559
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+_precedes	_co-occurs_with
+-1
+-8.648649215698242
+___
+disease_or_syndrome	pathologic_function	acquired_abnormality
+precedes	co-occurs_with
+-1
+-8.64929747581482
+___
+disease_or_syndrome	pathologic_function	anatomical_abnormality
+precedes	co-occurs_with
+-1
+-8.64929747581482
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	organ_or_tissue_function
+precedes	_process_of
+-1
+-8.70217490196228
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	cell_function
+precedes	_process_of
+-1
+-8.70217490196228
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	biologic_function
+precedes	_process_of
+-1
+-8.70217490196228
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	mental_process
+precedes	_process_of
+-1
+-8.70217490196228
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	molecular_function
+precedes	_process_of
+-1
+-8.70217490196228
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	disease_or_syndrome
+precedes	_process_of
+-1
+-8.70217490196228
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+_precedes	_degree_of
+1
+-8.724906921386719
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	acquired_abnormality
+_degree_of	complicates
+-1
+-8.87015676498413
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	disease_or_syndrome
+_degree_of	complicates
+-1
+-8.87015676498413
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	congenital_abnormality
+_degree_of	complicates
+-1
+-8.87015676498413
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	anatomical_abnormality
+_degree_of	complicates
+-1
+-8.87015676498413
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	acquired_abnormality
+_precedes	co-occurs_with
+-1
+-9.06899356842041
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	injury_or_poisoning
+_precedes	co-occurs_with
+-1
+-9.06899356842041
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	anatomical_abnormality
+_precedes	co-occurs_with
+-1
+-9.06899356842041
+___
+disease_or_syndrome	experimental_model_of_disease	disease_or_syndrome
+_precedes	_precedes
+-1
+-9.08663272857666
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	organism_function
+_degree_of	manifestation_of
+-1
+-9.140194416046143
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	organ_or_tissue_function
+_degree_of	manifestation_of
+-1
+-9.140194416046143
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	mental_process
+_degree_of	manifestation_of
+-1
+-9.140194416046143
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	disease_or_syndrome
+_degree_of	manifestation_of
+-1
+-9.140194416046143
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	physiologic_function
+_degree_of	manifestation_of
+-1
+-9.140194416046143
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	disease_or_syndrome
+co-occurs_with	_co-occurs_with
+-1
+-9.567331746220589
+___
+disease_or_syndrome	anatomical_abnormality	congenital_abnormality
+co-occurs_with	_isa
+-1
+-9.576831463724375
+___
+disease_or_syndrome	experimental_model_of_disease	disease_or_syndrome
+co-occurs_with	precedes
+-1
+-9.609916180372238
+___
+disease_or_syndrome	pathologic_function	acquired_abnormality
+precedes	complicates
+-1
+-9.68491816520691
+___
+disease_or_syndrome	pathologic_function	cell_or_molecular_dysfunction
+precedes	complicates
+1
+-9.68491816520691
+___
+disease_or_syndrome	pathologic_function	congenital_abnormality
+precedes	complicates
+-1
+-9.68491816520691
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+precedes	complicates
+-1
+-9.68491816520691
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	acquired_abnormality
+_precedes	complicates
+-1
+-9.685595989227295
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	anatomical_abnormality
+_precedes	complicates
+-1
+-9.685595989227295
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	disease_or_syndrome
+_precedes	complicates
+-1
+-9.685595989227295
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	congenital_abnormality
+_precedes	complicates
+-1
+-9.685595989227295
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	disease_or_syndrome
+_precedes	_precedes
+-1
+-9.722241401672363
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+_precedes	_precedes
+1
+-9.722241401672363
+___
+disease_or_syndrome	pathologic_function	molecular_function
+precedes	manifestation_of
+-1
+-9.934159994125366
+___
+disease_or_syndrome	pathologic_function	organism_function
+precedes	manifestation_of
+-1
+-9.934159994125366
+___
+disease_or_syndrome	pathologic_function	cell_function
+precedes	manifestation_of
+-1
+-9.934159994125366
+___
+disease_or_syndrome	pathologic_function	physiologic_function
+precedes	manifestation_of
+-1
+-9.934159994125366
+___
+disease_or_syndrome	neoplastic_process	disease_or_syndrome
+complicates	precedes
+-1
+-9.974181650206447
+___
+#####################
+cell_or_molecular_dysfunction	neoplastic_process
+Reward:1
+cell_or_molecular_dysfunction	neoplastic_process	cell_or_molecular_dysfunction
+precedes	degree_of
+-1
+-0.8828103989362717
+___
+cell_or_molecular_dysfunction	pathologic_function	neoplastic_process
+precedes	_isa
+1
+-1.5549380779266357
+___
+cell_or_molecular_dysfunction	pathologic_function	cell_or_molecular_dysfunction
+precedes	_degree_of
+-1
+-2.296020269393921
+___
+cell_or_molecular_dysfunction	pathologic_function	neoplastic_process
+precedes	_degree_of
+1
+-2.296020269393921
+___
+cell_or_molecular_dysfunction	pathologic_function	cell_or_molecular_dysfunction
+precedes	_precedes
+-1
+-2.988433599472046
+___
+cell_or_molecular_dysfunction	neoplastic_process	injury_or_poisoning
+precedes	co-occurs_with
+-1
+-4.282770872116089
+___
+cell_or_molecular_dysfunction	neoplastic_process	acquired_abnormality
+precedes	co-occurs_with
+-1
+-4.282770872116089
+___
+cell_or_molecular_dysfunction	neoplastic_process	cell_or_molecular_dysfunction
+precedes	co-occurs_with
+-1
+-4.282770872116089
+___
+cell_or_molecular_dysfunction	pathologic_function	neoplastic_process
+_degree_of	_isa
+1
+-4.421504199504852
+___
+cell_or_molecular_dysfunction	pathologic_function	cell_or_molecular_dysfunction
+precedes	degree_of
+-1
+-4.657361745834351
+___
+cell_or_molecular_dysfunction	pathologic_function	neoplastic_process
+precedes	degree_of
+1
+-4.657361745834351
+___
+cell_or_molecular_dysfunction	pathologic_function	neoplastic_process
+_degree_of	_degree_of
+1
+-5.172841310501099
+___
+cell_or_molecular_dysfunction	pathologic_function	cell_or_molecular_dysfunction
+_degree_of	_degree_of
+-1
+-5.172841310501099
+___
+cell_or_molecular_dysfunction	neoplastic_process	acquired_abnormality
+precedes	complicates
+-1
+-5.318391799926758
+___
+cell_or_molecular_dysfunction	pathologic_function	cell_or_molecular_dysfunction
+_degree_of	_precedes
+-1
+-5.393025636672974
+___
+cell_or_molecular_dysfunction	neoplastic_process	cell_or_molecular_dysfunction
+precedes	manifestation_of
+-1
+-5.567634105682373
+___
+cell_or_molecular_dysfunction	neoplastic_process	molecular_function
+precedes	manifestation_of
+-1
+-5.567634105682373
+___
+cell_or_molecular_dysfunction	neoplastic_process	injury_or_poisoning
+precedes	manifestation_of
+-1
+-5.567634105682373
+___
+cell_or_molecular_dysfunction	neoplastic_process	physiologic_function
+precedes	manifestation_of
+-1
+-5.567634105682373
+___
+cell_or_molecular_dysfunction	neoplastic_process	organism_function
+precedes	manifestation_of
+-1
+-5.567634105682373
+___
+cell_or_molecular_dysfunction	cell_or_molecular_dysfunction	neoplastic_process
+NO_OP	precedes
+1
+-6.885889317840338
+___
+cell_or_molecular_dysfunction	pathologic_function	cell_or_molecular_dysfunction
+_degree_of	degree_of
+-1
+-7.387832880020142
+___
+cell_or_molecular_dysfunction	pathologic_function	neoplastic_process
+_degree_of	degree_of
+1
+-7.387832880020142
+___
+cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction	neoplastic_process
+degree_of	precedes
+1
+-7.559617042541504
+___
+cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+degree_of	precedes
+-1
+-7.559617042541504
+___
+cell_or_molecular_dysfunction	neoplastic_process	neoplastic_process
+precedes	NO_OP
+1
+-7.622030258178711
+___
+cell_or_molecular_dysfunction	pathologic_function	anatomical_abnormality
+precedes	co-occurs_with
+-1
+-8.05732250213623
+___
+cell_or_molecular_dysfunction	pathologic_function	acquired_abnormality
+precedes	co-occurs_with
+-1
+-8.05732250213623
+___
+cell_or_molecular_dysfunction	neoplastic_process	cell_or_molecular_dysfunction
+_co-occurs_with	degree_of
+-1
+-8.368382927030325
+___
+cell_or_molecular_dysfunction	neoplastic_process	biologic_function
+precedes	_process_of
+-1
+-8.373776912689209
+___
+cell_or_molecular_dysfunction	neoplastic_process	mental_process
+precedes	_process_of
+-1
+-8.373776912689209
+___
+cell_or_molecular_dysfunction	neoplastic_process	cell_or_molecular_dysfunction
+precedes	_process_of
+-1
+-8.373776912689209
+___
+cell_or_molecular_dysfunction	neoplastic_process	organism_function
+precedes	_process_of
+-1
+-8.373776912689209
+___
+cell_or_molecular_dysfunction	neoplastic_process	molecular_function
+precedes	_process_of
+-1
+-8.373776912689209
+___
+cell_or_molecular_dysfunction	neoplastic_process	natural_phenomenon_or_process
+precedes	_process_of
+-1
+-8.373776912689209
+___
+cell_or_molecular_dysfunction	neoplastic_process	physiologic_function
+precedes	_process_of
+-1
+-8.373776912689209
+___
+cell_or_molecular_dysfunction	disease_or_syndrome	cell_or_molecular_dysfunction
+_co-occurs_with	precedes
+-1
+-8.461415611207485
+___
+cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+_co-occurs_with	precedes
+-1
+-9.074746370315552
+___
+cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction	neoplastic_process
+_co-occurs_with	precedes
+1
+-9.074746370315552
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	congenital_abnormality
+co-occurs_with	_isa
+-1
+-9.087090898305178
+___
+cell_or_molecular_dysfunction	pathologic_function	neoplastic_process
+precedes	complicates
+1
+-9.09294319152832
+___
+cell_or_molecular_dysfunction	pathologic_function	congenital_abnormality
+precedes	complicates
+-1
+-9.09294319152832
+___
+cell_or_molecular_dysfunction	pathologic_function	cell_or_molecular_dysfunction
+precedes	complicates
+-1
+-9.09294319152832
+___
+cell_or_molecular_dysfunction	pathologic_function	acquired_abnormality
+precedes	complicates
+-1
+-9.09294319152832
+___
+cell_or_molecular_dysfunction	pathologic_function	cell_function
+precedes	manifestation_of
+-1
+-9.342185020446777
+___
+cell_or_molecular_dysfunction	pathologic_function	molecular_function
+precedes	manifestation_of
+-1
+-9.342185020446777
+___
+cell_or_molecular_dysfunction	pathologic_function	organism_function
+precedes	manifestation_of
+-1
+-9.342185020446777
+___
+cell_or_molecular_dysfunction	pathologic_function	physiologic_function
+precedes	manifestation_of
+-1
+-9.342185020446777
+___
+cell_or_molecular_dysfunction	pathologic_function	neoplastic_process
+co-occurs_with	_isa
+1
+-9.439663708209991
+___
+cell_or_molecular_dysfunction	congenital_abnormality	cell_or_molecular_dysfunction
+complicates	_co-occurs_with
+-1
+-9.484090914018452
+___
+cell_or_molecular_dysfunction	disease_or_syndrome	cell_or_molecular_dysfunction
+complicates	precedes
+-1
+-9.568170435726643
+___
+cell_or_molecular_dysfunction	anatomical_abnormality	congenital_abnormality
+complicates	_isa
+-1
+-9.596634939312935
+___
+cell_or_molecular_dysfunction	clinical_attribute	organism_attribute
+associated_with	_degree_of
+-1
+-9.741391579154879
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	neoplastic_process
+co-occurs_with	_co-occurs_with
+1
+-9.759748995304108
+___
+cell_or_molecular_dysfunction	injury_or_poisoning	cell_or_molecular_dysfunction
+co-occurs_with	_co-occurs_with
+-1
+-9.759748995304108
+___
+cell_or_molecular_dysfunction	neoplastic_process	hormone
+precedes	_complicates
+-1
+-9.837198257446289
+___
+cell_or_molecular_dysfunction	neoplastic_process	injury_or_poisoning
+precedes	_complicates
+-1
+-9.837198257446289
+___
+cell_or_molecular_dysfunction	neoplastic_process	receptor
+precedes	_complicates
+-1
+-9.837198257446289
+___
+cell_or_molecular_dysfunction	neoplastic_process	cell_or_molecular_dysfunction
+precedes	_complicates
+-1
+-9.837198257446289
+___
+cell_or_molecular_dysfunction	neoplastic_process	therapeutic_or_preventive_procedure
+precedes	_complicates
+-1
+-9.837198257446289
+___
+cell_or_molecular_dysfunction	neoplastic_process	neuroreactive_substance_or_biogenic_amine
+precedes	_complicates
+-1
+-9.837198257446289
+___
+cell_or_molecular_dysfunction	neoplastic_process	pharmacologic_substance
+precedes	_complicates
+-1
+-9.837198257446289
+___
+cell_or_molecular_dysfunction	neoplastic_process	vertebrate
+precedes	process_of
+-1
+-9.93576717376709
+___
+cell_or_molecular_dysfunction	neoplastic_process	biologic_function
+precedes	process_of
+-1
+-9.93576717376709
+___
+cell_or_molecular_dysfunction	neoplastic_process	mental_process
+precedes	process_of
+-1
+-9.93576717376709
+___
+cell_or_molecular_dysfunction	neoplastic_process	archaeon
+precedes	process_of
+-1
+-9.93576717376709
+___
+cell_or_molecular_dysfunction	neoplastic_process	organism
+precedes	process_of
+-1
+-9.93576717376709
+___
+cell_or_molecular_dysfunction	neoplastic_process	fish
+precedes	process_of
+-1
+-9.93576717376709
+___
+cell_or_molecular_dysfunction	neoplastic_process	bacterium
+precedes	process_of
+-1
+-9.93576717376709
+___
+cell_or_molecular_dysfunction	neoplastic_process	mammal
+precedes	process_of
+-1
+-9.93576717376709
+___
+cell_or_molecular_dysfunction	neoplastic_process	reptile
+precedes	process_of
+-1
+-9.93576717376709
+___
+cell_or_molecular_dysfunction	neoplastic_process	cell_function
+precedes	process_of
+-1
+-9.93576717376709
+___
+cell_or_molecular_dysfunction	neoplastic_process	organ_or_tissue_function
+precedes	process_of
+-1
+-9.93576717376709
+___
+cell_or_molecular_dysfunction	neoplastic_process	fungus
+precedes	process_of
+-1
+-9.93576717376709
+___
+cell_or_molecular_dysfunction	neoplastic_process	rickettsia_or_chlamydia
+precedes	process_of
+-1
+-9.93576717376709
+___
+cell_or_molecular_dysfunction	neoplastic_process	physiologic_function
+precedes	process_of
+-1
+-9.93576717376709
+___
+cell_or_molecular_dysfunction	neoplastic_process	alga
+precedes	process_of
+-1
+-9.93576717376709
+___
+cell_or_molecular_dysfunction	neoplastic_process	amphibian
+precedes	process_of
+-1
+-9.93576717376709
+___
+cell_or_molecular_dysfunction	pathologic_function	neoplastic_process
+complicates	_isa
+1
+-10.109196662902832
+___
+cell_or_molecular_dysfunction	acquired_abnormality	neoplastic_process
+co-occurs_with	_co-occurs_with
+1
+-10.158902049064636
+___
+cell_or_molecular_dysfunction	acquired_abnormality	cell_or_molecular_dysfunction
+co-occurs_with	_co-occurs_with
+-1
+-10.158902049064636
+___
+cell_or_molecular_dysfunction	acquired_abnormality	congenital_abnormality
+co-occurs_with	_co-occurs_with
+-1
+-10.158902049064636
+___
+cell_or_molecular_dysfunction	pathologic_function	cell_or_molecular_dysfunction
+associated_with	_precedes
+-1
+-10.360739290714264
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	cell_or_molecular_dysfunction
+complicates	_degree_of
+-1
+-10.393415689468384
+___
+cell_or_molecular_dysfunction	experimental_model_of_disease	neoplastic_process
+complicates	_degree_of
+1
+-10.393415689468384
+___
+cell_or_molecular_dysfunction	neoplastic_process	molecular_function
+precedes	_result_of
+-1
+-10.525914192199707
+___
+cell_or_molecular_dysfunction	neoplastic_process	injury_or_poisoning
+precedes	_result_of
+-1
+-10.525914192199707
+___
+cell_or_molecular_dysfunction	neoplastic_process	cell_function
+precedes	_result_of
+-1
+-10.525914192199707
+___
+cell_or_molecular_dysfunction	neoplastic_process	organ_or_tissue_function
+precedes	_result_of
+-1
+-10.525914192199707
+___
+cell_or_molecular_dysfunction	neoplastic_process	environmental_effect_of_humans
+precedes	_result_of
+-1
+-10.525914192199707
+___
+cell_or_molecular_dysfunction	neoplastic_process	genetic_function
+precedes	_result_of
+-1
+-10.525914192199707
+___
+cell_or_molecular_dysfunction	neoplastic_process	congenital_abnormality
+precedes	_result_of
+-1
+-10.525914192199707
+___
+cell_or_molecular_dysfunction	neoplastic_process	human_caused_phenomenon_or_process
+precedes	_result_of
+-1
+-10.525914192199707
+___
+cell_or_molecular_dysfunction	neoplastic_process	acquired_abnormality
+precedes	_result_of
+-1
+-10.525914192199707
+___
+cell_or_molecular_dysfunction	neoplastic_process	organism_function
+precedes	_result_of
+-1
+-10.525914192199707
+___
+cell_or_molecular_dysfunction	neoplastic_process	cell_or_molecular_dysfunction
+precedes	_result_of
+-1
+-10.525914192199707
+___
+cell_or_molecular_dysfunction	neoplastic_process	clinical_attribute
+precedes	_result_of
+-1
+-10.525914192199707
+___
+cell_or_molecular_dysfunction	acquired_abnormality	cell_or_molecular_dysfunction
+complicates	_co-occurs_with
+-1
+-10.576239585876465
+___
+cell_or_molecular_dysfunction	acquired_abnormality	neoplastic_process
+complicates	_co-occurs_with
+1
+-10.576239585876465
+___
+cell_or_molecular_dysfunction	acquired_abnormality	congenital_abnormality
+complicates	_co-occurs_with
+-1
+-10.576239585876465
+___
+#####################

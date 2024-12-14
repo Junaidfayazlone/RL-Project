@@ -1,0 +1,3018 @@
+pharmacologic_substance	neoplastic_process
+Reward:1
+pharmacologic_substance	cell_or_molecular_dysfunction	neoplastic_process
+causes	precedes
+1
+-2.7651062011705108
+___
+pharmacologic_substance	experimental_model_of_disease	neoplastic_process
+causes	degree_of
+1
+-2.765119910121939
+___
+pharmacologic_substance	disease_or_syndrome	neoplastic_process
+causes	degree_of
+1
+-2.765417050162796
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	neoplastic_process
+causes	precedes
+1
+-2.8685669749975204
+___
+pharmacologic_substance	experimental_model_of_disease	neoplastic_process
+prevents	degree_of
+1
+-3.322350263595581
+___
+pharmacologic_substance	pathologic_function	neoplastic_process
+prevents	degree_of
+1
+-3.322350263595581
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	neoplastic_process
+prevents	precedes
+1
+-3.322350263595581
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	neoplastic_process
+prevents	degree_of
+1
+-3.5211536586284637
+___
+pharmacologic_substance	chemical	neoplastic_process
+interacts_with	causes
+1
+-3.973672876134515
+___
+pharmacologic_substance	antibiotic	neoplastic_process
+interacts_with	prevents
+1
+-3.982332929968834
+___
+pharmacologic_substance	hormone	neoplastic_process
+interacts_with	causes
+1
+-4.076491244137287
+___
+pharmacologic_substance	enzyme	neoplastic_process
+interacts_with	causes
+1
+-4.07705919444561
+___
+pharmacologic_substance	immunologic_factor	neoplastic_process
+interacts_with	causes
+1
+-4.081134803593159
+___
+pharmacologic_substance	hazardous_or_poisonous_substance	neoplastic_process
+interacts_with	causes
+1
+-4.089343212544918
+___
+pharmacologic_substance	biologically_active_substance	neoplastic_process
+interacts_with	causes
+1
+-4.089663051068783
+___
+pharmacologic_substance	vitamin	neoplastic_process
+interacts_with	causes
+1
+-4.0903365314006805
+___
+pharmacologic_substance	receptor	neoplastic_process
+interacts_with	causes
+1
+-4.090417787432671
+___
+pharmacologic_substance	pathologic_function	neoplastic_process
+treats	degree_of
+1
+-4.356106373496004
+___
+pharmacologic_substance	experimental_model_of_disease	neoplastic_process
+treats	degree_of
+1
+-4.356112690104055
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	neoplastic_process
+treats	precedes
+1
+-4.35619134636363
+___
+pharmacologic_substance	sign_or_symptom	finding
+treats	co-occurs_with
+-1
+-4.494170188903809
+___
+pharmacologic_substance	neoplastic_process	cell_function
+causes	manifestation_of
+-1
+-4.498971939086914
+___
+pharmacologic_substance	neoplastic_process	physiologic_function
+causes	manifestation_of
+-1
+-4.498971939086914
+___
+pharmacologic_substance	neoplastic_process	organism_function
+causes	manifestation_of
+-1
+-4.498971939086914
+___
+pharmacologic_substance	neoplastic_process	molecular_function
+causes	manifestation_of
+-1
+-4.498971939086914
+___
+pharmacologic_substance	neoplastic_process	genetic_function
+causes	manifestation_of
+-1
+-4.498971939086914
+___
+pharmacologic_substance	indicator_reagent_or_diagnostic_aid	clinical_drug
+interacts_with	ingredient_of
+-1
+-4.604068219661713
+___
+pharmacologic_substance	anatomical_abnormality	organism_function
+causes	manifestation_of
+-1
+-4.68620228767395
+___
+pharmacologic_substance	anatomical_abnormality	neoplastic_process
+causes	manifestation_of
+1
+-4.68620228767395
+___
+pharmacologic_substance	anatomical_abnormality	genetic_function
+causes	manifestation_of
+-1
+-4.68620228767395
+___
+pharmacologic_substance	anatomical_abnormality	molecular_function
+causes	manifestation_of
+-1
+-4.68620228767395
+___
+pharmacologic_substance	anatomical_abnormality	cell_function
+causes	manifestation_of
+-1
+-4.68620228767395
+___
+pharmacologic_substance	anatomical_abnormality	physiologic_function
+causes	manifestation_of
+-1
+-4.68620228767395
+___
+pharmacologic_substance	biomedical_or_dental_material	clinical_drug
+interacts_with	ingredient_of
+-1
+-4.72970187664032
+___
+pharmacologic_substance	acquired_abnormality	mental_process
+causes	manifestation_of
+-1
+-4.744434118270874
+___
+pharmacologic_substance	acquired_abnormality	organ_or_tissue_function
+causes	manifestation_of
+-1
+-4.744434118270874
+___
+pharmacologic_substance	acquired_abnormality	neoplastic_process
+causes	manifestation_of
+1
+-4.744434118270874
+___
+pharmacologic_substance	acquired_abnormality	molecular_function
+causes	manifestation_of
+-1
+-4.744434118270874
+___
+pharmacologic_substance	acquired_abnormality	organism_function
+causes	manifestation_of
+-1
+-4.744434118270874
+___
+pharmacologic_substance	acquired_abnormality	biologic_function
+causes	manifestation_of
+-1
+-4.744434118270874
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	neoplastic_process
+treats	degree_of
+1
+-4.9193742871284485
+___
+pharmacologic_substance	neoplastic_process	cell_function
+prevents	manifestation_of
+-1
+-4.995381712913513
+___
+pharmacologic_substance	neoplastic_process	physiologic_function
+prevents	manifestation_of
+-1
+-4.995381712913513
+___
+pharmacologic_substance	neoplastic_process	molecular_function
+prevents	manifestation_of
+-1
+-4.995381712913513
+___
+pharmacologic_substance	neoplastic_process	organism_function
+prevents	manifestation_of
+-1
+-4.995381712913513
+___
+pharmacologic_substance	neoplastic_process	genetic_function
+prevents	manifestation_of
+-1
+-4.995381712913513
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	neoplastic_process
+prevents	precedes
+1
+-5.0355446338653564
+___
+pharmacologic_substance	congenital_abnormality	physiologic_function
+causes	manifestation_of
+-1
+-5.052260637283325
+___
+pharmacologic_substance	congenital_abnormality	organism_function
+causes	manifestation_of
+-1
+-5.052260637283325
+___
+pharmacologic_substance	congenital_abnormality	organ_or_tissue_function
+causes	manifestation_of
+-1
+-5.052260637283325
+___
+pharmacologic_substance	congenital_abnormality	genetic_function
+causes	manifestation_of
+-1
+-5.052260637283325
+___
+pharmacologic_substance	congenital_abnormality	cell_function
+causes	manifestation_of
+-1
+-5.052260637283325
+___
+pharmacologic_substance	congenital_abnormality	molecular_function
+causes	manifestation_of
+-1
+-5.052260637283325
+___
+pharmacologic_substance	congenital_abnormality	mental_process
+causes	manifestation_of
+-1
+-5.052260637283325
+___
+pharmacologic_substance	congenital_abnormality	biologic_function
+causes	manifestation_of
+-1
+-5.052260637283325
+___
+pharmacologic_substance	congenital_abnormality	neoplastic_process
+causes	manifestation_of
+1
+-5.052260637283325
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	neoplastic_process
+causes	degree_of
+1
+-5.085249423980713
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	neoplastic_process
+treats	precedes
+1
+-5.204078495502472
+___
+pharmacologic_substance	anatomical_abnormality	neoplastic_process
+treats	location_of
+1
+-5.5538036823272705
+___
+pharmacologic_substance	anatomical_abnormality	fungus
+treats	location_of
+-1
+-5.5538036823272705
+___
+pharmacologic_substance	anatomical_abnormality	rickettsia_or_chlamydia
+treats	location_of
+-1
+-5.5538036823272705
+___
+pharmacologic_substance	congenital_abnormality	virus
+treats	location_of
+-1
+-5.568731069564819
+___
+pharmacologic_substance	congenital_abnormality	neoplastic_process
+treats	location_of
+1
+-5.568731069564819
+___
+pharmacologic_substance	congenital_abnormality	rickettsia_or_chlamydia
+treats	location_of
+-1
+-5.568731069564819
+___
+pharmacologic_substance	acquired_abnormality	rickettsia_or_chlamydia
+treats	location_of
+-1
+-6.023782253265381
+___
+pharmacologic_substance	acquired_abnormality	fungus
+treats	location_of
+-1
+-6.023782253265381
+___
+pharmacologic_substance	acquired_abnormality	bacterium
+treats	location_of
+-1
+-6.023782253265381
+___
+pharmacologic_substance	acquired_abnormality	virus
+treats	location_of
+-1
+-6.023782253265381
+___
+pharmacologic_substance	acquired_abnormality	neoplastic_process
+treats	location_of
+1
+-6.023782253265381
+___
+pharmacologic_substance	anatomical_abnormality	neoplastic_process
+causes	location_of
+1
+-6.252489328384399
+___
+pharmacologic_substance	anatomical_abnormality	fungus
+causes	location_of
+-1
+-6.252489328384399
+___
+pharmacologic_substance	anatomical_abnormality	rickettsia_or_chlamydia
+causes	location_of
+-1
+-6.252489328384399
+___
+pharmacologic_substance	acquired_abnormality	bacterium
+causes	location_of
+-1
+-6.310721158981323
+___
+pharmacologic_substance	acquired_abnormality	virus
+causes	location_of
+-1
+-6.310721158981323
+___
+pharmacologic_substance	acquired_abnormality	rickettsia_or_chlamydia
+causes	location_of
+-1
+-6.310721158981323
+___
+pharmacologic_substance	acquired_abnormality	neoplastic_process
+causes	location_of
+1
+-6.310721158981323
+___
+pharmacologic_substance	acquired_abnormality	fungus
+causes	location_of
+-1
+-6.310721158981323
+___
+pharmacologic_substance	congenital_abnormality	neoplastic_process
+causes	location_of
+1
+-6.618547677993774
+___
+pharmacologic_substance	congenital_abnormality	rickettsia_or_chlamydia
+causes	location_of
+-1
+-6.618547677993774
+___
+pharmacologic_substance	congenital_abnormality	virus
+causes	location_of
+-1
+-6.618547677993774
+___
+pharmacologic_substance	indicator_reagent_or_diagnostic_aid	cell_function
+interacts_with	affects
+-1
+-6.677384376525879
+___
+pharmacologic_substance	indicator_reagent_or_diagnostic_aid	neoplastic_process
+interacts_with	affects
+1
+-6.677384376525879
+___
+pharmacologic_substance	indicator_reagent_or_diagnostic_aid	organism_function
+interacts_with	affects
+-1
+-6.677384376525879
+___
+pharmacologic_substance	indicator_reagent_or_diagnostic_aid	biologic_function
+interacts_with	affects
+-1
+-6.677384376525879
+___
+pharmacologic_substance	indicator_reagent_or_diagnostic_aid	organ_or_tissue_function
+interacts_with	affects
+-1
+-6.677384376525879
+___
+pharmacologic_substance	indicator_reagent_or_diagnostic_aid	molecular_function
+interacts_with	affects
+-1
+-6.677384376525879
+___
+pharmacologic_substance	indicator_reagent_or_diagnostic_aid	mental_process
+interacts_with	affects
+-1
+-6.677384376525879
+___
+pharmacologic_substance	biomedical_or_dental_material	organ_or_tissue_function
+interacts_with	affects
+-1
+-6.803017854690552
+___
+pharmacologic_substance	biomedical_or_dental_material	neoplastic_process
+interacts_with	affects
+1
+-6.803017854690552
+___
+pharmacologic_substance	biomedical_or_dental_material	genetic_function
+interacts_with	affects
+-1
+-6.803017854690552
+___
+pharmacologic_substance	biomedical_or_dental_material	organism_function
+interacts_with	affects
+-1
+-6.803017854690552
+___
+pharmacologic_substance	biomedical_or_dental_material	mental_process
+interacts_with	affects
+-1
+-6.803017854690552
+___
+pharmacologic_substance	biomedical_or_dental_material	cell_function
+interacts_with	affects
+-1
+-6.803017854690552
+___
+pharmacologic_substance	biomedical_or_dental_material	molecular_function
+interacts_with	affects
+-1
+-6.803017854690552
+___
+pharmacologic_substance	biomedical_or_dental_material	natural_phenomenon_or_process
+interacts_with	affects
+-1
+-6.803017854690552
+___
+pharmacologic_substance	biomedical_or_dental_material	physiologic_function
+interacts_with	affects
+-1
+-6.803017854690552
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	neoplastic_process
+diagnoses	precedes
+1
+-7.123162865513223
+___
+pharmacologic_substance	pathologic_function	neoplastic_process
+diagnoses	degree_of
+1
+-7.123659360280726
+___
+pharmacologic_substance	disease_or_syndrome	neoplastic_process
+diagnoses	degree_of
+1
+-7.136500095948577
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	neoplastic_process
+diagnoses	precedes
+1
+-7.153971379622817
+___
+#####################
+pharmacologic_substance	disease_or_syndrome
+Reward:1
+pharmacologic_substance	mental_or_behavioral_dysfunction	disease_or_syndrome
+causes	precedes
+1
+-2.7651062011705108
+___
+pharmacologic_substance	experimental_model_of_disease	disease_or_syndrome
+causes	precedes
+1
+-2.8685377314686775
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	disease_or_syndrome
+causes	precedes
+1
+-2.8685377314686775
+___
+pharmacologic_substance	neoplastic_process	disease_or_syndrome
+causes	precedes
+1
+-2.8685377314686775
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	disease_or_syndrome
+prevents	precedes
+1
+-3.322350263595581
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	disease_or_syndrome
+prevents	degree_of
+1
+-3.5211536586284637
+___
+pharmacologic_substance	experimental_model_of_disease	disease_or_syndrome
+prevents	degree_of
+1
+-3.5211536586284637
+___
+pharmacologic_substance	neoplastic_process	disease_or_syndrome
+prevents	degree_of
+1
+-3.5211536586284637
+___
+pharmacologic_substance	pathologic_function	disease_or_syndrome
+prevents	degree_of
+1
+-3.5211536586284637
+___
+pharmacologic_substance	indicator_reagent_or_diagnostic_aid	disease_or_syndrome
+interacts_with	causes
+1
+-3.9738562235143036
+___
+pharmacologic_substance	biomedical_or_dental_material	disease_or_syndrome
+interacts_with	causes
+1
+-3.9740398946451023
+___
+pharmacologic_substance	immunologic_factor	disease_or_syndrome
+interacts_with	causes
+1
+-4.073311530053616
+___
+pharmacologic_substance	hormone	disease_or_syndrome
+interacts_with	causes
+1
+-4.0764913484454155
+___
+pharmacologic_substance	receptor	disease_or_syndrome
+interacts_with	causes
+1
+-4.077066175639629
+___
+pharmacologic_substance	enzyme	disease_or_syndrome
+interacts_with	causes
+1
+-4.090411216020584
+___
+pharmacologic_substance	vitamin	disease_or_syndrome
+interacts_with	causes
+1
+-4.090418003499508
+___
+pharmacologic_substance	hazardous_or_poisonous_substance	disease_or_syndrome
+interacts_with	causes
+1
+-4.102452501654625
+___
+pharmacologic_substance	antibiotic	disease_or_syndrome
+interacts_with	causes
+1
+-4.330907821655273
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	disease_or_syndrome
+treats	precedes
+1
+-4.356169537757523
+___
+pharmacologic_substance	sign_or_symptom	finding
+treats	co-occurs_with
+-1
+-4.490638703107834
+___
+pharmacologic_substance	anatomical_abnormality	genetic_function
+causes	manifestation_of
+-1
+-4.527855634689331
+___
+pharmacologic_substance	anatomical_abnormality	molecular_function
+causes	manifestation_of
+-1
+-4.527855634689331
+___
+pharmacologic_substance	anatomical_abnormality	cell_function
+causes	manifestation_of
+-1
+-4.527855634689331
+___
+pharmacologic_substance	anatomical_abnormality	organism_function
+causes	manifestation_of
+-1
+-4.527855634689331
+___
+pharmacologic_substance	anatomical_abnormality	physiologic_function
+causes	manifestation_of
+-1
+-4.527855634689331
+___
+pharmacologic_substance	chemical	clinical_drug
+interacts_with	ingredient_of
+-1
+-4.534798860549927
+___
+pharmacologic_substance	disease_or_syndrome	cell_function
+causes	manifestation_of
+-1
+-4.669190406799316
+___
+pharmacologic_substance	disease_or_syndrome	molecular_function
+causes	manifestation_of
+-1
+-4.669190406799316
+___
+pharmacologic_substance	disease_or_syndrome	organism_function
+causes	manifestation_of
+-1
+-4.669190406799316
+___
+pharmacologic_substance	disease_or_syndrome	genetic_function
+causes	manifestation_of
+-1
+-4.669190406799316
+___
+pharmacologic_substance	disease_or_syndrome	organ_or_tissue_function
+causes	manifestation_of
+-1
+-4.669190406799316
+___
+pharmacologic_substance	disease_or_syndrome	mental_process
+causes	manifestation_of
+-1
+-4.669190406799316
+___
+pharmacologic_substance	acquired_abnormality	biologic_function
+causes	manifestation_of
+-1
+-4.715158939361572
+___
+pharmacologic_substance	acquired_abnormality	mental_process
+causes	manifestation_of
+-1
+-4.715158939361572
+___
+pharmacologic_substance	acquired_abnormality	molecular_function
+causes	manifestation_of
+-1
+-4.715158939361572
+___
+pharmacologic_substance	acquired_abnormality	organism_function
+causes	manifestation_of
+-1
+-4.715158939361572
+___
+pharmacologic_substance	acquired_abnormality	disease_or_syndrome
+causes	manifestation_of
+1
+-4.715158939361572
+___
+pharmacologic_substance	acquired_abnormality	organ_or_tissue_function
+causes	manifestation_of
+-1
+-4.715158939361572
+___
+pharmacologic_substance	pathologic_function	disease_or_syndrome
+treats	degree_of
+1
+-4.916899621486664
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	disease_or_syndrome
+treats	degree_of
+1
+-4.916902482509613
+___
+pharmacologic_substance	experimental_model_of_disease	disease_or_syndrome
+treats	degree_of
+1
+-4.916902542114258
+___
+pharmacologic_substance	congenital_abnormality	cell_function
+causes	manifestation_of
+-1
+-4.921284437179565
+___
+pharmacologic_substance	congenital_abnormality	organ_or_tissue_function
+causes	manifestation_of
+-1
+-4.921284437179565
+___
+pharmacologic_substance	congenital_abnormality	physiologic_function
+causes	manifestation_of
+-1
+-4.921284437179565
+___
+pharmacologic_substance	congenital_abnormality	mental_process
+causes	manifestation_of
+-1
+-4.921284437179565
+___
+pharmacologic_substance	congenital_abnormality	molecular_function
+causes	manifestation_of
+-1
+-4.921284437179565
+___
+pharmacologic_substance	congenital_abnormality	biologic_function
+causes	manifestation_of
+-1
+-4.921284437179565
+___
+pharmacologic_substance	congenital_abnormality	organism_function
+causes	manifestation_of
+-1
+-4.921284437179565
+___
+pharmacologic_substance	congenital_abnormality	genetic_function
+causes	manifestation_of
+-1
+-4.921284437179565
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	disease_or_syndrome
+prevents	precedes
+1
+-5.0355446338653564
+___
+pharmacologic_substance	neoplastic_process	disease_or_syndrome
+prevents	precedes
+1
+-5.0355446338653564
+___
+pharmacologic_substance	pathologic_function	disease_or_syndrome
+prevents	precedes
+1
+-5.0355446338653564
+___
+pharmacologic_substance	experimental_model_of_disease	disease_or_syndrome
+prevents	precedes
+1
+-5.0355446338653564
+___
+pharmacologic_substance	experimental_model_of_disease	disease_or_syndrome
+causes	degree_of
+1
+-5.085220098495483
+___
+pharmacologic_substance	neoplastic_process	disease_or_syndrome
+causes	degree_of
+1
+-5.085220098495483
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	disease_or_syndrome
+causes	degree_of
+1
+-5.085220098495483
+___
+pharmacologic_substance	pathologic_function	disease_or_syndrome
+treats	precedes
+1
+-5.201603829860687
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	disease_or_syndrome
+treats	precedes
+1
+-5.2016066908836365
+___
+pharmacologic_substance	experimental_model_of_disease	disease_or_syndrome
+treats	precedes
+1
+-5.201606750488281
+___
+pharmacologic_substance	congenital_abnormality	rickettsia_or_chlamydia
+treats	location_of
+-1
+-5.212257266044617
+___
+pharmacologic_substance	congenital_abnormality	virus
+treats	location_of
+-1
+-5.212257266044617
+___
+pharmacologic_substance	antibiotic	disease_or_syndrome
+interacts_with	treats
+1
+-5.466299533843994
+___
+pharmacologic_substance	anatomical_abnormality	rickettsia_or_chlamydia
+treats	location_of
+-1
+-5.551249980926514
+___
+pharmacologic_substance	anatomical_abnormality	disease_or_syndrome
+treats	location_of
+1
+-5.551249980926514
+___
+pharmacologic_substance	anatomical_abnormality	fungus
+treats	location_of
+-1
+-5.551249980926514
+___
+pharmacologic_substance	acquired_abnormality	rickettsia_or_chlamydia
+treats	location_of
+-1
+-5.814737319946289
+___
+pharmacologic_substance	acquired_abnormality	virus
+treats	location_of
+-1
+-5.814737319946289
+___
+pharmacologic_substance	acquired_abnormality	bacterium
+treats	location_of
+-1
+-5.814737319946289
+___
+pharmacologic_substance	acquired_abnormality	fungus
+treats	location_of
+-1
+-5.814737319946289
+___
+pharmacologic_substance	biologically_active_substance	disease_or_syndrome
+interacts_with	complicates
+1
+-6.0924248695373535
+___
+pharmacologic_substance	biologically_active_substance	molecular_function
+interacts_with	complicates
+-1
+-6.0924248695373535
+___
+pharmacologic_substance	biologically_active_substance	genetic_function
+interacts_with	complicates
+-1
+-6.0924248695373535
+___
+pharmacologic_substance	biologically_active_substance	biologic_function
+interacts_with	complicates
+-1
+-6.0924248695373535
+___
+pharmacologic_substance	biologically_active_substance	cell_function
+interacts_with	complicates
+-1
+-6.0924248695373535
+___
+pharmacologic_substance	biologically_active_substance	physiologic_function
+interacts_with	complicates
+-1
+-6.0924248695373535
+___
+pharmacologic_substance	biologically_active_substance	organism_function
+interacts_with	complicates
+-1
+-6.0924248695373535
+___
+pharmacologic_substance	biologically_active_substance	organ_or_tissue_function
+interacts_with	complicates
+-1
+-6.0924248695373535
+___
+pharmacologic_substance	anatomical_abnormality	disease_or_syndrome
+causes	location_of
+1
+-6.09414267539978
+___
+pharmacologic_substance	anatomical_abnormality	rickettsia_or_chlamydia
+causes	location_of
+-1
+-6.09414267539978
+___
+pharmacologic_substance	anatomical_abnormality	fungus
+causes	location_of
+-1
+-6.09414267539978
+___
+pharmacologic_substance	acquired_abnormality	virus
+causes	location_of
+-1
+-6.2814459800720215
+___
+pharmacologic_substance	acquired_abnormality	fungus
+causes	location_of
+-1
+-6.2814459800720215
+___
+pharmacologic_substance	acquired_abnormality	bacterium
+causes	location_of
+-1
+-6.2814459800720215
+___
+pharmacologic_substance	acquired_abnormality	rickettsia_or_chlamydia
+causes	location_of
+-1
+-6.2814459800720215
+___
+pharmacologic_substance	congenital_abnormality	virus
+causes	location_of
+-1
+-6.487571477890015
+___
+pharmacologic_substance	congenital_abnormality	rickettsia_or_chlamydia
+causes	location_of
+-1
+-6.487571477890015
+___
+pharmacologic_substance	chemical	biologic_function
+interacts_with	affects
+-1
+-6.608114957809448
+___
+pharmacologic_substance	chemical	molecular_function
+interacts_with	affects
+-1
+-6.608114957809448
+___
+pharmacologic_substance	chemical	mental_process
+interacts_with	affects
+-1
+-6.608114957809448
+___
+pharmacologic_substance	chemical	cell_function
+interacts_with	affects
+-1
+-6.608114957809448
+___
+pharmacologic_substance	chemical	disease_or_syndrome
+interacts_with	affects
+1
+-6.608114957809448
+___
+pharmacologic_substance	chemical	physiologic_function
+interacts_with	affects
+-1
+-6.608114957809448
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	disease_or_syndrome
+diagnoses	precedes
+1
+-7.123162865513223
+___
+pharmacologic_substance	pathologic_function	disease_or_syndrome
+diagnoses	precedes
+1
+-7.153584076091647
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	disease_or_syndrome
+diagnoses	precedes
+1
+-7.153584076091647
+___
+pharmacologic_substance	neoplastic_process	disease_or_syndrome
+diagnoses	precedes
+1
+-7.153584076091647
+___
+pharmacologic_substance	immunologic_factor	organ_or_tissue_function
+interacts_with	complicates
+-1
+-8.278148889541626
+___
+pharmacologic_substance	immunologic_factor	molecular_function
+interacts_with	complicates
+-1
+-8.278148889541626
+___
+pharmacologic_substance	immunologic_factor	mental_process
+interacts_with	complicates
+-1
+-8.278148889541626
+___
+pharmacologic_substance	immunologic_factor	cell_function
+interacts_with	complicates
+-1
+-8.278148889541626
+___
+#####################
+pharmacologic_substance	injury_or_poisoning
+Reward:1
+pharmacologic_substance	disease_or_syndrome	injury_or_poisoning
+causes	complicates
+1
+-2.7765268897637725
+___
+pharmacologic_substance	neoplastic_process	injury_or_poisoning
+causes	co-occurs_with
+1
+-2.8157532699406147
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	injury_or_poisoning
+causes	co-occurs_with
+1
+-2.8157583698630333
+___
+pharmacologic_substance	experimental_model_of_disease	injury_or_poisoning
+causes	co-occurs_with
+1
+-2.8157583698630333
+___
+pharmacologic_substance	neoplastic_process	injury_or_poisoning
+prevents	co-occurs_with
+1
+-3.6542614698410034
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	injury_or_poisoning
+prevents	co-occurs_with
+1
+-3.6547499299049377
+___
+pharmacologic_substance	experimental_model_of_disease	injury_or_poisoning
+prevents	co-occurs_with
+1
+-3.654757797718048
+___
+pharmacologic_substance	biomedical_or_dental_material	injury_or_poisoning
+interacts_with	causes
+1
+-3.9739481228170916
+___
+pharmacologic_substance	immunologic_factor	injury_or_poisoning
+interacts_with	causes
+1
+-4.067574143409729
+___
+pharmacologic_substance	hormone	injury_or_poisoning
+interacts_with	causes
+1
+-4.076408624649048
+___
+pharmacologic_substance	enzyme	injury_or_poisoning
+interacts_with	causes
+1
+-4.090329743921757
+___
+pharmacologic_substance	hazardous_or_poisonous_substance	injury_or_poisoning
+interacts_with	causes
+1
+-4.102452501654625
+___
+pharmacologic_substance	antibiotic	injury_or_poisoning
+interacts_with	causes
+1
+-4.330843836069107
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	injury_or_poisoning
+treats	co-occurs_with
+1
+-4.408373445272446
+___
+pharmacologic_substance	experimental_model_of_disease	injury_or_poisoning
+treats	co-occurs_with
+1
+-4.408622711896896
+___
+pharmacologic_substance	chemical	clinical_drug
+interacts_with	ingredient_of
+-1
+-4.46042674779892
+___
+pharmacologic_substance	sign_or_symptom	finding
+treats	co-occurs_with
+-1
+-4.4817133992910385
+___
+pharmacologic_substance	anatomical_abnormality	physiologic_function
+causes	manifestation_of
+-1
+-4.491175174713135
+___
+pharmacologic_substance	anatomical_abnormality	molecular_function
+causes	manifestation_of
+-1
+-4.491175174713135
+___
+pharmacologic_substance	anatomical_abnormality	cell_function
+causes	manifestation_of
+-1
+-4.491175174713135
+___
+pharmacologic_substance	anatomical_abnormality	organism_function
+causes	manifestation_of
+-1
+-4.491175174713135
+___
+pharmacologic_substance	anatomical_abnormality	genetic_function
+causes	manifestation_of
+-1
+-4.491175174713135
+___
+pharmacologic_substance	indicator_reagent_or_diagnostic_aid	clinical_drug
+interacts_with	ingredient_of
+-1
+-4.534849941730499
+___
+pharmacologic_substance	acquired_abnormality	molecular_function
+causes	manifestation_of
+-1
+-4.5615150928497314
+___
+pharmacologic_substance	acquired_abnormality	biologic_function
+causes	manifestation_of
+-1
+-4.5615150928497314
+___
+pharmacologic_substance	acquired_abnormality	organism_function
+causes	manifestation_of
+-1
+-4.5615150928497314
+___
+pharmacologic_substance	acquired_abnormality	mental_process
+causes	manifestation_of
+-1
+-4.5615150928497314
+___
+pharmacologic_substance	acquired_abnormality	organ_or_tissue_function
+causes	manifestation_of
+-1
+-4.5615150928497314
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	cell_function
+causes	manifestation_of
+-1
+-4.634576916694641
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	injury_or_poisoning
+causes	manifestation_of
+1
+-4.634576916694641
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	mental_process
+causes	manifestation_of
+-1
+-4.634576916694641
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	molecular_function
+causes	manifestation_of
+-1
+-4.634576916694641
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	organ_or_tissue_function
+causes	manifestation_of
+-1
+-4.634576916694641
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	organism_function
+causes	manifestation_of
+-1
+-4.634576916694641
+___
+pharmacologic_substance	congenital_abnormality	physiologic_function
+causes	manifestation_of
+-1
+-4.921284437179565
+___
+pharmacologic_substance	congenital_abnormality	organ_or_tissue_function
+causes	manifestation_of
+-1
+-4.921284437179565
+___
+pharmacologic_substance	congenital_abnormality	genetic_function
+causes	manifestation_of
+-1
+-4.921284437179565
+___
+pharmacologic_substance	congenital_abnormality	organism_function
+causes	manifestation_of
+-1
+-4.921284437179565
+___
+pharmacologic_substance	congenital_abnormality	cell_function
+causes	manifestation_of
+-1
+-4.921284437179565
+___
+pharmacologic_substance	congenital_abnormality	mental_process
+causes	manifestation_of
+-1
+-4.921284437179565
+___
+pharmacologic_substance	congenital_abnormality	molecular_function
+causes	manifestation_of
+-1
+-4.921284437179565
+___
+pharmacologic_substance	congenital_abnormality	biologic_function
+causes	manifestation_of
+-1
+-4.921284437179565
+___
+pharmacologic_substance	neoplastic_process	injury_or_poisoning
+prevents	complicates
+1
+-4.992162108421326
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	injury_or_poisoning
+prevents	complicates
+1
+-4.992650508880615
+___
+pharmacologic_substance	experimental_model_of_disease	injury_or_poisoning
+prevents	complicates
+1
+-4.992658376693726
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	organ_or_tissue_function
+prevents	manifestation_of
+-1
+-5.150024056434631
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	injury_or_poisoning
+prevents	manifestation_of
+1
+-5.150024056434631
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	mental_process
+prevents	manifestation_of
+-1
+-5.150024056434631
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	cell_function
+prevents	manifestation_of
+-1
+-5.150024056434631
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	organism_function
+prevents	manifestation_of
+-1
+-5.150024056434631
+___
+pharmacologic_substance	mental_or_behavioral_dysfunction	molecular_function
+prevents	manifestation_of
+-1
+-5.150024056434631
+___
+pharmacologic_substance	anatomical_abnormality	fungus
+treats	location_of
+-1
+-5.19063800573349
+___
+pharmacologic_substance	anatomical_abnormality	rickettsia_or_chlamydia
+treats	location_of
+-1
+-5.19063800573349
+___
+pharmacologic_substance	congenital_abnormality	virus
+treats	location_of
+-1
+-5.212257385253906
+___
+pharmacologic_substance	congenital_abnormality	rickettsia_or_chlamydia
+treats	location_of
+-1
+-5.212257385253906
+___
+pharmacologic_substance	pathologic_function	physiologic_function
+prevents	manifestation_of
+-1
+-5.317545175552368
+___
+pharmacologic_substance	pathologic_function	organ_or_tissue_function
+prevents	manifestation_of
+-1
+-5.317545175552368
+___
+pharmacologic_substance	pathologic_function	mental_process
+prevents	manifestation_of
+-1
+-5.317545175552368
+___
+pharmacologic_substance	pathologic_function	organism_function
+prevents	manifestation_of
+-1
+-5.317545175552368
+___
+pharmacologic_substance	pathologic_function	injury_or_poisoning
+prevents	manifestation_of
+1
+-5.317545175552368
+___
+pharmacologic_substance	pathologic_function	molecular_function
+prevents	manifestation_of
+-1
+-5.317545175552368
+___
+pharmacologic_substance	pathologic_function	cell_function
+prevents	manifestation_of
+-1
+-5.317545175552368
+___
+pharmacologic_substance	antibiotic	injury_or_poisoning
+interacts_with	treats
+1
+-5.466235518455505
+___
+pharmacologic_substance	neoplastic_process	injury_or_poisoning
+causes	complicates
+1
+-5.783040761947632
+___
+pharmacologic_substance	cell_or_molecular_dysfunction	injury_or_poisoning
+causes	complicates
+1
+-5.783046007156372
+___
+pharmacologic_substance	experimental_model_of_disease	injury_or_poisoning
+causes	complicates
+1
+-5.783046007156372
+___
+pharmacologic_substance	acquired_abnormality	rickettsia_or_chlamydia
+treats	location_of
+-1
+-5.812647223472595
+___
+pharmacologic_substance	acquired_abnormality	fungus
+treats	location_of
+-1
+-5.812647223472595
+___
+pharmacologic_substance	acquired_abnormality	virus
+treats	location_of
+-1
+-5.812647223472595
+___
+pharmacologic_substance	acquired_abnormality	bacterium
+treats	location_of
+-1
+-5.812647223472595
+___
+pharmacologic_substance	anatomical_abnormality	fungus
+causes	location_of
+-1
+-6.057462215423584
+___
+pharmacologic_substance	anatomical_abnormality	rickettsia_or_chlamydia
+causes	location_of
+-1
+-6.057462215423584
+___
+pharmacologic_substance	biologically_active_substance	injury_or_poisoning
+interacts_with	complicates
+1
+-6.091686248779297
+___
+pharmacologic_substance	biologically_active_substance	molecular_function
+interacts_with	complicates
+-1
+-6.091686248779297
+___
+pharmacologic_substance	biologically_active_substance	cell_function
+interacts_with	complicates
+-1
+-6.091686248779297
+___
+pharmacologic_substance	biologically_active_substance	organism_function
+interacts_with	complicates
+-1
+-6.091686248779297
+___
+pharmacologic_substance	biologically_active_substance	physiologic_function
+interacts_with	complicates
+-1
+-6.091686248779297
+___
+pharmacologic_substance	biologically_active_substance	genetic_function
+interacts_with	complicates
+-1
+-6.091686248779297
+___
+pharmacologic_substance	biologically_active_substance	biologic_function
+interacts_with	complicates
+-1
+-6.091686248779297
+___
+pharmacologic_substance	biologically_active_substance	organ_or_tissue_function
+interacts_with	complicates
+-1
+-6.091686248779297
+___
+pharmacologic_substance	receptor	organ_or_tissue_function
+interacts_with	complicates
+-1
+-6.0984978675842285
+___
+pharmacologic_substance	receptor	physiologic_function
+interacts_with	complicates
+-1
+-6.0984978675842285
+___
+pharmacologic_substance	receptor	organism_function
+interacts_with	complicates
+-1
+-6.0984978675842285
+___
+pharmacologic_substance	receptor	cell_function
+interacts_with	complicates
+-1
+-6.0984978675842285
+___
+pharmacologic_substance	receptor	molecular_function
+interacts_with	complicates
+-1
+-6.0984978675842285
+___
+pharmacologic_substance	receptor	biologic_function
+interacts_with	complicates
+-1
+-6.0984978675842285
+___
+pharmacologic_substance	receptor	mental_process
+interacts_with	complicates
+-1
+-6.0984978675842285
+___
+pharmacologic_substance	receptor	injury_or_poisoning
+interacts_with	complicates
+1
+-6.0984978675842285
+___
+pharmacologic_substance	vitamin	mental_process
+interacts_with	complicates
+-1
+-6.098498106002808
+___
+pharmacologic_substance	vitamin	organism_function
+interacts_with	complicates
+-1
+-6.098498106002808
+___
+pharmacologic_substance	vitamin	cell_function
+interacts_with	complicates
+-1
+-6.098498106002808
+___
+pharmacologic_substance	vitamin	genetic_function
+interacts_with	complicates
+-1
+-6.098498106002808
+___
+pharmacologic_substance	vitamin	injury_or_poisoning
+interacts_with	complicates
+1
+-6.098498106002808
+___
+pharmacologic_substance	vitamin	organ_or_tissue_function
+interacts_with	complicates
+-1
+-6.098498106002808
+___
+pharmacologic_substance	vitamin	biologic_function
+interacts_with	complicates
+-1
+-6.098498106002808
+___
+pharmacologic_substance	vitamin	molecular_function
+interacts_with	complicates
+-1
+-6.098498106002808
+___
+pharmacologic_substance	acquired_abnormality	rickettsia_or_chlamydia
+causes	location_of
+-1
+-6.127802133560181
+___
+pharmacologic_substance	acquired_abnormality	fungus
+causes	location_of
+-1
+-6.127802133560181
+___
+pharmacologic_substance	acquired_abnormality	bacterium
+causes	location_of
+-1
+-6.127802133560181
+___
+pharmacologic_substance	acquired_abnormality	virus
+causes	location_of
+-1
+-6.127802133560181
+___
+#####################
+antibiotic	experimental_model_of_disease
+Reward:1
+antibiotic	mental_or_behavioral_dysfunction	experimental_model_of_disease
+causes	precedes
+1
+-2.6745587065815926
+___
+antibiotic	neoplastic_process	experimental_model_of_disease
+causes	precedes
+1
+-2.6745864376425743
+___
+antibiotic	disease_or_syndrome	experimental_model_of_disease
+causes	precedes
+1
+-2.6745879501104355
+___
+antibiotic	cell_or_molecular_dysfunction	experimental_model_of_disease
+prevents	degree_of
+1
+-3.128371238708496
+___
+antibiotic	mental_or_behavioral_dysfunction	experimental_model_of_disease
+prevents	degree_of
+1
+-3.327174633741379
+___
+antibiotic	neoplastic_process	experimental_model_of_disease
+prevents	degree_of
+1
+-3.327174633741379
+___
+antibiotic	indicator_reagent_or_diagnostic_aid	experimental_model_of_disease
+interacts_with	causes
+1
+-3.77978564822115
+___
+antibiotic	biomedical_or_dental_material	experimental_model_of_disease
+interacts_with	causes
+1
+-3.7800608697580174
+___
+antibiotic	hormone	experimental_model_of_disease
+interacts_with	causes
+1
+-3.882429599761963
+___
+antibiotic	enzyme	experimental_model_of_disease
+interacts_with	causes
+1
+-3.8830803856253624
+___
+antibiotic	receptor	experimental_model_of_disease
+interacts_with	causes
+1
+-3.8964388743042946
+___
+antibiotic	vitamin	experimental_model_of_disease
+interacts_with	causes
+1
+-3.8964390829205513
+___
+antibiotic	hazardous_or_poisonous_substance	experimental_model_of_disease
+interacts_with	causes
+1
+-3.9085540622472763
+___
+antibiotic	cell_or_molecular_dysfunction	experimental_model_of_disease
+treats	degree_of
+1
+-4.166475519537926
+___
+antibiotic	sign_or_symptom	finding
+treats	co-occurs_with
+-1
+-4.284159004688263
+___
+antibiotic	experimental_model_of_disease	molecular_function
+causes	manifestation_of
+-1
+-4.317312121391296
+___
+antibiotic	experimental_model_of_disease	organism_function
+causes	manifestation_of
+-1
+-4.317312121391296
+___
+antibiotic	experimental_model_of_disease	organ_or_tissue_function
+causes	manifestation_of
+-1
+-4.317312121391296
+___
+antibiotic	experimental_model_of_disease	cell_function
+causes	manifestation_of
+-1
+-4.317312121391296
+___
+antibiotic	experimental_model_of_disease	mental_process
+causes	manifestation_of
+-1
+-4.317312121391296
+___
+antibiotic	anatomical_abnormality	experimental_model_of_disease
+causes	manifestation_of
+1
+-4.492223262786865
+___
+antibiotic	anatomical_abnormality	organism_function
+causes	manifestation_of
+-1
+-4.492223262786865
+___
+antibiotic	anatomical_abnormality	molecular_function
+causes	manifestation_of
+-1
+-4.492223262786865
+___
+antibiotic	anatomical_abnormality	cell_function
+causes	manifestation_of
+-1
+-4.492223262786865
+___
+antibiotic	anatomical_abnormality	physiologic_function
+causes	manifestation_of
+-1
+-4.492223262786865
+___
+antibiotic	anatomical_abnormality	genetic_function
+causes	manifestation_of
+-1
+-4.492223262786865
+___
+antibiotic	mental_or_behavioral_dysfunction	experimental_model_of_disease
+treats	degree_of
+1
+-4.7229151129722595
+___
+antibiotic	pathologic_function	experimental_model_of_disease
+treats	degree_of
+1
+-4.722920656204224
+___
+antibiotic	neoplastic_process	experimental_model_of_disease
+treats	degree_of
+1
+-4.725306808948517
+___
+antibiotic	disease_or_syndrome	experimental_model_of_disease
+treats	degree_of
+1
+-4.725401759147644
+___
+antibiotic	experimental_model_of_disease	organ_or_tissue_function
+prevents	manifestation_of
+-1
+-4.807646632194519
+___
+antibiotic	experimental_model_of_disease	molecular_function
+prevents	manifestation_of
+-1
+-4.807646632194519
+___
+antibiotic	experimental_model_of_disease	cell_function
+prevents	manifestation_of
+-1
+-4.807646632194519
+___
+antibiotic	experimental_model_of_disease	mental_process
+prevents	manifestation_of
+-1
+-4.807646632194519
+___
+antibiotic	experimental_model_of_disease	organism_function
+prevents	manifestation_of
+-1
+-4.807646632194519
+___
+antibiotic	neoplastic_process	experimental_model_of_disease
+prevents	precedes
+1
+-4.8415656089782715
+___
+antibiotic	mental_or_behavioral_dysfunction	experimental_model_of_disease
+prevents	precedes
+1
+-4.8415656089782715
+___
+antibiotic	congenital_abnormality	molecular_function
+causes	manifestation_of
+-1
+-4.8581702709198
+___
+antibiotic	congenital_abnormality	experimental_model_of_disease
+causes	manifestation_of
+1
+-4.8581702709198
+___
+antibiotic	congenital_abnormality	mental_process
+causes	manifestation_of
+-1
+-4.8581702709198
+___
+antibiotic	congenital_abnormality	biologic_function
+causes	manifestation_of
+-1
+-4.8581702709198
+___
+antibiotic	congenital_abnormality	physiologic_function
+causes	manifestation_of
+-1
+-4.8581702709198
+___
+antibiotic	congenital_abnormality	cell_function
+causes	manifestation_of
+-1
+-4.8581702709198
+___
+antibiotic	congenital_abnormality	organ_or_tissue_function
+causes	manifestation_of
+-1
+-4.8581702709198
+___
+antibiotic	congenital_abnormality	organism_function
+causes	manifestation_of
+-1
+-4.8581702709198
+___
+antibiotic	congenital_abnormality	genetic_function
+causes	manifestation_of
+-1
+-4.8581702709198
+___
+antibiotic	mental_or_behavioral_dysfunction	experimental_model_of_disease
+causes	degree_of
+1
+-4.891241073608398
+___
+antibiotic	neoplastic_process	experimental_model_of_disease
+causes	degree_of
+1
+-4.891268968582153
+___
+antibiotic	disease_or_syndrome	experimental_model_of_disease
+causes	degree_of
+1
+-4.891270399093628
+___
+antibiotic	mental_or_behavioral_dysfunction	experimental_model_of_disease
+treats	precedes
+1
+-5.007619321346283
+___
+antibiotic	pathologic_function	experimental_model_of_disease
+treats	precedes
+1
+-5.007624864578247
+___
+antibiotic	neoplastic_process	experimental_model_of_disease
+treats	precedes
+1
+-5.01001101732254
+___
+antibiotic	disease_or_syndrome	experimental_model_of_disease
+treats	precedes
+1
+-5.0101059675216675
+___
+antibiotic	injury_or_poisoning	physiologic_function
+causes	disrupts
+-1
+-5.061339616775513
+___
+antibiotic	injury_or_poisoning	organism_function
+causes	disrupts
+-1
+-5.061339616775513
+___
+antibiotic	injury_or_poisoning	organ_or_tissue_function
+causes	disrupts
+-1
+-5.061339616775513
+___
+antibiotic	injury_or_poisoning	cell_function
+causes	disrupts
+-1
+-5.061339616775513
+___
+antibiotic	injury_or_poisoning	genetic_function
+causes	disrupts
+-1
+-5.061339616775513
+___
+antibiotic	injury_or_poisoning	cell
+causes	disrupts
+-1
+-5.061339616775513
+___
+antibiotic	injury_or_poisoning	gene_or_genome
+causes	disrupts
+-1
+-5.061339616775513
+___
+antibiotic	injury_or_poisoning	mental_process
+causes	disrupts
+-1
+-5.061339616775513
+___
+antibiotic	injury_or_poisoning	embryonic_structure
+causes	disrupts
+-1
+-5.061339616775513
+___
+antibiotic	injury_or_poisoning	fully_formed_anatomical_structure
+causes	disrupts
+-1
+-5.061339616775513
+___
+antibiotic	injury_or_poisoning	cell_component
+causes	disrupts
+-1
+-5.061339616775513
+___
+antibiotic	injury_or_poisoning	body_part_organ_or_organ_component
+causes	disrupts
+-1
+-5.061339616775513
+___
+antibiotic	anatomical_abnormality	experimental_model_of_disease
+treats	location_of
+1
+-5.359824895858765
+___
+antibiotic	anatomical_abnormality	rickettsia_or_chlamydia
+treats	location_of
+-1
+-5.359824895858765
+___
+antibiotic	anatomical_abnormality	fungus
+treats	location_of
+-1
+-5.359824895858765
+___
+antibiotic	anatomical_abnormality	experimental_model_of_disease
+causes	location_of
+1
+-6.0585103034973145
+___
+antibiotic	anatomical_abnormality	rickettsia_or_chlamydia
+causes	location_of
+-1
+-6.0585103034973145
+___
+antibiotic	anatomical_abnormality	fungus
+causes	location_of
+-1
+-6.0585103034973145
+___
+antibiotic	congenital_abnormality	experimental_model_of_disease
+causes	location_of
+1
+-6.424457311630249
+___
+antibiotic	congenital_abnormality	virus
+causes	location_of
+-1
+-6.424457311630249
+___
+antibiotic	congenital_abnormality	rickettsia_or_chlamydia
+causes	location_of
+-1
+-6.424457311630249
+___
+antibiotic	injury_or_poisoning	physiologic_function
+treats	disrupts
+-1
+-6.676485776901245
+___
+antibiotic	injury_or_poisoning	gene_or_genome
+treats	disrupts
+-1
+-6.676485776901245
+___
+antibiotic	injury_or_poisoning	cell
+treats	disrupts
+-1
+-6.676485776901245
+___
+antibiotic	injury_or_poisoning	cell_component
+treats	disrupts
+-1
+-6.676485776901245
+___
+antibiotic	injury_or_poisoning	genetic_function
+treats	disrupts
+-1
+-6.676485776901245
+___
+antibiotic	injury_or_poisoning	organism_function
+treats	disrupts
+-1
+-6.676485776901245
+___
+antibiotic	injury_or_poisoning	cell_function
+treats	disrupts
+-1
+-6.676485776901245
+___
+antibiotic	injury_or_poisoning	organ_or_tissue_function
+treats	disrupts
+-1
+-6.676485776901245
+___
+antibiotic	injury_or_poisoning	embryonic_structure
+treats	disrupts
+-1
+-6.676485776901245
+___
+antibiotic	injury_or_poisoning	body_part_organ_or_organ_component
+treats	disrupts
+-1
+-6.676485776901245
+___
+antibiotic	injury_or_poisoning	mental_process
+treats	disrupts
+-1
+-6.676485776901245
+___
+antibiotic	injury_or_poisoning	fully_formed_anatomical_structure
+treats	disrupts
+-1
+-6.676485776901245
+___
+antibiotic	pathologic_function	experimental_model_of_disease
+diagnoses	precedes
+1
+-6.959605289623141
+___
+antibiotic	neoplastic_process	experimental_model_of_disease
+diagnoses	precedes
+1
+-6.959977336227894
+___
+antibiotic	experimental_model_of_disease	human
+causes	process_of
+-1
+-8.068679332733154
+___
+antibiotic	experimental_model_of_disease	molecular_function
+causes	process_of
+-1
+-8.068679332733154
+___
+antibiotic	experimental_model_of_disease	mental_process
+causes	process_of
+-1
+-8.068679332733154
+___
+antibiotic	experimental_model_of_disease	fungus
+causes	process_of
+-1
+-8.068679332733154
+___
+antibiotic	experimental_model_of_disease	alga
+causes	process_of
+-1
+-8.068679332733154
+___
+antibiotic	experimental_model_of_disease	organism_function
+causes	process_of
+-1
+-8.068679332733154
+___
+antibiotic	experimental_model_of_disease	archaeon
+causes	process_of
+-1
+-8.068679332733154
+___
+antibiotic	experimental_model_of_disease	reptile
+causes	process_of
+-1
+-8.068679332733154
+___
+antibiotic	experimental_model_of_disease	genetic_function
+causes	process_of
+-1
+-8.068679332733154
+___
+antibiotic	experimental_model_of_disease	mammal
+causes	process_of
+-1
+-8.068679332733154
+___
+antibiotic	experimental_model_of_disease	rickettsia_or_chlamydia
+causes	process_of
+-1
+-8.068679332733154
+___
+antibiotic	experimental_model_of_disease	animal
+causes	process_of
+-1
+-8.068679332733154
+___
+#####################
+drug_delivery_device	injury_or_poisoning
+Reward:1
+drug_delivery_device	disease_or_syndrome	injury_or_poisoning
+causes	complicates
+1
+-2.5815410232171416
+___
+drug_delivery_device	neoplastic_process	injury_or_poisoning
+causes	co-occurs_with
+1
+-2.620767403393984
+___
+drug_delivery_device	cell_or_molecular_dysfunction	injury_or_poisoning
+causes	co-occurs_with
+1
+-2.6207725033164024
+___
+drug_delivery_device	experimental_model_of_disease	injury_or_poisoning
+causes	co-occurs_with
+1
+-2.6207725033164024
+___
+drug_delivery_device	neoplastic_process	injury_or_poisoning
+prevents	co-occurs_with
+1
+-3.4592756032943726
+___
+drug_delivery_device	cell_or_molecular_dysfunction	injury_or_poisoning
+prevents	co-occurs_with
+1
+-3.459764063358307
+___
+drug_delivery_device	experimental_model_of_disease	injury_or_poisoning
+prevents	co-occurs_with
+1
+-3.4597719311714172
+___
+drug_delivery_device	neoplastic_process	injury_or_poisoning
+treats	co-occurs_with
+1
+-4.212022308260202
+___
+drug_delivery_device	cell_or_molecular_dysfunction	injury_or_poisoning
+treats	co-occurs_with
+1
+-4.213388055562973
+___
+drug_delivery_device	experimental_model_of_disease	injury_or_poisoning
+treats	co-occurs_with
+1
+-4.213637322187424
+___
+drug_delivery_device	anatomical_abnormality	cell_function
+causes	manifestation_of
+-1
+-4.296189308166504
+___
+drug_delivery_device	anatomical_abnormality	genetic_function
+causes	manifestation_of
+-1
+-4.296189308166504
+___
+drug_delivery_device	anatomical_abnormality	physiologic_function
+causes	manifestation_of
+-1
+-4.296189308166504
+___
+drug_delivery_device	anatomical_abnormality	organism_function
+causes	manifestation_of
+-1
+-4.296189308166504
+___
+drug_delivery_device	anatomical_abnormality	molecular_function
+causes	manifestation_of
+-1
+-4.296189308166504
+___
+drug_delivery_device	acquired_abnormality	organ_or_tissue_function
+causes	manifestation_of
+-1
+-4.366529226303101
+___
+drug_delivery_device	acquired_abnormality	mental_process
+causes	manifestation_of
+-1
+-4.366529226303101
+___
+drug_delivery_device	acquired_abnormality	organism_function
+causes	manifestation_of
+-1
+-4.366529226303101
+___
+drug_delivery_device	acquired_abnormality	molecular_function
+causes	manifestation_of
+-1
+-4.366529226303101
+___
+drug_delivery_device	acquired_abnormality	biologic_function
+causes	manifestation_of
+-1
+-4.366529226303101
+___
+drug_delivery_device	mental_or_behavioral_dysfunction	organism_function
+causes	manifestation_of
+-1
+-4.43959105014801
+___
+drug_delivery_device	mental_or_behavioral_dysfunction	mental_process
+causes	manifestation_of
+-1
+-4.43959105014801
+___
+drug_delivery_device	mental_or_behavioral_dysfunction	cell_function
+causes	manifestation_of
+-1
+-4.43959105014801
+___
+drug_delivery_device	mental_or_behavioral_dysfunction	injury_or_poisoning
+causes	manifestation_of
+1
+-4.43959105014801
+___
+drug_delivery_device	mental_or_behavioral_dysfunction	molecular_function
+causes	manifestation_of
+-1
+-4.43959105014801
+___
+drug_delivery_device	mental_or_behavioral_dysfunction	organ_or_tissue_function
+causes	manifestation_of
+-1
+-4.43959105014801
+___
+drug_delivery_device	disease_or_syndrome	injury_or_poisoning
+treats	complicates
+1
+-4.51943176984787
+___
+drug_delivery_device	pathologic_function	mental_process
+causes	manifestation_of
+-1
+-4.611645698547363
+___
+drug_delivery_device	pathologic_function	injury_or_poisoning
+causes	manifestation_of
+1
+-4.611645698547363
+___
+drug_delivery_device	pathologic_function	cell_function
+causes	manifestation_of
+-1
+-4.611645698547363
+___
+drug_delivery_device	pathologic_function	organ_or_tissue_function
+causes	manifestation_of
+-1
+-4.611645698547363
+___
+drug_delivery_device	pathologic_function	molecular_function
+causes	manifestation_of
+-1
+-4.611645698547363
+___
+drug_delivery_device	pathologic_function	organism_function
+causes	manifestation_of
+-1
+-4.611645698547363
+___
+drug_delivery_device	pathologic_function	physiologic_function
+causes	manifestation_of
+-1
+-4.611645698547363
+___
+drug_delivery_device	neoplastic_process	injury_or_poisoning
+prevents	complicates
+1
+-4.797176241874695
+___
+drug_delivery_device	cell_or_molecular_dysfunction	injury_or_poisoning
+prevents	complicates
+1
+-4.797664642333984
+___
+drug_delivery_device	experimental_model_of_disease	injury_or_poisoning
+prevents	complicates
+1
+-4.797672510147095
+___
+drug_delivery_device	mental_or_behavioral_dysfunction	mental_process
+prevents	manifestation_of
+-1
+-4.9550381898880005
+___
+drug_delivery_device	mental_or_behavioral_dysfunction	organism_function
+prevents	manifestation_of
+-1
+-4.9550381898880005
+___
+drug_delivery_device	mental_or_behavioral_dysfunction	injury_or_poisoning
+prevents	manifestation_of
+1
+-4.9550381898880005
+___
+drug_delivery_device	mental_or_behavioral_dysfunction	molecular_function
+prevents	manifestation_of
+-1
+-4.9550381898880005
+___
+drug_delivery_device	mental_or_behavioral_dysfunction	cell_function
+prevents	manifestation_of
+-1
+-4.9550381898880005
+___
+drug_delivery_device	mental_or_behavioral_dysfunction	organ_or_tissue_function
+prevents	manifestation_of
+-1
+-4.9550381898880005
+___
+drug_delivery_device	anatomical_abnormality	rickettsia_or_chlamydia
+treats	location_of
+-1
+-4.995652616024017
+___
+drug_delivery_device	anatomical_abnormality	fungus
+treats	location_of
+-1
+-4.995652616024017
+___
+drug_delivery_device	congenital_abnormality	rickettsia_or_chlamydia
+treats	location_of
+-1
+-5.017271995544434
+___
+drug_delivery_device	congenital_abnormality	virus
+treats	location_of
+-1
+-5.017271995544434
+___
+drug_delivery_device	pathologic_function	cell_function
+prevents	manifestation_of
+-1
+-5.122559309005737
+___
+drug_delivery_device	pathologic_function	molecular_function
+prevents	manifestation_of
+-1
+-5.122559309005737
+___
+drug_delivery_device	pathologic_function	organism_function
+prevents	manifestation_of
+-1
+-5.122559309005737
+___
+drug_delivery_device	pathologic_function	injury_or_poisoning
+prevents	manifestation_of
+1
+-5.122559309005737
+___
+drug_delivery_device	pathologic_function	organ_or_tissue_function
+prevents	manifestation_of
+-1
+-5.122559309005737
+___
+drug_delivery_device	pathologic_function	physiologic_function
+prevents	manifestation_of
+-1
+-5.122559309005737
+___
+drug_delivery_device	pathologic_function	mental_process
+prevents	manifestation_of
+-1
+-5.122559309005737
+___
+drug_delivery_device	neoplastic_process	injury_or_poisoning
+causes	complicates
+1
+-5.588054895401001
+___
+drug_delivery_device	cell_or_molecular_dysfunction	injury_or_poisoning
+causes	complicates
+1
+-5.588060140609741
+___
+drug_delivery_device	experimental_model_of_disease	injury_or_poisoning
+causes	complicates
+1
+-5.588060140609741
+___
+drug_delivery_device	injury_or_poisoning	cell_component
+prevents	disrupts
+-1
+-5.617146015167236
+___
+drug_delivery_device	injury_or_poisoning	physiologic_function
+prevents	disrupts
+-1
+-5.617146015167236
+___
+drug_delivery_device	injury_or_poisoning	organ_or_tissue_function
+prevents	disrupts
+-1
+-5.617146015167236
+___
+drug_delivery_device	injury_or_poisoning	mental_process
+prevents	disrupts
+-1
+-5.617146015167236
+___
+drug_delivery_device	injury_or_poisoning	cell
+prevents	disrupts
+-1
+-5.617146015167236
+___
+drug_delivery_device	injury_or_poisoning	organism_function
+prevents	disrupts
+-1
+-5.617146015167236
+___
+drug_delivery_device	injury_or_poisoning	cell_function
+prevents	disrupts
+-1
+-5.617146015167236
+___
+drug_delivery_device	injury_or_poisoning	fully_formed_anatomical_structure
+prevents	disrupts
+-1
+-5.617146015167236
+___
+drug_delivery_device	injury_or_poisoning	embryonic_structure
+prevents	disrupts
+-1
+-5.617146015167236
+___
+drug_delivery_device	injury_or_poisoning	body_part_organ_or_organ_component
+prevents	disrupts
+-1
+-5.617146015167236
+___
+drug_delivery_device	injury_or_poisoning	gene_or_genome
+prevents	disrupts
+-1
+-5.617146015167236
+___
+drug_delivery_device	injury_or_poisoning	genetic_function
+prevents	disrupts
+-1
+-5.617146015167236
+___
+drug_delivery_device	anatomical_abnormality	rickettsia_or_chlamydia
+causes	location_of
+-1
+-5.862476348876953
+___
+drug_delivery_device	anatomical_abnormality	fungus
+causes	location_of
+-1
+-5.862476348876953
+___
+drug_delivery_device	acquired_abnormality	fungus
+causes	location_of
+-1
+-5.93281626701355
+___
+drug_delivery_device	acquired_abnormality	rickettsia_or_chlamydia
+causes	location_of
+-1
+-5.93281626701355
+___
+drug_delivery_device	acquired_abnormality	bacterium
+causes	location_of
+-1
+-5.93281626701355
+___
+drug_delivery_device	acquired_abnormality	virus
+causes	location_of
+-1
+-5.93281626701355
+___
+drug_delivery_device	neoplastic_process	molecular_function
+prevents	manifestation_of
+-1
+-7.335099935531616
+___
+drug_delivery_device	neoplastic_process	physiologic_function
+prevents	manifestation_of
+-1
+-7.335099935531616
+___
+drug_delivery_device	neoplastic_process	genetic_function
+prevents	manifestation_of
+-1
+-7.335099935531616
+___
+drug_delivery_device	neoplastic_process	organism_function
+prevents	manifestation_of
+-1
+-7.335099935531616
+___
+drug_delivery_device	neoplastic_process	injury_or_poisoning
+prevents	manifestation_of
+1
+-7.335099935531616
+___
+drug_delivery_device	neoplastic_process	cell_function
+prevents	manifestation_of
+-1
+-7.335099935531616
+___
+drug_delivery_device	cell_or_molecular_dysfunction	organ_or_tissue_function
+prevents	manifestation_of
+-1
+-7.335588693618774
+___
+drug_delivery_device	cell_or_molecular_dysfunction	cell_function
+prevents	manifestation_of
+-1
+-7.335588693618774
+___
+drug_delivery_device	cell_or_molecular_dysfunction	physiologic_function
+prevents	manifestation_of
+-1
+-7.335588693618774
+___
+drug_delivery_device	cell_or_molecular_dysfunction	genetic_function
+prevents	manifestation_of
+-1
+-7.335588693618774
+___
+drug_delivery_device	cell_or_molecular_dysfunction	organism_function
+prevents	manifestation_of
+-1
+-7.335588693618774
+___
+drug_delivery_device	cell_or_molecular_dysfunction	mental_process
+prevents	manifestation_of
+-1
+-7.335588693618774
+___
+drug_delivery_device	experimental_model_of_disease	cell_function
+prevents	manifestation_of
+-1
+-7.335596323013306
+___
+drug_delivery_device	experimental_model_of_disease	molecular_function
+prevents	manifestation_of
+-1
+-7.335596323013306
+___
+drug_delivery_device	experimental_model_of_disease	organism_function
+prevents	manifestation_of
+-1
+-7.335596323013306
+___
+drug_delivery_device	experimental_model_of_disease	injury_or_poisoning
+prevents	manifestation_of
+1
+-7.335596323013306
+___
+drug_delivery_device	experimental_model_of_disease	organ_or_tissue_function
+prevents	manifestation_of
+-1
+-7.335596323013306
+___
+drug_delivery_device	experimental_model_of_disease	mental_process
+prevents	manifestation_of
+-1
+-7.335596323013306
+___
+drug_delivery_device	neoplastic_process	injury_or_poisoning
+treats	complicates
+1
+-7.510861396789551
+___
+drug_delivery_device	cell_or_molecular_dysfunction	injury_or_poisoning
+treats	complicates
+1
+-7.5122270584106445
+___
+drug_delivery_device	experimental_model_of_disease	injury_or_poisoning
+treats	complicates
+1
+-7.512476444244385
+___
+drug_delivery_device	mental_or_behavioral_dysfunction	bird
+treats	affects
+-1
+-7.69746732711792
+___
+drug_delivery_device	mental_or_behavioral_dysfunction	genetic_function
+treats	affects
+-1
+-7.69746732711792
+___
+drug_delivery_device	mental_or_behavioral_dysfunction	virus
+treats	affects
+-1
+-7.69746732711792
+___
+drug_delivery_device	mental_or_behavioral_dysfunction	biologic_function
+treats	affects
+-1
+-7.69746732711792
+___
+#####################
+medical_device	acquired_abnormality
+Reward:1
+medical_device	injury_or_poisoning	acquired_abnormality
+causes	complicates
+1
+-2.6029274207539856
+___
+medical_device	anatomical_abnormality	acquired_abnormality
+causes	complicates
+1
+-2.6062818532809615
+___
+medical_device	neoplastic_process	acquired_abnormality
+causes	co-occurs_with
+1
+-2.6485226340591908
+___
+medical_device	experimental_model_of_disease	acquired_abnormality
+causes	co-occurs_with
+1
+-2.6485277377068996
+___
+medical_device	pathologic_function	acquired_abnormality
+causes	co-occurs_with
+1
+-2.648598223924637
+___
+medical_device	disease_or_syndrome	acquired_abnormality
+causes	co-occurs_with
+1
+-2.648599360138178
+___
+medical_device	congenital_abnormality	acquired_abnormality
+causes	co-occurs_with
+1
+-2.648739416152239
+___
+medical_device	injury_or_poisoning	acquired_abnormality
+prevents	complicates
+1
+-3.187643524259329
+___
+medical_device	mental_or_behavioral_dysfunction	acquired_abnormality
+prevents	co-occurs_with
+1
+-3.470464676618576
+___
+medical_device	neoplastic_process	acquired_abnormality
+prevents	co-occurs_with
+1
+-3.472110778093338
+___
+medical_device	experimental_model_of_disease	acquired_abnormality
+prevents	co-occurs_with
+1
+-3.4726159274578094
+___
+medical_device	pathologic_function	acquired_abnormality
+prevents	co-occurs_with
+1
+-3.4874783158302307
+___
+medical_device	cell_or_molecular_dysfunction	acquired_abnormality
+prevents	co-occurs_with
+1
+-3.4875909984111786
+___
+medical_device	disease_or_syndrome	acquired_abnormality
+prevents	co-occurs_with
+1
+-3.487646132707596
+___
+medical_device	neoplastic_process	acquired_abnormality
+treats	co-occurs_with
+1
+-4.239587485790253
+___
+medical_device	disease_or_syndrome	acquired_abnormality
+treats	co-occurs_with
+1
+-4.239984396845102
+___
+medical_device	cell_or_molecular_dysfunction	acquired_abnormality
+treats	co-occurs_with
+1
+-4.241200886666775
+___
+medical_device	congenital_abnormality	acquired_abnormality
+treats	co-occurs_with
+1
+-4.292648419737816
+___
+medical_device	sign_or_symptom	finding
+treats	co-occurs_with
+-1
+-4.3145351111888885
+___
+medical_device	acquired_abnormality	biologic_function
+causes	manifestation_of
+-1
+-4.394357681274414
+___
+medical_device	acquired_abnormality	organ_or_tissue_function
+causes	manifestation_of
+-1
+-4.394357681274414
+___
+medical_device	acquired_abnormality	molecular_function
+causes	manifestation_of
+-1
+-4.394357681274414
+___
+medical_device	acquired_abnormality	organism_function
+causes	manifestation_of
+-1
+-4.394357681274414
+___
+medical_device	acquired_abnormality	mental_process
+causes	manifestation_of
+-1
+-4.394357681274414
+___
+medical_device	injury_or_poisoning	acquired_abnormality
+treats	complicates
+1
+-4.429487898945808
+___
+medical_device	mental_or_behavioral_dysfunction	acquired_abnormality
+prevents	complicates
+1
+-4.808365345001221
+___
+medical_device	neoplastic_process	acquired_abnormality
+prevents	complicates
+1
+-4.810011386871338
+___
+medical_device	experimental_model_of_disease	acquired_abnormality
+prevents	complicates
+1
+-4.810516595840454
+___
+medical_device	pathologic_function	acquired_abnormality
+prevents	complicates
+1
+-4.825378894805908
+___
+medical_device	cell_or_molecular_dysfunction	acquired_abnormality
+prevents	complicates
+1
+-4.825491666793823
+___
+medical_device	disease_or_syndrome	acquired_abnormality
+prevents	complicates
+1
+-4.825546741485596
+___
+medical_device	anatomical_abnormality	acquired_abnormality
+treats	complicates
+1
+-5.261822700500488
+___
+medical_device	anatomical_abnormality	rickettsia_or_chlamydia
+treats	location_of
+-1
+-5.4421775341033936
+___
+medical_device	anatomical_abnormality	fungus
+treats	location_of
+-1
+-5.4421775341033936
+___
+medical_device	neoplastic_process	acquired_abnormality
+causes	complicates
+1
+-5.61581015586853
+___
+medical_device	experimental_model_of_disease	acquired_abnormality
+causes	complicates
+1
+-5.615815162658691
+___
+medical_device	pathologic_function	acquired_abnormality
+causes	complicates
+1
+-5.6158857345581055
+___
+medical_device	disease_or_syndrome	acquired_abnormality
+causes	complicates
+1
+-5.615886926651001
+___
+medical_device	congenital_abnormality	acquired_abnormality
+causes	complicates
+1
+-5.616026878356934
+___
+medical_device	acquired_abnormality	virus
+causes	location_of
+-1
+-5.960644721984863
+___
+medical_device	acquired_abnormality	rickettsia_or_chlamydia
+causes	location_of
+-1
+-5.960644721984863
+___
+medical_device	acquired_abnormality	fungus
+causes	location_of
+-1
+-5.960644721984863
+___
+medical_device	acquired_abnormality	bacterium
+causes	location_of
+-1
+-5.960644721984863
+___
+medical_device	mental_or_behavioral_dysfunction	molecular_function
+prevents	manifestation_of
+-1
+-7.3462889194488525
+___
+medical_device	mental_or_behavioral_dysfunction	organism_function
+prevents	manifestation_of
+-1
+-7.3462889194488525
+___
+medical_device	mental_or_behavioral_dysfunction	organ_or_tissue_function
+prevents	manifestation_of
+-1
+-7.3462889194488525
+___
+medical_device	mental_or_behavioral_dysfunction	cell_function
+prevents	manifestation_of
+-1
+-7.3462889194488525
+___
+medical_device	mental_or_behavioral_dysfunction	mental_process
+prevents	manifestation_of
+-1
+-7.3462889194488525
+___
+medical_device	neoplastic_process	physiologic_function
+prevents	manifestation_of
+-1
+-7.347935438156128
+___
+medical_device	neoplastic_process	molecular_function
+prevents	manifestation_of
+-1
+-7.347935438156128
+___
+medical_device	neoplastic_process	organism_function
+prevents	manifestation_of
+-1
+-7.347935438156128
+___
+medical_device	neoplastic_process	genetic_function
+prevents	manifestation_of
+-1
+-7.347935438156128
+___
+medical_device	neoplastic_process	cell_function
+prevents	manifestation_of
+-1
+-7.347935438156128
+___
+medical_device	experimental_model_of_disease	mental_process
+prevents	manifestation_of
+-1
+-7.348440408706665
+___
+medical_device	experimental_model_of_disease	molecular_function
+prevents	manifestation_of
+-1
+-7.348440408706665
+___
+medical_device	experimental_model_of_disease	organ_or_tissue_function
+prevents	manifestation_of
+-1
+-7.348440408706665
+___
+medical_device	experimental_model_of_disease	organism_function
+prevents	manifestation_of
+-1
+-7.348440408706665
+___
+medical_device	experimental_model_of_disease	cell_function
+prevents	manifestation_of
+-1
+-7.348440408706665
+___
+medical_device	pathologic_function	molecular_function
+prevents	manifestation_of
+-1
+-7.363302946090698
+___
+medical_device	pathologic_function	organism_function
+prevents	manifestation_of
+-1
+-7.363302946090698
+___
+medical_device	pathologic_function	mental_process
+prevents	manifestation_of
+-1
+-7.363302946090698
+___
+medical_device	pathologic_function	organ_or_tissue_function
+prevents	manifestation_of
+-1
+-7.363302946090698
+___
+medical_device	pathologic_function	physiologic_function
+prevents	manifestation_of
+-1
+-7.363302946090698
+___
+medical_device	pathologic_function	cell_function
+prevents	manifestation_of
+-1
+-7.363302946090698
+___
+medical_device	cell_or_molecular_dysfunction	genetic_function
+prevents	manifestation_of
+-1
+-7.363415479660034
+___
+medical_device	cell_or_molecular_dysfunction	physiologic_function
+prevents	manifestation_of
+-1
+-7.363415479660034
+___
+medical_device	cell_or_molecular_dysfunction	organ_or_tissue_function
+prevents	manifestation_of
+-1
+-7.363415479660034
+___
+medical_device	cell_or_molecular_dysfunction	organism_function
+prevents	manifestation_of
+-1
+-7.363415479660034
+___
+medical_device	cell_or_molecular_dysfunction	cell_function
+prevents	manifestation_of
+-1
+-7.363415479660034
+___
+medical_device	cell_or_molecular_dysfunction	mental_process
+prevents	manifestation_of
+-1
+-7.363415479660034
+___
+medical_device	disease_or_syndrome	molecular_function
+prevents	manifestation_of
+-1
+-7.363470792770386
+___
+medical_device	disease_or_syndrome	organism_function
+prevents	manifestation_of
+-1
+-7.363470792770386
+___
+medical_device	disease_or_syndrome	organ_or_tissue_function
+prevents	manifestation_of
+-1
+-7.363470792770386
+___
+medical_device	disease_or_syndrome	cell_function
+prevents	manifestation_of
+-1
+-7.363470792770386
+___
+medical_device	disease_or_syndrome	genetic_function
+prevents	manifestation_of
+-1
+-7.363470792770386
+___
+medical_device	disease_or_syndrome	mental_process
+prevents	manifestation_of
+-1
+-7.363470792770386
+___
+medical_device	neoplastic_process	acquired_abnormality
+treats	complicates
+1
+-7.538426637649536
+___
+medical_device	disease_or_syndrome	acquired_abnormality
+treats	complicates
+1
+-7.53882360458374
+___
+medical_device	cell_or_molecular_dysfunction	acquired_abnormality
+treats	complicates
+1
+-7.540040016174316
+___
+medical_device	congenital_abnormality	acquired_abnormality
+treats	complicates
+1
+-7.591487407684326
+___
+medical_device	congenital_abnormality	virus
+treats	location_of
+-1
+-7.7718422412872314
+___
+medical_device	congenital_abnormality	rickettsia_or_chlamydia
+treats	location_of
+-1
+-7.7718422412872314
+___
+medical_device	injury_or_poisoning	organism_function
+treats	disrupts
+-1
+-8.246814250946045
+___
+medical_device	injury_or_poisoning	cell_function
+treats	disrupts
+-1
+-8.246814250946045
+___
+medical_device	injury_or_poisoning	physiologic_function
+treats	disrupts
+-1
+-8.246814250946045
+___
+medical_device	injury_or_poisoning	cell_component
+treats	disrupts
+-1
+-8.246814250946045
+___
+medical_device	injury_or_poisoning	genetic_function
+treats	disrupts
+-1
+-8.246814250946045
+___
+medical_device	injury_or_poisoning	mental_process
+treats	disrupts
+-1
+-8.246814250946045
+___
+medical_device	injury_or_poisoning	embryonic_structure
+treats	disrupts
+-1
+-8.246814250946045
+___
+medical_device	injury_or_poisoning	body_part_organ_or_organ_component
+treats	disrupts
+-1
+-8.246814250946045
+___
+medical_device	injury_or_poisoning	organ_or_tissue_function
+treats	disrupts
+-1
+-8.246814250946045
+___
+medical_device	injury_or_poisoning	gene_or_genome
+treats	disrupts
+-1
+-8.246814250946045
+___
+medical_device	injury_or_poisoning	cell
+treats	disrupts
+-1
+-8.246814250946045
+___
+medical_device	injury_or_poisoning	fully_formed_anatomical_structure
+treats	disrupts
+-1
+-8.246814250946045
+___
+medical_device	sign_or_symptom	cell_function
+treats	evaluation_of
+-1
+-8.56796646118164
+___
+medical_device	sign_or_symptom	mental_process
+treats	evaluation_of
+-1
+-8.56796646118164
+___
+medical_device	sign_or_symptom	clinical_attribute
+treats	evaluation_of
+-1
+-8.56796646118164
+___
+medical_device	sign_or_symptom	organ_or_tissue_function
+treats	evaluation_of
+-1
+-8.56796646118164
+___
+medical_device	sign_or_symptom	organism_attribute
+treats	evaluation_of
+-1
+-8.56796646118164
+___
+medical_device	sign_or_symptom	organism_function
+treats	evaluation_of
+-1
+-8.56796646118164
+___
+#####################

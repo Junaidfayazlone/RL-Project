@@ -1,0 +1,7545 @@
+receptor	cell
+Reward:1
+receptor	hazardous_or_poisonous_substance	cell
+interacts_with	disrupts
+1
+-1.7894064276479185
+___
+receptor	embryonic_structure	cell
+disrupts	developmental_form_of
+1
+-3.2757684770040214
+___
+receptor	chemical	experimental_model_of_disease
+interacts_with	affects
+-1
+-3.4057350158691406
+___
+receptor	chemical	pathologic_function
+interacts_with	affects
+-1
+-3.4057350158691406
+___
+receptor	chemical	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-3.4057350158691406
+___
+receptor	chemical	biologic_function
+interacts_with	affects
+-1
+-3.4057350158691406
+___
+receptor	chemical	disease_or_syndrome
+interacts_with	affects
+-1
+-3.4057350158691406
+___
+receptor	indicator_reagent_or_diagnostic_aid	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-3.584437370300293
+___
+receptor	indicator_reagent_or_diagnostic_aid	mental_or_behavioral_dysfunction
+interacts_with	affects
+-1
+-3.584437370300293
+___
+receptor	indicator_reagent_or_diagnostic_aid	biologic_function
+interacts_with	affects
+-1
+-3.584437370300293
+___
+receptor	indicator_reagent_or_diagnostic_aid	disease_or_syndrome
+interacts_with	affects
+-1
+-3.584437370300293
+___
+receptor	indicator_reagent_or_diagnostic_aid	pathologic_function
+interacts_with	affects
+-1
+-3.584437370300293
+___
+receptor	indicator_reagent_or_diagnostic_aid	neoplastic_process
+interacts_with	affects
+-1
+-3.584437370300293
+___
+receptor	tissue	body_substance
+disrupts	surrounds
+-1
+-4.090118765830994
+___
+receptor	tissue	cell
+disrupts	surrounds
+1
+-4.090118765830994
+___
+receptor	cell_component	body_space_or_junction
+disrupts	adjacent_to
+-1
+-5.035932421684265
+___
+receptor	fully_formed_anatomical_structure	pathologic_function
+disrupts	location_of
+-1
+-5.5649731159210205
+___
+receptor	fully_formed_anatomical_structure	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-5.5649731159210205
+___
+receptor	fully_formed_anatomical_structure	neoplastic_process
+disrupts	location_of
+-1
+-5.5649731159210205
+___
+receptor	fully_formed_anatomical_structure	biologic_function
+disrupts	location_of
+-1
+-5.5649731159210205
+___
+receptor	fully_formed_anatomical_structure	experimental_model_of_disease
+disrupts	location_of
+-1
+-5.5649731159210205
+___
+receptor	fully_formed_anatomical_structure	congenital_abnormality
+disrupts	location_of
+-1
+-5.5649731159210205
+___
+receptor	fully_formed_anatomical_structure	acquired_abnormality
+disrupts	location_of
+-1
+-5.5649731159210205
+___
+receptor	fully_formed_anatomical_structure	anatomical_abnormality
+disrupts	location_of
+-1
+-5.5649731159210205
+___
+receptor	body_part_organ_or_organ_component	cell
+disrupts	adjacent_to
+1
+-5.583841562271118
+___
+receptor	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	adjacent_to
+-1
+-5.583841562271118
+___
+receptor	gene_or_genome	biologic_function
+disrupts	location_of
+-1
+-5.981330871582031
+___
+receptor	gene_or_genome	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-5.981330871582031
+___
+receptor	gene_or_genome	congenital_abnormality
+disrupts	location_of
+-1
+-5.981330871582031
+___
+receptor	gene_or_genome	pathologic_function
+disrupts	location_of
+-1
+-5.981330871582031
+___
+receptor	gene_or_genome	anatomical_abnormality
+disrupts	location_of
+-1
+-5.981330871582031
+___
+receptor	gene_or_genome	neoplastic_process
+disrupts	location_of
+-1
+-5.981330871582031
+___
+receptor	gene_or_genome	rickettsia_or_chlamydia
+disrupts	location_of
+-1
+-5.981330871582031
+___
+receptor	gene_or_genome	disease_or_syndrome
+disrupts	location_of
+-1
+-5.981330871582031
+___
+receptor	gene_or_genome	fungus
+disrupts	location_of
+-1
+-5.981330871582031
+___
+receptor	gene_or_genome	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-5.981330871582031
+___
+receptor	gene_or_genome	acquired_abnormality
+disrupts	location_of
+-1
+-5.981330871582031
+___
+receptor	gene_or_genome	injury_or_poisoning
+disrupts	location_of
+-1
+-5.981330871582031
+___
+receptor	gene_or_genome	bacterium
+disrupts	location_of
+-1
+-5.981330871582031
+___
+receptor	cell_component	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-6.176183700561523
+___
+receptor	cell_component	acquired_abnormality
+disrupts	location_of
+-1
+-6.176183700561523
+___
+receptor	cell_component	diagnostic_procedure
+disrupts	location_of
+-1
+-6.176183700561523
+___
+receptor	cell_component	virus
+disrupts	location_of
+-1
+-6.176183700561523
+___
+receptor	cell_component	fungus
+disrupts	location_of
+-1
+-6.176183700561523
+___
+receptor	cell_component	disease_or_syndrome
+disrupts	location_of
+-1
+-6.176183700561523
+___
+receptor	cell_component	neoplastic_process
+disrupts	location_of
+-1
+-6.176183700561523
+___
+receptor	cell_component	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-6.176183700561523
+___
+receptor	cell_component	anatomical_abnormality
+disrupts	location_of
+-1
+-6.176183700561523
+___
+receptor	cell_component	therapeutic_or_preventive_procedure
+disrupts	location_of
+-1
+-6.176183700561523
+___
+receptor	cell_component	rickettsia_or_chlamydia
+disrupts	location_of
+-1
+-6.176183700561523
+___
+receptor	cell_component	bacterium
+disrupts	location_of
+-1
+-6.176183700561523
+___
+receptor	cell_component	injury_or_poisoning
+disrupts	location_of
+-1
+-6.176183700561523
+___
+receptor	body_part_organ_or_organ_component	body_substance
+disrupts	connected_to
+-1
+-6.291181564331055
+___
+receptor	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	connected_to
+-1
+-6.291181564331055
+___
+receptor	chemical	clinical_drug
+interacts_with	ingredient_of
+-1
+-6.484102725982666
+___
+receptor	cell_function	bacterium
+disrupts	affects
+-1
+-6.582711696624756
+___
+receptor	cell_function	fish
+disrupts	affects
+-1
+-6.582711696624756
+___
+receptor	cell_function	plant
+disrupts	affects
+-1
+-6.582711696624756
+___
+receptor	cell_function	natural_phenomenon_or_process
+disrupts	affects
+-1
+-6.582711696624756
+___
+receptor	cell_function	experimental_model_of_disease
+disrupts	affects
+-1
+-6.582711696624756
+___
+receptor	cell_function	amphibian
+disrupts	affects
+-1
+-6.582711696624756
+___
+receptor	cell_function	reptile
+disrupts	affects
+-1
+-6.582711696624756
+___
+receptor	cell_function	fungus
+disrupts	affects
+-1
+-6.582711696624756
+___
+receptor	cell_function	virus
+disrupts	affects
+-1
+-6.582711696624756
+___
+receptor	cell_function	bird
+disrupts	affects
+-1
+-6.582711696624756
+___
+receptor	cell_function	archaeon
+disrupts	affects
+-1
+-6.582711696624756
+___
+receptor	cell_function	vertebrate
+disrupts	affects
+-1
+-6.582711696624756
+___
+receptor	cell_function	organism
+disrupts	affects
+-1
+-6.582711696624756
+___
+receptor	cell_function	organism_attribute
+disrupts	affects
+-1
+-6.582711696624756
+___
+receptor	cell_function	animal
+disrupts	affects
+-1
+-6.582711696624756
+___
+receptor	cell_function	pathologic_function
+disrupts	affects
+-1
+-6.582711696624756
+___
+receptor	cell_function	invertebrate
+disrupts	affects
+-1
+-6.582711696624756
+___
+receptor	cell_function	cell_or_molecular_dysfunction
+disrupts	affects
+-1
+-6.582711696624756
+___
+receptor	body_part_organ_or_organ_component	body_substance
+disrupts	consists_of
+-1
+-6.637324094772339
+___
+receptor	physiologic_function	human
+disrupts	affects
+-1
+-6.65231990814209
+___
+receptor	physiologic_function	neoplastic_process
+disrupts	affects
+-1
+-6.65231990814209
+___
+receptor	physiologic_function	disease_or_syndrome
+disrupts	affects
+-1
+-6.65231990814209
+___
+receptor	physiologic_function	cell_or_molecular_dysfunction
+disrupts	affects
+-1
+-6.65231990814209
+___
+receptor	physiologic_function	virus
+disrupts	affects
+-1
+-6.65231990814209
+___
+receptor	physiologic_function	organism
+disrupts	affects
+-1
+-6.65231990814209
+___
+receptor	physiologic_function	reptile
+disrupts	affects
+-1
+-6.65231990814209
+___
+receptor	physiologic_function	amphibian
+disrupts	affects
+-1
+-6.65231990814209
+___
+receptor	physiologic_function	mental_or_behavioral_dysfunction
+disrupts	affects
+-1
+-6.65231990814209
+___
+receptor	physiologic_function	rickettsia_or_chlamydia
+disrupts	affects
+-1
+-6.65231990814209
+___
+receptor	physiologic_function	fish
+disrupts	affects
+-1
+-6.65231990814209
+___
+receptor	physiologic_function	vertebrate
+disrupts	affects
+-1
+-6.65231990814209
+___
+receptor	physiologic_function	alga
+disrupts	affects
+-1
+-6.65231990814209
+___
+receptor	physiologic_function	invertebrate
+disrupts	affects
+-1
+-6.65231990814209
+___
+receptor	physiologic_function	bacterium
+disrupts	affects
+-1
+-6.65231990814209
+___
+receptor	physiologic_function	animal
+disrupts	affects
+-1
+-6.65231990814209
+___
+receptor	physiologic_function	clinical_attribute
+disrupts	affects
+-1
+-6.65231990814209
+___
+receptor	physiologic_function	bird
+disrupts	affects
+-1
+-6.65231990814209
+___
+receptor	physiologic_function	experimental_model_of_disease
+disrupts	affects
+-1
+-6.65231990814209
+___
+receptor	physiologic_function	pathologic_function
+disrupts	affects
+-1
+-6.65231990814209
+___
+receptor	indicator_reagent_or_diagnostic_aid	clinical_drug
+interacts_with	ingredient_of
+-1
+-6.662805080413818
+___
+receptor	mental_process	alga
+disrupts	affects
+-1
+-6.678508996963501
+___
+receptor	mental_process	cell_or_molecular_dysfunction
+disrupts	affects
+-1
+-6.678508996963501
+___
+receptor	mental_process	vertebrate
+disrupts	affects
+-1
+-6.678508996963501
+___
+receptor	mental_process	animal
+disrupts	affects
+-1
+-6.678508996963501
+___
+receptor	mental_process	clinical_attribute
+disrupts	affects
+-1
+-6.678508996963501
+___
+#####################
+vitamin	organ_or_tissue_function
+Reward:1
+vitamin	receptor	organ_or_tissue_function
+interacts_with	disrupts
+1
+-2.0789833050221205
+___
+vitamin	immunologic_factor	organ_or_tissue_function
+interacts_with	disrupts
+1
+-2.0796447061002254
+___
+vitamin	cell_function	organ_or_tissue_function
+disrupts	precedes
+1
+-3.560515608638525
+___
+vitamin	genetic_function	organ_or_tissue_function
+disrupts	precedes
+1
+-3.5608219037530944
+___
+vitamin	cell_component	organ_or_tissue_function
+disrupts	affects
+1
+-3.575338017195463
+___
+vitamin	organism_function	organ_or_tissue_function
+disrupts	precedes
+1
+-3.577249215915799
+___
+vitamin	mental_process	organ_or_tissue_function
+disrupts	co-occurs_with
+1
+-3.6598747298121452
+___
+vitamin	chemical	biologic_function
+interacts_with	affects
+-1
+-3.6942825317382812
+___
+vitamin	chemical	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-3.6942825317382812
+___
+vitamin	chemical	pathologic_function
+interacts_with	affects
+-1
+-3.6942825317382812
+___
+vitamin	chemical	disease_or_syndrome
+interacts_with	affects
+-1
+-3.6942825317382812
+___
+vitamin	chemical	experimental_model_of_disease
+interacts_with	affects
+-1
+-3.6942825317382812
+___
+vitamin	tissue	body_substance
+disrupts	surrounds
+-1
+-3.809859573841095
+___
+vitamin	indicator_reagent_or_diagnostic_aid	biologic_function
+interacts_with	affects
+-1
+-4.025593996047974
+___
+vitamin	indicator_reagent_or_diagnostic_aid	disease_or_syndrome
+interacts_with	affects
+-1
+-4.025593996047974
+___
+vitamin	indicator_reagent_or_diagnostic_aid	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-4.025593996047974
+___
+vitamin	indicator_reagent_or_diagnostic_aid	mental_or_behavioral_dysfunction
+interacts_with	affects
+-1
+-4.025593996047974
+___
+vitamin	indicator_reagent_or_diagnostic_aid	pathologic_function
+interacts_with	affects
+-1
+-4.025593996047974
+___
+vitamin	indicator_reagent_or_diagnostic_aid	organ_or_tissue_function
+interacts_with	affects
+1
+-4.025593996047974
+___
+vitamin	indicator_reagent_or_diagnostic_aid	neoplastic_process
+interacts_with	affects
+-1
+-4.025593996047974
+___
+vitamin	hazardous_or_poisonous_substance	experimental_model_of_disease
+interacts_with	affects
+-1
+-4.794240713119507
+___
+vitamin	hazardous_or_poisonous_substance	natural_phenomenon_or_process
+interacts_with	affects
+-1
+-4.794240713119507
+___
+vitamin	hazardous_or_poisonous_substance	organ_or_tissue_function
+interacts_with	affects
+1
+-4.794240713119507
+___
+vitamin	hazardous_or_poisonous_substance	neoplastic_process
+interacts_with	affects
+-1
+-4.794240713119507
+___
+vitamin	hazardous_or_poisonous_substance	biologic_function
+interacts_with	affects
+-1
+-4.794240713119507
+___
+vitamin	hazardous_or_poisonous_substance	pathologic_function
+interacts_with	affects
+-1
+-4.794240713119507
+___
+vitamin	hazardous_or_poisonous_substance	mental_or_behavioral_dysfunction
+interacts_with	affects
+-1
+-4.794240713119507
+___
+vitamin	hazardous_or_poisonous_substance	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-4.794240713119507
+___
+vitamin	hazardous_or_poisonous_substance	organ_or_tissue_function
+interacts_with	complicates
+1
+-5.016752481460571
+___
+vitamin	hazardous_or_poisonous_substance	mental_or_behavioral_dysfunction
+interacts_with	complicates
+-1
+-5.016752481460571
+___
+vitamin	hazardous_or_poisonous_substance	pathologic_function
+interacts_with	complicates
+-1
+-5.016752481460571
+___
+vitamin	hazardous_or_poisonous_substance	disease_or_syndrome
+interacts_with	complicates
+-1
+-5.016752481460571
+___
+vitamin	hazardous_or_poisonous_substance	experimental_model_of_disease
+interacts_with	complicates
+-1
+-5.016752481460571
+___
+vitamin	hazardous_or_poisonous_substance	injury_or_poisoning
+interacts_with	complicates
+-1
+-5.016752481460571
+___
+vitamin	hazardous_or_poisonous_substance	biologic_function
+interacts_with	complicates
+-1
+-5.016752481460571
+___
+vitamin	hazardous_or_poisonous_substance	cell_or_molecular_dysfunction
+interacts_with	complicates
+-1
+-5.016752481460571
+___
+vitamin	hazardous_or_poisonous_substance	acquired_abnormality
+interacts_with	complicates
+-1
+-5.016752481460571
+___
+vitamin	embryonic_structure	neoplastic_process
+disrupts	location_of
+-1
+-5.6287219524383545
+___
+vitamin	embryonic_structure	organ_or_tissue_function
+disrupts	location_of
+1
+-5.6287219524383545
+___
+vitamin	embryonic_structure	disease_or_syndrome
+disrupts	location_of
+-1
+-5.6287219524383545
+___
+vitamin	embryonic_structure	pathologic_function
+disrupts	location_of
+-1
+-5.6287219524383545
+___
+vitamin	embryonic_structure	biologic_function
+disrupts	location_of
+-1
+-5.6287219524383545
+___
+vitamin	embryonic_structure	bacterium
+disrupts	location_of
+-1
+-5.6287219524383545
+___
+vitamin	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	adjacent_to
+-1
+-5.768235683441162
+___
+vitamin	fully_formed_anatomical_structure	anatomical_abnormality
+disrupts	location_of
+-1
+-5.949555158615112
+___
+vitamin	fully_formed_anatomical_structure	organ_or_tissue_function
+disrupts	location_of
+1
+-5.949555158615112
+___
+vitamin	fully_formed_anatomical_structure	pathologic_function
+disrupts	location_of
+-1
+-5.949555158615112
+___
+vitamin	fully_formed_anatomical_structure	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-5.949555158615112
+___
+vitamin	fully_formed_anatomical_structure	biologic_function
+disrupts	location_of
+-1
+-5.949555158615112
+___
+vitamin	fully_formed_anatomical_structure	experimental_model_of_disease
+disrupts	location_of
+-1
+-5.949555158615112
+___
+vitamin	fully_formed_anatomical_structure	neoplastic_process
+disrupts	location_of
+-1
+-5.949555158615112
+___
+vitamin	fully_formed_anatomical_structure	acquired_abnormality
+disrupts	location_of
+-1
+-5.949555158615112
+___
+vitamin	fully_formed_anatomical_structure	congenital_abnormality
+disrupts	location_of
+-1
+-5.949555158615112
+___
+vitamin	cell_function	organ_or_tissue_function
+affects	precedes
+1
+-6.164786694396753
+___
+vitamin	genetic_function	organ_or_tissue_function
+affects	precedes
+1
+-6.1647970648919
+___
+vitamin	organism_function	organ_or_tissue_function
+affects	precedes
+1
+-6.172342996113002
+___
+vitamin	gene_or_genome	congenital_abnormality
+disrupts	location_of
+-1
+-6.327418327331543
+___
+vitamin	gene_or_genome	fungus
+disrupts	location_of
+-1
+-6.327418327331543
+___
+vitamin	gene_or_genome	organ_or_tissue_function
+disrupts	location_of
+1
+-6.327418327331543
+___
+vitamin	gene_or_genome	anatomical_abnormality
+disrupts	location_of
+-1
+-6.327418327331543
+___
+vitamin	gene_or_genome	neoplastic_process
+disrupts	location_of
+-1
+-6.327418327331543
+___
+vitamin	gene_or_genome	injury_or_poisoning
+disrupts	location_of
+-1
+-6.327418327331543
+___
+vitamin	gene_or_genome	bacterium
+disrupts	location_of
+-1
+-6.327418327331543
+___
+vitamin	gene_or_genome	biologic_function
+disrupts	location_of
+-1
+-6.327418327331543
+___
+vitamin	gene_or_genome	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-6.327418327331543
+___
+vitamin	gene_or_genome	pathologic_function
+disrupts	location_of
+-1
+-6.327418327331543
+___
+vitamin	gene_or_genome	rickettsia_or_chlamydia
+disrupts	location_of
+-1
+-6.327418327331543
+___
+vitamin	gene_or_genome	disease_or_syndrome
+disrupts	location_of
+-1
+-6.327418327331543
+___
+vitamin	gene_or_genome	acquired_abnormality
+disrupts	location_of
+-1
+-6.327418327331543
+___
+vitamin	gene_or_genome	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-6.327418327331543
+___
+vitamin	cell	virus
+disrupts	location_of
+-1
+-6.407162666320801
+___
+vitamin	cell	acquired_abnormality
+disrupts	location_of
+-1
+-6.407162666320801
+___
+vitamin	cell	congenital_abnormality
+disrupts	location_of
+-1
+-6.407162666320801
+___
+vitamin	cell	rickettsia_or_chlamydia
+disrupts	location_of
+-1
+-6.407162666320801
+___
+vitamin	cell	experimental_model_of_disease
+disrupts	location_of
+-1
+-6.407162666320801
+___
+vitamin	cell	anatomical_abnormality
+disrupts	location_of
+-1
+-6.407162666320801
+___
+vitamin	cell	bacterium
+disrupts	location_of
+-1
+-6.407162666320801
+___
+vitamin	cell	fungus
+disrupts	location_of
+-1
+-6.407162666320801
+___
+vitamin	cell	biologic_function
+disrupts	location_of
+-1
+-6.407162666320801
+___
+vitamin	cell	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-6.407162666320801
+___
+vitamin	cell	injury_or_poisoning
+disrupts	location_of
+-1
+-6.407162666320801
+___
+vitamin	cell	disease_or_syndrome
+disrupts	location_of
+-1
+-6.407162666320801
+___
+vitamin	cell	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-6.407162666320801
+___
+vitamin	cell	neoplastic_process
+disrupts	location_of
+-1
+-6.407162666320801
+___
+vitamin	cell	diagnostic_procedure
+disrupts	location_of
+-1
+-6.407162666320801
+___
+vitamin	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	connected_to
+-1
+-6.475575685501099
+___
+vitamin	body_part_organ_or_organ_component	body_substance
+disrupts	connected_to
+-1
+-6.475575685501099
+___
+vitamin	chemical	clinical_drug
+interacts_with	ingredient_of
+-1
+-6.772650241851807
+___
+vitamin	body_part_organ_or_organ_component	body_substance
+disrupts	consists_of
+-1
+-6.821718215942383
+___
+vitamin	body_part_organ_or_organ_component	body_location_or_region
+disrupts	location_of
+-1
+-6.908486843109131
+___
+vitamin	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	location_of
+-1
+-6.908486843109131
+___
+vitamin	body_part_organ_or_organ_component	injury_or_poisoning
+disrupts	location_of
+-1
+-6.908486843109131
+___
+vitamin	body_part_organ_or_organ_component	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-6.908486843109131
+___
+vitamin	body_part_organ_or_organ_component	diagnostic_procedure
+disrupts	location_of
+-1
+-6.908486843109131
+___
+vitamin	body_part_organ_or_organ_component	therapeutic_or_preventive_procedure
+disrupts	location_of
+-1
+-6.908486843109131
+___
+vitamin	body_part_organ_or_organ_component	virus
+disrupts	location_of
+-1
+-6.908486843109131
+___
+vitamin	body_part_organ_or_organ_component	pathologic_function
+disrupts	location_of
+-1
+-6.908486843109131
+___
+vitamin	body_part_organ_or_organ_component	bacterium
+disrupts	location_of
+-1
+-6.908486843109131
+___
+vitamin	body_part_organ_or_organ_component	congenital_abnormality
+disrupts	location_of
+-1
+-6.908486843109131
+___
+vitamin	body_part_organ_or_organ_component	biologic_function
+disrupts	location_of
+-1
+-6.908486843109131
+___
+#####################
+enzyme	cell_function
+Reward:1
+enzyme	receptor	cell_function
+interacts_with	disrupts
+1
+-2.058607254177332
+___
+enzyme	hazardous_or_poisonous_substance	cell_function
+interacts_with	disrupts
+1
+-2.059148596599698
+___
+enzyme	immunologic_factor	cell_function
+interacts_with	disrupts
+1
+-2.0598294995725155
+___
+enzyme	molecular_function	cell_function
+disrupts	precedes
+1
+-3.5405390061205253
+___
+enzyme	physiologic_function	cell_function
+disrupts	precedes
+1
+-3.5408125069225207
+___
+enzyme	organism_function	cell_function
+disrupts	precedes
+1
+-3.5409037763020024
+___
+enzyme	genetic_function	cell_function
+disrupts	precedes
+1
+-3.5410068162018433
+___
+enzyme	gene_or_genome	cell_function
+disrupts	affects
+1
+-3.5535113718360662
+___
+enzyme	cell_component	cell_function
+disrupts	affects
+1
+-3.5564209930598736
+___
+enzyme	organ_or_tissue_function	cell_function
+disrupts	precedes
+1
+-3.5574216041713953
+___
+enzyme	mental_process	cell_function
+disrupts	co-occurs_with
+1
+-3.6413107812404633
+___
+enzyme	chemical	cell_function
+interacts_with	affects
+1
+-3.8543933629989624
+___
+enzyme	chemical	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-3.8543933629989624
+___
+enzyme	chemical	biologic_function
+interacts_with	affects
+-1
+-3.8543933629989624
+___
+enzyme	chemical	experimental_model_of_disease
+interacts_with	affects
+-1
+-3.8543933629989624
+___
+enzyme	chemical	disease_or_syndrome
+interacts_with	affects
+-1
+-3.8543933629989624
+___
+enzyme	chemical	pathologic_function
+interacts_with	affects
+-1
+-3.8543933629989624
+___
+enzyme	indicator_reagent_or_diagnostic_aid	pathologic_function
+interacts_with	affects
+-1
+-4.005778789520264
+___
+enzyme	indicator_reagent_or_diagnostic_aid	mental_or_behavioral_dysfunction
+interacts_with	affects
+-1
+-4.005778789520264
+___
+enzyme	indicator_reagent_or_diagnostic_aid	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-4.005778789520264
+___
+enzyme	indicator_reagent_or_diagnostic_aid	neoplastic_process
+interacts_with	affects
+-1
+-4.005778789520264
+___
+enzyme	indicator_reagent_or_diagnostic_aid	disease_or_syndrome
+interacts_with	affects
+-1
+-4.005778789520264
+___
+enzyme	indicator_reagent_or_diagnostic_aid	biologic_function
+interacts_with	affects
+-1
+-4.005778789520264
+___
+enzyme	indicator_reagent_or_diagnostic_aid	cell_function
+interacts_with	affects
+1
+-4.005778789520264
+___
+enzyme	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	adjacent_to
+-1
+-5.748420476913452
+___
+enzyme	fully_formed_anatomical_structure	acquired_abnormality
+disrupts	location_of
+-1
+-5.929739952087402
+___
+enzyme	fully_formed_anatomical_structure	neoplastic_process
+disrupts	location_of
+-1
+-5.929739952087402
+___
+enzyme	fully_formed_anatomical_structure	anatomical_abnormality
+disrupts	location_of
+-1
+-5.929739952087402
+___
+enzyme	fully_formed_anatomical_structure	experimental_model_of_disease
+disrupts	location_of
+-1
+-5.929739952087402
+___
+enzyme	fully_formed_anatomical_structure	biologic_function
+disrupts	location_of
+-1
+-5.929739952087402
+___
+enzyme	fully_formed_anatomical_structure	congenital_abnormality
+disrupts	location_of
+-1
+-5.929739952087402
+___
+enzyme	fully_formed_anatomical_structure	pathologic_function
+disrupts	location_of
+-1
+-5.929739952087402
+___
+enzyme	fully_formed_anatomical_structure	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-5.929739952087402
+___
+enzyme	fully_formed_anatomical_structure	cell_function
+disrupts	location_of
+1
+-5.929739952087402
+___
+enzyme	molecular_function	cell_function
+affects	precedes
+1
+-6.144965527782915
+___
+enzyme	physiologic_function	cell_function
+affects	precedes
+1
+-6.144975183131464
+___
+enzyme	organism_function	cell_function
+affects	precedes
+1
+-6.14497828236199
+___
+enzyme	genetic_function	cell_function
+affects	precedes
+1
+-6.144982215984783
+___
+enzyme	organ_or_tissue_function	cell_function
+affects	precedes
+1
+-6.1525264899246395
+___
+enzyme	mental_process	cell_function
+affects	co-occurs_with
+1
+-6.153668186627328
+___
+enzyme	cell	injury_or_poisoning
+disrupts	location_of
+-1
+-6.443674564361572
+___
+enzyme	cell	biologic_function
+disrupts	location_of
+-1
+-6.443674564361572
+___
+enzyme	cell	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-6.443674564361572
+___
+enzyme	cell	fungus
+disrupts	location_of
+-1
+-6.443674564361572
+___
+enzyme	cell	anatomical_abnormality
+disrupts	location_of
+-1
+-6.443674564361572
+___
+enzyme	cell	acquired_abnormality
+disrupts	location_of
+-1
+-6.443674564361572
+___
+enzyme	cell	neoplastic_process
+disrupts	location_of
+-1
+-6.443674564361572
+___
+enzyme	cell	experimental_model_of_disease
+disrupts	location_of
+-1
+-6.443674564361572
+___
+enzyme	cell	cell_function
+disrupts	location_of
+1
+-6.443674564361572
+___
+enzyme	cell	virus
+disrupts	location_of
+-1
+-6.443674564361572
+___
+enzyme	cell	bacterium
+disrupts	location_of
+-1
+-6.443674564361572
+___
+enzyme	cell	diagnostic_procedure
+disrupts	location_of
+-1
+-6.443674564361572
+___
+enzyme	cell	rickettsia_or_chlamydia
+disrupts	location_of
+-1
+-6.443674564361572
+___
+enzyme	cell	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-6.443674564361572
+___
+enzyme	cell	disease_or_syndrome
+disrupts	location_of
+-1
+-6.443674564361572
+___
+enzyme	cell	congenital_abnormality
+disrupts	location_of
+-1
+-6.443674564361572
+___
+enzyme	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	connected_to
+-1
+-6.455760478973389
+___
+enzyme	body_part_organ_or_organ_component	body_substance
+disrupts	connected_to
+-1
+-6.455760478973389
+___
+enzyme	body_part_organ_or_organ_component	body_substance
+disrupts	consists_of
+-1
+-6.801903009414673
+___
+enzyme	body_part_organ_or_organ_component	neoplastic_process
+disrupts	location_of
+-1
+-6.888671636581421
+___
+enzyme	body_part_organ_or_organ_component	anatomical_abnormality
+disrupts	location_of
+-1
+-6.888671636581421
+___
+enzyme	body_part_organ_or_organ_component	acquired_abnormality
+disrupts	location_of
+-1
+-6.888671636581421
+___
+enzyme	body_part_organ_or_organ_component	disease_or_syndrome
+disrupts	location_of
+-1
+-6.888671636581421
+___
+enzyme	body_part_organ_or_organ_component	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-6.888671636581421
+___
+enzyme	body_part_organ_or_organ_component	pathologic_function
+disrupts	location_of
+-1
+-6.888671636581421
+___
+enzyme	body_part_organ_or_organ_component	rickettsia_or_chlamydia
+disrupts	location_of
+-1
+-6.888671636581421
+___
+enzyme	body_part_organ_or_organ_component	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-6.888671636581421
+___
+enzyme	body_part_organ_or_organ_component	virus
+disrupts	location_of
+-1
+-6.888671636581421
+___
+enzyme	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	location_of
+-1
+-6.888671636581421
+___
+enzyme	body_part_organ_or_organ_component	experimental_model_of_disease
+disrupts	location_of
+-1
+-6.888671636581421
+___
+enzyme	body_part_organ_or_organ_component	biologic_function
+disrupts	location_of
+-1
+-6.888671636581421
+___
+enzyme	body_part_organ_or_organ_component	body_location_or_region
+disrupts	location_of
+-1
+-6.888671636581421
+___
+enzyme	body_part_organ_or_organ_component	diagnostic_procedure
+disrupts	location_of
+-1
+-6.888671636581421
+___
+enzyme	body_part_organ_or_organ_component	injury_or_poisoning
+disrupts	location_of
+-1
+-6.888671636581421
+___
+enzyme	body_part_organ_or_organ_component	therapeutic_or_preventive_procedure
+disrupts	location_of
+-1
+-6.888671636581421
+___
+enzyme	body_part_organ_or_organ_component	congenital_abnormality
+disrupts	location_of
+-1
+-6.888671636581421
+___
+enzyme	body_part_organ_or_organ_component	bacterium
+disrupts	location_of
+-1
+-6.888671636581421
+___
+enzyme	chemical	clinical_drug
+interacts_with	ingredient_of
+-1
+-6.9327614307403564
+___
+enzyme	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	interconnects
+-1
+-7.074471712112427
+___
+enzyme	indicator_reagent_or_diagnostic_aid	clinical_drug
+interacts_with	ingredient_of
+-1
+-7.084146738052368
+___
+enzyme	fully_formed_anatomical_structure	physical_object
+disrupts	isa
+-1
+-7.522122859954834
+___
+enzyme	fully_formed_anatomical_structure	entity
+disrupts	isa
+-1
+-7.522122859954834
+___
+enzyme	fully_formed_anatomical_structure	anatomical_structure
+disrupts	isa
+-1
+-7.522122859954834
+___
+enzyme	organ_or_tissue_function	cell_function
+disrupts	co-occurs_with
+1
+-7.6498754024505615
+___
+enzyme	cell	body_system
+disrupts	conceptual_part_of
+-1
+-7.932987451553345
+___
+enzyme	pathologic_function	mental_or_behavioral_dysfunction
+affects	manifestation_of
+-1
+-7.9809346199035645
+___
+enzyme	pathologic_function	cell_or_molecular_dysfunction
+affects	manifestation_of
+-1
+-7.9809346199035645
+___
+enzyme	pathologic_function	cell_function
+affects	manifestation_of
+1
+-7.9809346199035645
+___
+enzyme	pathologic_function	injury_or_poisoning
+affects	manifestation_of
+-1
+-7.9809346199035645
+___
+enzyme	pathologic_function	experimental_model_of_disease
+affects	manifestation_of
+-1
+-7.9809346199035645
+___
+enzyme	cell	anatomical_structure
+disrupts	isa
+-1
+-8.036057710647583
+___
+enzyme	cell	physical_object
+disrupts	isa
+-1
+-8.036057710647583
+___
+enzyme	cell	entity
+disrupts	isa
+-1
+-8.036057710647583
+___
+enzyme	fully_formed_anatomical_structure	virus
+disrupts	part_of
+-1
+-8.146519899368286
+___
+enzyme	fully_formed_anatomical_structure	fish
+disrupts	part_of
+-1
+-8.146519899368286
+___
+enzyme	fully_formed_anatomical_structure	mammal
+disrupts	part_of
+-1
+-8.146519899368286
+___
+enzyme	fully_formed_anatomical_structure	vertebrate
+disrupts	part_of
+-1
+-8.146519899368286
+___
+enzyme	fully_formed_anatomical_structure	human
+disrupts	part_of
+-1
+-8.146519899368286
+___
+enzyme	fully_formed_anatomical_structure	rickettsia_or_chlamydia
+disrupts	part_of
+-1
+-8.146519899368286
+___
+enzyme	fully_formed_anatomical_structure	organism
+disrupts	part_of
+-1
+-8.146519899368286
+___
+#####################
+receptor	molecular_function
+Reward:1
+receptor	hazardous_or_poisonous_substance	molecular_function
+interacts_with	disrupts
+1
+-1.789855433627963
+___
+receptor	physiologic_function	molecular_function
+disrupts	precedes
+1
+-3.2720234327716753
+___
+receptor	organ_or_tissue_function	molecular_function
+disrupts	precedes
+1
+-3.272215849137865
+___
+receptor	genetic_function	molecular_function
+disrupts	precedes
+1
+-3.2722975881770253
+___
+receptor	cell_component	molecular_function
+disrupts	affects
+1
+-3.2876884508877993
+___
+receptor	cell_function	molecular_function
+disrupts	precedes
+1
+-3.2884783670306206
+___
+receptor	mental_process	molecular_function
+disrupts	precedes
+1
+-3.288655586540699
+___
+receptor	organism_function	molecular_function
+disrupts	precedes
+1
+-3.2887015845626593
+___
+receptor	gene_or_genome	molecular_function
+disrupts	affects
+1
+-3.360514134168625
+___
+receptor	tissue	body_substance
+disrupts	surrounds
+-1
+-3.521311968564987
+___
+receptor	chemical	disease_or_syndrome
+interacts_with	affects
+-1
+-3.5856610536575317
+___
+receptor	chemical	molecular_function
+interacts_with	affects
+1
+-3.5856610536575317
+___
+receptor	chemical	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-3.5856610536575317
+___
+receptor	chemical	biologic_function
+interacts_with	affects
+-1
+-3.5856610536575317
+___
+receptor	chemical	pathologic_function
+interacts_with	affects
+-1
+-3.5856610536575317
+___
+receptor	chemical	experimental_model_of_disease
+interacts_with	affects
+-1
+-3.5856610536575317
+___
+receptor	indicator_reagent_or_diagnostic_aid	molecular_function
+interacts_with	affects
+1
+-3.737046480178833
+___
+receptor	indicator_reagent_or_diagnostic_aid	disease_or_syndrome
+interacts_with	affects
+-1
+-3.737046480178833
+___
+receptor	indicator_reagent_or_diagnostic_aid	pathologic_function
+interacts_with	affects
+-1
+-3.737046480178833
+___
+receptor	indicator_reagent_or_diagnostic_aid	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-3.737046480178833
+___
+receptor	indicator_reagent_or_diagnostic_aid	neoplastic_process
+interacts_with	affects
+-1
+-3.737046480178833
+___
+receptor	indicator_reagent_or_diagnostic_aid	mental_or_behavioral_dysfunction
+interacts_with	affects
+-1
+-3.737046480178833
+___
+receptor	indicator_reagent_or_diagnostic_aid	biologic_function
+interacts_with	affects
+-1
+-3.737046480178833
+___
+receptor	embryonic_structure	pathologic_function
+disrupts	location_of
+-1
+-5.340174436569214
+___
+receptor	embryonic_structure	disease_or_syndrome
+disrupts	location_of
+-1
+-5.340174436569214
+___
+receptor	embryonic_structure	molecular_function
+disrupts	location_of
+1
+-5.340174436569214
+___
+receptor	embryonic_structure	neoplastic_process
+disrupts	location_of
+-1
+-5.340174436569214
+___
+receptor	embryonic_structure	biologic_function
+disrupts	location_of
+-1
+-5.340174436569214
+___
+receptor	embryonic_structure	bacterium
+disrupts	location_of
+-1
+-5.340174436569214
+___
+receptor	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	adjacent_to
+-1
+-5.4796881675720215
+___
+receptor	fully_formed_anatomical_structure	experimental_model_of_disease
+disrupts	location_of
+-1
+-5.5649731159210205
+___
+receptor	fully_formed_anatomical_structure	acquired_abnormality
+disrupts	location_of
+-1
+-5.5649731159210205
+___
+receptor	fully_formed_anatomical_structure	anatomical_abnormality
+disrupts	location_of
+-1
+-5.5649731159210205
+___
+receptor	fully_formed_anatomical_structure	congenital_abnormality
+disrupts	location_of
+-1
+-5.5649731159210205
+___
+receptor	fully_formed_anatomical_structure	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-5.5649731159210205
+___
+receptor	fully_formed_anatomical_structure	pathologic_function
+disrupts	location_of
+-1
+-5.5649731159210205
+___
+receptor	fully_formed_anatomical_structure	neoplastic_process
+disrupts	location_of
+-1
+-5.5649731159210205
+___
+receptor	fully_formed_anatomical_structure	biologic_function
+disrupts	location_of
+-1
+-5.5649731159210205
+___
+receptor	organ_or_tissue_function	molecular_function
+affects	precedes
+1
+-5.876246092208021
+___
+receptor	genetic_function	molecular_function
+affects	precedes
+1
+-5.876250860230357
+___
+receptor	organism_function	molecular_function
+affects	precedes
+1
+-5.883795243687928
+___
+receptor	gene_or_genome	molecular_function
+disrupts	carries_out
+1
+-5.888471603393555
+___
+receptor	body_part_organ_or_organ_component	body_substance
+disrupts	connected_to
+-1
+-6.187028169631958
+___
+receptor	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	connected_to
+-1
+-6.187028169631958
+___
+receptor	body_part_organ_or_organ_component	body_substance
+disrupts	consists_of
+-1
+-6.533170700073242
+___
+receptor	body_part_organ_or_organ_component	injury_or_poisoning
+disrupts	location_of
+-1
+-6.61993932723999
+___
+receptor	body_part_organ_or_organ_component	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-6.61993932723999
+___
+receptor	body_part_organ_or_organ_component	body_location_or_region
+disrupts	location_of
+-1
+-6.61993932723999
+___
+receptor	body_part_organ_or_organ_component	experimental_model_of_disease
+disrupts	location_of
+-1
+-6.61993932723999
+___
+receptor	body_part_organ_or_organ_component	anatomical_abnormality
+disrupts	location_of
+-1
+-6.61993932723999
+___
+receptor	body_part_organ_or_organ_component	neoplastic_process
+disrupts	location_of
+-1
+-6.61993932723999
+___
+receptor	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	location_of
+-1
+-6.61993932723999
+___
+receptor	body_part_organ_or_organ_component	disease_or_syndrome
+disrupts	location_of
+-1
+-6.61993932723999
+___
+receptor	body_part_organ_or_organ_component	virus
+disrupts	location_of
+-1
+-6.61993932723999
+___
+receptor	body_part_organ_or_organ_component	rickettsia_or_chlamydia
+disrupts	location_of
+-1
+-6.61993932723999
+___
+receptor	body_part_organ_or_organ_component	bacterium
+disrupts	location_of
+-1
+-6.61993932723999
+___
+receptor	body_part_organ_or_organ_component	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-6.61993932723999
+___
+receptor	body_part_organ_or_organ_component	congenital_abnormality
+disrupts	location_of
+-1
+-6.61993932723999
+___
+receptor	body_part_organ_or_organ_component	biologic_function
+disrupts	location_of
+-1
+-6.61993932723999
+___
+receptor	body_part_organ_or_organ_component	therapeutic_or_preventive_procedure
+disrupts	location_of
+-1
+-6.61993932723999
+___
+receptor	body_part_organ_or_organ_component	acquired_abnormality
+disrupts	location_of
+-1
+-6.61993932723999
+___
+receptor	body_part_organ_or_organ_component	pathologic_function
+disrupts	location_of
+-1
+-6.61993932723999
+___
+receptor	body_part_organ_or_organ_component	diagnostic_procedure
+disrupts	location_of
+-1
+-6.61993932723999
+___
+receptor	chemical	clinical_drug
+interacts_with	ingredient_of
+-1
+-6.664029121398926
+___
+receptor	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	interconnects
+-1
+-6.805739402770996
+___
+receptor	indicator_reagent_or_diagnostic_aid	clinical_drug
+interacts_with	ingredient_of
+-1
+-6.8154144287109375
+___
+receptor	embryonic_structure	entity
+disrupts	isa
+-1
+-6.9325573444366455
+___
+receptor	embryonic_structure	physical_object
+disrupts	isa
+-1
+-6.9325573444366455
+___
+receptor	embryonic_structure	anatomical_structure
+disrupts	isa
+-1
+-6.9325573444366455
+___
+receptor	fully_formed_anatomical_structure	entity
+disrupts	isa
+-1
+-7.157356023788452
+___
+receptor	fully_formed_anatomical_structure	physical_object
+disrupts	isa
+-1
+-7.157356023788452
+___
+receptor	fully_formed_anatomical_structure	anatomical_structure
+disrupts	isa
+-1
+-7.157356023788452
+___
+receptor	cell_function	molecular_function
+disrupts	co-occurs_with
+1
+-7.380932331085205
+___
+receptor	mental_process	molecular_function
+disrupts	co-occurs_with
+1
+-7.381109714508057
+___
+receptor	organism_function	molecular_function
+disrupts	co-occurs_with
+1
+-7.381155490875244
+___
+receptor	embryonic_structure	mammal
+disrupts	part_of
+-1
+-7.556954383850098
+___
+receptor	embryonic_structure	rickettsia_or_chlamydia
+disrupts	part_of
+-1
+-7.556954383850098
+___
+receptor	embryonic_structure	human
+disrupts	part_of
+-1
+-7.556954383850098
+___
+receptor	embryonic_structure	organism
+disrupts	part_of
+-1
+-7.556954383850098
+___
+receptor	embryonic_structure	reptile
+disrupts	part_of
+-1
+-7.556954383850098
+___
+receptor	embryonic_structure	plant
+disrupts	part_of
+-1
+-7.556954383850098
+___
+receptor	embryonic_structure	invertebrate
+disrupts	part_of
+-1
+-7.556954383850098
+___
+receptor	embryonic_structure	animal
+disrupts	part_of
+-1
+-7.556954383850098
+___
+receptor	embryonic_structure	alga
+disrupts	part_of
+-1
+-7.556954383850098
+___
+receptor	embryonic_structure	fish
+disrupts	part_of
+-1
+-7.556954383850098
+___
+receptor	embryonic_structure	amphibian
+disrupts	part_of
+-1
+-7.556954383850098
+___
+receptor	embryonic_structure	archaeon
+disrupts	part_of
+-1
+-7.556954383850098
+___
+receptor	tissue	diagnostic_procedure
+disrupts	location_of
+-1
+-7.703468322753906
+___
+receptor	tissue	congenital_abnormality
+disrupts	location_of
+-1
+-7.703468322753906
+___
+receptor	tissue	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-7.703468322753906
+___
+receptor	tissue	therapeutic_or_preventive_procedure
+disrupts	location_of
+-1
+-7.703468322753906
+___
+receptor	tissue	body_space_or_junction
+disrupts	location_of
+-1
+-7.703468322753906
+___
+receptor	tissue	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-7.703468322753906
+___
+receptor	tissue	rickettsia_or_chlamydia
+disrupts	location_of
+-1
+-7.703468322753906
+___
+receptor	tissue	disease_or_syndrome
+disrupts	location_of
+-1
+-7.703468322753906
+___
+receptor	tissue	injury_or_poisoning
+disrupts	location_of
+-1
+-7.703468322753906
+___
+receptor	tissue	anatomical_abnormality
+disrupts	location_of
+-1
+-7.703468322753906
+___
+receptor	tissue	acquired_abnormality
+disrupts	location_of
+-1
+-7.703468322753906
+___
+receptor	tissue	molecular_function
+disrupts	location_of
+1
+-7.703468322753906
+___
+receptor	tissue	neoplastic_process
+disrupts	location_of
+-1
+-7.703468322753906
+___
+#####################
+injury_or_poisoning	molecular_function
+Reward:1
+injury_or_poisoning	physiologic_function	molecular_function
+disrupts	precedes
+1
+-2.51114200882148
+___
+injury_or_poisoning	organ_or_tissue_function	molecular_function
+disrupts	precedes
+1
+-2.5113344251876697
+___
+injury_or_poisoning	genetic_function	molecular_function
+disrupts	precedes
+1
+-2.51141616422683
+___
+injury_or_poisoning	cell_component	molecular_function
+disrupts	affects
+1
+-2.526807026937604
+___
+injury_or_poisoning	cell_function	molecular_function
+disrupts	precedes
+1
+-2.5275969430804253
+___
+injury_or_poisoning	mental_process	molecular_function
+disrupts	precedes
+1
+-2.5277741625905037
+___
+injury_or_poisoning	organism_function	molecular_function
+disrupts	precedes
+1
+-2.527820160612464
+___
+injury_or_poisoning	gene_or_genome	molecular_function
+disrupts	affects
+1
+-2.5996327102184296
+___
+injury_or_poisoning	embryonic_structure	biologic_function
+disrupts	location_of
+-1
+-4.5792930126190186
+___
+injury_or_poisoning	embryonic_structure	neoplastic_process
+disrupts	location_of
+-1
+-4.5792930126190186
+___
+injury_or_poisoning	embryonic_structure	bacterium
+disrupts	location_of
+-1
+-4.5792930126190186
+___
+injury_or_poisoning	embryonic_structure	pathologic_function
+disrupts	location_of
+-1
+-4.5792930126190186
+___
+injury_or_poisoning	embryonic_structure	molecular_function
+disrupts	location_of
+1
+-4.5792930126190186
+___
+injury_or_poisoning	embryonic_structure	disease_or_syndrome
+disrupts	location_of
+-1
+-4.5792930126190186
+___
+injury_or_poisoning	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	adjacent_to
+-1
+-4.718806743621826
+___
+injury_or_poisoning	fully_formed_anatomical_structure	acquired_abnormality
+disrupts	location_of
+-1
+-4.804091691970825
+___
+injury_or_poisoning	fully_formed_anatomical_structure	congenital_abnormality
+disrupts	location_of
+-1
+-4.804091691970825
+___
+injury_or_poisoning	fully_formed_anatomical_structure	experimental_model_of_disease
+disrupts	location_of
+-1
+-4.804091691970825
+___
+injury_or_poisoning	fully_formed_anatomical_structure	pathologic_function
+disrupts	location_of
+-1
+-4.804091691970825
+___
+injury_or_poisoning	fully_formed_anatomical_structure	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-4.804091691970825
+___
+injury_or_poisoning	fully_formed_anatomical_structure	anatomical_abnormality
+disrupts	location_of
+-1
+-4.804091691970825
+___
+injury_or_poisoning	fully_formed_anatomical_structure	biologic_function
+disrupts	location_of
+-1
+-4.804091691970825
+___
+injury_or_poisoning	fully_formed_anatomical_structure	neoplastic_process
+disrupts	location_of
+-1
+-4.804091691970825
+___
+injury_or_poisoning	gene_or_genome	molecular_function
+disrupts	carries_out
+1
+-5.127590179443359
+___
+injury_or_poisoning	cell	virus
+disrupts	location_of
+-1
+-5.414060831069946
+___
+injury_or_poisoning	cell	bacterium
+disrupts	location_of
+-1
+-5.414060831069946
+___
+injury_or_poisoning	cell	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-5.414060831069946
+___
+injury_or_poisoning	cell	molecular_function
+disrupts	location_of
+1
+-5.414060831069946
+___
+injury_or_poisoning	cell	injury_or_poisoning
+disrupts	location_of
+-1
+-5.414060831069946
+___
+injury_or_poisoning	cell	neoplastic_process
+disrupts	location_of
+-1
+-5.414060831069946
+___
+injury_or_poisoning	cell	congenital_abnormality
+disrupts	location_of
+-1
+-5.414060831069946
+___
+injury_or_poisoning	cell	fungus
+disrupts	location_of
+-1
+-5.414060831069946
+___
+injury_or_poisoning	cell	experimental_model_of_disease
+disrupts	location_of
+-1
+-5.414060831069946
+___
+injury_or_poisoning	cell	rickettsia_or_chlamydia
+disrupts	location_of
+-1
+-5.414060831069946
+___
+injury_or_poisoning	cell	diagnostic_procedure
+disrupts	location_of
+-1
+-5.414060831069946
+___
+injury_or_poisoning	cell	disease_or_syndrome
+disrupts	location_of
+-1
+-5.414060831069946
+___
+injury_or_poisoning	cell	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-5.414060831069946
+___
+injury_or_poisoning	cell	biologic_function
+disrupts	location_of
+-1
+-5.414060831069946
+___
+injury_or_poisoning	cell	acquired_abnormality
+disrupts	location_of
+-1
+-5.414060831069946
+___
+injury_or_poisoning	cell	anatomical_abnormality
+disrupts	location_of
+-1
+-5.414060831069946
+___
+injury_or_poisoning	body_part_organ_or_organ_component	body_substance
+disrupts	connected_to
+-1
+-5.426146745681763
+___
+injury_or_poisoning	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	connected_to
+-1
+-5.426146745681763
+___
+injury_or_poisoning	body_part_organ_or_organ_component	body_substance
+disrupts	consists_of
+-1
+-5.772289276123047
+___
+injury_or_poisoning	body_part_organ_or_organ_component	congenital_abnormality
+disrupts	location_of
+-1
+-5.859057903289795
+___
+injury_or_poisoning	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	location_of
+-1
+-5.859057903289795
+___
+injury_or_poisoning	body_part_organ_or_organ_component	diagnostic_procedure
+disrupts	location_of
+-1
+-5.859057903289795
+___
+injury_or_poisoning	body_part_organ_or_organ_component	acquired_abnormality
+disrupts	location_of
+-1
+-5.859057903289795
+___
+injury_or_poisoning	body_part_organ_or_organ_component	bacterium
+disrupts	location_of
+-1
+-5.859057903289795
+___
+injury_or_poisoning	body_part_organ_or_organ_component	injury_or_poisoning
+disrupts	location_of
+-1
+-5.859057903289795
+___
+injury_or_poisoning	body_part_organ_or_organ_component	experimental_model_of_disease
+disrupts	location_of
+-1
+-5.859057903289795
+___
+injury_or_poisoning	body_part_organ_or_organ_component	therapeutic_or_preventive_procedure
+disrupts	location_of
+-1
+-5.859057903289795
+___
+injury_or_poisoning	body_part_organ_or_organ_component	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-5.859057903289795
+___
+injury_or_poisoning	body_part_organ_or_organ_component	disease_or_syndrome
+disrupts	location_of
+-1
+-5.859057903289795
+___
+injury_or_poisoning	body_part_organ_or_organ_component	neoplastic_process
+disrupts	location_of
+-1
+-5.859057903289795
+___
+injury_or_poisoning	body_part_organ_or_organ_component	rickettsia_or_chlamydia
+disrupts	location_of
+-1
+-5.859057903289795
+___
+injury_or_poisoning	body_part_organ_or_organ_component	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-5.859057903289795
+___
+injury_or_poisoning	body_part_organ_or_organ_component	pathologic_function
+disrupts	location_of
+-1
+-5.859057903289795
+___
+injury_or_poisoning	body_part_organ_or_organ_component	body_location_or_region
+disrupts	location_of
+-1
+-5.859057903289795
+___
+injury_or_poisoning	body_part_organ_or_organ_component	biologic_function
+disrupts	location_of
+-1
+-5.859057903289795
+___
+injury_or_poisoning	body_part_organ_or_organ_component	virus
+disrupts	location_of
+-1
+-5.859057903289795
+___
+injury_or_poisoning	body_part_organ_or_organ_component	anatomical_abnormality
+disrupts	location_of
+-1
+-5.859057903289795
+___
+injury_or_poisoning	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	interconnects
+-1
+-6.044857978820801
+___
+injury_or_poisoning	embryonic_structure	anatomical_structure
+disrupts	isa
+-1
+-6.17167592048645
+___
+injury_or_poisoning	embryonic_structure	entity
+disrupts	isa
+-1
+-6.17167592048645
+___
+injury_or_poisoning	embryonic_structure	physical_object
+disrupts	isa
+-1
+-6.17167592048645
+___
+injury_or_poisoning	fully_formed_anatomical_structure	anatomical_structure
+disrupts	isa
+-1
+-6.396474599838257
+___
+injury_or_poisoning	fully_formed_anatomical_structure	physical_object
+disrupts	isa
+-1
+-6.396474599838257
+___
+injury_or_poisoning	fully_formed_anatomical_structure	entity
+disrupts	isa
+-1
+-6.396474599838257
+___
+injury_or_poisoning	cell_function	molecular_function
+disrupts	co-occurs_with
+1
+-6.62005090713501
+___
+injury_or_poisoning	mental_process	molecular_function
+disrupts	co-occurs_with
+1
+-6.620228290557861
+___
+injury_or_poisoning	organism_function	molecular_function
+disrupts	co-occurs_with
+1
+-6.620274066925049
+___
+injury_or_poisoning	embryonic_structure	human
+disrupts	part_of
+-1
+-6.796072959899902
+___
+injury_or_poisoning	embryonic_structure	animal
+disrupts	part_of
+-1
+-6.796072959899902
+___
+injury_or_poisoning	embryonic_structure	invertebrate
+disrupts	part_of
+-1
+-6.796072959899902
+___
+injury_or_poisoning	embryonic_structure	mammal
+disrupts	part_of
+-1
+-6.796072959899902
+___
+injury_or_poisoning	embryonic_structure	archaeon
+disrupts	part_of
+-1
+-6.796072959899902
+___
+injury_or_poisoning	embryonic_structure	fish
+disrupts	part_of
+-1
+-6.796072959899902
+___
+injury_or_poisoning	embryonic_structure	amphibian
+disrupts	part_of
+-1
+-6.796072959899902
+___
+injury_or_poisoning	embryonic_structure	reptile
+disrupts	part_of
+-1
+-6.796072959899902
+___
+injury_or_poisoning	embryonic_structure	organism
+disrupts	part_of
+-1
+-6.796072959899902
+___
+injury_or_poisoning	embryonic_structure	plant
+disrupts	part_of
+-1
+-6.796072959899902
+___
+injury_or_poisoning	embryonic_structure	alga
+disrupts	part_of
+-1
+-6.796072959899902
+___
+injury_or_poisoning	embryonic_structure	rickettsia_or_chlamydia
+disrupts	part_of
+-1
+-6.796072959899902
+___
+injury_or_poisoning	cell	body_system
+disrupts	conceptual_part_of
+-1
+-6.903373718261719
+___
+injury_or_poisoning	cell	entity
+disrupts	isa
+-1
+-7.006443977355957
+___
+injury_or_poisoning	cell	physical_object
+disrupts	isa
+-1
+-7.006443977355957
+___
+injury_or_poisoning	cell	anatomical_structure
+disrupts	isa
+-1
+-7.006443977355957
+___
+injury_or_poisoning	fully_formed_anatomical_structure	rickettsia_or_chlamydia
+disrupts	part_of
+-1
+-7.020871162414551
+___
+injury_or_poisoning	fully_formed_anatomical_structure	vertebrate
+disrupts	part_of
+-1
+-7.020871162414551
+___
+injury_or_poisoning	fully_formed_anatomical_structure	mammal
+disrupts	part_of
+-1
+-7.020871162414551
+___
+injury_or_poisoning	fully_formed_anatomical_structure	fish
+disrupts	part_of
+-1
+-7.020871162414551
+___
+injury_or_poisoning	fully_formed_anatomical_structure	alga
+disrupts	part_of
+-1
+-7.020871162414551
+___
+injury_or_poisoning	fully_formed_anatomical_structure	animal
+disrupts	part_of
+-1
+-7.020871162414551
+___
+injury_or_poisoning	fully_formed_anatomical_structure	organism
+disrupts	part_of
+-1
+-7.020871162414551
+___
+injury_or_poisoning	fully_formed_anatomical_structure	fungus
+disrupts	part_of
+-1
+-7.020871162414551
+___
+injury_or_poisoning	fully_formed_anatomical_structure	reptile
+disrupts	part_of
+-1
+-7.020871162414551
+___
+injury_or_poisoning	fully_formed_anatomical_structure	bacterium
+disrupts	part_of
+-1
+-7.020871162414551
+___
+injury_or_poisoning	fully_formed_anatomical_structure	virus
+disrupts	part_of
+-1
+-7.020871162414551
+___
+injury_or_poisoning	fully_formed_anatomical_structure	human
+disrupts	part_of
+-1
+-7.020871162414551
+___
+injury_or_poisoning	social_behavior	mental_or_behavioral_dysfunction
+result_of	manifestation_of
+-1
+-7.344777660211548
+___
+#####################
+injury_or_poisoning	tissue
+Reward:1
+injury_or_poisoning	embryonic_structure	tissue
+disrupts	developmental_form_of
+1
+-2.514886934775859
+___
+injury_or_poisoning	body_part_organ_or_organ_component	tissue
+disrupts	surrounds
+1
+-2.9190502166748047
+___
+injury_or_poisoning	cell_component	body_space_or_junction
+disrupts	adjacent_to
+-1
+-4.27505087852478
+___
+injury_or_poisoning	fully_formed_anatomical_structure	biologic_function
+disrupts	location_of
+-1
+-4.804091691970825
+___
+injury_or_poisoning	fully_formed_anatomical_structure	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-4.804091691970825
+___
+injury_or_poisoning	fully_formed_anatomical_structure	experimental_model_of_disease
+disrupts	location_of
+-1
+-4.804091691970825
+___
+injury_or_poisoning	fully_formed_anatomical_structure	pathologic_function
+disrupts	location_of
+-1
+-4.804091691970825
+___
+injury_or_poisoning	fully_formed_anatomical_structure	congenital_abnormality
+disrupts	location_of
+-1
+-4.804091691970825
+___
+injury_or_poisoning	fully_formed_anatomical_structure	acquired_abnormality
+disrupts	location_of
+-1
+-4.804091691970825
+___
+injury_or_poisoning	fully_formed_anatomical_structure	neoplastic_process
+disrupts	location_of
+-1
+-4.804091691970825
+___
+injury_or_poisoning	fully_formed_anatomical_structure	anatomical_abnormality
+disrupts	location_of
+-1
+-4.804091691970825
+___
+injury_or_poisoning	gene_or_genome	biologic_function
+disrupts	location_of
+-1
+-5.2131805419921875
+___
+injury_or_poisoning	gene_or_genome	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-5.2131805419921875
+___
+injury_or_poisoning	gene_or_genome	acquired_abnormality
+disrupts	location_of
+-1
+-5.2131805419921875
+___
+injury_or_poisoning	gene_or_genome	disease_or_syndrome
+disrupts	location_of
+-1
+-5.2131805419921875
+___
+injury_or_poisoning	gene_or_genome	rickettsia_or_chlamydia
+disrupts	location_of
+-1
+-5.2131805419921875
+___
+injury_or_poisoning	gene_or_genome	fungus
+disrupts	location_of
+-1
+-5.2131805419921875
+___
+injury_or_poisoning	gene_or_genome	pathologic_function
+disrupts	location_of
+-1
+-5.2131805419921875
+___
+injury_or_poisoning	gene_or_genome	congenital_abnormality
+disrupts	location_of
+-1
+-5.2131805419921875
+___
+injury_or_poisoning	gene_or_genome	anatomical_abnormality
+disrupts	location_of
+-1
+-5.2131805419921875
+___
+injury_or_poisoning	gene_or_genome	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-5.2131805419921875
+___
+injury_or_poisoning	gene_or_genome	injury_or_poisoning
+disrupts	location_of
+-1
+-5.2131805419921875
+___
+injury_or_poisoning	gene_or_genome	bacterium
+disrupts	location_of
+-1
+-5.2131805419921875
+___
+injury_or_poisoning	gene_or_genome	neoplastic_process
+disrupts	location_of
+-1
+-5.2131805419921875
+___
+injury_or_poisoning	cell	neoplastic_process
+disrupts	location_of
+-1
+-5.364027500152588
+___
+injury_or_poisoning	cell	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-5.364027500152588
+___
+injury_or_poisoning	cell	virus
+disrupts	location_of
+-1
+-5.364027500152588
+___
+injury_or_poisoning	cell	injury_or_poisoning
+disrupts	location_of
+-1
+-5.364027500152588
+___
+injury_or_poisoning	cell	anatomical_abnormality
+disrupts	location_of
+-1
+-5.364027500152588
+___
+injury_or_poisoning	cell	rickettsia_or_chlamydia
+disrupts	location_of
+-1
+-5.364027500152588
+___
+injury_or_poisoning	cell	experimental_model_of_disease
+disrupts	location_of
+-1
+-5.364027500152588
+___
+injury_or_poisoning	cell	bacterium
+disrupts	location_of
+-1
+-5.364027500152588
+___
+injury_or_poisoning	cell	diagnostic_procedure
+disrupts	location_of
+-1
+-5.364027500152588
+___
+injury_or_poisoning	cell	disease_or_syndrome
+disrupts	location_of
+-1
+-5.364027500152588
+___
+injury_or_poisoning	cell	acquired_abnormality
+disrupts	location_of
+-1
+-5.364027500152588
+___
+injury_or_poisoning	cell	congenital_abnormality
+disrupts	location_of
+-1
+-5.364027500152588
+___
+injury_or_poisoning	cell	biologic_function
+disrupts	location_of
+-1
+-5.364027500152588
+___
+injury_or_poisoning	cell	fungus
+disrupts	location_of
+-1
+-5.364027500152588
+___
+injury_or_poisoning	cell	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-5.364027500152588
+___
+injury_or_poisoning	cell_component	bacterium
+disrupts	location_of
+-1
+-5.415302038192749
+___
+injury_or_poisoning	cell_component	therapeutic_or_preventive_procedure
+disrupts	location_of
+-1
+-5.415302038192749
+___
+injury_or_poisoning	cell_component	diagnostic_procedure
+disrupts	location_of
+-1
+-5.415302038192749
+___
+injury_or_poisoning	cell_component	anatomical_abnormality
+disrupts	location_of
+-1
+-5.415302038192749
+___
+injury_or_poisoning	cell_component	fungus
+disrupts	location_of
+-1
+-5.415302038192749
+___
+injury_or_poisoning	cell_component	neoplastic_process
+disrupts	location_of
+-1
+-5.415302038192749
+___
+injury_or_poisoning	cell_component	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-5.415302038192749
+___
+injury_or_poisoning	cell_component	acquired_abnormality
+disrupts	location_of
+-1
+-5.415302038192749
+___
+injury_or_poisoning	cell_component	virus
+disrupts	location_of
+-1
+-5.415302038192749
+___
+injury_or_poisoning	cell_component	injury_or_poisoning
+disrupts	location_of
+-1
+-5.415302038192749
+___
+injury_or_poisoning	cell_component	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-5.415302038192749
+___
+injury_or_poisoning	cell_component	disease_or_syndrome
+disrupts	location_of
+-1
+-5.415302038192749
+___
+injury_or_poisoning	cell_component	rickettsia_or_chlamydia
+disrupts	location_of
+-1
+-5.415302038192749
+___
+injury_or_poisoning	cell_function	organism_attribute
+disrupts	affects
+-1
+-5.8218302726745605
+___
+injury_or_poisoning	cell_function	archaeon
+disrupts	affects
+-1
+-5.8218302726745605
+___
+injury_or_poisoning	cell_function	reptile
+disrupts	affects
+-1
+-5.8218302726745605
+___
+injury_or_poisoning	cell_function	invertebrate
+disrupts	affects
+-1
+-5.8218302726745605
+___
+injury_or_poisoning	cell_function	pathologic_function
+disrupts	affects
+-1
+-5.8218302726745605
+___
+injury_or_poisoning	cell_function	amphibian
+disrupts	affects
+-1
+-5.8218302726745605
+___
+injury_or_poisoning	cell_function	bacterium
+disrupts	affects
+-1
+-5.8218302726745605
+___
+injury_or_poisoning	cell_function	bird
+disrupts	affects
+-1
+-5.8218302726745605
+___
+injury_or_poisoning	cell_function	cell_or_molecular_dysfunction
+disrupts	affects
+-1
+-5.8218302726745605
+___
+injury_or_poisoning	cell_function	animal
+disrupts	affects
+-1
+-5.8218302726745605
+___
+injury_or_poisoning	cell_function	plant
+disrupts	affects
+-1
+-5.8218302726745605
+___
+injury_or_poisoning	cell_function	fish
+disrupts	affects
+-1
+-5.8218302726745605
+___
+injury_or_poisoning	cell_function	virus
+disrupts	affects
+-1
+-5.8218302726745605
+___
+injury_or_poisoning	cell_function	experimental_model_of_disease
+disrupts	affects
+-1
+-5.8218302726745605
+___
+injury_or_poisoning	cell_function	organism
+disrupts	affects
+-1
+-5.8218302726745605
+___
+injury_or_poisoning	cell_function	vertebrate
+disrupts	affects
+-1
+-5.8218302726745605
+___
+injury_or_poisoning	cell_function	fungus
+disrupts	affects
+-1
+-5.8218302726745605
+___
+injury_or_poisoning	cell_function	natural_phenomenon_or_process
+disrupts	affects
+-1
+-5.8218302726745605
+___
+injury_or_poisoning	physiologic_function	human
+disrupts	affects
+-1
+-5.8914384841918945
+___
+injury_or_poisoning	physiologic_function	neoplastic_process
+disrupts	affects
+-1
+-5.8914384841918945
+___
+injury_or_poisoning	physiologic_function	rickettsia_or_chlamydia
+disrupts	affects
+-1
+-5.8914384841918945
+___
+injury_or_poisoning	physiologic_function	mental_or_behavioral_dysfunction
+disrupts	affects
+-1
+-5.8914384841918945
+___
+injury_or_poisoning	physiologic_function	virus
+disrupts	affects
+-1
+-5.8914384841918945
+___
+injury_or_poisoning	physiologic_function	cell_or_molecular_dysfunction
+disrupts	affects
+-1
+-5.8914384841918945
+___
+injury_or_poisoning	physiologic_function	reptile
+disrupts	affects
+-1
+-5.8914384841918945
+___
+injury_or_poisoning	physiologic_function	amphibian
+disrupts	affects
+-1
+-5.8914384841918945
+___
+injury_or_poisoning	physiologic_function	vertebrate
+disrupts	affects
+-1
+-5.8914384841918945
+___
+injury_or_poisoning	physiologic_function	clinical_attribute
+disrupts	affects
+-1
+-5.8914384841918945
+___
+injury_or_poisoning	physiologic_function	bacterium
+disrupts	affects
+-1
+-5.8914384841918945
+___
+injury_or_poisoning	physiologic_function	animal
+disrupts	affects
+-1
+-5.8914384841918945
+___
+injury_or_poisoning	physiologic_function	disease_or_syndrome
+disrupts	affects
+-1
+-5.8914384841918945
+___
+injury_or_poisoning	physiologic_function	experimental_model_of_disease
+disrupts	affects
+-1
+-5.8914384841918945
+___
+injury_or_poisoning	physiologic_function	pathologic_function
+disrupts	affects
+-1
+-5.8914384841918945
+___
+injury_or_poisoning	physiologic_function	organism
+disrupts	affects
+-1
+-5.8914384841918945
+___
+injury_or_poisoning	physiologic_function	alga
+disrupts	affects
+-1
+-5.8914384841918945
+___
+injury_or_poisoning	physiologic_function	invertebrate
+disrupts	affects
+-1
+-5.8914384841918945
+___
+injury_or_poisoning	physiologic_function	fish
+disrupts	affects
+-1
+-5.8914384841918945
+___
+injury_or_poisoning	physiologic_function	bird
+disrupts	affects
+-1
+-5.8914384841918945
+___
+injury_or_poisoning	mental_process	vertebrate
+disrupts	affects
+-1
+-5.917627573013306
+___
+injury_or_poisoning	mental_process	pathologic_function
+disrupts	affects
+-1
+-5.917627573013306
+___
+injury_or_poisoning	mental_process	disease_or_syndrome
+disrupts	affects
+-1
+-5.917627573013306
+___
+injury_or_poisoning	mental_process	mammal
+disrupts	affects
+-1
+-5.917627573013306
+___
+injury_or_poisoning	mental_process	reptile
+disrupts	affects
+-1
+-5.917627573013306
+___
+injury_or_poisoning	mental_process	amphibian
+disrupts	affects
+-1
+-5.917627573013306
+___
+injury_or_poisoning	mental_process	archaeon
+disrupts	affects
+-1
+-5.917627573013306
+___
+injury_or_poisoning	mental_process	human
+disrupts	affects
+-1
+-5.917627573013306
+___
+injury_or_poisoning	mental_process	organism
+disrupts	affects
+-1
+-5.917627573013306
+___
+injury_or_poisoning	mental_process	natural_phenomenon_or_process
+disrupts	affects
+-1
+-5.917627573013306
+___
+#####################
+hormone	tissue
+Reward:1
+hormone	hazardous_or_poisonous_substance	tissue
+interacts_with	disrupts
+1
+-1.9462585537694395
+___
+hormone	immunologic_factor	tissue
+interacts_with	disrupts
+1
+-1.9469401435926557
+___
+hormone	embryonic_structure	tissue
+disrupts	developmental_form_of
+1
+-3.432620604056865
+___
+hormone	chemical	experimental_model_of_disease
+interacts_with	affects
+-1
+-3.5625871419906616
+___
+hormone	chemical	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-3.5625871419906616
+___
+hormone	chemical	biologic_function
+interacts_with	affects
+-1
+-3.5625871419906616
+___
+hormone	chemical	disease_or_syndrome
+interacts_with	affects
+-1
+-3.5625871419906616
+___
+hormone	chemical	pathologic_function
+interacts_with	affects
+-1
+-3.5625871419906616
+___
+hormone	indicator_reagent_or_diagnostic_aid	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-3.741289496421814
+___
+hormone	indicator_reagent_or_diagnostic_aid	disease_or_syndrome
+interacts_with	affects
+-1
+-3.741289496421814
+___
+hormone	indicator_reagent_or_diagnostic_aid	biologic_function
+interacts_with	affects
+-1
+-3.741289496421814
+___
+hormone	indicator_reagent_or_diagnostic_aid	pathologic_function
+interacts_with	affects
+-1
+-3.741289496421814
+___
+hormone	indicator_reagent_or_diagnostic_aid	mental_or_behavioral_dysfunction
+interacts_with	affects
+-1
+-3.741289496421814
+___
+hormone	indicator_reagent_or_diagnostic_aid	neoplastic_process
+interacts_with	affects
+-1
+-3.741289496421814
+___
+hormone	body_part_organ_or_organ_component	tissue
+disrupts	surrounds
+1
+-3.8367838859558105
+___
+hormone	cell_component	body_space_or_junction
+disrupts	adjacent_to
+-1
+-5.192784547805786
+___
+hormone	fully_formed_anatomical_structure	acquired_abnormality
+disrupts	location_of
+-1
+-5.721825361251831
+___
+hormone	fully_formed_anatomical_structure	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-5.721825361251831
+___
+hormone	fully_formed_anatomical_structure	congenital_abnormality
+disrupts	location_of
+-1
+-5.721825361251831
+___
+hormone	fully_formed_anatomical_structure	neoplastic_process
+disrupts	location_of
+-1
+-5.721825361251831
+___
+hormone	fully_formed_anatomical_structure	biologic_function
+disrupts	location_of
+-1
+-5.721825361251831
+___
+hormone	fully_formed_anatomical_structure	anatomical_abnormality
+disrupts	location_of
+-1
+-5.721825361251831
+___
+hormone	fully_formed_anatomical_structure	experimental_model_of_disease
+disrupts	location_of
+-1
+-5.721825361251831
+___
+hormone	fully_formed_anatomical_structure	pathologic_function
+disrupts	location_of
+-1
+-5.721825361251831
+___
+hormone	gene_or_genome	biologic_function
+disrupts	location_of
+-1
+-6.130914211273193
+___
+hormone	gene_or_genome	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-6.130914211273193
+___
+hormone	gene_or_genome	injury_or_poisoning
+disrupts	location_of
+-1
+-6.130914211273193
+___
+hormone	gene_or_genome	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-6.130914211273193
+___
+hormone	gene_or_genome	congenital_abnormality
+disrupts	location_of
+-1
+-6.130914211273193
+___
+hormone	gene_or_genome	acquired_abnormality
+disrupts	location_of
+-1
+-6.130914211273193
+___
+hormone	gene_or_genome	disease_or_syndrome
+disrupts	location_of
+-1
+-6.130914211273193
+___
+hormone	gene_or_genome	neoplastic_process
+disrupts	location_of
+-1
+-6.130914211273193
+___
+hormone	gene_or_genome	bacterium
+disrupts	location_of
+-1
+-6.130914211273193
+___
+hormone	gene_or_genome	fungus
+disrupts	location_of
+-1
+-6.130914211273193
+___
+hormone	gene_or_genome	anatomical_abnormality
+disrupts	location_of
+-1
+-6.130914211273193
+___
+hormone	gene_or_genome	rickettsia_or_chlamydia
+disrupts	location_of
+-1
+-6.130914211273193
+___
+hormone	gene_or_genome	pathologic_function
+disrupts	location_of
+-1
+-6.130914211273193
+___
+hormone	cell_component	disease_or_syndrome
+disrupts	location_of
+-1
+-6.333035707473755
+___
+hormone	cell_component	injury_or_poisoning
+disrupts	location_of
+-1
+-6.333035707473755
+___
+hormone	cell_component	acquired_abnormality
+disrupts	location_of
+-1
+-6.333035707473755
+___
+hormone	cell_component	bacterium
+disrupts	location_of
+-1
+-6.333035707473755
+___
+hormone	cell_component	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-6.333035707473755
+___
+hormone	cell_component	diagnostic_procedure
+disrupts	location_of
+-1
+-6.333035707473755
+___
+hormone	cell_component	rickettsia_or_chlamydia
+disrupts	location_of
+-1
+-6.333035707473755
+___
+hormone	cell_component	fungus
+disrupts	location_of
+-1
+-6.333035707473755
+___
+hormone	cell_component	neoplastic_process
+disrupts	location_of
+-1
+-6.333035707473755
+___
+hormone	cell_component	anatomical_abnormality
+disrupts	location_of
+-1
+-6.333035707473755
+___
+hormone	cell_component	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-6.333035707473755
+___
+hormone	cell_component	virus
+disrupts	location_of
+-1
+-6.333035707473755
+___
+hormone	cell_component	therapeutic_or_preventive_procedure
+disrupts	location_of
+-1
+-6.333035707473755
+___
+hormone	chemical	clinical_drug
+interacts_with	ingredient_of
+-1
+-6.640954852104187
+___
+hormone	molecular_function	human
+disrupts	affects
+-1
+-6.685867547988892
+___
+hormone	molecular_function	invertebrate
+disrupts	affects
+-1
+-6.685867547988892
+___
+hormone	molecular_function	neoplastic_process
+disrupts	affects
+-1
+-6.685867547988892
+___
+hormone	molecular_function	virus
+disrupts	affects
+-1
+-6.685867547988892
+___
+hormone	molecular_function	plant
+disrupts	affects
+-1
+-6.685867547988892
+___
+hormone	molecular_function	pathologic_function
+disrupts	affects
+-1
+-6.685867547988892
+___
+hormone	molecular_function	fish
+disrupts	affects
+-1
+-6.685867547988892
+___
+hormone	molecular_function	organism
+disrupts	affects
+-1
+-6.685867547988892
+___
+hormone	molecular_function	organism_attribute
+disrupts	affects
+-1
+-6.685867547988892
+___
+hormone	molecular_function	clinical_attribute
+disrupts	affects
+-1
+-6.685867547988892
+___
+hormone	molecular_function	bird
+disrupts	affects
+-1
+-6.685867547988892
+___
+hormone	molecular_function	cell_or_molecular_dysfunction
+disrupts	affects
+-1
+-6.685867547988892
+___
+hormone	molecular_function	bacterium
+disrupts	affects
+-1
+-6.685867547988892
+___
+hormone	molecular_function	fungus
+disrupts	affects
+-1
+-6.685867547988892
+___
+hormone	molecular_function	experimental_model_of_disease
+disrupts	affects
+-1
+-6.685867547988892
+___
+hormone	molecular_function	natural_phenomenon_or_process
+disrupts	affects
+-1
+-6.685867547988892
+___
+hormone	molecular_function	biologic_function
+disrupts	affects
+-1
+-6.685867547988892
+___
+hormone	cell_function	reptile
+disrupts	affects
+-1
+-6.739563941955566
+___
+hormone	cell_function	virus
+disrupts	affects
+-1
+-6.739563941955566
+___
+hormone	cell_function	amphibian
+disrupts	affects
+-1
+-6.739563941955566
+___
+hormone	cell_function	fish
+disrupts	affects
+-1
+-6.739563941955566
+___
+hormone	cell_function	fungus
+disrupts	affects
+-1
+-6.739563941955566
+___
+hormone	cell_function	experimental_model_of_disease
+disrupts	affects
+-1
+-6.739563941955566
+___
+hormone	cell_function	natural_phenomenon_or_process
+disrupts	affects
+-1
+-6.739563941955566
+___
+hormone	cell_function	plant
+disrupts	affects
+-1
+-6.739563941955566
+___
+hormone	cell_function	invertebrate
+disrupts	affects
+-1
+-6.739563941955566
+___
+hormone	cell_function	bird
+disrupts	affects
+-1
+-6.739563941955566
+___
+hormone	cell_function	archaeon
+disrupts	affects
+-1
+-6.739563941955566
+___
+hormone	cell_function	pathologic_function
+disrupts	affects
+-1
+-6.739563941955566
+___
+hormone	cell_function	cell_or_molecular_dysfunction
+disrupts	affects
+-1
+-6.739563941955566
+___
+hormone	cell_function	organism
+disrupts	affects
+-1
+-6.739563941955566
+___
+hormone	cell_function	organism_attribute
+disrupts	affects
+-1
+-6.739563941955566
+___
+hormone	cell_function	vertebrate
+disrupts	affects
+-1
+-6.739563941955566
+___
+hormone	cell_function	animal
+disrupts	affects
+-1
+-6.739563941955566
+___
+hormone	cell_function	bacterium
+disrupts	affects
+-1
+-6.739563941955566
+___
+hormone	physiologic_function	mental_or_behavioral_dysfunction
+disrupts	affects
+-1
+-6.8091721534729
+___
+hormone	physiologic_function	pathologic_function
+disrupts	affects
+-1
+-6.8091721534729
+___
+hormone	physiologic_function	cell_or_molecular_dysfunction
+disrupts	affects
+-1
+-6.8091721534729
+___
+hormone	physiologic_function	invertebrate
+disrupts	affects
+-1
+-6.8091721534729
+___
+hormone	physiologic_function	reptile
+disrupts	affects
+-1
+-6.8091721534729
+___
+hormone	physiologic_function	virus
+disrupts	affects
+-1
+-6.8091721534729
+___
+hormone	physiologic_function	neoplastic_process
+disrupts	affects
+-1
+-6.8091721534729
+___
+hormone	physiologic_function	human
+disrupts	affects
+-1
+-6.8091721534729
+___
+hormone	physiologic_function	disease_or_syndrome
+disrupts	affects
+-1
+-6.8091721534729
+___
+hormone	physiologic_function	amphibian
+disrupts	affects
+-1
+-6.8091721534729
+___
+hormone	physiologic_function	rickettsia_or_chlamydia
+disrupts	affects
+-1
+-6.8091721534729
+___
+hormone	physiologic_function	experimental_model_of_disease
+disrupts	affects
+-1
+-6.8091721534729
+___
+hormone	physiologic_function	clinical_attribute
+disrupts	affects
+-1
+-6.8091721534729
+___
+hormone	physiologic_function	vertebrate
+disrupts	affects
+-1
+-6.8091721534729
+___
+#####################
+neuroreactive_substance_or_biogenic_amine	organ_or_tissue_function
+Reward:1
+neuroreactive_substance_or_biogenic_amine	hormone	organ_or_tissue_function
+interacts_with	disrupts
+1
+-2.2244341699406505
+___
+neuroreactive_substance_or_biogenic_amine	enzyme	organ_or_tissue_function
+interacts_with	disrupts
+1
+-2.225018280558288
+___
+neuroreactive_substance_or_biogenic_amine	immunologic_factor	organ_or_tissue_function
+interacts_with	disrupts
+1
+-2.2252247594296932
+___
+neuroreactive_substance_or_biogenic_amine	cell_function	organ_or_tissue_function
+disrupts	precedes
+1
+-3.706095661967993
+___
+neuroreactive_substance_or_biogenic_amine	genetic_function	organ_or_tissue_function
+disrupts	precedes
+1
+-3.706401957082562
+___
+neuroreactive_substance_or_biogenic_amine	cell_component	organ_or_tissue_function
+disrupts	affects
+1
+-3.720918070524931
+___
+neuroreactive_substance_or_biogenic_amine	organism_function	organ_or_tissue_function
+disrupts	precedes
+1
+-3.722829269245267
+___
+neuroreactive_substance_or_biogenic_amine	mental_process	organ_or_tissue_function
+disrupts	co-occurs_with
+1
+-3.805454783141613
+___
+neuroreactive_substance_or_biogenic_amine	tissue	body_substance
+disrupts	surrounds
+-1
+-3.9554396271705627
+___
+neuroreactive_substance_or_biogenic_amine	indicator_reagent_or_diagnostic_aid	organ_or_tissue_function
+interacts_with	affects
+1
+-4.171174049377441
+___
+neuroreactive_substance_or_biogenic_amine	indicator_reagent_or_diagnostic_aid	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-4.171174049377441
+___
+neuroreactive_substance_or_biogenic_amine	indicator_reagent_or_diagnostic_aid	biologic_function
+interacts_with	affects
+-1
+-4.171174049377441
+___
+neuroreactive_substance_or_biogenic_amine	indicator_reagent_or_diagnostic_aid	pathologic_function
+interacts_with	affects
+-1
+-4.171174049377441
+___
+neuroreactive_substance_or_biogenic_amine	indicator_reagent_or_diagnostic_aid	disease_or_syndrome
+interacts_with	affects
+-1
+-4.171174049377441
+___
+neuroreactive_substance_or_biogenic_amine	indicator_reagent_or_diagnostic_aid	neoplastic_process
+interacts_with	affects
+-1
+-4.171174049377441
+___
+neuroreactive_substance_or_biogenic_amine	indicator_reagent_or_diagnostic_aid	mental_or_behavioral_dysfunction
+interacts_with	affects
+-1
+-4.171174049377441
+___
+neuroreactive_substance_or_biogenic_amine	vitamin	disease_or_syndrome
+interacts_with	affects
+-1
+-4.860597133636475
+___
+neuroreactive_substance_or_biogenic_amine	vitamin	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-4.860597133636475
+___
+neuroreactive_substance_or_biogenic_amine	vitamin	organ_or_tissue_function
+interacts_with	affects
+1
+-4.860597133636475
+___
+neuroreactive_substance_or_biogenic_amine	vitamin	mental_or_behavioral_dysfunction
+interacts_with	affects
+-1
+-4.860597133636475
+___
+neuroreactive_substance_or_biogenic_amine	vitamin	experimental_model_of_disease
+interacts_with	affects
+-1
+-4.860597133636475
+___
+neuroreactive_substance_or_biogenic_amine	vitamin	pathologic_function
+interacts_with	affects
+-1
+-4.860597133636475
+___
+neuroreactive_substance_or_biogenic_amine	hazardous_or_poisonous_substance	neoplastic_process
+interacts_with	affects
+-1
+-4.939820766448975
+___
+neuroreactive_substance_or_biogenic_amine	hazardous_or_poisonous_substance	experimental_model_of_disease
+interacts_with	affects
+-1
+-4.939820766448975
+___
+neuroreactive_substance_or_biogenic_amine	hazardous_or_poisonous_substance	organ_or_tissue_function
+interacts_with	affects
+1
+-4.939820766448975
+___
+neuroreactive_substance_or_biogenic_amine	hazardous_or_poisonous_substance	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-4.939820766448975
+___
+neuroreactive_substance_or_biogenic_amine	hazardous_or_poisonous_substance	pathologic_function
+interacts_with	affects
+-1
+-4.939820766448975
+___
+neuroreactive_substance_or_biogenic_amine	hazardous_or_poisonous_substance	mental_or_behavioral_dysfunction
+interacts_with	affects
+-1
+-4.939820766448975
+___
+neuroreactive_substance_or_biogenic_amine	hazardous_or_poisonous_substance	natural_phenomenon_or_process
+interacts_with	affects
+-1
+-4.939820766448975
+___
+neuroreactive_substance_or_biogenic_amine	hazardous_or_poisonous_substance	biologic_function
+interacts_with	affects
+-1
+-4.939820766448975
+___
+neuroreactive_substance_or_biogenic_amine	vitamin	acquired_abnormality
+interacts_with	complicates
+-1
+-5.083108901977539
+___
+neuroreactive_substance_or_biogenic_amine	vitamin	organ_or_tissue_function
+interacts_with	complicates
+1
+-5.083108901977539
+___
+neuroreactive_substance_or_biogenic_amine	vitamin	injury_or_poisoning
+interacts_with	complicates
+-1
+-5.083108901977539
+___
+neuroreactive_substance_or_biogenic_amine	vitamin	mental_or_behavioral_dysfunction
+interacts_with	complicates
+-1
+-5.083108901977539
+___
+neuroreactive_substance_or_biogenic_amine	vitamin	pathologic_function
+interacts_with	complicates
+-1
+-5.083108901977539
+___
+neuroreactive_substance_or_biogenic_amine	vitamin	disease_or_syndrome
+interacts_with	complicates
+-1
+-5.083108901977539
+___
+neuroreactive_substance_or_biogenic_amine	vitamin	neoplastic_process
+interacts_with	complicates
+-1
+-5.083108901977539
+___
+neuroreactive_substance_or_biogenic_amine	vitamin	biologic_function
+interacts_with	complicates
+-1
+-5.083108901977539
+___
+neuroreactive_substance_or_biogenic_amine	vitamin	anatomical_abnormality
+interacts_with	complicates
+-1
+-5.083108901977539
+___
+neuroreactive_substance_or_biogenic_amine	vitamin	experimental_model_of_disease
+interacts_with	complicates
+-1
+-5.083108901977539
+___
+neuroreactive_substance_or_biogenic_amine	hazardous_or_poisonous_substance	organ_or_tissue_function
+interacts_with	complicates
+1
+-5.162332534790039
+___
+neuroreactive_substance_or_biogenic_amine	hazardous_or_poisonous_substance	disease_or_syndrome
+interacts_with	complicates
+-1
+-5.162332534790039
+___
+neuroreactive_substance_or_biogenic_amine	hazardous_or_poisonous_substance	pathologic_function
+interacts_with	complicates
+-1
+-5.162332534790039
+___
+neuroreactive_substance_or_biogenic_amine	hazardous_or_poisonous_substance	mental_or_behavioral_dysfunction
+interacts_with	complicates
+-1
+-5.162332534790039
+___
+neuroreactive_substance_or_biogenic_amine	hazardous_or_poisonous_substance	biologic_function
+interacts_with	complicates
+-1
+-5.162332534790039
+___
+neuroreactive_substance_or_biogenic_amine	hazardous_or_poisonous_substance	cell_or_molecular_dysfunction
+interacts_with	complicates
+-1
+-5.162332534790039
+___
+neuroreactive_substance_or_biogenic_amine	hazardous_or_poisonous_substance	injury_or_poisoning
+interacts_with	complicates
+-1
+-5.162332534790039
+___
+neuroreactive_substance_or_biogenic_amine	hazardous_or_poisonous_substance	experimental_model_of_disease
+interacts_with	complicates
+-1
+-5.162332534790039
+___
+neuroreactive_substance_or_biogenic_amine	hazardous_or_poisonous_substance	acquired_abnormality
+interacts_with	complicates
+-1
+-5.162332534790039
+___
+neuroreactive_substance_or_biogenic_amine	embryonic_structure	organ_or_tissue_function
+disrupts	location_of
+1
+-5.774302005767822
+___
+neuroreactive_substance_or_biogenic_amine	embryonic_structure	bacterium
+disrupts	location_of
+-1
+-5.774302005767822
+___
+neuroreactive_substance_or_biogenic_amine	embryonic_structure	neoplastic_process
+disrupts	location_of
+-1
+-5.774302005767822
+___
+neuroreactive_substance_or_biogenic_amine	embryonic_structure	pathologic_function
+disrupts	location_of
+-1
+-5.774302005767822
+___
+neuroreactive_substance_or_biogenic_amine	embryonic_structure	disease_or_syndrome
+disrupts	location_of
+-1
+-5.774302005767822
+___
+neuroreactive_substance_or_biogenic_amine	embryonic_structure	biologic_function
+disrupts	location_of
+-1
+-5.774302005767822
+___
+neuroreactive_substance_or_biogenic_amine	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	adjacent_to
+-1
+-5.91381573677063
+___
+neuroreactive_substance_or_biogenic_amine	fully_formed_anatomical_structure	pathologic_function
+disrupts	location_of
+-1
+-6.09513521194458
+___
+neuroreactive_substance_or_biogenic_amine	fully_formed_anatomical_structure	neoplastic_process
+disrupts	location_of
+-1
+-6.09513521194458
+___
+neuroreactive_substance_or_biogenic_amine	fully_formed_anatomical_structure	anatomical_abnormality
+disrupts	location_of
+-1
+-6.09513521194458
+___
+neuroreactive_substance_or_biogenic_amine	fully_formed_anatomical_structure	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-6.09513521194458
+___
+neuroreactive_substance_or_biogenic_amine	fully_formed_anatomical_structure	congenital_abnormality
+disrupts	location_of
+-1
+-6.09513521194458
+___
+neuroreactive_substance_or_biogenic_amine	fully_formed_anatomical_structure	experimental_model_of_disease
+disrupts	location_of
+-1
+-6.09513521194458
+___
+neuroreactive_substance_or_biogenic_amine	fully_formed_anatomical_structure	biologic_function
+disrupts	location_of
+-1
+-6.09513521194458
+___
+neuroreactive_substance_or_biogenic_amine	fully_formed_anatomical_structure	acquired_abnormality
+disrupts	location_of
+-1
+-6.09513521194458
+___
+neuroreactive_substance_or_biogenic_amine	fully_formed_anatomical_structure	organ_or_tissue_function
+disrupts	location_of
+1
+-6.09513521194458
+___
+neuroreactive_substance_or_biogenic_amine	cell_function	organ_or_tissue_function
+affects	precedes
+1
+-6.3103665093076415
+___
+neuroreactive_substance_or_biogenic_amine	genetic_function	organ_or_tissue_function
+affects	precedes
+1
+-6.310376879802789
+___
+neuroreactive_substance_or_biogenic_amine	mental_process	organ_or_tissue_function
+affects	co-occurs_with
+1
+-6.318918319419026
+___
+neuroreactive_substance_or_biogenic_amine	gene_or_genome	neoplastic_process
+disrupts	location_of
+-1
+-6.472998380661011
+___
+neuroreactive_substance_or_biogenic_amine	gene_or_genome	anatomical_abnormality
+disrupts	location_of
+-1
+-6.472998380661011
+___
+neuroreactive_substance_or_biogenic_amine	gene_or_genome	biologic_function
+disrupts	location_of
+-1
+-6.472998380661011
+___
+neuroreactive_substance_or_biogenic_amine	gene_or_genome	injury_or_poisoning
+disrupts	location_of
+-1
+-6.472998380661011
+___
+neuroreactive_substance_or_biogenic_amine	gene_or_genome	organ_or_tissue_function
+disrupts	location_of
+1
+-6.472998380661011
+___
+neuroreactive_substance_or_biogenic_amine	gene_or_genome	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-6.472998380661011
+___
+neuroreactive_substance_or_biogenic_amine	gene_or_genome	fungus
+disrupts	location_of
+-1
+-6.472998380661011
+___
+neuroreactive_substance_or_biogenic_amine	gene_or_genome	congenital_abnormality
+disrupts	location_of
+-1
+-6.472998380661011
+___
+neuroreactive_substance_or_biogenic_amine	gene_or_genome	pathologic_function
+disrupts	location_of
+-1
+-6.472998380661011
+___
+neuroreactive_substance_or_biogenic_amine	gene_or_genome	rickettsia_or_chlamydia
+disrupts	location_of
+-1
+-6.472998380661011
+___
+neuroreactive_substance_or_biogenic_amine	gene_or_genome	disease_or_syndrome
+disrupts	location_of
+-1
+-6.472998380661011
+___
+neuroreactive_substance_or_biogenic_amine	gene_or_genome	acquired_abnormality
+disrupts	location_of
+-1
+-6.472998380661011
+___
+neuroreactive_substance_or_biogenic_amine	gene_or_genome	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-6.472998380661011
+___
+neuroreactive_substance_or_biogenic_amine	gene_or_genome	bacterium
+disrupts	location_of
+-1
+-6.472998380661011
+___
+neuroreactive_substance_or_biogenic_amine	cell	experimental_model_of_disease
+disrupts	location_of
+-1
+-6.5527427196502686
+___
+neuroreactive_substance_or_biogenic_amine	cell	biologic_function
+disrupts	location_of
+-1
+-6.5527427196502686
+___
+neuroreactive_substance_or_biogenic_amine	cell	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-6.5527427196502686
+___
+neuroreactive_substance_or_biogenic_amine	cell	rickettsia_or_chlamydia
+disrupts	location_of
+-1
+-6.5527427196502686
+___
+neuroreactive_substance_or_biogenic_amine	cell	congenital_abnormality
+disrupts	location_of
+-1
+-6.5527427196502686
+___
+neuroreactive_substance_or_biogenic_amine	cell	acquired_abnormality
+disrupts	location_of
+-1
+-6.5527427196502686
+___
+neuroreactive_substance_or_biogenic_amine	cell	fungus
+disrupts	location_of
+-1
+-6.5527427196502686
+___
+neuroreactive_substance_or_biogenic_amine	cell	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-6.5527427196502686
+___
+neuroreactive_substance_or_biogenic_amine	cell	neoplastic_process
+disrupts	location_of
+-1
+-6.5527427196502686
+___
+neuroreactive_substance_or_biogenic_amine	cell	injury_or_poisoning
+disrupts	location_of
+-1
+-6.5527427196502686
+___
+neuroreactive_substance_or_biogenic_amine	cell	disease_or_syndrome
+disrupts	location_of
+-1
+-6.5527427196502686
+___
+neuroreactive_substance_or_biogenic_amine	cell	anatomical_abnormality
+disrupts	location_of
+-1
+-6.5527427196502686
+___
+neuroreactive_substance_or_biogenic_amine	cell	virus
+disrupts	location_of
+-1
+-6.5527427196502686
+___
+neuroreactive_substance_or_biogenic_amine	cell	diagnostic_procedure
+disrupts	location_of
+-1
+-6.5527427196502686
+___
+neuroreactive_substance_or_biogenic_amine	cell	bacterium
+disrupts	location_of
+-1
+-6.5527427196502686
+___
+neuroreactive_substance_or_biogenic_amine	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	connected_to
+-1
+-6.621155738830566
+___
+neuroreactive_substance_or_biogenic_amine	body_part_organ_or_organ_component	body_substance
+disrupts	connected_to
+-1
+-6.621155738830566
+___
+neuroreactive_substance_or_biogenic_amine	body_part_organ_or_organ_component	body_substance
+disrupts	consists_of
+-1
+-6.967298269271851
+___
+#####################
+antibiotic	organism_function
+Reward:1
+antibiotic	vitamin	organism_function
+interacts_with	disrupts
+1
+-2.2780320225283504
+___
+antibiotic	hormone	organism_function
+interacts_with	disrupts
+1
+-2.278573425486684
+___
+antibiotic	hazardous_or_poisonous_substance	organism_function
+interacts_with	disrupts
+1
+-2.2786828754469752
+___
+antibiotic	receptor	organism_function
+interacts_with	disrupts
+1
+-2.2787024956196547
+___
+antibiotic	enzyme	organism_function
+interacts_with	disrupts
+1
+-2.2787087596952915
+___
+antibiotic	cell_function	organism_function
+disrupts	precedes
+1
+-3.760211472166702
+___
+antibiotic	physiologic_function	organism_function
+disrupts	precedes
+1
+-3.760346785071306
+___
+antibiotic	organ_or_tissue_function	organism_function
+disrupts	precedes
+1
+-3.7604256795020774
+___
+antibiotic	genetic_function	organism_function
+disrupts	precedes
+1
+-3.7605640566907823
+___
+antibiotic	gene_or_genome	organism_function
+disrupts	affects
+1
+-3.7730457689613104
+___
+antibiotic	cell_component	organism_function
+disrupts	affects
+1
+-3.775955157354474
+___
+antibiotic	tissue	body_substance
+disrupts	surrounds
+-1
+-4.009578764438629
+___
+antibiotic	indicator_reagent_or_diagnostic_aid	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-4.225313186645508
+___
+antibiotic	indicator_reagent_or_diagnostic_aid	mental_or_behavioral_dysfunction
+interacts_with	affects
+-1
+-4.225313186645508
+___
+antibiotic	indicator_reagent_or_diagnostic_aid	neoplastic_process
+interacts_with	affects
+-1
+-4.225313186645508
+___
+antibiotic	indicator_reagent_or_diagnostic_aid	biologic_function
+interacts_with	affects
+-1
+-4.225313186645508
+___
+antibiotic	indicator_reagent_or_diagnostic_aid	disease_or_syndrome
+interacts_with	affects
+-1
+-4.225313186645508
+___
+antibiotic	indicator_reagent_or_diagnostic_aid	pathologic_function
+interacts_with	affects
+-1
+-4.225313186645508
+___
+antibiotic	indicator_reagent_or_diagnostic_aid	organism_function
+interacts_with	affects
+1
+-4.225313186645508
+___
+antibiotic	biomedical_or_dental_material	neoplastic_process
+interacts_with	affects
+-1
+-4.226449489593506
+___
+antibiotic	biomedical_or_dental_material	mental_or_behavioral_dysfunction
+interacts_with	affects
+-1
+-4.226449489593506
+___
+antibiotic	biomedical_or_dental_material	natural_phenomenon_or_process
+interacts_with	affects
+-1
+-4.226449489593506
+___
+antibiotic	biomedical_or_dental_material	disease_or_syndrome
+interacts_with	affects
+-1
+-4.226449489593506
+___
+antibiotic	biomedical_or_dental_material	organism_function
+interacts_with	affects
+1
+-4.226449489593506
+___
+antibiotic	biomedical_or_dental_material	pathologic_function
+interacts_with	affects
+-1
+-4.226449489593506
+___
+antibiotic	biomedical_or_dental_material	experimental_model_of_disease
+interacts_with	affects
+-1
+-4.226449489593506
+___
+antibiotic	embryonic_structure	bacterium
+disrupts	location_of
+-1
+-5.828441143035889
+___
+antibiotic	embryonic_structure	disease_or_syndrome
+disrupts	location_of
+-1
+-5.828441143035889
+___
+antibiotic	embryonic_structure	organism_function
+disrupts	location_of
+1
+-5.828441143035889
+___
+antibiotic	embryonic_structure	neoplastic_process
+disrupts	location_of
+-1
+-5.828441143035889
+___
+antibiotic	embryonic_structure	biologic_function
+disrupts	location_of
+-1
+-5.828441143035889
+___
+antibiotic	embryonic_structure	pathologic_function
+disrupts	location_of
+-1
+-5.828441143035889
+___
+antibiotic	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	adjacent_to
+-1
+-6.002450942993164
+___
+antibiotic	fully_formed_anatomical_structure	experimental_model_of_disease
+disrupts	location_of
+-1
+-6.053239822387695
+___
+antibiotic	fully_formed_anatomical_structure	acquired_abnormality
+disrupts	location_of
+-1
+-6.053239822387695
+___
+antibiotic	fully_formed_anatomical_structure	neoplastic_process
+disrupts	location_of
+-1
+-6.053239822387695
+___
+antibiotic	fully_formed_anatomical_structure	biologic_function
+disrupts	location_of
+-1
+-6.053239822387695
+___
+antibiotic	fully_formed_anatomical_structure	pathologic_function
+disrupts	location_of
+-1
+-6.053239822387695
+___
+antibiotic	fully_formed_anatomical_structure	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-6.053239822387695
+___
+antibiotic	fully_formed_anatomical_structure	congenital_abnormality
+disrupts	location_of
+-1
+-6.053239822387695
+___
+antibiotic	fully_formed_anatomical_structure	anatomical_abnormality
+disrupts	location_of
+-1
+-6.053239822387695
+___
+antibiotic	mental_process	organism_function
+affects	degree_of
+1
+-6.365933021297678
+___
+antibiotic	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	connected_to
+-1
+-6.709790945053101
+___
+antibiotic	body_part_organ_or_organ_component	body_substance
+disrupts	connected_to
+-1
+-6.709790945053101
+___
+antibiotic	body_part_organ_or_organ_component	body_substance
+disrupts	consists_of
+-1
+-7.055933475494385
+___
+antibiotic	molecular_function	plant
+disrupts	affects
+-1
+-7.070207595825195
+___
+antibiotic	molecular_function	natural_phenomenon_or_process
+disrupts	affects
+-1
+-7.070207595825195
+___
+antibiotic	molecular_function	organism
+disrupts	affects
+-1
+-7.070207595825195
+___
+antibiotic	molecular_function	fish
+disrupts	affects
+-1
+-7.070207595825195
+___
+antibiotic	molecular_function	organism_function
+disrupts	affects
+1
+-7.070207595825195
+___
+antibiotic	molecular_function	pathologic_function
+disrupts	affects
+-1
+-7.070207595825195
+___
+antibiotic	molecular_function	bird
+disrupts	affects
+-1
+-7.070207595825195
+___
+antibiotic	molecular_function	invertebrate
+disrupts	affects
+-1
+-7.070207595825195
+___
+antibiotic	molecular_function	human
+disrupts	affects
+-1
+-7.070207595825195
+___
+antibiotic	molecular_function	clinical_attribute
+disrupts	affects
+-1
+-7.070207595825195
+___
+antibiotic	molecular_function	cell_or_molecular_dysfunction
+disrupts	affects
+-1
+-7.070207595825195
+___
+antibiotic	molecular_function	bacterium
+disrupts	affects
+-1
+-7.070207595825195
+___
+antibiotic	molecular_function	experimental_model_of_disease
+disrupts	affects
+-1
+-7.070207595825195
+___
+antibiotic	molecular_function	virus
+disrupts	affects
+-1
+-7.070207595825195
+___
+antibiotic	molecular_function	organism_attribute
+disrupts	affects
+-1
+-7.070207595825195
+___
+antibiotic	molecular_function	fungus
+disrupts	affects
+-1
+-7.070207595825195
+___
+antibiotic	molecular_function	biologic_function
+disrupts	affects
+-1
+-7.070207595825195
+___
+antibiotic	molecular_function	neoplastic_process
+disrupts	affects
+-1
+-7.070207595825195
+___
+antibiotic	body_part_organ_or_organ_component	organism_function
+disrupts	location_of
+1
+-7.142702102661133
+___
+antibiotic	body_part_organ_or_organ_component	injury_or_poisoning
+disrupts	location_of
+-1
+-7.142702102661133
+___
+antibiotic	body_part_organ_or_organ_component	virus
+disrupts	location_of
+-1
+-7.142702102661133
+___
+antibiotic	body_part_organ_or_organ_component	biologic_function
+disrupts	location_of
+-1
+-7.142702102661133
+___
+antibiotic	body_part_organ_or_organ_component	therapeutic_or_preventive_procedure
+disrupts	location_of
+-1
+-7.142702102661133
+___
+antibiotic	body_part_organ_or_organ_component	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-7.142702102661133
+___
+antibiotic	body_part_organ_or_organ_component	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-7.142702102661133
+___
+antibiotic	body_part_organ_or_organ_component	experimental_model_of_disease
+disrupts	location_of
+-1
+-7.142702102661133
+___
+antibiotic	body_part_organ_or_organ_component	congenital_abnormality
+disrupts	location_of
+-1
+-7.142702102661133
+___
+antibiotic	body_part_organ_or_organ_component	rickettsia_or_chlamydia
+disrupts	location_of
+-1
+-7.142702102661133
+___
+antibiotic	body_part_organ_or_organ_component	anatomical_abnormality
+disrupts	location_of
+-1
+-7.142702102661133
+___
+antibiotic	body_part_organ_or_organ_component	neoplastic_process
+disrupts	location_of
+-1
+-7.142702102661133
+___
+antibiotic	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	location_of
+-1
+-7.142702102661133
+___
+antibiotic	body_part_organ_or_organ_component	diagnostic_procedure
+disrupts	location_of
+-1
+-7.142702102661133
+___
+antibiotic	body_part_organ_or_organ_component	body_location_or_region
+disrupts	location_of
+-1
+-7.142702102661133
+___
+antibiotic	body_part_organ_or_organ_component	acquired_abnormality
+disrupts	location_of
+-1
+-7.142702102661133
+___
+antibiotic	body_part_organ_or_organ_component	disease_or_syndrome
+disrupts	location_of
+-1
+-7.142702102661133
+___
+antibiotic	body_part_organ_or_organ_component	pathologic_function
+disrupts	location_of
+-1
+-7.142702102661133
+___
+antibiotic	body_part_organ_or_organ_component	bacterium
+disrupts	location_of
+-1
+-7.142702102661133
+___
+antibiotic	indicator_reagent_or_diagnostic_aid	clinical_drug
+interacts_with	ingredient_of
+-1
+-7.303681135177612
+___
+antibiotic	biomedical_or_dental_material	clinical_drug
+interacts_with	ingredient_of
+-1
+-7.30481743812561
+___
+antibiotic	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	interconnects
+-1
+-7.328502178192139
+___
+antibiotic	embryonic_structure	entity
+disrupts	isa
+-1
+-7.42082405090332
+___
+antibiotic	embryonic_structure	anatomical_structure
+disrupts	isa
+-1
+-7.42082405090332
+___
+antibiotic	embryonic_structure	physical_object
+disrupts	isa
+-1
+-7.42082405090332
+___
+antibiotic	fully_formed_anatomical_structure	entity
+disrupts	isa
+-1
+-7.645622730255127
+___
+antibiotic	fully_formed_anatomical_structure	anatomical_structure
+disrupts	isa
+-1
+-7.645622730255127
+___
+antibiotic	fully_formed_anatomical_structure	physical_object
+disrupts	isa
+-1
+-7.645622730255127
+___
+antibiotic	molecular_function	bacterium
+disrupts	process_of
+-1
+-7.96950888633728
+___
+antibiotic	molecular_function	organism_function
+disrupts	process_of
+1
+-7.96950888633728
+___
+antibiotic	molecular_function	virus
+disrupts	process_of
+-1
+-7.96950888633728
+___
+antibiotic	molecular_function	pathologic_function
+disrupts	process_of
+-1
+-7.96950888633728
+___
+antibiotic	molecular_function	plant
+disrupts	process_of
+-1
+-7.96950888633728
+___
+antibiotic	molecular_function	human
+disrupts	process_of
+-1
+-7.96950888633728
+___
+antibiotic	molecular_function	natural_phenomenon_or_process
+disrupts	process_of
+-1
+-7.96950888633728
+___
+antibiotic	molecular_function	bird
+disrupts	process_of
+-1
+-7.96950888633728
+___
+antibiotic	molecular_function	rickettsia_or_chlamydia
+disrupts	process_of
+-1
+-7.96950888633728
+___
+#####################
+biologically_active_substance	gene_or_genome
+Reward:1
+biologically_active_substance	vitamin	gene_or_genome
+interacts_with	disrupts
+1
+-2.235481835901737
+___
+biologically_active_substance	hormone	gene_or_genome
+interacts_with	disrupts
+1
+-2.236023667268455
+___
+biologically_active_substance	hazardous_or_poisonous_substance	gene_or_genome
+interacts_with	disrupts
+1
+-2.236133465077728
+___
+biologically_active_substance	receptor	gene_or_genome
+interacts_with	disrupts
+1
+-2.2361528677865863
+___
+biologically_active_substance	immunologic_factor	gene_or_genome
+interacts_with	disrupts
+1
+-2.236815173178911
+___
+biologically_active_substance	chemical	disease_or_syndrome
+interacts_with	affects
+-1
+-3.85246205329895
+___
+biologically_active_substance	chemical	experimental_model_of_disease
+interacts_with	affects
+-1
+-3.85246205329895
+___
+biologically_active_substance	chemical	pathologic_function
+interacts_with	affects
+-1
+-3.85246205329895
+___
+biologically_active_substance	chemical	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-3.85246205329895
+___
+biologically_active_substance	chemical	biologic_function
+interacts_with	affects
+-1
+-3.85246205329895
+___
+biologically_active_substance	tissue	body_substance
+disrupts	surrounds
+-1
+-3.9560908377170563
+___
+biologically_active_substance	indicator_reagent_or_diagnostic_aid	disease_or_syndrome
+interacts_with	affects
+-1
+-4.0311644077301025
+___
+biologically_active_substance	indicator_reagent_or_diagnostic_aid	pathologic_function
+interacts_with	affects
+-1
+-4.0311644077301025
+___
+biologically_active_substance	indicator_reagent_or_diagnostic_aid	mental_or_behavioral_dysfunction
+interacts_with	affects
+-1
+-4.0311644077301025
+___
+biologically_active_substance	indicator_reagent_or_diagnostic_aid	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-4.0311644077301025
+___
+biologically_active_substance	indicator_reagent_or_diagnostic_aid	biologic_function
+interacts_with	affects
+-1
+-4.0311644077301025
+___
+biologically_active_substance	indicator_reagent_or_diagnostic_aid	neoplastic_process
+interacts_with	affects
+-1
+-4.0311644077301025
+___
+biologically_active_substance	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	adjacent_to
+-1
+-5.926415205001831
+___
+biologically_active_substance	fully_formed_anatomical_structure	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-6.01170015335083
+___
+biologically_active_substance	fully_formed_anatomical_structure	pathologic_function
+disrupts	location_of
+-1
+-6.01170015335083
+___
+biologically_active_substance	fully_formed_anatomical_structure	congenital_abnormality
+disrupts	location_of
+-1
+-6.01170015335083
+___
+biologically_active_substance	fully_formed_anatomical_structure	acquired_abnormality
+disrupts	location_of
+-1
+-6.01170015335083
+___
+biologically_active_substance	fully_formed_anatomical_structure	anatomical_abnormality
+disrupts	location_of
+-1
+-6.01170015335083
+___
+biologically_active_substance	fully_formed_anatomical_structure	neoplastic_process
+disrupts	location_of
+-1
+-6.01170015335083
+___
+biologically_active_substance	fully_formed_anatomical_structure	experimental_model_of_disease
+disrupts	location_of
+-1
+-6.01170015335083
+___
+biologically_active_substance	fully_formed_anatomical_structure	biologic_function
+disrupts	location_of
+-1
+-6.01170015335083
+___
+biologically_active_substance	cell	diagnostic_procedure
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	acquired_abnormality
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	rickettsia_or_chlamydia
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	congenital_abnormality
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	bacterium
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	injury_or_poisoning
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	virus
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	fungus
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	disease_or_syndrome
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	biologic_function
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	anatomical_abnormality
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	experimental_model_of_disease
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	neoplastic_process
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	connected_to
+-1
+-6.633755207061768
+___
+biologically_active_substance	body_part_organ_or_organ_component	body_substance
+disrupts	connected_to
+-1
+-6.633755207061768
+___
+biologically_active_substance	chemical	clinical_drug
+interacts_with	ingredient_of
+-1
+-6.930829763412476
+___
+biologically_active_substance	molecular_function	invertebrate
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	neoplastic_process
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	human
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	virus
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	organism_attribute
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	plant
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	pathologic_function
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	natural_phenomenon_or_process
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	bird
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	organism
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	cell_or_molecular_dysfunction
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	bacterium
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	clinical_attribute
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	fungus
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	biologic_function
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	experimental_model_of_disease
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	fish
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	body_part_organ_or_organ_component	body_substance
+disrupts	consists_of
+-1
+-6.979897737503052
+___
+biologically_active_substance	cell_function	natural_phenomenon_or_process
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	virus
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	cell_or_molecular_dysfunction
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	experimental_model_of_disease
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	archaeon
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	organism
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	plant
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	pathologic_function
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	vertebrate
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	bird
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	organism_attribute
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	invertebrate
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	bacterium
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	fish
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	reptile
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	amphibian
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	fungus
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	animal
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	body_part_organ_or_organ_component	virus
+disrupts	location_of
+-1
+-7.0666663646698
+___
+biologically_active_substance	body_part_organ_or_organ_component	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-7.0666663646698
+___
+biologically_active_substance	body_part_organ_or_organ_component	experimental_model_of_disease
+disrupts	location_of
+-1
+-7.0666663646698
+___
+biologically_active_substance	body_part_organ_or_organ_component	congenital_abnormality
+disrupts	location_of
+-1
+-7.0666663646698
+___
+biologically_active_substance	body_part_organ_or_organ_component	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-7.0666663646698
+___
+biologically_active_substance	body_part_organ_or_organ_component	pathologic_function
+disrupts	location_of
+-1
+-7.0666663646698
+___
+biologically_active_substance	body_part_organ_or_organ_component	rickettsia_or_chlamydia
+disrupts	location_of
+-1
+-7.0666663646698
+___
+biologically_active_substance	body_part_organ_or_organ_component	injury_or_poisoning
+disrupts	location_of
+-1
+-7.0666663646698
+___
+biologically_active_substance	body_part_organ_or_organ_component	bacterium
+disrupts	location_of
+-1
+-7.0666663646698
+___
+biologically_active_substance	body_part_organ_or_organ_component	acquired_abnormality
+disrupts	location_of
+-1
+-7.0666663646698
+___
+biologically_active_substance	body_part_organ_or_organ_component	body_location_or_region
+disrupts	location_of
+-1
+-7.0666663646698
+___
+biologically_active_substance	body_part_organ_or_organ_component	neoplastic_process
+disrupts	location_of
+-1
+-7.0666663646698
+___
+biologically_active_substance	body_part_organ_or_organ_component	anatomical_abnormality
+disrupts	location_of
+-1
+-7.0666663646698
+___
+biologically_active_substance	body_part_organ_or_organ_component	biologic_function
+disrupts	location_of
+-1
+-7.0666663646698
+___
+biologically_active_substance	body_part_organ_or_organ_component	diagnostic_procedure
+disrupts	location_of
+-1
+-7.0666663646698
+___
+biologically_active_substance	body_part_organ_or_organ_component	disease_or_syndrome
+disrupts	location_of
+-1
+-7.0666663646698
+___
+biologically_active_substance	body_part_organ_or_organ_component	therapeutic_or_preventive_procedure
+disrupts	location_of
+-1
+-7.0666663646698
+___
+biologically_active_substance	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	location_of
+-1
+-7.0666663646698
+___
+biologically_active_substance	physiologic_function	pathologic_function
+disrupts	affects
+-1
+-7.099046945571899
+___
+biologically_active_substance	physiologic_function	vertebrate
+disrupts	affects
+-1
+-7.099046945571899
+___
+#####################
+hazardous_or_poisonous_substance	mental_process
+Reward:1
+hazardous_or_poisonous_substance	molecular_function	mental_process
+disrupts	precedes
+1
+-2.7512722986284643
+___
+hazardous_or_poisonous_substance	cell_function	mental_process
+disrupts	precedes
+1
+-2.7513533505843952
+___
+hazardous_or_poisonous_substance	genetic_function	mental_process
+disrupts	precedes
+1
+-2.751683322014287
+___
+hazardous_or_poisonous_substance	gene_or_genome	mental_process
+disrupts	affects
+1
+-2.7632639966905117
+___
+hazardous_or_poisonous_substance	organism_function	mental_process
+disrupts	precedes
+1
+-2.858146920800209
+___
+hazardous_or_poisonous_substance	tissue	body_substance
+disrupts	surrounds
+-1
+-3.000697910785675
+___
+hazardous_or_poisonous_substance	chemical	experimental_model_of_disease
+interacts_with	affects
+-1
+-3.0650469064712524
+___
+hazardous_or_poisonous_substance	chemical	mental_process
+interacts_with	affects
+1
+-3.0650469064712524
+___
+hazardous_or_poisonous_substance	chemical	disease_or_syndrome
+interacts_with	affects
+-1
+-3.0650469064712524
+___
+hazardous_or_poisonous_substance	chemical	pathologic_function
+interacts_with	affects
+-1
+-3.0650469064712524
+___
+hazardous_or_poisonous_substance	chemical	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-3.0650469064712524
+___
+hazardous_or_poisonous_substance	chemical	biologic_function
+interacts_with	affects
+-1
+-3.0650469064712524
+___
+hazardous_or_poisonous_substance	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	adjacent_to
+-1
+-4.959074020385742
+___
+hazardous_or_poisonous_substance	organism_function	mental_process
+disrupts	degree_of
+1
+-5.041301965713501
+___
+hazardous_or_poisonous_substance	fully_formed_anatomical_structure	biologic_function
+disrupts	location_of
+-1
+-5.140393495559692
+___
+hazardous_or_poisonous_substance	fully_formed_anatomical_structure	congenital_abnormality
+disrupts	location_of
+-1
+-5.140393495559692
+___
+hazardous_or_poisonous_substance	fully_formed_anatomical_structure	neoplastic_process
+disrupts	location_of
+-1
+-5.140393495559692
+___
+hazardous_or_poisonous_substance	fully_formed_anatomical_structure	mental_process
+disrupts	location_of
+1
+-5.140393495559692
+___
+hazardous_or_poisonous_substance	fully_formed_anatomical_structure	anatomical_abnormality
+disrupts	location_of
+-1
+-5.140393495559692
+___
+hazardous_or_poisonous_substance	fully_formed_anatomical_structure	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-5.140393495559692
+___
+hazardous_or_poisonous_substance	fully_formed_anatomical_structure	pathologic_function
+disrupts	location_of
+-1
+-5.140393495559692
+___
+hazardous_or_poisonous_substance	fully_formed_anatomical_structure	acquired_abnormality
+disrupts	location_of
+-1
+-5.140393495559692
+___
+hazardous_or_poisonous_substance	fully_formed_anatomical_structure	experimental_model_of_disease
+disrupts	location_of
+-1
+-5.140393495559692
+___
+hazardous_or_poisonous_substance	cell_function	mental_process
+affects	precedes
+1
+-5.355624912146595
+___
+hazardous_or_poisonous_substance	organ_or_tissue_function	mental_process
+affects	precedes
+1
+-5.355630753008882
+___
+hazardous_or_poisonous_substance	genetic_function	mental_process
+affects	precedes
+1
+-5.355636713044078
+___
+hazardous_or_poisonous_substance	organism_function	mental_process
+affects	precedes
+1
+-5.399345017969608
+___
+hazardous_or_poisonous_substance	cell	virus
+disrupts	location_of
+-1
+-5.654328107833862
+___
+hazardous_or_poisonous_substance	cell	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-5.654328107833862
+___
+hazardous_or_poisonous_substance	cell	injury_or_poisoning
+disrupts	location_of
+-1
+-5.654328107833862
+___
+hazardous_or_poisonous_substance	cell	neoplastic_process
+disrupts	location_of
+-1
+-5.654328107833862
+___
+hazardous_or_poisonous_substance	cell	rickettsia_or_chlamydia
+disrupts	location_of
+-1
+-5.654328107833862
+___
+hazardous_or_poisonous_substance	cell	mental_process
+disrupts	location_of
+1
+-5.654328107833862
+___
+hazardous_or_poisonous_substance	cell	experimental_model_of_disease
+disrupts	location_of
+-1
+-5.654328107833862
+___
+hazardous_or_poisonous_substance	cell	fungus
+disrupts	location_of
+-1
+-5.654328107833862
+___
+hazardous_or_poisonous_substance	cell	disease_or_syndrome
+disrupts	location_of
+-1
+-5.654328107833862
+___
+hazardous_or_poisonous_substance	cell	congenital_abnormality
+disrupts	location_of
+-1
+-5.654328107833862
+___
+hazardous_or_poisonous_substance	cell	bacterium
+disrupts	location_of
+-1
+-5.654328107833862
+___
+hazardous_or_poisonous_substance	cell	diagnostic_procedure
+disrupts	location_of
+-1
+-5.654328107833862
+___
+hazardous_or_poisonous_substance	cell	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-5.654328107833862
+___
+hazardous_or_poisonous_substance	cell	biologic_function
+disrupts	location_of
+-1
+-5.654328107833862
+___
+hazardous_or_poisonous_substance	cell	anatomical_abnormality
+disrupts	location_of
+-1
+-5.654328107833862
+___
+hazardous_or_poisonous_substance	cell	acquired_abnormality
+disrupts	location_of
+-1
+-5.654328107833862
+___
+hazardous_or_poisonous_substance	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	connected_to
+-1
+-5.666414022445679
+___
+hazardous_or_poisonous_substance	body_part_organ_or_organ_component	body_substance
+disrupts	connected_to
+-1
+-5.666414022445679
+___
+hazardous_or_poisonous_substance	body_part_organ_or_organ_component	body_substance
+disrupts	consists_of
+-1
+-6.012556552886963
+___
+hazardous_or_poisonous_substance	body_part_organ_or_organ_component	congenital_abnormality
+disrupts	location_of
+-1
+-6.099325180053711
+___
+hazardous_or_poisonous_substance	body_part_organ_or_organ_component	therapeutic_or_preventive_procedure
+disrupts	location_of
+-1
+-6.099325180053711
+___
+hazardous_or_poisonous_substance	body_part_organ_or_organ_component	experimental_model_of_disease
+disrupts	location_of
+-1
+-6.099325180053711
+___
+hazardous_or_poisonous_substance	body_part_organ_or_organ_component	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-6.099325180053711
+___
+hazardous_or_poisonous_substance	body_part_organ_or_organ_component	biologic_function
+disrupts	location_of
+-1
+-6.099325180053711
+___
+hazardous_or_poisonous_substance	body_part_organ_or_organ_component	rickettsia_or_chlamydia
+disrupts	location_of
+-1
+-6.099325180053711
+___
+hazardous_or_poisonous_substance	body_part_organ_or_organ_component	neoplastic_process
+disrupts	location_of
+-1
+-6.099325180053711
+___
+hazardous_or_poisonous_substance	body_part_organ_or_organ_component	anatomical_abnormality
+disrupts	location_of
+-1
+-6.099325180053711
+___
+hazardous_or_poisonous_substance	body_part_organ_or_organ_component	body_location_or_region
+disrupts	location_of
+-1
+-6.099325180053711
+___
+hazardous_or_poisonous_substance	body_part_organ_or_organ_component	injury_or_poisoning
+disrupts	location_of
+-1
+-6.099325180053711
+___
+hazardous_or_poisonous_substance	body_part_organ_or_organ_component	diagnostic_procedure
+disrupts	location_of
+-1
+-6.099325180053711
+___
+hazardous_or_poisonous_substance	body_part_organ_or_organ_component	disease_or_syndrome
+disrupts	location_of
+-1
+-6.099325180053711
+___
+hazardous_or_poisonous_substance	body_part_organ_or_organ_component	bacterium
+disrupts	location_of
+-1
+-6.099325180053711
+___
+hazardous_or_poisonous_substance	body_part_organ_or_organ_component	pathologic_function
+disrupts	location_of
+-1
+-6.099325180053711
+___
+hazardous_or_poisonous_substance	body_part_organ_or_organ_component	virus
+disrupts	location_of
+-1
+-6.099325180053711
+___
+hazardous_or_poisonous_substance	body_part_organ_or_organ_component	acquired_abnormality
+disrupts	location_of
+-1
+-6.099325180053711
+___
+hazardous_or_poisonous_substance	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	location_of
+-1
+-6.099325180053711
+___
+hazardous_or_poisonous_substance	body_part_organ_or_organ_component	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-6.099325180053711
+___
+hazardous_or_poisonous_substance	chemical	clinical_drug
+interacts_with	ingredient_of
+-1
+-6.1434149742126465
+___
+hazardous_or_poisonous_substance	physiologic_function	animal
+disrupts	affects
+-1
+-6.178402662277222
+___
+hazardous_or_poisonous_substance	physiologic_function	pathologic_function
+disrupts	affects
+-1
+-6.178402662277222
+___
+hazardous_or_poisonous_substance	physiologic_function	mental_or_behavioral_dysfunction
+disrupts	affects
+-1
+-6.178402662277222
+___
+hazardous_or_poisonous_substance	physiologic_function	disease_or_syndrome
+disrupts	affects
+-1
+-6.178402662277222
+___
+hazardous_or_poisonous_substance	physiologic_function	clinical_attribute
+disrupts	affects
+-1
+-6.178402662277222
+___
+hazardous_or_poisonous_substance	physiologic_function	invertebrate
+disrupts	affects
+-1
+-6.178402662277222
+___
+hazardous_or_poisonous_substance	physiologic_function	fish
+disrupts	affects
+-1
+-6.178402662277222
+___
+hazardous_or_poisonous_substance	physiologic_function	alga
+disrupts	affects
+-1
+-6.178402662277222
+___
+hazardous_or_poisonous_substance	physiologic_function	organism
+disrupts	affects
+-1
+-6.178402662277222
+___
+hazardous_or_poisonous_substance	physiologic_function	vertebrate
+disrupts	affects
+-1
+-6.178402662277222
+___
+hazardous_or_poisonous_substance	physiologic_function	experimental_model_of_disease
+disrupts	affects
+-1
+-6.178402662277222
+___
+hazardous_or_poisonous_substance	physiologic_function	cell_or_molecular_dysfunction
+disrupts	affects
+-1
+-6.178402662277222
+___
+hazardous_or_poisonous_substance	physiologic_function	mental_process
+disrupts	affects
+1
+-6.178402662277222
+___
+hazardous_or_poisonous_substance	physiologic_function	virus
+disrupts	affects
+-1
+-6.178402662277222
+___
+hazardous_or_poisonous_substance	physiologic_function	amphibian
+disrupts	affects
+-1
+-6.178402662277222
+___
+hazardous_or_poisonous_substance	physiologic_function	bacterium
+disrupts	affects
+-1
+-6.178402662277222
+___
+hazardous_or_poisonous_substance	physiologic_function	neoplastic_process
+disrupts	affects
+-1
+-6.178402662277222
+___
+hazardous_or_poisonous_substance	physiologic_function	human
+disrupts	affects
+-1
+-6.178402662277222
+___
+hazardous_or_poisonous_substance	physiologic_function	reptile
+disrupts	affects
+-1
+-6.178402662277222
+___
+hazardous_or_poisonous_substance	physiologic_function	rickettsia_or_chlamydia
+disrupts	affects
+-1
+-6.178402662277222
+___
+hazardous_or_poisonous_substance	physiologic_function	bird
+disrupts	affects
+-1
+-6.178402662277222
+___
+hazardous_or_poisonous_substance	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	interconnects
+-1
+-6.285125255584717
+___
+hazardous_or_poisonous_substance	fully_formed_anatomical_structure	physical_object
+disrupts	isa
+-1
+-6.732776403427124
+___
+hazardous_or_poisonous_substance	fully_formed_anatomical_structure	entity
+disrupts	isa
+-1
+-6.732776403427124
+___
+hazardous_or_poisonous_substance	fully_formed_anatomical_structure	anatomical_structure
+disrupts	isa
+-1
+-6.732776403427124
+___
+hazardous_or_poisonous_substance	physiologic_function	bacterium
+disrupts	process_of
+-1
+-7.077703952789307
+___
+hazardous_or_poisonous_substance	physiologic_function	organism
+disrupts	process_of
+-1
+-7.077703952789307
+___
+hazardous_or_poisonous_substance	physiologic_function	cell_or_molecular_dysfunction
+disrupts	process_of
+-1
+-7.077703952789307
+___
+hazardous_or_poisonous_substance	physiologic_function	virus
+disrupts	process_of
+-1
+-7.077703952789307
+___
+hazardous_or_poisonous_substance	physiologic_function	biologic_function
+disrupts	process_of
+-1
+-7.077703952789307
+___
+hazardous_or_poisonous_substance	physiologic_function	archaeon
+disrupts	process_of
+-1
+-7.077703952789307
+___
+hazardous_or_poisonous_substance	physiologic_function	mammal
+disrupts	process_of
+-1
+-7.077703952789307
+___
+hazardous_or_poisonous_substance	physiologic_function	plant
+disrupts	process_of
+-1
+-7.077703952789307
+___
+hazardous_or_poisonous_substance	physiologic_function	pathologic_function
+disrupts	process_of
+-1
+-7.077703952789307
+___
+hazardous_or_poisonous_substance	physiologic_function	alga
+disrupts	process_of
+-1
+-7.077703952789307
+___
+#####################
+biologically_active_substance	cell_component
+Reward:1
+biologically_active_substance	vitamin	cell_component
+interacts_with	disrupts
+1
+-2.235481835901737
+___
+biologically_active_substance	hormone	cell_component
+interacts_with	disrupts
+1
+-2.236023785546422
+___
+biologically_active_substance	receptor	cell_component
+interacts_with	disrupts
+1
+-2.2361528677865863
+___
+biologically_active_substance	immunologic_factor	cell_component
+interacts_with	disrupts
+1
+-2.236815291456878
+___
+biologically_active_substance	chemical	disease_or_syndrome
+interacts_with	affects
+-1
+-3.85246205329895
+___
+biologically_active_substance	chemical	pathologic_function
+interacts_with	affects
+-1
+-3.85246205329895
+___
+biologically_active_substance	chemical	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-3.85246205329895
+___
+biologically_active_substance	chemical	biologic_function
+interacts_with	affects
+-1
+-3.85246205329895
+___
+biologically_active_substance	chemical	experimental_model_of_disease
+interacts_with	affects
+-1
+-3.85246205329895
+___
+biologically_active_substance	indicator_reagent_or_diagnostic_aid	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-4.0311644077301025
+___
+biologically_active_substance	indicator_reagent_or_diagnostic_aid	neoplastic_process
+interacts_with	affects
+-1
+-4.0311644077301025
+___
+biologically_active_substance	indicator_reagent_or_diagnostic_aid	mental_or_behavioral_dysfunction
+interacts_with	affects
+-1
+-4.0311644077301025
+___
+biologically_active_substance	indicator_reagent_or_diagnostic_aid	biologic_function
+interacts_with	affects
+-1
+-4.0311644077301025
+___
+biologically_active_substance	indicator_reagent_or_diagnostic_aid	disease_or_syndrome
+interacts_with	affects
+-1
+-4.0311644077301025
+___
+biologically_active_substance	indicator_reagent_or_diagnostic_aid	pathologic_function
+interacts_with	affects
+-1
+-4.0311644077301025
+___
+biologically_active_substance	tissue	body_substance
+disrupts	surrounds
+-1
+-4.536845803260803
+___
+biologically_active_substance	tissue	cell_component
+disrupts	surrounds
+1
+-4.536845803260803
+___
+biologically_active_substance	hazardous_or_poisonous_substance	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-4.826685428619385
+___
+biologically_active_substance	hazardous_or_poisonous_substance	pathologic_function
+interacts_with	affects
+-1
+-4.826685428619385
+___
+biologically_active_substance	hazardous_or_poisonous_substance	natural_phenomenon_or_process
+interacts_with	affects
+-1
+-4.826685428619385
+___
+biologically_active_substance	hazardous_or_poisonous_substance	biologic_function
+interacts_with	affects
+-1
+-4.826685428619385
+___
+biologically_active_substance	hazardous_or_poisonous_substance	neoplastic_process
+interacts_with	affects
+-1
+-4.826685428619385
+___
+biologically_active_substance	hazardous_or_poisonous_substance	experimental_model_of_disease
+interacts_with	affects
+-1
+-4.826685428619385
+___
+biologically_active_substance	hazardous_or_poisonous_substance	mental_or_behavioral_dysfunction
+interacts_with	affects
+-1
+-4.826685428619385
+___
+biologically_active_substance	hazardous_or_poisonous_substance	disease_or_syndrome
+interacts_with	complicates
+-1
+-5.049197196960449
+___
+biologically_active_substance	hazardous_or_poisonous_substance	biologic_function
+interacts_with	complicates
+-1
+-5.049197196960449
+___
+biologically_active_substance	hazardous_or_poisonous_substance	acquired_abnormality
+interacts_with	complicates
+-1
+-5.049197196960449
+___
+biologically_active_substance	hazardous_or_poisonous_substance	injury_or_poisoning
+interacts_with	complicates
+-1
+-5.049197196960449
+___
+biologically_active_substance	hazardous_or_poisonous_substance	cell_or_molecular_dysfunction
+interacts_with	complicates
+-1
+-5.049197196960449
+___
+biologically_active_substance	hazardous_or_poisonous_substance	experimental_model_of_disease
+interacts_with	complicates
+-1
+-5.049197196960449
+___
+biologically_active_substance	hazardous_or_poisonous_substance	pathologic_function
+interacts_with	complicates
+-1
+-5.049197196960449
+___
+biologically_active_substance	hazardous_or_poisonous_substance	mental_or_behavioral_dysfunction
+interacts_with	complicates
+-1
+-5.049197196960449
+___
+biologically_active_substance	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	adjacent_to
+-1
+-5.926415205001831
+___
+biologically_active_substance	fully_formed_anatomical_structure	pathologic_function
+disrupts	location_of
+-1
+-6.01170015335083
+___
+biologically_active_substance	fully_formed_anatomical_structure	biologic_function
+disrupts	location_of
+-1
+-6.01170015335083
+___
+biologically_active_substance	fully_formed_anatomical_structure	anatomical_abnormality
+disrupts	location_of
+-1
+-6.01170015335083
+___
+biologically_active_substance	fully_formed_anatomical_structure	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-6.01170015335083
+___
+biologically_active_substance	fully_formed_anatomical_structure	congenital_abnormality
+disrupts	location_of
+-1
+-6.01170015335083
+___
+biologically_active_substance	fully_formed_anatomical_structure	acquired_abnormality
+disrupts	location_of
+-1
+-6.01170015335083
+___
+biologically_active_substance	fully_formed_anatomical_structure	neoplastic_process
+disrupts	location_of
+-1
+-6.01170015335083
+___
+biologically_active_substance	fully_formed_anatomical_structure	experimental_model_of_disease
+disrupts	location_of
+-1
+-6.01170015335083
+___
+biologically_active_substance	cell	experimental_model_of_disease
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	congenital_abnormality
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	acquired_abnormality
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	neoplastic_process
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	biologic_function
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	injury_or_poisoning
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	fungus
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	virus
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	diagnostic_procedure
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	rickettsia_or_chlamydia
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	bacterium
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	anatomical_abnormality
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	disease_or_syndrome
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	body_part_organ_or_organ_component	body_substance
+disrupts	connected_to
+-1
+-6.633755207061768
+___
+biologically_active_substance	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	connected_to
+-1
+-6.633755207061768
+___
+biologically_active_substance	chemical	clinical_drug
+interacts_with	ingredient_of
+-1
+-6.930829763412476
+___
+biologically_active_substance	molecular_function	human
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	biologic_function
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	bacterium
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	cell_or_molecular_dysfunction
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	bird
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	experimental_model_of_disease
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	clinical_attribute
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	plant
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	virus
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	fungus
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	pathologic_function
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	fish
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	organism
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	natural_phenomenon_or_process
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	organism_attribute
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	neoplastic_process
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	molecular_function	invertebrate
+disrupts	affects
+-1
+-6.975742340087891
+___
+biologically_active_substance	body_part_organ_or_organ_component	body_substance
+disrupts	consists_of
+-1
+-6.979897737503052
+___
+biologically_active_substance	cell_function	fungus
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	cell_or_molecular_dysfunction
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	pathologic_function
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	invertebrate
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	fish
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	animal
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	reptile
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	plant
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	organism_attribute
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	bacterium
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	archaeon
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	bird
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	natural_phenomenon_or_process
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	experimental_model_of_disease
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	vertebrate
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	virus
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	amphibian
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	cell_function	organism
+disrupts	affects
+-1
+-7.029438734054565
+___
+biologically_active_substance	body_part_organ_or_organ_component	anatomical_abnormality
+disrupts	location_of
+-1
+-7.0666663646698
+___
+biologically_active_substance	body_part_organ_or_organ_component	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-7.0666663646698
+___
+biologically_active_substance	body_part_organ_or_organ_component	neoplastic_process
+disrupts	location_of
+-1
+-7.0666663646698
+___
+biologically_active_substance	body_part_organ_or_organ_component	congenital_abnormality
+disrupts	location_of
+-1
+-7.0666663646698
+___
+biologically_active_substance	body_part_organ_or_organ_component	therapeutic_or_preventive_procedure
+disrupts	location_of
+-1
+-7.0666663646698
+___
+#####################
+pharmacologic_substance	organism_function
+Reward:1
+pharmacologic_substance	vitamin	organism_function
+interacts_with	disrupts
+1
+-2.6469780979678035
+___
+pharmacologic_substance	hormone	organism_function
+interacts_with	disrupts
+1
+-2.647519500926137
+___
+pharmacologic_substance	hazardous_or_poisonous_substance	organism_function
+interacts_with	disrupts
+1
+-2.6476289508864284
+___
+pharmacologic_substance	receptor	organism_function
+interacts_with	disrupts
+1
+-2.647648571059108
+___
+pharmacologic_substance	enzyme	organism_function
+interacts_with	disrupts
+1
+-2.6476548351347446
+___
+pharmacologic_substance	immunologic_factor	organism_function
+interacts_with	disrupts
+1
+-2.6478614062070847
+___
+pharmacologic_substance	physiologic_function	organism_function
+disrupts	precedes
+1
+-4.129293098929338
+___
+pharmacologic_substance	organ_or_tissue_function	organism_function
+disrupts	precedes
+1
+-4.12937199336011
+___
+pharmacologic_substance	genetic_function	organism_function
+disrupts	precedes
+1
+-4.1295103705488145
+___
+pharmacologic_substance	gene_or_genome	organism_function
+disrupts	affects
+1
+-4.141992082819343
+___
+pharmacologic_substance	mental_process	organism_function
+disrupts	degree_of
+1
+-4.1433692798018456
+___
+pharmacologic_substance	cell_component	organism_function
+disrupts	affects
+1
+-4.144901471212506
+___
+pharmacologic_substance	chemical	biologic_function
+interacts_with	affects
+-1
+-4.2629477977752686
+___
+pharmacologic_substance	chemical	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-4.2629477977752686
+___
+pharmacologic_substance	chemical	disease_or_syndrome
+interacts_with	affects
+-1
+-4.2629477977752686
+___
+pharmacologic_substance	chemical	experimental_model_of_disease
+interacts_with	affects
+-1
+-4.2629477977752686
+___
+pharmacologic_substance	chemical	pathologic_function
+interacts_with	affects
+-1
+-4.2629477977752686
+___
+pharmacologic_substance	tissue	body_substance
+disrupts	surrounds
+-1
+-4.378525078296661
+___
+pharmacologic_substance	indicator_reagent_or_diagnostic_aid	disease_or_syndrome
+interacts_with	affects
+-1
+-4.594259262084961
+___
+pharmacologic_substance	indicator_reagent_or_diagnostic_aid	neoplastic_process
+interacts_with	affects
+-1
+-4.594259262084961
+___
+pharmacologic_substance	indicator_reagent_or_diagnostic_aid	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-4.594259262084961
+___
+pharmacologic_substance	indicator_reagent_or_diagnostic_aid	organism_function
+interacts_with	affects
+1
+-4.594259262084961
+___
+pharmacologic_substance	indicator_reagent_or_diagnostic_aid	mental_or_behavioral_dysfunction
+interacts_with	affects
+-1
+-4.594259262084961
+___
+pharmacologic_substance	indicator_reagent_or_diagnostic_aid	biologic_function
+interacts_with	affects
+-1
+-4.594259262084961
+___
+pharmacologic_substance	indicator_reagent_or_diagnostic_aid	pathologic_function
+interacts_with	affects
+-1
+-4.594259262084961
+___
+pharmacologic_substance	biomedical_or_dental_material	natural_phenomenon_or_process
+interacts_with	affects
+-1
+-4.595395565032959
+___
+pharmacologic_substance	biomedical_or_dental_material	pathologic_function
+interacts_with	affects
+-1
+-4.595395565032959
+___
+pharmacologic_substance	biomedical_or_dental_material	organism_function
+interacts_with	affects
+1
+-4.595395565032959
+___
+pharmacologic_substance	biomedical_or_dental_material	experimental_model_of_disease
+interacts_with	affects
+-1
+-4.595395565032959
+___
+pharmacologic_substance	biomedical_or_dental_material	mental_or_behavioral_dysfunction
+interacts_with	affects
+-1
+-4.595395565032959
+___
+pharmacologic_substance	biomedical_or_dental_material	disease_or_syndrome
+interacts_with	affects
+-1
+-4.595395565032959
+___
+pharmacologic_substance	biomedical_or_dental_material	neoplastic_process
+interacts_with	affects
+-1
+-4.595395565032959
+___
+pharmacologic_substance	biologically_active_substance	disease_or_syndrome
+interacts_with	affects
+-1
+-5.452999591827393
+___
+pharmacologic_substance	biologically_active_substance	organism_function
+interacts_with	affects
+1
+-5.452999591827393
+___
+pharmacologic_substance	biologically_active_substance	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-5.452999591827393
+___
+pharmacologic_substance	biologically_active_substance	biologic_function
+interacts_with	affects
+-1
+-5.452999591827393
+___
+pharmacologic_substance	biologically_active_substance	experimental_model_of_disease
+interacts_with	affects
+-1
+-5.452999591827393
+___
+pharmacologic_substance	biologically_active_substance	neoplastic_process
+interacts_with	affects
+-1
+-5.452999591827393
+___
+pharmacologic_substance	biologically_active_substance	natural_phenomenon_or_process
+interacts_with	affects
+-1
+-5.452999591827393
+___
+pharmacologic_substance	antibiotic	disease_or_syndrome
+interacts_with	affects
+-1
+-5.51710844039917
+___
+pharmacologic_substance	antibiotic	organism_function
+interacts_with	affects
+1
+-5.51710844039917
+___
+pharmacologic_substance	antibiotic	experimental_model_of_disease
+interacts_with	affects
+-1
+-5.51710844039917
+___
+pharmacologic_substance	antibiotic	mental_or_behavioral_dysfunction
+interacts_with	affects
+-1
+-5.51710844039917
+___
+pharmacologic_substance	antibiotic	pathologic_function
+interacts_with	affects
+-1
+-5.51710844039917
+___
+pharmacologic_substance	antibiotic	biologic_function
+interacts_with	affects
+-1
+-5.51710844039917
+___
+pharmacologic_substance	biologically_active_substance	anatomical_abnormality
+interacts_with	complicates
+-1
+-5.675511360168457
+___
+pharmacologic_substance	biologically_active_substance	experimental_model_of_disease
+interacts_with	complicates
+-1
+-5.675511360168457
+___
+pharmacologic_substance	biologically_active_substance	acquired_abnormality
+interacts_with	complicates
+-1
+-5.675511360168457
+___
+pharmacologic_substance	biologically_active_substance	disease_or_syndrome
+interacts_with	complicates
+-1
+-5.675511360168457
+___
+pharmacologic_substance	biologically_active_substance	biologic_function
+interacts_with	complicates
+-1
+-5.675511360168457
+___
+pharmacologic_substance	biologically_active_substance	organism_function
+interacts_with	complicates
+1
+-5.675511360168457
+___
+pharmacologic_substance	biologically_active_substance	cell_or_molecular_dysfunction
+interacts_with	complicates
+-1
+-5.675511360168457
+___
+pharmacologic_substance	biologically_active_substance	pathologic_function
+interacts_with	complicates
+-1
+-5.675511360168457
+___
+pharmacologic_substance	biologically_active_substance	mental_or_behavioral_dysfunction
+interacts_with	complicates
+-1
+-5.675511360168457
+___
+pharmacologic_substance	biologically_active_substance	injury_or_poisoning
+interacts_with	complicates
+-1
+-5.675511360168457
+___
+pharmacologic_substance	biologically_active_substance	congenital_abnormality
+interacts_with	complicates
+-1
+-5.675511360168457
+___
+pharmacologic_substance	biologically_active_substance	neoplastic_process
+interacts_with	complicates
+-1
+-5.675511360168457
+___
+pharmacologic_substance	antibiotic	experimental_model_of_disease
+interacts_with	complicates
+-1
+-5.739620208740234
+___
+pharmacologic_substance	antibiotic	congenital_abnormality
+interacts_with	complicates
+-1
+-5.739620208740234
+___
+pharmacologic_substance	antibiotic	organism_function
+interacts_with	complicates
+1
+-5.739620208740234
+___
+pharmacologic_substance	antibiotic	biologic_function
+interacts_with	complicates
+-1
+-5.739620208740234
+___
+pharmacologic_substance	antibiotic	disease_or_syndrome
+interacts_with	complicates
+-1
+-5.739620208740234
+___
+pharmacologic_substance	antibiotic	neoplastic_process
+interacts_with	complicates
+-1
+-5.739620208740234
+___
+pharmacologic_substance	antibiotic	pathologic_function
+interacts_with	complicates
+-1
+-5.739620208740234
+___
+pharmacologic_substance	antibiotic	cell_or_molecular_dysfunction
+interacts_with	complicates
+-1
+-5.739620208740234
+___
+pharmacologic_substance	antibiotic	injury_or_poisoning
+interacts_with	complicates
+-1
+-5.739620208740234
+___
+pharmacologic_substance	antibiotic	mental_or_behavioral_dysfunction
+interacts_with	complicates
+-1
+-5.739620208740234
+___
+pharmacologic_substance	antibiotic	cell_or_molecular_dysfunction
+interacts_with	prevents
+-1
+-5.776437044143677
+___
+pharmacologic_substance	antibiotic	experimental_model_of_disease
+interacts_with	prevents
+-1
+-5.776437044143677
+___
+pharmacologic_substance	antibiotic	neoplastic_process
+interacts_with	prevents
+-1
+-5.776437044143677
+___
+pharmacologic_substance	antibiotic	mental_or_behavioral_dysfunction
+interacts_with	prevents
+-1
+-5.776437044143677
+___
+pharmacologic_substance	embryonic_structure	disease_or_syndrome
+disrupts	location_of
+-1
+-6.197387456893921
+___
+pharmacologic_substance	embryonic_structure	pathologic_function
+disrupts	location_of
+-1
+-6.197387456893921
+___
+pharmacologic_substance	embryonic_structure	neoplastic_process
+disrupts	location_of
+-1
+-6.197387456893921
+___
+pharmacologic_substance	embryonic_structure	biologic_function
+disrupts	location_of
+-1
+-6.197387456893921
+___
+pharmacologic_substance	embryonic_structure	bacterium
+disrupts	location_of
+-1
+-6.197387456893921
+___
+pharmacologic_substance	embryonic_structure	organism_function
+disrupts	location_of
+1
+-6.197387456893921
+___
+pharmacologic_substance	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	adjacent_to
+-1
+-6.371397256851196
+___
+pharmacologic_substance	fully_formed_anatomical_structure	acquired_abnormality
+disrupts	location_of
+-1
+-6.4221861362457275
+___
+pharmacologic_substance	fully_formed_anatomical_structure	experimental_model_of_disease
+disrupts	location_of
+-1
+-6.4221861362457275
+___
+pharmacologic_substance	fully_formed_anatomical_structure	biologic_function
+disrupts	location_of
+-1
+-6.4221861362457275
+___
+pharmacologic_substance	fully_formed_anatomical_structure	congenital_abnormality
+disrupts	location_of
+-1
+-6.4221861362457275
+___
+pharmacologic_substance	fully_formed_anatomical_structure	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-6.4221861362457275
+___
+pharmacologic_substance	fully_formed_anatomical_structure	pathologic_function
+disrupts	location_of
+-1
+-6.4221861362457275
+___
+pharmacologic_substance	fully_formed_anatomical_structure	neoplastic_process
+disrupts	location_of
+-1
+-6.4221861362457275
+___
+pharmacologic_substance	fully_formed_anatomical_structure	anatomical_abnormality
+disrupts	location_of
+-1
+-6.4221861362457275
+___
+pharmacologic_substance	cell_function	organism_function
+affects	precedes
+1
+-6.733450887608342
+___
+pharmacologic_substance	physiologic_function	organism_function
+affects	precedes
+1
+-6.733454940462252
+___
+pharmacologic_substance	organ_or_tissue_function	organism_function
+affects	precedes
+1
+-6.733456847679918
+___
+pharmacologic_substance	genetic_function	organism_function
+affects	precedes
+1
+-6.733463284515892
+___
+pharmacologic_substance	mental_process	organism_function
+affects	degree_of
+1
+-6.7348790967371315
+___
+pharmacologic_substance	cell	organism_function
+disrupts	location_of
+1
+-7.032155275344849
+___
+pharmacologic_substance	cell	virus
+disrupts	location_of
+-1
+-7.032155275344849
+___
+pharmacologic_substance	cell	neoplastic_process
+disrupts	location_of
+-1
+-7.032155275344849
+___
+pharmacologic_substance	cell	acquired_abnormality
+disrupts	location_of
+-1
+-7.032155275344849
+___
+pharmacologic_substance	cell	congenital_abnormality
+disrupts	location_of
+-1
+-7.032155275344849
+___
+pharmacologic_substance	cell	rickettsia_or_chlamydia
+disrupts	location_of
+-1
+-7.032155275344849
+___
+pharmacologic_substance	cell	injury_or_poisoning
+disrupts	location_of
+-1
+-7.032155275344849
+___
+pharmacologic_substance	cell	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-7.032155275344849
+___
+pharmacologic_substance	cell	experimental_model_of_disease
+disrupts	location_of
+-1
+-7.032155275344849
+___
+#####################
+biologically_active_substance	organ_or_tissue_function
+Reward:1
+biologically_active_substance	hormone	organ_or_tissue_function
+interacts_with	disrupts
+1
+-2.2370336381718516
+___
+biologically_active_substance	receptor	organ_or_tissue_function
+interacts_with	disrupts
+1
+-2.2371628265827894
+___
+biologically_active_substance	immunologic_factor	organ_or_tissue_function
+interacts_with	disrupts
+1
+-2.2378242276608944
+___
+biologically_active_substance	cell_function	organ_or_tissue_function
+disrupts	precedes
+1
+-3.718695130199194
+___
+biologically_active_substance	genetic_function	organ_or_tissue_function
+disrupts	precedes
+1
+-3.7190014253137633
+___
+biologically_active_substance	mental_process	organ_or_tissue_function
+disrupts	co-occurs_with
+1
+-3.818054251372814
+___
+biologically_active_substance	chemical	experimental_model_of_disease
+interacts_with	affects
+-1
+-3.85246205329895
+___
+biologically_active_substance	chemical	biologic_function
+interacts_with	affects
+-1
+-3.85246205329895
+___
+biologically_active_substance	chemical	disease_or_syndrome
+interacts_with	affects
+-1
+-3.85246205329895
+___
+biologically_active_substance	chemical	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-3.85246205329895
+___
+biologically_active_substance	chemical	pathologic_function
+interacts_with	affects
+-1
+-3.85246205329895
+___
+biologically_active_substance	tissue	body_substance
+disrupts	surrounds
+-1
+-3.968039095401764
+___
+biologically_active_substance	indicator_reagent_or_diagnostic_aid	biologic_function
+interacts_with	affects
+-1
+-4.183773517608643
+___
+biologically_active_substance	indicator_reagent_or_diagnostic_aid	pathologic_function
+interacts_with	affects
+-1
+-4.183773517608643
+___
+biologically_active_substance	indicator_reagent_or_diagnostic_aid	mental_or_behavioral_dysfunction
+interacts_with	affects
+-1
+-4.183773517608643
+___
+biologically_active_substance	indicator_reagent_or_diagnostic_aid	organ_or_tissue_function
+interacts_with	affects
+1
+-4.183773517608643
+___
+biologically_active_substance	indicator_reagent_or_diagnostic_aid	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-4.183773517608643
+___
+biologically_active_substance	indicator_reagent_or_diagnostic_aid	disease_or_syndrome
+interacts_with	affects
+-1
+-4.183773517608643
+___
+biologically_active_substance	indicator_reagent_or_diagnostic_aid	neoplastic_process
+interacts_with	affects
+-1
+-4.183773517608643
+___
+biologically_active_substance	vitamin	pathologic_function
+interacts_with	affects
+-1
+-4.873196601867676
+___
+biologically_active_substance	vitamin	disease_or_syndrome
+interacts_with	affects
+-1
+-4.873196601867676
+___
+biologically_active_substance	vitamin	organ_or_tissue_function
+interacts_with	affects
+1
+-4.873196601867676
+___
+biologically_active_substance	vitamin	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-4.873196601867676
+___
+biologically_active_substance	vitamin	mental_or_behavioral_dysfunction
+interacts_with	affects
+-1
+-4.873196601867676
+___
+biologically_active_substance	vitamin	experimental_model_of_disease
+interacts_with	affects
+-1
+-4.873196601867676
+___
+biologically_active_substance	hazardous_or_poisonous_substance	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-4.952420234680176
+___
+biologically_active_substance	hazardous_or_poisonous_substance	organ_or_tissue_function
+interacts_with	affects
+1
+-4.952420234680176
+___
+biologically_active_substance	hazardous_or_poisonous_substance	pathologic_function
+interacts_with	affects
+-1
+-4.952420234680176
+___
+biologically_active_substance	hazardous_or_poisonous_substance	biologic_function
+interacts_with	affects
+-1
+-4.952420234680176
+___
+biologically_active_substance	hazardous_or_poisonous_substance	experimental_model_of_disease
+interacts_with	affects
+-1
+-4.952420234680176
+___
+biologically_active_substance	hazardous_or_poisonous_substance	neoplastic_process
+interacts_with	affects
+-1
+-4.952420234680176
+___
+biologically_active_substance	hazardous_or_poisonous_substance	mental_or_behavioral_dysfunction
+interacts_with	affects
+-1
+-4.952420234680176
+___
+biologically_active_substance	hazardous_or_poisonous_substance	natural_phenomenon_or_process
+interacts_with	affects
+-1
+-4.952420234680176
+___
+biologically_active_substance	vitamin	disease_or_syndrome
+interacts_with	complicates
+-1
+-5.09570837020874
+___
+biologically_active_substance	vitamin	neoplastic_process
+interacts_with	complicates
+-1
+-5.09570837020874
+___
+biologically_active_substance	vitamin	injury_or_poisoning
+interacts_with	complicates
+-1
+-5.09570837020874
+___
+biologically_active_substance	vitamin	anatomical_abnormality
+interacts_with	complicates
+-1
+-5.09570837020874
+___
+biologically_active_substance	vitamin	experimental_model_of_disease
+interacts_with	complicates
+-1
+-5.09570837020874
+___
+biologically_active_substance	vitamin	acquired_abnormality
+interacts_with	complicates
+-1
+-5.09570837020874
+___
+biologically_active_substance	vitamin	organ_or_tissue_function
+interacts_with	complicates
+1
+-5.09570837020874
+___
+biologically_active_substance	vitamin	mental_or_behavioral_dysfunction
+interacts_with	complicates
+-1
+-5.09570837020874
+___
+biologically_active_substance	vitamin	pathologic_function
+interacts_with	complicates
+-1
+-5.09570837020874
+___
+biologically_active_substance	vitamin	biologic_function
+interacts_with	complicates
+-1
+-5.09570837020874
+___
+biologically_active_substance	hazardous_or_poisonous_substance	organ_or_tissue_function
+interacts_with	complicates
+1
+-5.17493200302124
+___
+biologically_active_substance	hazardous_or_poisonous_substance	experimental_model_of_disease
+interacts_with	complicates
+-1
+-5.17493200302124
+___
+biologically_active_substance	hazardous_or_poisonous_substance	injury_or_poisoning
+interacts_with	complicates
+-1
+-5.17493200302124
+___
+biologically_active_substance	hazardous_or_poisonous_substance	biologic_function
+interacts_with	complicates
+-1
+-5.17493200302124
+___
+biologically_active_substance	hazardous_or_poisonous_substance	cell_or_molecular_dysfunction
+interacts_with	complicates
+-1
+-5.17493200302124
+___
+biologically_active_substance	hazardous_or_poisonous_substance	pathologic_function
+interacts_with	complicates
+-1
+-5.17493200302124
+___
+biologically_active_substance	hazardous_or_poisonous_substance	disease_or_syndrome
+interacts_with	complicates
+-1
+-5.17493200302124
+___
+biologically_active_substance	hazardous_or_poisonous_substance	mental_or_behavioral_dysfunction
+interacts_with	complicates
+-1
+-5.17493200302124
+___
+biologically_active_substance	hazardous_or_poisonous_substance	acquired_abnormality
+interacts_with	complicates
+-1
+-5.17493200302124
+___
+biologically_active_substance	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	adjacent_to
+-1
+-5.926415205001831
+___
+biologically_active_substance	fully_formed_anatomical_structure	anatomical_abnormality
+disrupts	location_of
+-1
+-6.107734680175781
+___
+biologically_active_substance	fully_formed_anatomical_structure	congenital_abnormality
+disrupts	location_of
+-1
+-6.107734680175781
+___
+biologically_active_substance	fully_formed_anatomical_structure	neoplastic_process
+disrupts	location_of
+-1
+-6.107734680175781
+___
+biologically_active_substance	fully_formed_anatomical_structure	organ_or_tissue_function
+disrupts	location_of
+1
+-6.107734680175781
+___
+biologically_active_substance	fully_formed_anatomical_structure	biologic_function
+disrupts	location_of
+-1
+-6.107734680175781
+___
+biologically_active_substance	fully_formed_anatomical_structure	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-6.107734680175781
+___
+biologically_active_substance	fully_formed_anatomical_structure	acquired_abnormality
+disrupts	location_of
+-1
+-6.107734680175781
+___
+biologically_active_substance	fully_formed_anatomical_structure	pathologic_function
+disrupts	location_of
+-1
+-6.107734680175781
+___
+biologically_active_substance	fully_formed_anatomical_structure	experimental_model_of_disease
+disrupts	location_of
+-1
+-6.107734680175781
+___
+biologically_active_substance	cell_function	organ_or_tissue_function
+affects	precedes
+1
+-6.322966454376001
+___
+biologically_active_substance	genetic_function	organ_or_tissue_function
+affects	precedes
+1
+-6.322976824871148
+___
+biologically_active_substance	organism_function	organ_or_tissue_function
+affects	precedes
+1
+-6.33052275609225
+___
+biologically_active_substance	mental_process	organ_or_tissue_function
+affects	co-occurs_with
+1
+-6.331518264487386
+___
+biologically_active_substance	cell	bacterium
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	experimental_model_of_disease
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	virus
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	fungus
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	biologic_function
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	injury_or_poisoning
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	neoplastic_process
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	acquired_abnormality
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	congenital_abnormality
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	rickettsia_or_chlamydia
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	anatomical_abnormality
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	disease_or_syndrome
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	cell	diagnostic_procedure
+disrupts	location_of
+-1
+-6.56534218788147
+___
+biologically_active_substance	body_part_organ_or_organ_component	body_substance
+disrupts	connected_to
+-1
+-6.633755207061768
+___
+biologically_active_substance	body_part_organ_or_organ_component	body_space_or_junction
+disrupts	connected_to
+-1
+-6.633755207061768
+___
+biologically_active_substance	chemical	clinical_drug
+interacts_with	ingredient_of
+-1
+-6.930829763412476
+___
+biologically_active_substance	body_part_organ_or_organ_component	body_substance
+disrupts	consists_of
+-1
+-6.979897737503052
+___
+biologically_active_substance	molecular_function	organism_attribute
+disrupts	affects
+-1
+-7.02866792678833
+___
+biologically_active_substance	molecular_function	organism
+disrupts	affects
+-1
+-7.02866792678833
+___
+biologically_active_substance	molecular_function	biologic_function
+disrupts	affects
+-1
+-7.02866792678833
+___
+biologically_active_substance	molecular_function	bird
+disrupts	affects
+-1
+-7.02866792678833
+___
+biologically_active_substance	molecular_function	plant
+disrupts	affects
+-1
+-7.02866792678833
+___
+biologically_active_substance	molecular_function	invertebrate
+disrupts	affects
+-1
+-7.02866792678833
+___
+biologically_active_substance	molecular_function	bacterium
+disrupts	affects
+-1
+-7.02866792678833
+___
+biologically_active_substance	molecular_function	natural_phenomenon_or_process
+disrupts	affects
+-1
+-7.02866792678833
+___
+biologically_active_substance	molecular_function	fungus
+disrupts	affects
+-1
+-7.02866792678833
+___
+biologically_active_substance	molecular_function	fish
+disrupts	affects
+-1
+-7.02866792678833
+___
+biologically_active_substance	molecular_function	pathologic_function
+disrupts	affects
+-1
+-7.02866792678833
+___
+biologically_active_substance	molecular_function	cell_or_molecular_dysfunction
+disrupts	affects
+-1
+-7.02866792678833
+___
+biologically_active_substance	molecular_function	clinical_attribute
+disrupts	affects
+-1
+-7.02866792678833
+___
+biologically_active_substance	molecular_function	organ_or_tissue_function
+disrupts	affects
+1
+-7.02866792678833
+___
+biologically_active_substance	molecular_function	human
+disrupts	affects
+-1
+-7.02866792678833
+___
+#####################
+enzyme	tissue
+Reward:1
+enzyme	hazardous_or_poisonous_substance	tissue
+interacts_with	disrupts
+1
+-2.058138736989349
+___
+enzyme	receptor	tissue
+interacts_with	disrupts
+1
+-2.0581582579761744
+___
+enzyme	immunologic_factor	tissue
+interacts_with	disrupts
+1
+-2.0588203268125653
+___
+enzyme	chemical	experimental_model_of_disease
+interacts_with	affects
+-1
+-3.6744673252105713
+___
+enzyme	chemical	pathologic_function
+interacts_with	affects
+-1
+-3.6744673252105713
+___
+enzyme	chemical	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-3.6744673252105713
+___
+enzyme	chemical	biologic_function
+interacts_with	affects
+-1
+-3.6744673252105713
+___
+enzyme	chemical	disease_or_syndrome
+interacts_with	affects
+-1
+-3.6744673252105713
+___
+enzyme	indicator_reagent_or_diagnostic_aid	neoplastic_process
+interacts_with	affects
+-1
+-3.8531696796417236
+___
+enzyme	indicator_reagent_or_diagnostic_aid	cell_or_molecular_dysfunction
+interacts_with	affects
+-1
+-3.8531696796417236
+___
+enzyme	indicator_reagent_or_diagnostic_aid	mental_or_behavioral_dysfunction
+interacts_with	affects
+-1
+-3.8531696796417236
+___
+enzyme	indicator_reagent_or_diagnostic_aid	biologic_function
+interacts_with	affects
+-1
+-3.8531696796417236
+___
+enzyme	indicator_reagent_or_diagnostic_aid	pathologic_function
+interacts_with	affects
+-1
+-3.8531696796417236
+___
+enzyme	indicator_reagent_or_diagnostic_aid	disease_or_syndrome
+interacts_with	affects
+-1
+-3.8531696796417236
+___
+enzyme	body_part_organ_or_organ_component	tissue
+disrupts	surrounds
+1
+-3.9486639499664307
+___
+enzyme	cell_component	body_space_or_junction
+disrupts	adjacent_to
+-1
+-5.304664611816406
+___
+enzyme	fully_formed_anatomical_structure	acquired_abnormality
+disrupts	location_of
+-1
+-5.833705425262451
+___
+enzyme	fully_formed_anatomical_structure	neoplastic_process
+disrupts	location_of
+-1
+-5.833705425262451
+___
+enzyme	fully_formed_anatomical_structure	anatomical_abnormality
+disrupts	location_of
+-1
+-5.833705425262451
+___
+enzyme	fully_formed_anatomical_structure	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-5.833705425262451
+___
+enzyme	fully_formed_anatomical_structure	biologic_function
+disrupts	location_of
+-1
+-5.833705425262451
+___
+enzyme	fully_formed_anatomical_structure	experimental_model_of_disease
+disrupts	location_of
+-1
+-5.833705425262451
+___
+enzyme	fully_formed_anatomical_structure	congenital_abnormality
+disrupts	location_of
+-1
+-5.833705425262451
+___
+enzyme	fully_formed_anatomical_structure	pathologic_function
+disrupts	location_of
+-1
+-5.833705425262451
+___
+enzyme	gene_or_genome	biologic_function
+disrupts	location_of
+-1
+-6.2427942752838135
+___
+enzyme	gene_or_genome	acquired_abnormality
+disrupts	location_of
+-1
+-6.2427942752838135
+___
+enzyme	gene_or_genome	bacterium
+disrupts	location_of
+-1
+-6.2427942752838135
+___
+enzyme	gene_or_genome	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-6.2427942752838135
+___
+enzyme	gene_or_genome	pathologic_function
+disrupts	location_of
+-1
+-6.2427942752838135
+___
+enzyme	gene_or_genome	neoplastic_process
+disrupts	location_of
+-1
+-6.2427942752838135
+___
+enzyme	gene_or_genome	injury_or_poisoning
+disrupts	location_of
+-1
+-6.2427942752838135
+___
+enzyme	gene_or_genome	congenital_abnormality
+disrupts	location_of
+-1
+-6.2427942752838135
+___
+enzyme	gene_or_genome	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-6.2427942752838135
+___
+enzyme	gene_or_genome	rickettsia_or_chlamydia
+disrupts	location_of
+-1
+-6.2427942752838135
+___
+enzyme	gene_or_genome	disease_or_syndrome
+disrupts	location_of
+-1
+-6.2427942752838135
+___
+enzyme	gene_or_genome	anatomical_abnormality
+disrupts	location_of
+-1
+-6.2427942752838135
+___
+enzyme	gene_or_genome	fungus
+disrupts	location_of
+-1
+-6.2427942752838135
+___
+enzyme	cell	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-6.393641233444214
+___
+enzyme	cell	injury_or_poisoning
+disrupts	location_of
+-1
+-6.393641233444214
+___
+enzyme	cell	neoplastic_process
+disrupts	location_of
+-1
+-6.393641233444214
+___
+enzyme	cell	virus
+disrupts	location_of
+-1
+-6.393641233444214
+___
+enzyme	cell	rickettsia_or_chlamydia
+disrupts	location_of
+-1
+-6.393641233444214
+___
+enzyme	cell	experimental_model_of_disease
+disrupts	location_of
+-1
+-6.393641233444214
+___
+enzyme	cell	anatomical_abnormality
+disrupts	location_of
+-1
+-6.393641233444214
+___
+enzyme	cell	disease_or_syndrome
+disrupts	location_of
+-1
+-6.393641233444214
+___
+enzyme	cell	diagnostic_procedure
+disrupts	location_of
+-1
+-6.393641233444214
+___
+enzyme	cell	fungus
+disrupts	location_of
+-1
+-6.393641233444214
+___
+enzyme	cell	biologic_function
+disrupts	location_of
+-1
+-6.393641233444214
+___
+enzyme	cell	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-6.393641233444214
+___
+enzyme	cell	congenital_abnormality
+disrupts	location_of
+-1
+-6.393641233444214
+___
+enzyme	cell	acquired_abnormality
+disrupts	location_of
+-1
+-6.393641233444214
+___
+enzyme	cell	bacterium
+disrupts	location_of
+-1
+-6.393641233444214
+___
+enzyme	cell_component	neoplastic_process
+disrupts	location_of
+-1
+-6.444915771484375
+___
+enzyme	cell_component	acquired_abnormality
+disrupts	location_of
+-1
+-6.444915771484375
+___
+enzyme	cell_component	bacterium
+disrupts	location_of
+-1
+-6.444915771484375
+___
+enzyme	cell_component	injury_or_poisoning
+disrupts	location_of
+-1
+-6.444915771484375
+___
+enzyme	cell_component	disease_or_syndrome
+disrupts	location_of
+-1
+-6.444915771484375
+___
+enzyme	cell_component	fungus
+disrupts	location_of
+-1
+-6.444915771484375
+___
+enzyme	cell_component	therapeutic_or_preventive_procedure
+disrupts	location_of
+-1
+-6.444915771484375
+___
+enzyme	cell_component	mental_or_behavioral_dysfunction
+disrupts	location_of
+-1
+-6.444915771484375
+___
+enzyme	cell_component	cell_or_molecular_dysfunction
+disrupts	location_of
+-1
+-6.444915771484375
+___
+enzyme	cell_component	virus
+disrupts	location_of
+-1
+-6.444915771484375
+___
+enzyme	cell_component	rickettsia_or_chlamydia
+disrupts	location_of
+-1
+-6.444915771484375
+___
+enzyme	cell_component	diagnostic_procedure
+disrupts	location_of
+-1
+-6.444915771484375
+___
+enzyme	cell_component	anatomical_abnormality
+disrupts	location_of
+-1
+-6.444915771484375
+___
+enzyme	chemical	clinical_drug
+interacts_with	ingredient_of
+-1
+-6.752835035324097
+___
+enzyme	molecular_function	invertebrate
+disrupts	affects
+-1
+-6.797747611999512
+___
+enzyme	molecular_function	cell_or_molecular_dysfunction
+disrupts	affects
+-1
+-6.797747611999512
+___
+enzyme	molecular_function	plant
+disrupts	affects
+-1
+-6.797747611999512
+___
+enzyme	molecular_function	bird
+disrupts	affects
+-1
+-6.797747611999512
+___
+enzyme	molecular_function	organism_attribute
+disrupts	affects
+-1
+-6.797747611999512
+___
+enzyme	molecular_function	human
+disrupts	affects
+-1
+-6.797747611999512
+___
+enzyme	molecular_function	biologic_function
+disrupts	affects
+-1
+-6.797747611999512
+___
+enzyme	molecular_function	experimental_model_of_disease
+disrupts	affects
+-1
+-6.797747611999512
+___
+enzyme	molecular_function	neoplastic_process
+disrupts	affects
+-1
+-6.797747611999512
+___
+enzyme	molecular_function	bacterium
+disrupts	affects
+-1
+-6.797747611999512
+___
+enzyme	molecular_function	clinical_attribute
+disrupts	affects
+-1
+-6.797747611999512
+___
+enzyme	molecular_function	organism
+disrupts	affects
+-1
+-6.797747611999512
+___
+enzyme	molecular_function	natural_phenomenon_or_process
+disrupts	affects
+-1
+-6.797747611999512
+___
+enzyme	molecular_function	fungus
+disrupts	affects
+-1
+-6.797747611999512
+___
+enzyme	molecular_function	fish
+disrupts	affects
+-1
+-6.797747611999512
+___
+enzyme	molecular_function	virus
+disrupts	affects
+-1
+-6.797747611999512
+___
+enzyme	molecular_function	pathologic_function
+disrupts	affects
+-1
+-6.797747611999512
+___
+enzyme	physiologic_function	human
+disrupts	affects
+-1
+-6.9210522174835205
+___
+enzyme	physiologic_function	disease_or_syndrome
+disrupts	affects
+-1
+-6.9210522174835205
+___
+enzyme	physiologic_function	bird
+disrupts	affects
+-1
+-6.9210522174835205
+___
+enzyme	physiologic_function	rickettsia_or_chlamydia
+disrupts	affects
+-1
+-6.9210522174835205
+___
+enzyme	physiologic_function	bacterium
+disrupts	affects
+-1
+-6.9210522174835205
+___
+enzyme	physiologic_function	clinical_attribute
+disrupts	affects
+-1
+-6.9210522174835205
+___
+enzyme	physiologic_function	neoplastic_process
+disrupts	affects
+-1
+-6.9210522174835205
+___
+enzyme	physiologic_function	cell_or_molecular_dysfunction
+disrupts	affects
+-1
+-6.9210522174835205
+___
+enzyme	physiologic_function	virus
+disrupts	affects
+-1
+-6.9210522174835205
+___
+enzyme	physiologic_function	alga
+disrupts	affects
+-1
+-6.9210522174835205
+___
+enzyme	physiologic_function	invertebrate
+disrupts	affects
+-1
+-6.9210522174835205
+___
+enzyme	physiologic_function	organism
+disrupts	affects
+-1
+-6.9210522174835205
+___
+enzyme	physiologic_function	pathologic_function
+disrupts	affects
+-1
+-6.9210522174835205
+___
+enzyme	physiologic_function	experimental_model_of_disease
+disrupts	affects
+-1
+-6.9210522174835205
+___
+enzyme	physiologic_function	fish
+disrupts	affects
+-1
+-6.9210522174835205
+___
+enzyme	physiologic_function	mental_or_behavioral_dysfunction
+disrupts	affects
+-1
+-6.9210522174835205
+___
+enzyme	physiologic_function	vertebrate
+disrupts	affects
+-1
+-6.9210522174835205
+___
+#####################

@@ -1,0 +1,168 @@
+Score for iteration 100
+Hits@1:  0.5752
+Hits@3:  0.7393
+Hits@5:  0.7883
+Hits@10:  0.8221
+Hits@20:  0.8650
+auc:  0.6692
+
+Score for iteration 200
+Hits@1:  0.6534
+Hits@3:  0.7914
+Hits@5:  0.8236
+Hits@10:  0.8543
+Hits@20:  0.8896
+auc:  0.7281
+
+Score for iteration 300
+Hits@1:  0.6856
+Hits@3:  0.8037
+Hits@5:  0.8390
+Hits@10:  0.8696
+Hits@20:  0.8865
+auc:  0.7535
+
+Score for iteration 400
+Hits@1:  0.6656
+Hits@3:  0.8405
+Hits@5:  0.8666
+Hits@10:  0.8911
+Hits@20:  0.9156
+auc:  0.7616
+
+Score for iteration 500
+Hits@1:  0.7025
+Hits@3:  0.8466
+Hits@5:  0.8727
+Hits@10:  0.8942
+Hits@20:  0.9187
+auc:  0.7829
+
+Score for iteration 600
+Hits@1:  0.7055
+Hits@3:  0.8574
+Hits@5:  0.8788
+Hits@10:  0.8988
+Hits@20:  0.9187
+auc:  0.7849
+
+Score for iteration 700
+Hits@1:  0.6963
+Hits@3:  0.8221
+Hits@5:  0.8880
+Hits@10:  0.9018
+Hits@20:  0.9218
+auc:  0.7734
+
+Score for iteration 800
+Hits@1:  0.7117
+Hits@3:  0.8666
+Hits@5:  0.8819
+Hits@10:  0.8957
+Hits@20:  0.9187
+auc:  0.7925
+
+Score for iteration 900
+Hits@1:  0.6840
+Hits@3:  0.8543
+Hits@5:  0.8742
+Hits@10:  0.9049
+Hits@20:  0.9218
+auc:  0.7704
+
+Score for iteration 1000
+Hits@1:  0.6963
+Hits@3:  0.8650
+Hits@5:  0.8834
+Hits@10:  0.9064
+Hits@20:  0.9264
+auc:  0.7845
+
+Score for iteration 1100
+Hits@1:  0.6748
+Hits@3:  0.8666
+Hits@5:  0.8880
+Hits@10:  0.9034
+Hits@20:  0.9294
+auc:  0.7726
+
+Score for iteration 1200
+Hits@1:  0.6994
+Hits@3:  0.8742
+Hits@5:  0.8911
+Hits@10:  0.9080
+Hits@20:  0.9264
+auc:  0.7871
+
+Score for iteration 1300
+Hits@1:  0.6979
+Hits@3:  0.8850
+Hits@5:  0.9034
+Hits@10:  0.9141
+Hits@20:  0.9371
+auc:  0.7896
+
+Score for iteration 1400
+Hits@1:  0.6948
+Hits@3:  0.8574
+Hits@5:  0.8896
+Hits@10:  0.9141
+Hits@20:  0.9387
+auc:  0.7829
+
+Score for iteration 1500
+Hits@1:  0.7086
+Hits@3:  0.8804
+Hits@5:  0.8957
+Hits@10:  0.9126
+Hits@20:  0.9387
+auc:  0.7957
+
+Score for iteration 1600
+Hits@1:  0.7132
+Hits@3:  0.8712
+Hits@5:  0.8911
+Hits@10:  0.9141
+Hits@20:  0.9417
+auc:  0.7965
+
+Score for iteration 1700
+Hits@1:  0.7163
+Hits@3:  0.8819
+Hits@5:  0.8942
+Hits@10:  0.9095
+Hits@20:  0.9356
+auc:  0.8002
+
+Score for iteration 1800
+Hits@1:  0.6994
+Hits@3:  0.8865
+Hits@5:  0.9080
+Hits@10:  0.9172
+Hits@20:  0.9402
+auc:  0.7927
+
+Score for iteration 1900
+Hits@1:  0.7071
+Hits@3:  0.8773
+Hits@5:  0.8988
+Hits@10:  0.9156
+Hits@20:  0.9417
+auc:  0.7953
+
+Score for iteration 2000
+Hits@1:  0.6887
+Hits@3:  0.8850
+Hits@5:  0.9080
+Hits@10:  0.9202
+Hits@20:  0.9387
+auc:  0.7882
+
+Test (beam) scores with best model from train_results/umls//8ee3_2_0.05_100_0.05/model/model.ckpt
+Hits@1:  0.6778
+Hits@3:  0.8986
+Hits@5:  0.9123
+Hits@10:  0.9198
+Hits@20:  0.9380
+auc:  0.7884
+

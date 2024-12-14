@@ -1,0 +1,503 @@
+molecular_biology_research_technique	diagnostic_procedure
+Reward:1
+molecular_biology_research_technique	occupation_or_discipline	occupational_activity
+method_of	_method_of
+-1
+-4.595047950744629
+___
+molecular_biology_research_technique	occupation_or_discipline	educational_activity
+method_of	_method_of
+-1
+-4.595047950744629
+___
+molecular_biology_research_technique	occupation_or_discipline	research_activity
+method_of	_method_of
+-1
+-4.595047950744629
+___
+molecular_biology_research_technique	occupation_or_discipline	governmental_or_regulatory_activity
+method_of	_method_of
+-1
+-4.595047950744629
+___
+molecular_biology_research_technique	occupation_or_discipline	molecular_biology_research_technique
+method_of	_method_of
+-1
+-4.595047950744629
+___
+molecular_biology_research_technique	occupation_or_discipline	diagnostic_procedure
+method_of	_method_of
+1
+-4.595047950744629
+___
+molecular_biology_research_technique	occupation_or_discipline	laboratory_procedure
+method_of	_method_of
+-1
+-4.595047950744629
+___
+molecular_biology_research_technique	biomedical_occupation_or_discipline	molecular_biology_research_technique
+method_of	_method_of
+-1
+-4.609102964401245
+___
+molecular_biology_research_technique	biomedical_occupation_or_discipline	health_care_activity
+method_of	_method_of
+-1
+-4.609102964401245
+___
+molecular_biology_research_technique	biomedical_occupation_or_discipline	occupational_activity
+method_of	_method_of
+-1
+-4.609102964401245
+___
+molecular_biology_research_technique	biomedical_occupation_or_discipline	diagnostic_procedure
+method_of	_method_of
+1
+-4.609102964401245
+___
+molecular_biology_research_technique	biomedical_occupation_or_discipline	laboratory_procedure
+method_of	_method_of
+-1
+-4.609102964401245
+___
+molecular_biology_research_technique	biomedical_occupation_or_discipline	research_activity
+method_of	_method_of
+-1
+-4.609102964401245
+___
+molecular_biology_research_technique	biomedical_occupation_or_discipline	educational_activity
+method_of	_method_of
+-1
+-4.609102964401245
+___
+molecular_biology_research_technique	therapeutic_or_preventive_procedure	research_device
+method_of	uses
+-1
+-4.774269104003906
+___
+molecular_biology_research_technique	therapeutic_or_preventive_procedure	drug_delivery_device
+method_of	uses
+-1
+-4.774269104003906
+___
+molecular_biology_research_technique	therapeutic_or_preventive_procedure	manufactured_object
+method_of	uses
+-1
+-4.774269104003906
+___
+molecular_biology_research_technique	therapeutic_or_preventive_procedure	medical_device
+method_of	uses
+-1
+-4.774269104003906
+___
+molecular_biology_research_technique	therapeutic_or_preventive_procedure	antibiotic
+method_of	uses
+-1
+-4.774269104003906
+___
+molecular_biology_research_technique	therapeutic_or_preventive_procedure	food
+method_of	uses
+-1
+-4.774269104003906
+___
+molecular_biology_research_technique	therapeutic_or_preventive_procedure	pharmacologic_substance
+method_of	uses
+-1
+-4.774269104003906
+___
+molecular_biology_research_technique	quantitative_concept	mental_process
+measures	result_of
+-1
+-4.965648412704468
+___
+molecular_biology_research_technique	temporal_concept	mental_process
+measures	result_of
+-1
+-5.267681121826172
+___
+molecular_biology_research_technique	therapeutic_or_preventive_procedure	machine_activity
+method_of	_method_of
+-1
+-5.6137659549713135
+___
+molecular_biology_research_technique	therapeutic_or_preventive_procedure	laboratory_procedure
+method_of	_method_of
+-1
+-5.6137659549713135
+___
+molecular_biology_research_technique	therapeutic_or_preventive_procedure	molecular_biology_research_technique
+method_of	_method_of
+-1
+-5.6137659549713135
+___
+molecular_biology_research_technique	mental_process	age_group
+affects	produces
+-1
+-5.704765558242798
+___
+molecular_biology_research_technique	mental_process	immunologic_factor
+affects	produces
+-1
+-5.704765558242798
+___
+molecular_biology_research_technique	mental_process	family_group
+affects	produces
+-1
+-5.704765558242798
+___
+molecular_biology_research_technique	mental_process	enzyme
+affects	produces
+-1
+-5.704765558242798
+___
+molecular_biology_research_technique	mental_process	body_substance
+affects	produces
+-1
+-5.704765558242798
+___
+molecular_biology_research_technique	mental_process	vitamin
+affects	produces
+-1
+-5.704765558242798
+___
+molecular_biology_research_technique	mental_process	neuroreactive_substance_or_biogenic_amine
+affects	produces
+-1
+-5.704765558242798
+___
+molecular_biology_research_technique	mental_process	receptor
+affects	produces
+-1
+-5.704765558242798
+___
+molecular_biology_research_technique	quantitative_concept	idea_or_concept
+measures	isa
+-1
+-5.945929646492004
+___
+molecular_biology_research_technique	quantitative_concept	conceptual_entity
+measures	isa
+-1
+-5.945929646492004
+___
+molecular_biology_research_technique	quantitative_concept	entity
+measures	isa
+-1
+-5.945929646492004
+___
+molecular_biology_research_technique	occupation_or_discipline	social_behavior
+method_of	_associated_with
+-1
+-6.098800182342529
+___
+molecular_biology_research_technique	occupation_or_discipline	behavior
+method_of	_associated_with
+-1
+-6.098800182342529
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	body_substance
+measures	_consists_of
+-1
+-6.101027250289917
+___
+molecular_biology_research_technique	biomedical_occupation_or_discipline	behavior
+method_of	_associated_with
+-1
+-6.1128551959991455
+___
+molecular_biology_research_technique	biomedical_occupation_or_discipline	social_behavior
+method_of	_associated_with
+-1
+-6.1128551959991455
+___
+molecular_biology_research_technique	biomedical_occupation_or_discipline	individual_behavior
+method_of	_associated_with
+-1
+-6.1128551959991455
+___
+molecular_biology_research_technique	organic_chemical	body_substance
+measures	_consists_of
+-1
+-6.15253210067749
+___
+molecular_biology_research_technique	body_substance	carbohydrate
+measures	consists_of
+-1
+-6.190091848373413
+___
+molecular_biology_research_technique	body_substance	amino_acid_peptide_or_protein
+measures	consists_of
+-1
+-6.190091848373413
+___
+molecular_biology_research_technique	body_substance	eicosanoid
+measures	consists_of
+-1
+-6.190091848373413
+___
+molecular_biology_research_technique	body_substance	organophosphorus_compound
+measures	consists_of
+-1
+-6.190091848373413
+___
+molecular_biology_research_technique	body_substance	steroid
+measures	consists_of
+-1
+-6.190091848373413
+___
+molecular_biology_research_technique	body_substance	lipid
+measures	consists_of
+-1
+-6.190091848373413
+___
+molecular_biology_research_technique	body_substance	nucleic_acid_nucleoside_or_nucleotide
+measures	consists_of
+-1
+-6.190091848373413
+___
+molecular_biology_research_technique	body_substance	organic_chemical
+measures	consists_of
+-1
+-6.190091848373413
+___
+molecular_biology_research_technique	carbohydrate	body_substance
+measures	_consists_of
+-1
+-6.206966876983643
+___
+molecular_biology_research_technique	temporal_concept	entity
+measures	isa
+-1
+-6.247962474822998
+___
+molecular_biology_research_technique	temporal_concept	idea_or_concept
+measures	isa
+-1
+-6.247962474822998
+___
+molecular_biology_research_technique	temporal_concept	conceptual_entity
+measures	isa
+-1
+-6.247962474822998
+___
+molecular_biology_research_technique	temporal_concept	organism_function
+measures	conceptual_part_of
+-1
+-6.266844749450684
+___
+molecular_biology_research_technique	temporal_concept	cell_function
+measures	conceptual_part_of
+-1
+-6.266844749450684
+___
+molecular_biology_research_technique	temporal_concept	organ_or_tissue_function
+measures	conceptual_part_of
+-1
+-6.266844749450684
+___
+molecular_biology_research_technique	lipid	body_substance
+measures	_consists_of
+-1
+-6.270336627960205
+___
+molecular_biology_research_technique	organophosphorus_compound	body_substance
+measures	_consists_of
+-1
+-6.33795166015625
+___
+molecular_biology_research_technique	disease_or_syndrome	biologically_active_substance
+measures	produces
+-1
+-6.353121995925903
+___
+molecular_biology_research_technique	disease_or_syndrome	neuroreactive_substance_or_biogenic_amine
+measures	produces
+-1
+-6.353121995925903
+___
+molecular_biology_research_technique	disease_or_syndrome	receptor
+measures	produces
+-1
+-6.353121995925903
+___
+molecular_biology_research_technique	disease_or_syndrome	enzyme
+measures	produces
+-1
+-6.353121995925903
+___
+molecular_biology_research_technique	steroid	body_substance
+measures	_consists_of
+-1
+-6.380343437194824
+___
+molecular_biology_research_technique	mental_process	organism_function
+affects	_degree_of
+-1
+-6.3855016231536865
+___
+molecular_biology_research_technique	clinical_attribute	organism_attribute
+measures	_degree_of
+-1
+-6.401761054992676
+___
+molecular_biology_research_technique	research_activity	research_device
+isa	uses
+-1
+-6.460382178425789
+___
+molecular_biology_research_technique	pathologic_function	hormone
+measures	produces
+-1
+-6.501211404800415
+___
+molecular_biology_research_technique	pathologic_function	receptor
+measures	produces
+-1
+-6.501211404800415
+___
+molecular_biology_research_technique	pathologic_function	immunologic_factor
+measures	produces
+-1
+-6.501211404800415
+___
+molecular_biology_research_technique	pathologic_function	enzyme
+measures	produces
+-1
+-6.501211404800415
+___
+molecular_biology_research_technique	genetic_function	immunologic_factor
+measures	produces
+-1
+-6.545552015304565
+___
+molecular_biology_research_technique	genetic_function	vitamin
+measures	produces
+-1
+-6.545552015304565
+___
+molecular_biology_research_technique	genetic_function	receptor
+measures	produces
+-1
+-6.545552015304565
+___
+molecular_biology_research_technique	genetic_function	cell_component
+measures	produces
+-1
+-6.545552015304565
+___
+molecular_biology_research_technique	genetic_function	body_substance
+measures	produces
+-1
+-6.545552015304565
+___
+molecular_biology_research_technique	genetic_function	enzyme
+measures	produces
+-1
+-6.545552015304565
+___
+molecular_biology_research_technique	physiologic_function	hormone
+measures	produces
+-1
+-6.5490429401397705
+___
+molecular_biology_research_technique	physiologic_function	receptor
+measures	produces
+-1
+-6.5490429401397705
+___
+molecular_biology_research_technique	physiologic_function	neuroreactive_substance_or_biogenic_amine
+measures	produces
+-1
+-6.5490429401397705
+___
+molecular_biology_research_technique	physiologic_function	immunologic_factor
+measures	produces
+-1
+-6.5490429401397705
+___
+molecular_biology_research_technique	physiologic_function	enzyme
+measures	produces
+-1
+-6.5490429401397705
+___
+molecular_biology_research_technique	physiologic_function	vitamin
+measures	produces
+-1
+-6.5490429401397705
+___
+molecular_biology_research_technique	cell_function	enzyme
+measures	produces
+-1
+-6.552790880203247
+___
+molecular_biology_research_technique	cell_function	receptor
+measures	produces
+-1
+-6.552790880203247
+___
+molecular_biology_research_technique	cell_function	immunologic_factor
+measures	produces
+-1
+-6.552790880203247
+___
+molecular_biology_research_technique	cell_function	neuroreactive_substance_or_biogenic_amine
+measures	produces
+-1
+-6.552790880203247
+___
+molecular_biology_research_technique	cell_function	biologically_active_substance
+measures	produces
+-1
+-6.552790880203247
+___
+molecular_biology_research_technique	cell_function	body_substance
+measures	produces
+-1
+-6.552790880203247
+___
+molecular_biology_research_technique	organ_or_tissue_function	immunologic_factor
+measures	produces
+-1
+-6.553506374359131
+___
+molecular_biology_research_technique	organ_or_tissue_function	receptor
+measures	produces
+-1
+-6.553506374359131
+___
+molecular_biology_research_technique	organ_or_tissue_function	vitamin
+measures	produces
+-1
+-6.553506374359131
+___
+molecular_biology_research_technique	organ_or_tissue_function	body_substance
+measures	produces
+-1
+-6.553506374359131
+___
+molecular_biology_research_technique	organ_or_tissue_function	neuroreactive_substance_or_biogenic_amine
+measures	produces
+-1
+-6.553506374359131
+___
+molecular_biology_research_technique	professional_or_occupational_group	research_device
+_performs	produces
+-1
+-6.557345628738403
+___
+molecular_biology_research_technique	professional_or_occupational_group	classification
+_performs	produces
+-1
+-6.557345628738403
+___
+molecular_biology_research_technique	professional_or_occupational_group	drug_delivery_device
+_performs	produces
+-1
+-6.557345628738403
+___
+molecular_biology_research_technique	professional_or_occupational_group	manufactured_object
+_performs	produces
+-1
+-6.557345628738403
+___
+#####################

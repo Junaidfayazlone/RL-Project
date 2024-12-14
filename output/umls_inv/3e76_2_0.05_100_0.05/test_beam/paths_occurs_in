@@ -1,0 +1,6036 @@
+experimental_model_of_disease	mental_or_behavioral_dysfunction
+Reward:1
+experimental_model_of_disease	neoplastic_process	mental_or_behavioral_dysfunction
+occurs_in	occurs_in
+1
+-3.4225448481738567
+___
+experimental_model_of_disease	pathologic_function	experimental_model_of_disease
+precedes	_precedes
+-1
+-3.64717173576355
+___
+experimental_model_of_disease	pathologic_function	cell_or_molecular_dysfunction
+precedes	_precedes
+-1
+-3.64717173576355
+___
+experimental_model_of_disease	pathologic_function	mental_or_behavioral_dysfunction
+precedes	_precedes
+1
+-3.64717173576355
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	experimental_model_of_disease
+precedes	_precedes
+-1
+-3.64780855178833
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+precedes	_precedes
+-1
+-3.64780855178833
+___
+experimental_model_of_disease	pathologic_function	experimental_model_of_disease
+precedes	precedes
+-1
+-3.77256178855896
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	pathologic_function
+precedes	precedes
+-1
+-3.7731986045837402
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+precedes	precedes
+-1
+-3.7731986045837402
+___
+experimental_model_of_disease	disease_or_syndrome	pathologic_function
+precedes	_precedes
+-1
+-3.9027202129364014
+___
+experimental_model_of_disease	disease_or_syndrome	experimental_model_of_disease
+precedes	_precedes
+-1
+-3.9027202129364014
+___
+experimental_model_of_disease	disease_or_syndrome	mental_or_behavioral_dysfunction
+precedes	_precedes
+1
+-3.9027202129364014
+___
+experimental_model_of_disease	disease_or_syndrome	cell_or_molecular_dysfunction
+precedes	_precedes
+-1
+-3.9027202129364014
+___
+experimental_model_of_disease	disease_or_syndrome	mental_or_behavioral_dysfunction
+precedes	precedes
+1
+-4.0281102657318115
+___
+experimental_model_of_disease	disease_or_syndrome	cell_or_molecular_dysfunction
+precedes	precedes
+-1
+-4.0281102657318115
+___
+experimental_model_of_disease	disease_or_syndrome	pathologic_function
+precedes	precedes
+-1
+-4.0281102657318115
+___
+experimental_model_of_disease	pathologic_function	pharmacologic_substance
+precedes	_complicates
+-1
+-4.066857099533081
+___
+experimental_model_of_disease	pathologic_function	biologically_active_substance
+precedes	_complicates
+-1
+-4.066857099533081
+___
+experimental_model_of_disease	pathologic_function	hormone
+precedes	_complicates
+-1
+-4.066857099533081
+___
+experimental_model_of_disease	pathologic_function	experimental_model_of_disease
+precedes	_complicates
+-1
+-4.066857099533081
+___
+experimental_model_of_disease	pathologic_function	neuroreactive_substance_or_biogenic_amine
+precedes	_complicates
+-1
+-4.066857099533081
+___
+experimental_model_of_disease	pathologic_function	vitamin
+precedes	_complicates
+-1
+-4.066857099533081
+___
+experimental_model_of_disease	pathologic_function	hazardous_or_poisonous_substance
+precedes	_complicates
+-1
+-4.066857099533081
+___
+experimental_model_of_disease	pathologic_function	cell_or_molecular_dysfunction
+precedes	_complicates
+-1
+-4.066857099533081
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	neuroreactive_substance_or_biogenic_amine
+precedes	_complicates
+-1
+-4.067493915557861
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	immunologic_factor
+precedes	_complicates
+-1
+-4.067493915557861
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	antibiotic
+precedes	_complicates
+-1
+-4.067493915557861
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	enzyme
+precedes	_complicates
+-1
+-4.067493915557861
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+precedes	_complicates
+-1
+-4.067493915557861
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	biologically_active_substance
+precedes	_complicates
+-1
+-4.067493915557861
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	hazardous_or_poisonous_substance
+precedes	_complicates
+-1
+-4.067493915557861
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	pathologic_function
+precedes	_complicates
+-1
+-4.067493915557861
+___
+experimental_model_of_disease	disease_or_syndrome	antibiotic
+precedes	_complicates
+-1
+-4.322405576705933
+___
+experimental_model_of_disease	disease_or_syndrome	enzyme
+precedes	_complicates
+-1
+-4.322405576705933
+___
+experimental_model_of_disease	disease_or_syndrome	therapeutic_or_preventive_procedure
+precedes	_complicates
+-1
+-4.322405576705933
+___
+experimental_model_of_disease	disease_or_syndrome	mental_or_behavioral_dysfunction
+precedes	_complicates
+1
+-4.322405576705933
+___
+experimental_model_of_disease	disease_or_syndrome	pathologic_function
+precedes	_complicates
+-1
+-4.322405576705933
+___
+experimental_model_of_disease	disease_or_syndrome	cell_or_molecular_dysfunction
+precedes	_complicates
+-1
+-4.322405576705933
+___
+experimental_model_of_disease	disease_or_syndrome	hazardous_or_poisonous_substance
+precedes	_complicates
+-1
+-4.322405576705933
+___
+experimental_model_of_disease	disease_or_syndrome	pharmacologic_substance
+precedes	_complicates
+-1
+-4.322405576705933
+___
+experimental_model_of_disease	pathologic_function	cell_or_molecular_dysfunction
+precedes	_degree_of
+-1
+-5.777594804763794
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+precedes	_degree_of
+-1
+-5.778231382369995
+___
+experimental_model_of_disease	neoplastic_process	mental_or_behavioral_dysfunction
+_degree_of	occurs_in
+1
+-5.812926122918725
+___
+experimental_model_of_disease	population_group	research_device
+occurs_in	produces
+-1
+-6.0247743129730225
+___
+experimental_model_of_disease	population_group	drug_delivery_device
+occurs_in	produces
+-1
+-6.0247743129730225
+___
+experimental_model_of_disease	population_group	clinical_drug
+occurs_in	produces
+-1
+-6.0247743129730225
+___
+experimental_model_of_disease	population_group	intellectual_product
+occurs_in	produces
+-1
+-6.0247743129730225
+___
+experimental_model_of_disease	population_group	manufactured_object
+occurs_in	produces
+-1
+-6.0247743129730225
+___
+experimental_model_of_disease	population_group	classification
+occurs_in	produces
+-1
+-6.0247743129730225
+___
+experimental_model_of_disease	population_group	behavior
+occurs_in	_associated_with
+-1
+-6.029676675796509
+___
+experimental_model_of_disease	population_group	social_behavior
+occurs_in	_associated_with
+-1
+-6.029676675796509
+___
+experimental_model_of_disease	population_group	individual_behavior
+occurs_in	_associated_with
+-1
+-6.029676675796509
+___
+experimental_model_of_disease	disease_or_syndrome	cell_or_molecular_dysfunction
+precedes	_degree_of
+-1
+-6.0331432819366455
+___
+experimental_model_of_disease	disease_or_syndrome	pathologic_function
+precedes	_degree_of
+-1
+-6.0331432819366455
+___
+experimental_model_of_disease	patient_or_disabled_group	research_device
+occurs_in	produces
+-1
+-6.041810750961304
+___
+experimental_model_of_disease	patient_or_disabled_group	regulation_or_law
+occurs_in	produces
+-1
+-6.041810750961304
+___
+experimental_model_of_disease	patient_or_disabled_group	intellectual_product
+occurs_in	produces
+-1
+-6.041810750961304
+___
+experimental_model_of_disease	patient_or_disabled_group	clinical_drug
+occurs_in	produces
+-1
+-6.041810750961304
+___
+experimental_model_of_disease	patient_or_disabled_group	classification
+occurs_in	produces
+-1
+-6.041810750961304
+___
+experimental_model_of_disease	patient_or_disabled_group	drug_delivery_device
+occurs_in	produces
+-1
+-6.041810750961304
+___
+experimental_model_of_disease	patient_or_disabled_group	manufactured_object
+occurs_in	produces
+-1
+-6.041810750961304
+___
+experimental_model_of_disease	patient_or_disabled_group	behavior
+occurs_in	_associated_with
+-1
+-6.04671311378479
+___
+experimental_model_of_disease	patient_or_disabled_group	individual_behavior
+occurs_in	_associated_with
+-1
+-6.04671311378479
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	experimental_model_of_disease
+_precedes	_precedes
+-1
+-6.056443214416504
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+_precedes	_precedes
+-1
+-6.056443214416504
+___
+experimental_model_of_disease	pathologic_function	hormone
+precedes	produces
+-1
+-6.067354917526245
+___
+experimental_model_of_disease	pathologic_function	immunologic_factor
+precedes	produces
+-1
+-6.067354917526245
+___
+experimental_model_of_disease	pathologic_function	receptor
+precedes	produces
+-1
+-6.067354917526245
+___
+experimental_model_of_disease	pathologic_function	enzyme
+precedes	produces
+-1
+-6.067354917526245
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	hormone
+precedes	produces
+-1
+-6.0679919719696045
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	body_substance
+precedes	produces
+-1
+-6.0679919719696045
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	tissue
+precedes	produces
+-1
+-6.0679919719696045
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	biologically_active_substance
+precedes	produces
+-1
+-6.0679919719696045
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	immunologic_factor
+precedes	produces
+-1
+-6.0679919719696045
+___
+experimental_model_of_disease	professional_or_occupational_group	classification
+occurs_in	produces
+-1
+-6.077643156051636
+___
+experimental_model_of_disease	professional_or_occupational_group	research_device
+occurs_in	produces
+-1
+-6.077643156051636
+___
+experimental_model_of_disease	professional_or_occupational_group	clinical_drug
+occurs_in	produces
+-1
+-6.077643156051636
+___
+experimental_model_of_disease	professional_or_occupational_group	medical_device
+occurs_in	produces
+-1
+-6.077643156051636
+___
+experimental_model_of_disease	professional_or_occupational_group	manufactured_object
+occurs_in	produces
+-1
+-6.077643156051636
+___
+experimental_model_of_disease	professional_or_occupational_group	intellectual_product
+occurs_in	produces
+-1
+-6.077643156051636
+___
+experimental_model_of_disease	professional_or_occupational_group	drug_delivery_device
+occurs_in	produces
+-1
+-6.077643156051636
+___
+experimental_model_of_disease	professional_or_occupational_group	behavior
+occurs_in	_associated_with
+-1
+-6.082545518875122
+___
+experimental_model_of_disease	professional_or_occupational_group	individual_behavior
+occurs_in	_associated_with
+-1
+-6.082545518875122
+___
+experimental_model_of_disease	pathologic_function	mental_or_behavioral_dysfunction
+_precedes	_precedes
+1
+-6.083463907241821
+___
+experimental_model_of_disease	pathologic_function	cell_or_molecular_dysfunction
+_precedes	_precedes
+-1
+-6.083463907241821
+___
+experimental_model_of_disease	pathologic_function	experimental_model_of_disease
+_precedes	_precedes
+-1
+-6.083463907241821
+___
+experimental_model_of_disease	population_group	entity
+occurs_in	isa
+-1
+-6.213609457015991
+___
+experimental_model_of_disease	population_group	conceptual_entity
+occurs_in	isa
+-1
+-6.213609457015991
+___
+experimental_model_of_disease	patient_or_disabled_group	conceptual_entity
+occurs_in	isa
+-1
+-6.2306458950042725
+___
+experimental_model_of_disease	patient_or_disabled_group	entity
+occurs_in	isa
+-1
+-6.2306458950042725
+___
+experimental_model_of_disease	professional_or_occupational_group	conceptual_entity
+occurs_in	isa
+-1
+-6.2664783000946045
+___
+experimental_model_of_disease	disease_or_syndrome	receptor
+precedes	produces
+-1
+-6.322903394699097
+___
+experimental_model_of_disease	disease_or_syndrome	enzyme
+precedes	produces
+-1
+-6.322903394699097
+___
+experimental_model_of_disease	disease_or_syndrome	neuroreactive_substance_or_biogenic_amine
+precedes	produces
+-1
+-6.322903394699097
+___
+experimental_model_of_disease	disease_or_syndrome	biologically_active_substance
+precedes	produces
+-1
+-6.322903394699097
+___
+experimental_model_of_disease	professional_or_occupational_group	pathologic_function
+occurs_in	diagnoses
+-1
+-6.32643985748291
+___
+experimental_model_of_disease	professional_or_occupational_group	cell_or_molecular_dysfunction
+occurs_in	diagnoses
+-1
+-6.32643985748291
+___
+experimental_model_of_disease	professional_or_occupational_group	mental_or_behavioral_dysfunction
+occurs_in	diagnoses
+1
+-6.32643985748291
+___
+experimental_model_of_disease	disease_or_syndrome	mental_or_behavioral_dysfunction
+_precedes	_precedes
+1
+-6.364963054656982
+___
+experimental_model_of_disease	disease_or_syndrome	cell_or_molecular_dysfunction
+_precedes	_precedes
+-1
+-6.364963054656982
+___
+#####################
+neoplastic_process	injury_or_poisoning
+Reward:1
+neoplastic_process	experimental_model_of_disease	neoplastic_process
+precedes	occurs_in
+-1
+-1.0473726359196007
+___
+neoplastic_process	mental_or_behavioral_dysfunction	injury_or_poisoning
+occurs_in	occurs_in
+1
+-3.1683692522346973
+___
+neoplastic_process	disease_or_syndrome	cell_or_molecular_dysfunction
+precedes	_precedes
+-1
+-3.56306254863739
+___
+neoplastic_process	disease_or_syndrome	neoplastic_process
+precedes	_precedes
+-1
+-3.56306254863739
+___
+neoplastic_process	disease_or_syndrome	pathologic_function
+precedes	_precedes
+-1
+-3.56306254863739
+___
+neoplastic_process	disease_or_syndrome	experimental_model_of_disease
+precedes	_precedes
+-1
+-3.56306254863739
+___
+neoplastic_process	disease_or_syndrome	pathologic_function
+precedes	precedes
+-1
+-3.6884526014328003
+___
+neoplastic_process	disease_or_syndrome	cell_or_molecular_dysfunction
+precedes	precedes
+-1
+-3.6884526014328003
+___
+neoplastic_process	mental_or_behavioral_dysfunction	injury_or_poisoning
+_precedes	occurs_in
+1
+-3.738864114508033
+___
+neoplastic_process	disease_or_syndrome	pathologic_function
+precedes	_complicates
+-1
+-3.9827479124069214
+___
+neoplastic_process	disease_or_syndrome	cell_or_molecular_dysfunction
+precedes	_complicates
+-1
+-3.9827479124069214
+___
+neoplastic_process	disease_or_syndrome	hazardous_or_poisonous_substance
+precedes	_complicates
+-1
+-3.9827479124069214
+___
+neoplastic_process	disease_or_syndrome	therapeutic_or_preventive_procedure
+precedes	_complicates
+-1
+-3.9827479124069214
+___
+neoplastic_process	disease_or_syndrome	neoplastic_process
+precedes	_complicates
+-1
+-3.9827479124069214
+___
+neoplastic_process	disease_or_syndrome	pharmacologic_substance
+precedes	_complicates
+-1
+-3.9827479124069214
+___
+neoplastic_process	disease_or_syndrome	enzyme
+precedes	_complicates
+-1
+-3.9827479124069214
+___
+neoplastic_process	disease_or_syndrome	antibiotic
+precedes	_complicates
+-1
+-3.9827479124069214
+___
+neoplastic_process	disease_or_syndrome	pathologic_function
+occurs_in	precedes
+-1
+-4.446454405784607
+___
+neoplastic_process	disease_or_syndrome	cell_or_molecular_dysfunction
+occurs_in	precedes
+-1
+-4.446454405784607
+___
+neoplastic_process	family_group	organism_function
+occurs_in	_produces
+-1
+-5.341367244720459
+___
+neoplastic_process	family_group	mental_process
+occurs_in	_produces
+-1
+-5.341367244720459
+___
+neoplastic_process	pathologic_function	neoplastic_process
+_degree_of	occurs_in
+-1
+-5.534797071944922
+___
+neoplastic_process	disease_or_syndrome	experimental_model_of_disease
+occurs_in	_precedes
+-1
+-5.552102088928223
+___
+neoplastic_process	disease_or_syndrome	cell_or_molecular_dysfunction
+occurs_in	_precedes
+-1
+-5.552102088928223
+___
+neoplastic_process	disease_or_syndrome	pathologic_function
+occurs_in	_precedes
+-1
+-5.552102088928223
+___
+neoplastic_process	disease_or_syndrome	neoplastic_process
+occurs_in	_precedes
+-1
+-5.552102088928223
+___
+neoplastic_process	disease_or_syndrome	neoplastic_process
+precedes	_degree_of
+-1
+-5.693485379219055
+___
+neoplastic_process	disease_or_syndrome	pathologic_function
+precedes	_degree_of
+-1
+-5.693485379219055
+___
+neoplastic_process	disease_or_syndrome	cell_or_molecular_dysfunction
+precedes	_degree_of
+-1
+-5.693485379219055
+___
+neoplastic_process	population_group	manufactured_object
+occurs_in	produces
+-1
+-5.7490832805633545
+___
+neoplastic_process	population_group	drug_delivery_device
+occurs_in	produces
+-1
+-5.7490832805633545
+___
+neoplastic_process	population_group	clinical_drug
+occurs_in	produces
+-1
+-5.7490832805633545
+___
+neoplastic_process	population_group	classification
+occurs_in	produces
+-1
+-5.7490832805633545
+___
+neoplastic_process	population_group	research_device
+occurs_in	produces
+-1
+-5.7490832805633545
+___
+neoplastic_process	population_group	intellectual_product
+occurs_in	produces
+-1
+-5.7490832805633545
+___
+neoplastic_process	population_group	behavior
+occurs_in	_associated_with
+-1
+-5.753985404968262
+___
+neoplastic_process	population_group	social_behavior
+occurs_in	_associated_with
+-1
+-5.753985404968262
+___
+neoplastic_process	population_group	individual_behavior
+occurs_in	_associated_with
+-1
+-5.753985404968262
+___
+neoplastic_process	patient_or_disabled_group	manufactured_object
+occurs_in	produces
+-1
+-5.764508008956909
+___
+neoplastic_process	patient_or_disabled_group	drug_delivery_device
+occurs_in	produces
+-1
+-5.764508008956909
+___
+neoplastic_process	patient_or_disabled_group	research_device
+occurs_in	produces
+-1
+-5.764508008956909
+___
+neoplastic_process	patient_or_disabled_group	regulation_or_law
+occurs_in	produces
+-1
+-5.764508008956909
+___
+neoplastic_process	patient_or_disabled_group	clinical_drug
+occurs_in	produces
+-1
+-5.764508008956909
+___
+neoplastic_process	patient_or_disabled_group	intellectual_product
+occurs_in	produces
+-1
+-5.764508008956909
+___
+neoplastic_process	patient_or_disabled_group	classification
+occurs_in	produces
+-1
+-5.764508008956909
+___
+neoplastic_process	patient_or_disabled_group	individual_behavior
+occurs_in	_associated_with
+-1
+-5.769410133361816
+___
+neoplastic_process	patient_or_disabled_group	behavior
+occurs_in	_associated_with
+-1
+-5.769410133361816
+___
+neoplastic_process	group	clinical_drug
+occurs_in	produces
+-1
+-5.80831241607666
+___
+neoplastic_process	group	intellectual_product
+occurs_in	produces
+-1
+-5.80831241607666
+___
+neoplastic_process	group	regulation_or_law
+occurs_in	produces
+-1
+-5.80831241607666
+___
+neoplastic_process	group	medical_device
+occurs_in	produces
+-1
+-5.80831241607666
+___
+neoplastic_process	group	manufactured_object
+occurs_in	produces
+-1
+-5.80831241607666
+___
+neoplastic_process	group	classification
+occurs_in	produces
+-1
+-5.80831241607666
+___
+neoplastic_process	group	drug_delivery_device
+occurs_in	produces
+-1
+-5.80831241607666
+___
+neoplastic_process	group	behavior
+occurs_in	_associated_with
+-1
+-5.8132147789001465
+___
+neoplastic_process	group	individual_behavior
+occurs_in	_associated_with
+-1
+-5.8132147789001465
+___
+neoplastic_process	group	social_behavior
+occurs_in	_associated_with
+-1
+-5.8132147789001465
+___
+neoplastic_process	population_group	entity
+occurs_in	isa
+-1
+-5.937918663024902
+___
+neoplastic_process	population_group	conceptual_entity
+occurs_in	isa
+-1
+-5.937918663024902
+___
+neoplastic_process	patient_or_disabled_group	entity
+occurs_in	isa
+-1
+-5.953343391418457
+___
+neoplastic_process	patient_or_disabled_group	conceptual_entity
+occurs_in	isa
+-1
+-5.953343391418457
+___
+neoplastic_process	disease_or_syndrome	biologically_active_substance
+precedes	produces
+-1
+-5.9832459688186646
+___
+neoplastic_process	disease_or_syndrome	neuroreactive_substance_or_biogenic_amine
+precedes	produces
+-1
+-5.9832459688186646
+___
+neoplastic_process	disease_or_syndrome	receptor
+precedes	produces
+-1
+-5.9832459688186646
+___
+neoplastic_process	disease_or_syndrome	enzyme
+precedes	produces
+-1
+-5.9832459688186646
+___
+neoplastic_process	group	entity
+occurs_in	isa
+-1
+-5.997147560119629
+___
+neoplastic_process	group	conceptual_entity
+occurs_in	isa
+-1
+-5.997147560119629
+___
+neoplastic_process	family_group	manufactured_object
+occurs_in	produces
+-1
+-6.057298898696899
+___
+neoplastic_process	family_group	regulation_or_law
+occurs_in	produces
+-1
+-6.057298898696899
+___
+neoplastic_process	family_group	intellectual_product
+occurs_in	produces
+-1
+-6.057298898696899
+___
+neoplastic_process	family_group	clinical_drug
+occurs_in	produces
+-1
+-6.057298898696899
+___
+neoplastic_process	family_group	classification
+occurs_in	produces
+-1
+-6.057298898696899
+___
+neoplastic_process	family_group	medical_device
+occurs_in	produces
+-1
+-6.057298898696899
+___
+neoplastic_process	family_group	drug_delivery_device
+occurs_in	produces
+-1
+-6.057298898696899
+___
+neoplastic_process	family_group	individual_behavior
+occurs_in	_associated_with
+-1
+-6.062201023101807
+___
+neoplastic_process	family_group	behavior
+occurs_in	_associated_with
+-1
+-6.062201023101807
+___
+neoplastic_process	family_group	social_behavior
+occurs_in	_associated_with
+-1
+-6.062201023101807
+___
+neoplastic_process	family_group	entity
+occurs_in	isa
+-1
+-6.246134281158447
+___
+neoplastic_process	family_group	conceptual_entity
+occurs_in	isa
+-1
+-6.246134281158447
+___
+neoplastic_process	disease_or_syndrome	neoplastic_process
+occurs_in	_degree_of
+-1
+-6.635767459869385
+___
+neoplastic_process	disease_or_syndrome	pathologic_function
+occurs_in	_degree_of
+-1
+-6.635767459869385
+___
+neoplastic_process	disease_or_syndrome	cell_or_molecular_dysfunction
+occurs_in	_degree_of
+-1
+-6.635767459869385
+___
+neoplastic_process	disease_or_syndrome	anatomical_abnormality
+precedes	co-occurs_with
+-1
+-6.688891530036926
+___
+neoplastic_process	disease_or_syndrome	congenital_abnormality
+precedes	co-occurs_with
+-1
+-6.688891530036926
+___
+neoplastic_process	disease_or_syndrome	experimental_model_of_disease
+precedes	co-occurs_with
+-1
+-6.688891530036926
+___
+neoplastic_process	disease_or_syndrome	acquired_abnormality
+precedes	co-occurs_with
+-1
+-6.688891530036926
+___
+neoplastic_process	disease_or_syndrome	cell_or_molecular_dysfunction
+precedes	co-occurs_with
+-1
+-6.688891530036926
+___
+neoplastic_process	population_group	classification
+occurs_in	uses
+-1
+-6.991796255111694
+___
+neoplastic_process	population_group	manufactured_object
+occurs_in	uses
+-1
+-6.991796255111694
+___
+neoplastic_process	population_group	drug_delivery_device
+occurs_in	uses
+-1
+-6.991796255111694
+___
+neoplastic_process	population_group	clinical_drug
+occurs_in	uses
+-1
+-6.991796255111694
+___
+neoplastic_process	population_group	intellectual_product
+occurs_in	uses
+-1
+-6.991796255111694
+___
+neoplastic_process	population_group	research_device
+occurs_in	uses
+-1
+-6.991796255111694
+___
+neoplastic_process	patient_or_disabled_group	manufactured_object
+occurs_in	uses
+-1
+-7.007220983505249
+___
+neoplastic_process	patient_or_disabled_group	regulation_or_law
+occurs_in	uses
+-1
+-7.007220983505249
+___
+neoplastic_process	patient_or_disabled_group	clinical_drug
+occurs_in	uses
+-1
+-7.007220983505249
+___
+neoplastic_process	patient_or_disabled_group	classification
+occurs_in	uses
+-1
+-7.007220983505249
+___
+neoplastic_process	patient_or_disabled_group	medical_device
+occurs_in	uses
+-1
+-7.007220983505249
+___
+neoplastic_process	patient_or_disabled_group	intellectual_product
+occurs_in	uses
+-1
+-7.007220983505249
+___
+neoplastic_process	patient_or_disabled_group	drug_delivery_device
+occurs_in	uses
+-1
+-7.007220983505249
+___
+#####################
+disease_or_syndrome	mental_or_behavioral_dysfunction
+Reward:1
+disease_or_syndrome	cell_or_molecular_dysfunction	disease_or_syndrome
+precedes	occurs_in
+-1
+-1.2908202689141035
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	disease_or_syndrome
+precedes	occurs_in
+-1
+-1.2932145819067955
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+precedes	_isa
+-1
+-2.6596386432647705
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	disease_or_syndrome
+_precedes	occurs_in
+-1
+-3.979653365444392
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	disease_or_syndrome
+_precedes	occurs_in
+-1
+-3.9825846939347684
+___
+disease_or_syndrome	pathologic_function	experimental_model_of_disease
+precedes	_precedes
+-1
+-4.0097819566726685
+___
+disease_or_syndrome	pathologic_function	cell_or_molecular_dysfunction
+precedes	_precedes
+-1
+-4.0097819566726685
+___
+disease_or_syndrome	pathologic_function	mental_or_behavioral_dysfunction
+precedes	_precedes
+1
+-4.0097819566726685
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+precedes	_precedes
+-1
+-4.0097819566726685
+___
+disease_or_syndrome	pathologic_function	experimental_model_of_disease
+precedes	precedes
+-1
+-4.135172009468079
+___
+disease_or_syndrome	pathologic_function	hazardous_or_poisonous_substance
+precedes	_complicates
+-1
+-4.4294673204422
+___
+disease_or_syndrome	pathologic_function	biologically_active_substance
+precedes	_complicates
+-1
+-4.4294673204422
+___
+disease_or_syndrome	pathologic_function	experimental_model_of_disease
+precedes	_complicates
+-1
+-4.4294673204422
+___
+disease_or_syndrome	pathologic_function	vitamin
+precedes	_complicates
+-1
+-4.4294673204422
+___
+disease_or_syndrome	pathologic_function	cell_or_molecular_dysfunction
+precedes	_complicates
+-1
+-4.4294673204422
+___
+disease_or_syndrome	pathologic_function	hormone
+precedes	_complicates
+-1
+-4.4294673204422
+___
+disease_or_syndrome	pathologic_function	pharmacologic_substance
+precedes	_complicates
+-1
+-4.4294673204422
+___
+disease_or_syndrome	pathologic_function	neuroreactive_substance_or_biogenic_amine
+precedes	_complicates
+-1
+-4.4294673204422
+___
+disease_or_syndrome	neoplastic_process	disease_or_syndrome
+_precedes	occurs_in
+-1
+-4.672290146350861
+___
+disease_or_syndrome	neoplastic_process	mental_or_behavioral_dysfunction
+_precedes	occurs_in
+1
+-4.672290146350861
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+_precedes	_isa
+-1
+-5.186904072761536
+___
+disease_or_syndrome	family_group	organism_function
+occurs_in	_produces
+-1
+-5.583789348602295
+___
+disease_or_syndrome	family_group	mental_process
+occurs_in	_produces
+-1
+-5.583789348602295
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	disease_or_syndrome
+_degree_of	occurs_in
+-1
+-5.774976527085528
+___
+disease_or_syndrome	professional_or_occupational_group	research_device
+occurs_in	produces
+-1
+-6.094671964645386
+___
+disease_or_syndrome	professional_or_occupational_group	clinical_drug
+occurs_in	produces
+-1
+-6.094671964645386
+___
+disease_or_syndrome	professional_or_occupational_group	drug_delivery_device
+occurs_in	produces
+-1
+-6.094671964645386
+___
+disease_or_syndrome	professional_or_occupational_group	intellectual_product
+occurs_in	produces
+-1
+-6.094671964645386
+___
+disease_or_syndrome	professional_or_occupational_group	classification
+occurs_in	produces
+-1
+-6.094671964645386
+___
+disease_or_syndrome	professional_or_occupational_group	manufactured_object
+occurs_in	produces
+-1
+-6.094671964645386
+___
+disease_or_syndrome	professional_or_occupational_group	medical_device
+occurs_in	produces
+-1
+-6.094671964645386
+___
+disease_or_syndrome	professional_or_occupational_group	individual_behavior
+occurs_in	_associated_with
+-1
+-6.099574089050293
+___
+disease_or_syndrome	professional_or_occupational_group	behavior
+occurs_in	_associated_with
+-1
+-6.099574089050293
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+precedes	_degree_of
+-1
+-6.140205025672913
+___
+disease_or_syndrome	pathologic_function	cell_or_molecular_dysfunction
+precedes	_degree_of
+-1
+-6.140205025672913
+___
+disease_or_syndrome	experimental_model_of_disease	disease_or_syndrome
+_precedes	_precedes
+-1
+-6.252165794372559
+___
+disease_or_syndrome	experimental_model_of_disease	mental_or_behavioral_dysfunction
+_precedes	_precedes
+1
+-6.252165794372559
+___
+disease_or_syndrome	experimental_model_of_disease	pathologic_function
+_precedes	_precedes
+-1
+-6.252165794372559
+___
+disease_or_syndrome	professional_or_occupational_group	conceptual_entity
+occurs_in	isa
+-1
+-6.283507347106934
+___
+disease_or_syndrome	family_group	manufactured_object
+occurs_in	produces
+-1
+-6.299721002578735
+___
+disease_or_syndrome	family_group	regulation_or_law
+occurs_in	produces
+-1
+-6.299721002578735
+___
+disease_or_syndrome	family_group	drug_delivery_device
+occurs_in	produces
+-1
+-6.299721002578735
+___
+disease_or_syndrome	family_group	classification
+occurs_in	produces
+-1
+-6.299721002578735
+___
+disease_or_syndrome	family_group	clinical_drug
+occurs_in	produces
+-1
+-6.299721002578735
+___
+disease_or_syndrome	family_group	intellectual_product
+occurs_in	produces
+-1
+-6.299721002578735
+___
+disease_or_syndrome	family_group	medical_device
+occurs_in	produces
+-1
+-6.299721002578735
+___
+disease_or_syndrome	family_group	behavior
+occurs_in	_associated_with
+-1
+-6.304623126983643
+___
+disease_or_syndrome	family_group	individual_behavior
+occurs_in	_associated_with
+-1
+-6.304623126983643
+___
+disease_or_syndrome	family_group	social_behavior
+occurs_in	_associated_with
+-1
+-6.304623126983643
+___
+disease_or_syndrome	professional_or_occupational_group	disease_or_syndrome
+occurs_in	diagnoses
+-1
+-6.34346866607666
+___
+disease_or_syndrome	professional_or_occupational_group	mental_or_behavioral_dysfunction
+occurs_in	diagnoses
+1
+-6.34346866607666
+___
+disease_or_syndrome	professional_or_occupational_group	cell_or_molecular_dysfunction
+occurs_in	diagnoses
+-1
+-6.34346866607666
+___
+disease_or_syndrome	professional_or_occupational_group	pathologic_function
+occurs_in	diagnoses
+-1
+-6.34346866607666
+___
+disease_or_syndrome	pathologic_function	immunologic_factor
+precedes	produces
+-1
+-6.429965138435364
+___
+disease_or_syndrome	pathologic_function	enzyme
+precedes	produces
+-1
+-6.429965138435364
+___
+disease_or_syndrome	pathologic_function	receptor
+precedes	produces
+-1
+-6.429965138435364
+___
+disease_or_syndrome	pathologic_function	hormone
+precedes	produces
+-1
+-6.429965138435364
+___
+disease_or_syndrome	neoplastic_process	disease_or_syndrome
+_degree_of	occurs_in
+-1
+-6.46754002571106
+___
+disease_or_syndrome	neoplastic_process	mental_or_behavioral_dysfunction
+_degree_of	occurs_in
+1
+-6.46754002571106
+___
+disease_or_syndrome	family_group	conceptual_entity
+occurs_in	isa
+-1
+-6.488556385040283
+___
+disease_or_syndrome	family_group	entity
+occurs_in	isa
+-1
+-6.488556385040283
+___
+disease_or_syndrome	pathologic_function	cell_or_molecular_dysfunction
+_precedes	_precedes
+-1
+-6.53720760345459
+___
+disease_or_syndrome	pathologic_function	mental_or_behavioral_dysfunction
+_precedes	_precedes
+1
+-6.53720760345459
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+_precedes	_precedes
+-1
+-6.53720760345459
+___
+disease_or_syndrome	pathologic_function	experimental_model_of_disease
+_precedes	_precedes
+-1
+-6.53720760345459
+___
+disease_or_syndrome	experimental_model_of_disease	pathologic_function
+_precedes	precedes
+-1
+-6.622158050537109
+___
+disease_or_syndrome	experimental_model_of_disease	disease_or_syndrome
+_precedes	precedes
+-1
+-6.622158050537109
+___
+disease_or_syndrome	experimental_model_of_disease	mental_or_behavioral_dysfunction
+_precedes	precedes
+1
+-6.622158050537109
+___
+disease_or_syndrome	pathologic_function	experimental_model_of_disease
+_precedes	precedes
+-1
+-6.907199859619141
+___
+disease_or_syndrome	experimental_model_of_disease	disease_or_syndrome
+_precedes	_complicates
+-1
+-7.112283706665039
+___
+disease_or_syndrome	experimental_model_of_disease	therapeutic_or_preventive_procedure
+_precedes	_complicates
+-1
+-7.112283706665039
+___
+disease_or_syndrome	experimental_model_of_disease	immunologic_factor
+_precedes	_complicates
+-1
+-7.112283706665039
+___
+disease_or_syndrome	experimental_model_of_disease	hazardous_or_poisonous_substance
+_precedes	_complicates
+-1
+-7.112283706665039
+___
+disease_or_syndrome	experimental_model_of_disease	hormone
+_precedes	_complicates
+-1
+-7.112283706665039
+___
+disease_or_syndrome	experimental_model_of_disease	mental_or_behavioral_dysfunction
+_precedes	_complicates
+1
+-7.112283706665039
+___
+disease_or_syndrome	experimental_model_of_disease	pharmacologic_substance
+_precedes	_complicates
+-1
+-7.112283706665039
+___
+disease_or_syndrome	experimental_model_of_disease	vitamin
+_precedes	_complicates
+-1
+-7.112283706665039
+___
+disease_or_syndrome	pathologic_function	acquired_abnormality
+precedes	co-occurs_with
+-1
+-7.135611176490784
+___
+disease_or_syndrome	pathologic_function	anatomical_abnormality
+precedes	co-occurs_with
+-1
+-7.135611176490784
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+_degree_of	_isa
+-1
+-7.164605617523193
+___
+disease_or_syndrome	professional_or_occupational_group	intellectual_product
+occurs_in	uses
+-1
+-7.337384939193726
+___
+disease_or_syndrome	professional_or_occupational_group	classification
+occurs_in	uses
+-1
+-7.337384939193726
+___
+disease_or_syndrome	professional_or_occupational_group	medical_device
+occurs_in	uses
+-1
+-7.337384939193726
+___
+disease_or_syndrome	professional_or_occupational_group	research_device
+occurs_in	uses
+-1
+-7.337384939193726
+___
+disease_or_syndrome	professional_or_occupational_group	clinical_drug
+occurs_in	uses
+-1
+-7.337384939193726
+___
+disease_or_syndrome	professional_or_occupational_group	regulation_or_law
+occurs_in	_affects
+-1
+-7.380784034729004
+___
+disease_or_syndrome	pathologic_function	cell_or_molecular_dysfunction
+_precedes	_complicates
+-1
+-7.39732551574707
+___
+disease_or_syndrome	pathologic_function	vitamin
+_precedes	_complicates
+-1
+-7.39732551574707
+___
+disease_or_syndrome	pathologic_function	experimental_model_of_disease
+_precedes	_complicates
+-1
+-7.39732551574707
+___
+disease_or_syndrome	pathologic_function	neuroreactive_substance_or_biogenic_amine
+_precedes	_complicates
+-1
+-7.39732551574707
+___
+disease_or_syndrome	pathologic_function	hormone
+_precedes	_complicates
+-1
+-7.39732551574707
+___
+disease_or_syndrome	pathologic_function	pharmacologic_substance
+_precedes	_complicates
+-1
+-7.39732551574707
+___
+disease_or_syndrome	pathologic_function	hazardous_or_poisonous_substance
+_precedes	_complicates
+-1
+-7.39732551574707
+___
+disease_or_syndrome	pathologic_function	biologically_active_substance
+_precedes	_complicates
+-1
+-7.39732551574707
+___
+disease_or_syndrome	family_group	regulation_or_law
+occurs_in	uses
+-1
+-7.542433738708496
+___
+disease_or_syndrome	family_group	intellectual_product
+occurs_in	uses
+-1
+-7.542433738708496
+___
+disease_or_syndrome	family_group	classification
+occurs_in	uses
+-1
+-7.542433738708496
+___
+disease_or_syndrome	family_group	research_device
+occurs_in	uses
+-1
+-7.542433738708496
+___
+disease_or_syndrome	family_group	manufactured_object
+occurs_in	uses
+-1
+-7.542433738708496
+___
+disease_or_syndrome	family_group	drug_delivery_device
+occurs_in	uses
+-1
+-7.542433738708496
+___
+#####################
+experimental_model_of_disease	group
+Reward:1
+experimental_model_of_disease	pathologic_function	group
+precedes	occurs_in
+1
+-1.3287952952086926
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	group
+precedes	occurs_in
+1
+-1.3292596051469445
+___
+experimental_model_of_disease	professional_or_occupational_group	group
+occurs_in	interacts_with
+1
+-3.405006408690724
+___
+experimental_model_of_disease	population_group	group
+occurs_in	interacts_with
+1
+-3.4050065278997863
+___
+experimental_model_of_disease	patient_or_disabled_group	group
+occurs_in	interacts_with
+1
+-3.405006647108962
+___
+experimental_model_of_disease	neoplastic_process	group
+occurs_in	occurs_in
+1
+-3.4186864299699664
+___
+experimental_model_of_disease	disease_or_syndrome	experimental_model_of_disease
+precedes	_precedes
+-1
+-3.6857833862304688
+___
+experimental_model_of_disease	disease_or_syndrome	cell_or_molecular_dysfunction
+precedes	_precedes
+-1
+-3.6857833862304688
+___
+experimental_model_of_disease	disease_or_syndrome	pathologic_function
+precedes	_precedes
+-1
+-3.6857833862304688
+___
+experimental_model_of_disease	disease_or_syndrome	pathologic_function
+precedes	precedes
+-1
+-3.811173439025879
+___
+experimental_model_of_disease	disease_or_syndrome	cell_or_molecular_dysfunction
+precedes	precedes
+-1
+-3.811173439025879
+___
+experimental_model_of_disease	pathologic_function	group
+_precedes	occurs_in
+1
+-4.017929857596755
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	group
+_precedes	occurs_in
+1
+-4.018429097253829
+___
+experimental_model_of_disease	disease_or_syndrome	antibiotic
+precedes	_complicates
+-1
+-4.10546875
+___
+experimental_model_of_disease	disease_or_syndrome	enzyme
+precedes	_complicates
+-1
+-4.10546875
+___
+experimental_model_of_disease	disease_or_syndrome	hazardous_or_poisonous_substance
+precedes	_complicates
+-1
+-4.10546875
+___
+experimental_model_of_disease	disease_or_syndrome	pharmacologic_substance
+precedes	_complicates
+-1
+-4.10546875
+___
+experimental_model_of_disease	disease_or_syndrome	therapeutic_or_preventive_procedure
+precedes	_complicates
+-1
+-4.10546875
+___
+experimental_model_of_disease	disease_or_syndrome	cell_or_molecular_dysfunction
+precedes	_complicates
+-1
+-4.10546875
+___
+experimental_model_of_disease	disease_or_syndrome	pathologic_function
+precedes	_complicates
+-1
+-4.10546875
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	group
+_degree_of	occurs_in
+1
+-5.811858525732532
+___
+experimental_model_of_disease	neoplastic_process	group
+_degree_of	occurs_in
+1
+-5.8121366433333606
+___
+experimental_model_of_disease	pathologic_function	group
+_degree_of	occurs_in
+1
+-5.813030492980033
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	group
+_degree_of	occurs_in
+1
+-5.8134114276617765
+___
+experimental_model_of_disease	disease_or_syndrome	cell_or_molecular_dysfunction
+precedes	_degree_of
+-1
+-5.816206693649292
+___
+experimental_model_of_disease	disease_or_syndrome	pathologic_function
+precedes	_degree_of
+-1
+-5.816206693649292
+___
+experimental_model_of_disease	disease_or_syndrome	receptor
+precedes	produces
+-1
+-6.105966329574585
+___
+experimental_model_of_disease	disease_or_syndrome	biologically_active_substance
+precedes	produces
+-1
+-6.105966329574585
+___
+experimental_model_of_disease	disease_or_syndrome	enzyme
+precedes	produces
+-1
+-6.105966329574585
+___
+experimental_model_of_disease	disease_or_syndrome	neuroreactive_substance_or_biogenic_amine
+precedes	produces
+-1
+-6.105966329574585
+___
+experimental_model_of_disease	disease_or_syndrome	cell_or_molecular_dysfunction
+_precedes	_precedes
+-1
+-6.137757778167725
+___
+experimental_model_of_disease	disease_or_syndrome	experimental_model_of_disease
+_precedes	_precedes
+-1
+-6.137757778167725
+___
+experimental_model_of_disease	disease_or_syndrome	pathologic_function
+_precedes	_precedes
+-1
+-6.137757778167725
+___
+experimental_model_of_disease	disease_or_syndrome	cell_or_molecular_dysfunction
+_precedes	precedes
+-1
+-6.507750034332275
+___
+experimental_model_of_disease	disease_or_syndrome	pathologic_function
+_precedes	precedes
+-1
+-6.507750034332275
+___
+experimental_model_of_disease	disease_or_syndrome	anatomical_abnormality
+precedes	co-occurs_with
+-1
+-6.811612844467163
+___
+experimental_model_of_disease	disease_or_syndrome	experimental_model_of_disease
+precedes	co-occurs_with
+-1
+-6.811612844467163
+___
+experimental_model_of_disease	disease_or_syndrome	congenital_abnormality
+precedes	co-occurs_with
+-1
+-6.811612844467163
+___
+experimental_model_of_disease	disease_or_syndrome	cell_or_molecular_dysfunction
+precedes	co-occurs_with
+-1
+-6.811612844467163
+___
+experimental_model_of_disease	disease_or_syndrome	acquired_abnormality
+precedes	co-occurs_with
+-1
+-6.811612844467163
+___
+experimental_model_of_disease	disease_or_syndrome	antibiotic
+_precedes	_complicates
+-1
+-6.997875690460205
+___
+experimental_model_of_disease	disease_or_syndrome	pharmacologic_substance
+_precedes	_complicates
+-1
+-6.997875690460205
+___
+experimental_model_of_disease	disease_or_syndrome	therapeutic_or_preventive_procedure
+_precedes	_complicates
+-1
+-6.997875690460205
+___
+experimental_model_of_disease	disease_or_syndrome	pathologic_function
+_precedes	_complicates
+-1
+-6.997875690460205
+___
+experimental_model_of_disease	disease_or_syndrome	enzyme
+_precedes	_complicates
+-1
+-6.997875690460205
+___
+experimental_model_of_disease	disease_or_syndrome	cell_or_molecular_dysfunction
+_precedes	_complicates
+-1
+-6.997875690460205
+___
+experimental_model_of_disease	disease_or_syndrome	hazardous_or_poisonous_substance
+_precedes	_complicates
+-1
+-6.997875690460205
+___
+experimental_model_of_disease	neoplastic_process	experimental_model_of_disease
+occurs_in	precedes
+-1
+-7.875139951705933
+___
+experimental_model_of_disease	disease_or_syndrome	pathologic_function
+_degree_of	_precedes
+-1
+-8.049681663513184
+___
+experimental_model_of_disease	disease_or_syndrome	experimental_model_of_disease
+_degree_of	_precedes
+-1
+-8.049681663513184
+___
+experimental_model_of_disease	disease_or_syndrome	cell_or_molecular_dysfunction
+_degree_of	_precedes
+-1
+-8.049681663513184
+___
+experimental_model_of_disease	disease_or_syndrome	cell_or_molecular_dysfunction
+_precedes	_degree_of
+-1
+-8.172127723693848
+___
+experimental_model_of_disease	disease_or_syndrome	pathologic_function
+_precedes	_degree_of
+-1
+-8.172127723693848
+___
+experimental_model_of_disease	disease_or_syndrome	cell_or_molecular_dysfunction
+_degree_of	precedes
+-1
+-8.482683181762695
+___
+experimental_model_of_disease	disease_or_syndrome	pathologic_function
+_degree_of	precedes
+-1
+-8.482683181762695
+___
+experimental_model_of_disease	disease_or_syndrome	biologic_function
+precedes	_process_of
+-1
+-8.503347158432007
+___
+experimental_model_of_disease	disease_or_syndrome	cell_function
+precedes	_process_of
+-1
+-8.503347158432007
+___
+experimental_model_of_disease	disease_or_syndrome	molecular_function
+precedes	_process_of
+-1
+-8.503347158432007
+___
+experimental_model_of_disease	disease_or_syndrome	organ_or_tissue_function
+precedes	_process_of
+-1
+-8.503347158432007
+___
+experimental_model_of_disease	disease_or_syndrome	mental_process
+precedes	_process_of
+-1
+-8.503347158432007
+___
+experimental_model_of_disease	disease_or_syndrome	physiologic_function
+precedes	_process_of
+-1
+-8.503347158432007
+___
+experimental_model_of_disease	disease_or_syndrome	enzyme
+_degree_of	_complicates
+-1
+-8.579054832458496
+___
+experimental_model_of_disease	disease_or_syndrome	antibiotic
+_degree_of	_complicates
+-1
+-8.579054832458496
+___
+experimental_model_of_disease	disease_or_syndrome	therapeutic_or_preventive_procedure
+_degree_of	_complicates
+-1
+-8.579054832458496
+___
+experimental_model_of_disease	disease_or_syndrome	hazardous_or_poisonous_substance
+_degree_of	_complicates
+-1
+-8.579054832458496
+___
+experimental_model_of_disease	disease_or_syndrome	cell_or_molecular_dysfunction
+_degree_of	_complicates
+-1
+-8.579054832458496
+___
+experimental_model_of_disease	disease_or_syndrome	pathologic_function
+_degree_of	_complicates
+-1
+-8.579054832458496
+___
+experimental_model_of_disease	disease_or_syndrome	pharmacologic_substance
+_degree_of	_complicates
+-1
+-8.579054832458496
+___
+experimental_model_of_disease	disease_or_syndrome	daily_or_recreational_activity
+precedes	_associated_with
+-1
+-8.686196088790894
+___
+experimental_model_of_disease	disease_or_syndrome	geographic_area
+precedes	_associated_with
+-1
+-8.686196088790894
+___
+experimental_model_of_disease	disease_or_syndrome	health_care_activity
+precedes	_associated_with
+-1
+-8.686196088790894
+___
+experimental_model_of_disease	disease_or_syndrome	finding
+precedes	_associated_with
+-1
+-8.686196088790894
+___
+experimental_model_of_disease	disease_or_syndrome	therapeutic_or_preventive_procedure
+precedes	_associated_with
+-1
+-8.686196088790894
+___
+experimental_model_of_disease	disease_or_syndrome	individual_behavior
+precedes	_associated_with
+-1
+-8.686196088790894
+___
+experimental_model_of_disease	disease_or_syndrome	research_activity
+precedes	_associated_with
+-1
+-8.686196088790894
+___
+experimental_model_of_disease	disease_or_syndrome	mental_process
+precedes	manifestation_of
+-1
+-8.694127798080444
+___
+experimental_model_of_disease	disease_or_syndrome	cell_function
+precedes	manifestation_of
+-1
+-8.694127798080444
+___
+experimental_model_of_disease	disease_or_syndrome	organism_function
+precedes	manifestation_of
+-1
+-8.694127798080444
+___
+experimental_model_of_disease	disease_or_syndrome	molecular_function
+precedes	manifestation_of
+-1
+-8.694127798080444
+___
+experimental_model_of_disease	disease_or_syndrome	event
+precedes	isa
+-1
+-8.75383734703064
+___
+experimental_model_of_disease	disease_or_syndrome	biologic_function
+precedes	isa
+-1
+-8.75383734703064
+___
+experimental_model_of_disease	disease_or_syndrome	natural_phenomenon_or_process
+precedes	isa
+-1
+-8.75383734703064
+___
+experimental_model_of_disease	disease_or_syndrome	mammal
+precedes	affects
+-1
+-8.804637670516968
+___
+experimental_model_of_disease	disease_or_syndrome	genetic_function
+precedes	affects
+-1
+-8.804637670516968
+___
+experimental_model_of_disease	disease_or_syndrome	fungus
+precedes	affects
+-1
+-8.804637670516968
+___
+experimental_model_of_disease	disease_or_syndrome	bird
+precedes	affects
+-1
+-8.804637670516968
+___
+experimental_model_of_disease	disease_or_syndrome	pathologic_function
+precedes	affects
+-1
+-8.804637670516968
+___
+experimental_model_of_disease	disease_or_syndrome	rickettsia_or_chlamydia
+precedes	affects
+-1
+-8.804637670516968
+___
+experimental_model_of_disease	disease_or_syndrome	natural_phenomenon_or_process
+precedes	affects
+-1
+-8.804637670516968
+___
+experimental_model_of_disease	disease_or_syndrome	cell_function
+precedes	affects
+-1
+-8.804637670516968
+___
+experimental_model_of_disease	disease_or_syndrome	organism_function
+precedes	affects
+-1
+-8.804637670516968
+___
+experimental_model_of_disease	disease_or_syndrome	vertebrate
+precedes	affects
+-1
+-8.804637670516968
+___
+experimental_model_of_disease	disease_or_syndrome	molecular_function
+precedes	affects
+-1
+-8.804637670516968
+___
+experimental_model_of_disease	disease_or_syndrome	experimental_model_of_disease
+precedes	affects
+-1
+-8.804637670516968
+___
+experimental_model_of_disease	disease_or_syndrome	organism
+precedes	affects
+-1
+-8.804637670516968
+___
+experimental_model_of_disease	disease_or_syndrome	physiologic_function
+precedes	affects
+-1
+-8.804637670516968
+___
+experimental_model_of_disease	disease_or_syndrome	receptor
+_precedes	produces
+-1
+-8.811417579650879
+___
+experimental_model_of_disease	disease_or_syndrome	biologically_active_substance
+_precedes	produces
+-1
+-8.811417579650879
+___
+experimental_model_of_disease	disease_or_syndrome	enzyme
+_precedes	produces
+-1
+-8.811417579650879
+___
+experimental_model_of_disease	disease_or_syndrome	neuroreactive_substance_or_biogenic_amine
+_precedes	produces
+-1
+-8.811417579650879
+___
+#####################
+pathologic_function	mental_or_behavioral_dysfunction
+Reward:1
+pathologic_function	neoplastic_process	mental_or_behavioral_dysfunction
+occurs_in	occurs_in
+1
+-2.802519928663969
+___
+pathologic_function	experimental_model_of_disease	mental_or_behavioral_dysfunction
+precedes	_precedes
+1
+-2.9733498096466064
+___
+pathologic_function	experimental_model_of_disease	pathologic_function
+precedes	_precedes
+-1
+-2.9733498096466064
+___
+pathologic_function	experimental_model_of_disease	pathologic_function
+precedes	precedes
+-1
+-3.0987398624420166
+___
+pathologic_function	experimental_model_of_disease	mental_or_behavioral_dysfunction
+precedes	precedes
+1
+-3.0987398624420166
+___
+pathologic_function	experimental_model_of_disease	pharmacologic_substance
+precedes	_complicates
+-1
+-3.3930351734161377
+___
+pathologic_function	experimental_model_of_disease	hazardous_or_poisonous_substance
+precedes	_complicates
+-1
+-3.3930351734161377
+___
+pathologic_function	experimental_model_of_disease	immunologic_factor
+precedes	_complicates
+-1
+-3.3930351734161377
+___
+pathologic_function	experimental_model_of_disease	therapeutic_or_preventive_procedure
+precedes	_complicates
+-1
+-3.3930351734161377
+___
+pathologic_function	experimental_model_of_disease	hormone
+precedes	_complicates
+-1
+-3.3930351734161377
+___
+pathologic_function	experimental_model_of_disease	mental_or_behavioral_dysfunction
+precedes	_complicates
+1
+-3.3930351734161377
+___
+pathologic_function	experimental_model_of_disease	vitamin
+precedes	_complicates
+-1
+-3.3930351734161377
+___
+pathologic_function	neoplastic_process	mental_or_behavioral_dysfunction
+_isa	occurs_in
+1
+-3.791891483590007
+___
+pathologic_function	age_group	organism_function
+occurs_in	_produces
+-1
+-4.889999866485596
+___
+pathologic_function	age_group	mental_process
+occurs_in	_produces
+-1
+-4.889999866485596
+___
+pathologic_function	experimental_model_of_disease	pathologic_function
+precedes	_degree_of
+-1
+-5.1037726402282715
+___
+pathologic_function	experimental_model_of_disease	cell_or_molecular_dysfunction
+precedes	_degree_of
+-1
+-5.1037726402282715
+___
+pathologic_function	experimental_model_of_disease	mental_or_behavioral_dysfunction
+precedes	_degree_of
+1
+-5.1037726402282715
+___
+pathologic_function	neoplastic_process	mental_or_behavioral_dysfunction
+_degree_of	occurs_in
+1
+-5.192900964990258
+___
+pathologic_function	cell_or_molecular_dysfunction	pathologic_function
+_precedes	precedes
+-1
+-5.30760931968689
+___
+pathologic_function	experimental_model_of_disease	neuroreactive_substance_or_biogenic_amine
+precedes	produces
+-1
+-5.393533229827881
+___
+pathologic_function	experimental_model_of_disease	body_substance
+precedes	produces
+-1
+-5.393533229827881
+___
+pathologic_function	experimental_model_of_disease	vitamin
+precedes	produces
+-1
+-5.393533229827881
+___
+pathologic_function	experimental_model_of_disease	hormone
+precedes	produces
+-1
+-5.393533229827881
+___
+pathologic_function	experimental_model_of_disease	mental_or_behavioral_dysfunction
+_precedes	_precedes
+1
+-5.402715682983398
+___
+pathologic_function	experimental_model_of_disease	pathologic_function
+_precedes	_precedes
+-1
+-5.402715682983398
+___
+pathologic_function	population_group	manufactured_object
+occurs_in	produces
+-1
+-5.404749393463135
+___
+pathologic_function	population_group	clinical_drug
+occurs_in	produces
+-1
+-5.404749393463135
+___
+pathologic_function	population_group	research_device
+occurs_in	produces
+-1
+-5.404749393463135
+___
+pathologic_function	population_group	intellectual_product
+occurs_in	produces
+-1
+-5.404749393463135
+___
+pathologic_function	population_group	drug_delivery_device
+occurs_in	produces
+-1
+-5.404749393463135
+___
+pathologic_function	population_group	classification
+occurs_in	produces
+-1
+-5.404749393463135
+___
+pathologic_function	population_group	social_behavior
+occurs_in	_associated_with
+-1
+-5.409651756286621
+___
+pathologic_function	population_group	individual_behavior
+occurs_in	_associated_with
+-1
+-5.409651756286621
+___
+pathologic_function	population_group	behavior
+occurs_in	_associated_with
+-1
+-5.409651756286621
+___
+pathologic_function	mental_or_behavioral_dysfunction	experimental_model_of_disease
+_precedes	_precedes
+-1
+-5.436418056488037
+___
+pathologic_function	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+_precedes	_precedes
+-1
+-5.436418056488037
+___
+pathologic_function	professional_or_occupational_group	intellectual_product
+occurs_in	produces
+-1
+-5.457618236541748
+___
+pathologic_function	professional_or_occupational_group	medical_device
+occurs_in	produces
+-1
+-5.457618236541748
+___
+pathologic_function	professional_or_occupational_group	manufactured_object
+occurs_in	produces
+-1
+-5.457618236541748
+___
+pathologic_function	professional_or_occupational_group	research_device
+occurs_in	produces
+-1
+-5.457618236541748
+___
+pathologic_function	professional_or_occupational_group	clinical_drug
+occurs_in	produces
+-1
+-5.457618236541748
+___
+pathologic_function	professional_or_occupational_group	drug_delivery_device
+occurs_in	produces
+-1
+-5.457618236541748
+___
+pathologic_function	professional_or_occupational_group	classification
+occurs_in	produces
+-1
+-5.457618236541748
+___
+pathologic_function	professional_or_occupational_group	individual_behavior
+occurs_in	_associated_with
+-1
+-5.462520599365234
+___
+pathologic_function	professional_or_occupational_group	behavior
+occurs_in	_associated_with
+-1
+-5.462520599365234
+___
+pathologic_function	group	clinical_drug
+occurs_in	produces
+-1
+-5.4672768115997314
+___
+pathologic_function	group	manufactured_object
+occurs_in	produces
+-1
+-5.4672768115997314
+___
+pathologic_function	group	medical_device
+occurs_in	produces
+-1
+-5.4672768115997314
+___
+pathologic_function	group	intellectual_product
+occurs_in	produces
+-1
+-5.4672768115997314
+___
+pathologic_function	group	drug_delivery_device
+occurs_in	produces
+-1
+-5.4672768115997314
+___
+pathologic_function	group	classification
+occurs_in	produces
+-1
+-5.4672768115997314
+___
+pathologic_function	group	regulation_or_law
+occurs_in	produces
+-1
+-5.4672768115997314
+___
+pathologic_function	group	individual_behavior
+occurs_in	_associated_with
+-1
+-5.472178936004639
+___
+pathologic_function	group	social_behavior
+occurs_in	_associated_with
+-1
+-5.472178936004639
+___
+pathologic_function	group	behavior
+occurs_in	_associated_with
+-1
+-5.472178936004639
+___
+pathologic_function	population_group	entity
+occurs_in	isa
+-1
+-5.5935845375061035
+___
+pathologic_function	population_group	conceptual_entity
+occurs_in	isa
+-1
+-5.5935845375061035
+___
+pathologic_function	age_group	drug_delivery_device
+occurs_in	produces
+-1
+-5.605931520462036
+___
+pathologic_function	age_group	intellectual_product
+occurs_in	produces
+-1
+-5.605931520462036
+___
+pathologic_function	age_group	medical_device
+occurs_in	produces
+-1
+-5.605931520462036
+___
+pathologic_function	age_group	manufactured_object
+occurs_in	produces
+-1
+-5.605931520462036
+___
+pathologic_function	age_group	clinical_drug
+occurs_in	produces
+-1
+-5.605931520462036
+___
+pathologic_function	age_group	classification
+occurs_in	produces
+-1
+-5.605931520462036
+___
+pathologic_function	age_group	individual_behavior
+occurs_in	_associated_with
+-1
+-5.610833644866943
+___
+pathologic_function	age_group	social_behavior
+occurs_in	_associated_with
+-1
+-5.610833644866943
+___
+pathologic_function	professional_or_occupational_group	conceptual_entity
+occurs_in	isa
+-1
+-5.646453380584717
+___
+pathologic_function	group	entity
+occurs_in	isa
+-1
+-5.656112194061279
+___
+pathologic_function	group	conceptual_entity
+occurs_in	isa
+-1
+-5.656112194061279
+___
+pathologic_function	professional_or_occupational_group	cell_or_molecular_dysfunction
+occurs_in	diagnoses
+-1
+-5.7064149379730225
+___
+pathologic_function	professional_or_occupational_group	mental_or_behavioral_dysfunction
+occurs_in	diagnoses
+1
+-5.7064149379730225
+___
+pathologic_function	professional_or_occupational_group	pathologic_function
+occurs_in	diagnoses
+-1
+-5.7064149379730225
+___
+pathologic_function	disease_or_syndrome	cell_or_molecular_dysfunction
+_precedes	_precedes
+-1
+-5.744937896728516
+___
+pathologic_function	disease_or_syndrome	experimental_model_of_disease
+_precedes	_precedes
+-1
+-5.744937896728516
+___
+pathologic_function	disease_or_syndrome	pathologic_function
+_precedes	_precedes
+-1
+-5.744937896728516
+___
+pathologic_function	disease_or_syndrome	mental_or_behavioral_dysfunction
+_precedes	_precedes
+1
+-5.744937896728516
+___
+pathologic_function	experimental_model_of_disease	pathologic_function
+_precedes	precedes
+-1
+-5.772707939147949
+___
+pathologic_function	experimental_model_of_disease	mental_or_behavioral_dysfunction
+_precedes	precedes
+1
+-5.772707939147949
+___
+pathologic_function	disease_or_syndrome	mental_or_behavioral_dysfunction
+_isa	_precedes
+1
+-5.781788229942322
+___
+pathologic_function	disease_or_syndrome	pathologic_function
+_isa	_precedes
+-1
+-5.781788229942322
+___
+pathologic_function	disease_or_syndrome	cell_or_molecular_dysfunction
+_isa	_precedes
+-1
+-5.781788229942322
+___
+pathologic_function	disease_or_syndrome	experimental_model_of_disease
+_isa	_precedes
+-1
+-5.781788229942322
+___
+pathologic_function	age_group	conceptual_entity
+occurs_in	isa
+-1
+-5.794766902923584
+___
+pathologic_function	age_group	entity
+occurs_in	isa
+-1
+-5.794766902923584
+___
+pathologic_function	cell_or_molecular_dysfunction	enzyme
+_precedes	_complicates
+-1
+-5.797734975814819
+___
+pathologic_function	cell_or_molecular_dysfunction	pharmacologic_substance
+_precedes	_complicates
+-1
+-5.797734975814819
+___
+pathologic_function	cell_or_molecular_dysfunction	pathologic_function
+_precedes	_complicates
+-1
+-5.797734975814819
+___
+pathologic_function	cell_or_molecular_dysfunction	biologically_active_substance
+_precedes	_complicates
+-1
+-5.797734975814819
+___
+pathologic_function	cell_or_molecular_dysfunction	neuroreactive_substance_or_biogenic_amine
+_precedes	_complicates
+-1
+-5.797734975814819
+___
+pathologic_function	cell_or_molecular_dysfunction	hormone
+_precedes	_complicates
+-1
+-5.797734975814819
+___
+pathologic_function	cell_or_molecular_dysfunction	receptor
+_precedes	_complicates
+-1
+-5.797734975814819
+___
+pathologic_function	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+_precedes	precedes
+-1
+-5.806410312652588
+___
+pathologic_function	mental_or_behavioral_dysfunction	pathologic_function
+_precedes	precedes
+-1
+-5.806410312652588
+___
+pathologic_function	experimental_model_of_disease	congenital_abnormality
+precedes	co-occurs_with
+-1
+-6.099178791046143
+___
+pathologic_function	disease_or_syndrome	pathologic_function
+_precedes	precedes
+-1
+-6.114930152893066
+___
+pathologic_function	disease_or_syndrome	cell_or_molecular_dysfunction
+_precedes	precedes
+-1
+-6.114930152893066
+___
+pathologic_function	disease_or_syndrome	mental_or_behavioral_dysfunction
+_precedes	precedes
+1
+-6.114930152893066
+___
+pathologic_function	experimental_model_of_disease	therapeutic_or_preventive_procedure
+_precedes	_complicates
+-1
+-6.262833595275879
+___
+pathologic_function	experimental_model_of_disease	pharmacologic_substance
+_precedes	_complicates
+-1
+-6.262833595275879
+___
+pathologic_function	experimental_model_of_disease	hormone
+_precedes	_complicates
+-1
+-6.262833595275879
+___
+#####################
+organism_function	temporal_concept
+Reward:1
+organism_function	mental_process	temporal_concept
+precedes	occurs_in
+1
+-1.8320581172592938
+___
+organism_function	cell_function	temporal_concept
+precedes	occurs_in
+1
+-1.8343125865794718
+___
+organism_function	molecular_function	temporal_concept
+precedes	occurs_in
+1
+-1.8350937757641077
+___
+organism_function	physiologic_function	temporal_concept
+precedes	occurs_in
+1
+-1.8420150596648455
+___
+organism_function	organ_or_tissue_function	temporal_concept
+precedes	occurs_in
+1
+-2.523843765258789
+___
+organism_function	organ_or_tissue_function	organism_function
+precedes	occurs_in
+-1
+-2.523843765258789
+___
+organism_function	genetic_function	cell_function
+precedes	_precedes
+-1
+-4.469446420669556
+___
+organism_function	genetic_function	organism_function
+precedes	_precedes
+-1
+-4.469446420669556
+___
+organism_function	genetic_function	molecular_function
+precedes	_precedes
+-1
+-4.469446420669556
+___
+organism_function	genetic_function	organ_or_tissue_function
+precedes	_precedes
+-1
+-4.469446420669556
+___
+organism_function	cell_function	temporal_concept
+_precedes	occurs_in
+1
+-4.52411471772939
+___
+organism_function	physiologic_function	temporal_concept
+_precedes	occurs_in
+1
+-4.534917660057545
+___
+organism_function	genetic_function	physiologic_function
+precedes	precedes
+-1
+-4.594836473464966
+___
+organism_function	genetic_function	cell_function
+precedes	precedes
+-1
+-4.594836473464966
+___
+organism_function	genetic_function	organism_function
+precedes	precedes
+-1
+-4.594836473464966
+___
+organism_function	genetic_function	organ_or_tissue_function
+precedes	precedes
+-1
+-4.594836473464966
+___
+organism_function	genetic_function	molecular_function
+precedes	precedes
+-1
+-4.594836473464966
+___
+organism_function	genetic_function	pharmacologic_substance
+precedes	_complicates
+-1
+-4.889131784439087
+___
+organism_function	genetic_function	therapeutic_or_preventive_procedure
+precedes	_complicates
+-1
+-4.889131784439087
+___
+organism_function	genetic_function	biologically_active_substance
+precedes	_complicates
+-1
+-4.889131784439087
+___
+organism_function	genetic_function	vitamin
+precedes	_complicates
+-1
+-4.889131784439087
+___
+organism_function	genetic_function	hazardous_or_poisonous_substance
+precedes	_complicates
+-1
+-4.889131784439087
+___
+organism_function	genetic_function	enzyme
+precedes	_complicates
+-1
+-4.889131784439087
+___
+organism_function	genetic_function	hormone
+precedes	_complicates
+-1
+-4.889131784439087
+___
+organism_function	mental_process	temporal_concept
+_degree_of	occurs_in
+1
+-6.316370049025863
+___
+organism_function	genetic_function	vitamin
+precedes	produces
+-1
+-6.889629602432251
+___
+organism_function	genetic_function	immunologic_factor
+precedes	produces
+-1
+-6.889629602432251
+___
+organism_function	genetic_function	cell_component
+precedes	produces
+-1
+-6.889629602432251
+___
+organism_function	genetic_function	receptor
+precedes	produces
+-1
+-6.889629602432251
+___
+organism_function	genetic_function	body_substance
+precedes	produces
+-1
+-6.889629602432251
+___
+organism_function	genetic_function	enzyme
+precedes	produces
+-1
+-6.889629602432251
+___
+organism_function	genetic_function	cell_function
+_precedes	_precedes
+-1
+-6.931250095367432
+___
+organism_function	genetic_function	organism_function
+_precedes	_precedes
+-1
+-6.931250095367432
+___
+organism_function	genetic_function	organ_or_tissue_function
+_precedes	_precedes
+-1
+-6.931250095367432
+___
+organism_function	genetic_function	molecular_function
+_precedes	_precedes
+-1
+-6.931250095367432
+___
+organism_function	genetic_function	molecular_function
+_precedes	precedes
+-1
+-7.301242351531982
+___
+organism_function	genetic_function	organ_or_tissue_function
+_precedes	precedes
+-1
+-7.301242351531982
+___
+organism_function	genetic_function	organism_function
+_precedes	precedes
+-1
+-7.301242351531982
+___
+organism_function	genetic_function	cell_function
+_precedes	precedes
+-1
+-7.301242351531982
+___
+organism_function	genetic_function	physiologic_function
+_precedes	precedes
+-1
+-7.301242351531982
+___
+organism_function	genetic_function	therapeutic_or_preventive_procedure
+_precedes	_complicates
+-1
+-7.791368007659912
+___
+organism_function	genetic_function	hormone
+_precedes	_complicates
+-1
+-7.791368007659912
+___
+organism_function	genetic_function	vitamin
+_precedes	_complicates
+-1
+-7.791368007659912
+___
+organism_function	genetic_function	pharmacologic_substance
+_precedes	_complicates
+-1
+-7.791368007659912
+___
+organism_function	genetic_function	hazardous_or_poisonous_substance
+_precedes	_complicates
+-1
+-7.791368007659912
+___
+organism_function	genetic_function	enzyme
+_precedes	_complicates
+-1
+-7.791368007659912
+___
+organism_function	genetic_function	biologically_active_substance
+_precedes	_complicates
+-1
+-7.791368007659912
+___
+organism_function	physiologic_function	molecular_function
+precedes	_isa
+-1
+-8.192525625228882
+___
+organism_function	physiologic_function	organ_or_tissue_function
+precedes	_isa
+-1
+-8.192525625228882
+___
+organism_function	physiologic_function	organism_function
+precedes	_isa
+-1
+-8.192525625228882
+___
+organism_function	physiologic_function	mental_process
+precedes	_isa
+-1
+-8.192525625228882
+___
+organism_function	physiologic_function	genetic_function
+precedes	_isa
+-1
+-8.192525625228882
+___
+organism_function	genetic_function	clinical_attribute
+precedes	_measurement_of
+-1
+-9.052247285842896
+___
+organism_function	genetic_function	organism_attribute
+precedes	_measurement_of
+-1
+-9.052247285842896
+___
+organism_function	genetic_function	laboratory_or_test_result
+precedes	_measurement_of
+-1
+-9.052247285842896
+___
+organism_function	genetic_function	quantitative_concept
+precedes	_measurement_of
+-1
+-9.052247285842896
+___
+organism_function	genetic_function	experimental_model_of_disease
+precedes	_process_of
+-1
+-9.287010431289673
+___
+organism_function	genetic_function	organism_function
+precedes	_process_of
+-1
+-9.287010431289673
+___
+organism_function	genetic_function	molecular_function
+precedes	_process_of
+-1
+-9.287010431289673
+___
+organism_function	genetic_function	physiologic_function
+precedes	_process_of
+-1
+-9.287010431289673
+___
+organism_function	genetic_function	cell_or_molecular_dysfunction
+precedes	_process_of
+-1
+-9.287010431289673
+___
+organism_function	genetic_function	cell_function
+precedes	_process_of
+-1
+-9.287010431289673
+___
+organism_function	genetic_function	pathologic_function
+precedes	_process_of
+-1
+-9.287010431289673
+___
+organism_function	genetic_function	mental_or_behavioral_dysfunction
+precedes	_process_of
+-1
+-9.287010431289673
+___
+organism_function	genetic_function	organ_or_tissue_function
+precedes	_process_of
+-1
+-9.287010431289673
+___
+organism_function	genetic_function	biologic_function
+precedes	_process_of
+-1
+-9.287010431289673
+___
+organism_function	genetic_function	natural_phenomenon_or_process
+precedes	_process_of
+-1
+-9.287010431289673
+___
+organism_function	mental_process	genetic_function
+precedes	_precedes
+-1
+-9.53271222114563
+___
+organism_function	mental_process	organism_function
+precedes	_precedes
+-1
+-9.53271222114563
+___
+organism_function	mental_process	molecular_function
+precedes	_precedes
+-1
+-9.53271222114563
+___
+organism_function	mental_process	organ_or_tissue_function
+precedes	_precedes
+-1
+-9.53271222114563
+___
+organism_function	cell_function	physiologic_function
+precedes	_precedes
+-1
+-9.534966707229614
+___
+organism_function	cell_function	organism_function
+precedes	_precedes
+-1
+-9.534966707229614
+___
+organism_function	cell_function	genetic_function
+precedes	_precedes
+-1
+-9.534966707229614
+___
+organism_function	cell_function	organ_or_tissue_function
+precedes	_precedes
+-1
+-9.534966707229614
+___
+organism_function	cell_function	molecular_function
+precedes	_precedes
+-1
+-9.534966707229614
+___
+organism_function	molecular_function	cell_function
+precedes	_precedes
+-1
+-9.535747766494751
+___
+organism_function	molecular_function	mental_process
+precedes	_precedes
+-1
+-9.535747766494751
+___
+organism_function	molecular_function	genetic_function
+precedes	_precedes
+-1
+-9.535747766494751
+___
+organism_function	molecular_function	organism_function
+precedes	_precedes
+-1
+-9.535747766494751
+___
+organism_function	molecular_function	physiologic_function
+precedes	_precedes
+-1
+-9.535747766494751
+___
+organism_function	molecular_function	organ_or_tissue_function
+precedes	_precedes
+-1
+-9.535747766494751
+___
+organism_function	genetic_function	event
+precedes	isa
+-1
+-9.537500143051147
+___
+organism_function	genetic_function	phenomenon_or_process
+precedes	isa
+-1
+-9.537500143051147
+___
+organism_function	genetic_function	biologic_function
+precedes	isa
+-1
+-9.537500143051147
+___
+organism_function	genetic_function	physiologic_function
+precedes	isa
+-1
+-9.537500143051147
+___
+organism_function	physiologic_function	mental_process
+precedes	_precedes
+-1
+-9.54266905784607
+___
+organism_function	physiologic_function	molecular_function
+precedes	_precedes
+-1
+-9.54266905784607
+___
+organism_function	physiologic_function	organ_or_tissue_function
+precedes	_precedes
+-1
+-9.54266905784607
+___
+organism_function	physiologic_function	organism_function
+precedes	_precedes
+-1
+-9.54266905784607
+___
+organism_function	physiologic_function	cell_function
+precedes	_precedes
+-1
+-9.54266905784607
+___
+organism_function	genetic_function	natural_phenomenon_or_process
+precedes	affects
+-1
+-9.588300943374634
+___
+organism_function	genetic_function	human
+precedes	affects
+-1
+-9.588300943374634
+___
+organism_function	genetic_function	mammal
+precedes	affects
+-1
+-9.588300943374634
+___
+organism_function	genetic_function	neoplastic_process
+precedes	affects
+-1
+-9.588300943374634
+___
+organism_function	genetic_function	molecular_function
+precedes	affects
+-1
+-9.588300943374634
+___
+organism_function	genetic_function	rickettsia_or_chlamydia
+precedes	affects
+-1
+-9.588300943374634
+___
+organism_function	genetic_function	cell_function
+precedes	affects
+-1
+-9.588300943374634
+___
+organism_function	genetic_function	archaeon
+precedes	affects
+-1
+-9.588300943374634
+___
+organism_function	genetic_function	organism_attribute
+precedes	affects
+-1
+-9.588300943374634
+___
+#####################
+cell_or_molecular_dysfunction	mental_or_behavioral_dysfunction
+Reward:1
+cell_or_molecular_dysfunction	neoplastic_process	mental_or_behavioral_dysfunction
+precedes	occurs_in
+1
+-0.9736634390428662
+___
+cell_or_molecular_dysfunction	neoplastic_process	mental_or_behavioral_dysfunction
+occurs_in	occurs_in
+1
+-3.0674728266894817
+___
+cell_or_molecular_dysfunction	pathologic_function	cell_or_molecular_dysfunction
+precedes	_precedes
+-1
+-3.292099714279175
+___
+cell_or_molecular_dysfunction	pathologic_function	mental_or_behavioral_dysfunction
+precedes	_precedes
+1
+-3.292099714279175
+___
+cell_or_molecular_dysfunction	pathologic_function	experimental_model_of_disease
+precedes	_precedes
+-1
+-3.292099714279175
+___
+cell_or_molecular_dysfunction	pathologic_function	experimental_model_of_disease
+precedes	precedes
+-1
+-3.417489767074585
+___
+cell_or_molecular_dysfunction	pathologic_function	neuroreactive_substance_or_biogenic_amine
+precedes	_complicates
+-1
+-3.711785078048706
+___
+cell_or_molecular_dysfunction	pathologic_function	hazardous_or_poisonous_substance
+precedes	_complicates
+-1
+-3.711785078048706
+___
+cell_or_molecular_dysfunction	pathologic_function	cell_or_molecular_dysfunction
+precedes	_complicates
+-1
+-3.711785078048706
+___
+cell_or_molecular_dysfunction	pathologic_function	pharmacologic_substance
+precedes	_complicates
+-1
+-3.711785078048706
+___
+cell_or_molecular_dysfunction	pathologic_function	hormone
+precedes	_complicates
+-1
+-3.711785078048706
+___
+cell_or_molecular_dysfunction	pathologic_function	experimental_model_of_disease
+precedes	_complicates
+-1
+-3.711785078048706
+___
+cell_or_molecular_dysfunction	pathologic_function	biologically_active_substance
+precedes	_complicates
+-1
+-3.711785078048706
+___
+cell_or_molecular_dysfunction	pathologic_function	vitamin
+precedes	_complicates
+-1
+-3.711785078048706
+___
+cell_or_molecular_dysfunction	disease_or_syndrome	cell_or_molecular_dysfunction
+occurs_in	precedes
+-1
+-4.583888053894043
+___
+cell_or_molecular_dysfunction	disease_or_syndrome	mental_or_behavioral_dysfunction
+occurs_in	precedes
+1
+-4.583888053894043
+___
+cell_or_molecular_dysfunction	disease_or_syndrome	pathologic_function
+occurs_in	precedes
+-1
+-4.583888053894043
+___
+cell_or_molecular_dysfunction	family_group	organism_function
+occurs_in	_produces
+-1
+-5.264419317245483
+___
+cell_or_molecular_dysfunction	family_group	mental_process
+occurs_in	_produces
+-1
+-5.264419317245483
+___
+cell_or_molecular_dysfunction	pathologic_function	cell_or_molecular_dysfunction
+precedes	_degree_of
+-1
+-5.422522783279419
+___
+cell_or_molecular_dysfunction	population_group	research_device
+occurs_in	produces
+-1
+-5.6697022914886475
+___
+cell_or_molecular_dysfunction	population_group	clinical_drug
+occurs_in	produces
+-1
+-5.6697022914886475
+___
+cell_or_molecular_dysfunction	population_group	manufactured_object
+occurs_in	produces
+-1
+-5.6697022914886475
+___
+cell_or_molecular_dysfunction	population_group	classification
+occurs_in	produces
+-1
+-5.6697022914886475
+___
+cell_or_molecular_dysfunction	population_group	drug_delivery_device
+occurs_in	produces
+-1
+-5.6697022914886475
+___
+cell_or_molecular_dysfunction	population_group	intellectual_product
+occurs_in	produces
+-1
+-5.6697022914886475
+___
+cell_or_molecular_dysfunction	population_group	social_behavior
+occurs_in	_associated_with
+-1
+-5.674604654312134
+___
+cell_or_molecular_dysfunction	population_group	behavior
+occurs_in	_associated_with
+-1
+-5.674604654312134
+___
+cell_or_molecular_dysfunction	population_group	individual_behavior
+occurs_in	_associated_with
+-1
+-5.674604654312134
+___
+cell_or_molecular_dysfunction	disease_or_syndrome	experimental_model_of_disease
+occurs_in	_precedes
+-1
+-5.689535617828369
+___
+cell_or_molecular_dysfunction	disease_or_syndrome	mental_or_behavioral_dysfunction
+occurs_in	_precedes
+1
+-5.689535617828369
+___
+cell_or_molecular_dysfunction	disease_or_syndrome	cell_or_molecular_dysfunction
+occurs_in	_precedes
+-1
+-5.689535617828369
+___
+cell_or_molecular_dysfunction	disease_or_syndrome	pathologic_function
+occurs_in	_precedes
+-1
+-5.689535617828369
+___
+cell_or_molecular_dysfunction	pathologic_function	enzyme
+precedes	produces
+-1
+-5.71228289604187
+___
+cell_or_molecular_dysfunction	pathologic_function	immunologic_factor
+precedes	produces
+-1
+-5.71228289604187
+___
+cell_or_molecular_dysfunction	pathologic_function	hormone
+precedes	produces
+-1
+-5.71228289604187
+___
+cell_or_molecular_dysfunction	pathologic_function	receptor
+precedes	produces
+-1
+-5.71228289604187
+___
+cell_or_molecular_dysfunction	group	medical_device
+occurs_in	produces
+-1
+-5.732229709625244
+___
+cell_or_molecular_dysfunction	group	drug_delivery_device
+occurs_in	produces
+-1
+-5.732229709625244
+___
+cell_or_molecular_dysfunction	group	regulation_or_law
+occurs_in	produces
+-1
+-5.732229709625244
+___
+cell_or_molecular_dysfunction	group	classification
+occurs_in	produces
+-1
+-5.732229709625244
+___
+cell_or_molecular_dysfunction	group	intellectual_product
+occurs_in	produces
+-1
+-5.732229709625244
+___
+cell_or_molecular_dysfunction	group	manufactured_object
+occurs_in	produces
+-1
+-5.732229709625244
+___
+cell_or_molecular_dysfunction	group	clinical_drug
+occurs_in	produces
+-1
+-5.732229709625244
+___
+cell_or_molecular_dysfunction	group	behavior
+occurs_in	_associated_with
+-1
+-5.737131834030151
+___
+cell_or_molecular_dysfunction	group	social_behavior
+occurs_in	_associated_with
+-1
+-5.737131834030151
+___
+cell_or_molecular_dysfunction	group	individual_behavior
+occurs_in	_associated_with
+-1
+-5.737131834030151
+___
+cell_or_molecular_dysfunction	population_group	entity
+occurs_in	isa
+-1
+-5.858537435531616
+___
+cell_or_molecular_dysfunction	population_group	conceptual_entity
+occurs_in	isa
+-1
+-5.858537435531616
+___
+cell_or_molecular_dysfunction	group	entity
+occurs_in	isa
+-1
+-5.921065092086792
+___
+cell_or_molecular_dysfunction	group	conceptual_entity
+occurs_in	isa
+-1
+-5.921065092086792
+___
+cell_or_molecular_dysfunction	family_group	manufactured_object
+occurs_in	produces
+-1
+-5.980350971221924
+___
+cell_or_molecular_dysfunction	family_group	regulation_or_law
+occurs_in	produces
+-1
+-5.980350971221924
+___
+cell_or_molecular_dysfunction	family_group	medical_device
+occurs_in	produces
+-1
+-5.980350971221924
+___
+cell_or_molecular_dysfunction	family_group	clinical_drug
+occurs_in	produces
+-1
+-5.980350971221924
+___
+cell_or_molecular_dysfunction	family_group	intellectual_product
+occurs_in	produces
+-1
+-5.980350971221924
+___
+cell_or_molecular_dysfunction	family_group	classification
+occurs_in	produces
+-1
+-5.980350971221924
+___
+cell_or_molecular_dysfunction	family_group	drug_delivery_device
+occurs_in	produces
+-1
+-5.980350971221924
+___
+cell_or_molecular_dysfunction	family_group	social_behavior
+occurs_in	_associated_with
+-1
+-5.985253095626831
+___
+cell_or_molecular_dysfunction	family_group	individual_behavior
+occurs_in	_associated_with
+-1
+-5.985253095626831
+___
+cell_or_molecular_dysfunction	family_group	behavior
+occurs_in	_associated_with
+-1
+-5.985253095626831
+___
+cell_or_molecular_dysfunction	family_group	entity
+occurs_in	isa
+-1
+-6.169186353683472
+___
+cell_or_molecular_dysfunction	family_group	conceptual_entity
+occurs_in	isa
+-1
+-6.169186353683472
+___
+cell_or_molecular_dysfunction	pathologic_function	anatomical_abnormality
+precedes	co-occurs_with
+-1
+-6.41792893409729
+___
+cell_or_molecular_dysfunction	pathologic_function	acquired_abnormality
+precedes	co-occurs_with
+-1
+-6.41792893409729
+___
+cell_or_molecular_dysfunction	disease_or_syndrome	cell_or_molecular_dysfunction
+occurs_in	_degree_of
+-1
+-6.773200988769531
+___
+cell_or_molecular_dysfunction	disease_or_syndrome	pathologic_function
+occurs_in	_degree_of
+-1
+-6.773200988769531
+___
+cell_or_molecular_dysfunction	population_group	research_device
+occurs_in	uses
+-1
+-6.912415266036987
+___
+cell_or_molecular_dysfunction	population_group	classification
+occurs_in	uses
+-1
+-6.912415266036987
+___
+cell_or_molecular_dysfunction	population_group	drug_delivery_device
+occurs_in	uses
+-1
+-6.912415266036987
+___
+cell_or_molecular_dysfunction	population_group	manufactured_object
+occurs_in	uses
+-1
+-6.912415266036987
+___
+cell_or_molecular_dysfunction	population_group	clinical_drug
+occurs_in	uses
+-1
+-6.912415266036987
+___
+cell_or_molecular_dysfunction	population_group	intellectual_product
+occurs_in	uses
+-1
+-6.912415266036987
+___
+cell_or_molecular_dysfunction	population_group	regulation_or_law
+occurs_in	_affects
+-1
+-6.955814599990845
+___
+cell_or_molecular_dysfunction	group	intellectual_product
+occurs_in	uses
+-1
+-6.974942684173584
+___
+cell_or_molecular_dysfunction	group	medical_device
+occurs_in	uses
+-1
+-6.974942684173584
+___
+cell_or_molecular_dysfunction	group	regulation_or_law
+occurs_in	uses
+-1
+-6.974942684173584
+___
+cell_or_molecular_dysfunction	group	research_device
+occurs_in	uses
+-1
+-6.974942684173584
+___
+cell_or_molecular_dysfunction	group	manufactured_object
+occurs_in	uses
+-1
+-6.974942684173584
+___
+cell_or_molecular_dysfunction	group	drug_delivery_device
+occurs_in	uses
+-1
+-6.974942684173584
+___
+cell_or_molecular_dysfunction	group	clinical_drug
+occurs_in	uses
+-1
+-6.974942684173584
+___
+cell_or_molecular_dysfunction	group	regulation_or_law
+occurs_in	_affects
+-1
+-7.018342018127441
+___
+cell_or_molecular_dysfunction	family_group	manufactured_object
+occurs_in	uses
+-1
+-7.223064184188843
+___
+cell_or_molecular_dysfunction	family_group	regulation_or_law
+occurs_in	uses
+-1
+-7.223064184188843
+___
+cell_or_molecular_dysfunction	family_group	clinical_drug
+occurs_in	uses
+-1
+-7.223064184188843
+___
+cell_or_molecular_dysfunction	family_group	research_device
+occurs_in	uses
+-1
+-7.223064184188843
+___
+cell_or_molecular_dysfunction	family_group	classification
+occurs_in	uses
+-1
+-7.223064184188843
+___
+cell_or_molecular_dysfunction	family_group	intellectual_product
+occurs_in	uses
+-1
+-7.223064184188843
+___
+cell_or_molecular_dysfunction	family_group	drug_delivery_device
+occurs_in	uses
+-1
+-7.223064184188843
+___
+cell_or_molecular_dysfunction	family_group	regulation_or_law
+occurs_in	_affects
+-1
+-7.266463041305542
+___
+cell_or_molecular_dysfunction	neoplastic_process	experimental_model_of_disease
+occurs_in	precedes
+-1
+-7.523926019668579
+___
+cell_or_molecular_dysfunction	pathologic_function	experimental_model_of_disease
+precedes	degree_of
+-1
+-7.579996824264526
+___
+cell_or_molecular_dysfunction	pathologic_function	cell_or_molecular_dysfunction
+precedes	degree_of
+-1
+-7.579996824264526
+___
+cell_or_molecular_dysfunction	pathologic_function	cell_or_molecular_dysfunction
+_degree_of	_precedes
+-1
+-7.675337791442871
+___
+cell_or_molecular_dysfunction	pathologic_function	experimental_model_of_disease
+_degree_of	_precedes
+-1
+-7.675337791442871
+___
+cell_or_molecular_dysfunction	pathologic_function	mental_or_behavioral_dysfunction
+_degree_of	_precedes
+1
+-7.675337791442871
+___
+cell_or_molecular_dysfunction	population_group	behavior
+occurs_in	exhibits
+-1
+-8.021857023239136
+___
+cell_or_molecular_dysfunction	population_group	individual_behavior
+occurs_in	exhibits
+-1
+-8.021857023239136
+___
+cell_or_molecular_dysfunction	population_group	social_behavior
+occurs_in	exhibits
+-1
+-8.021857023239136
+___
+cell_or_molecular_dysfunction	group	social_behavior
+occurs_in	exhibits
+-1
+-8.084384679794312
+___
+#####################
+experimental_model_of_disease	age_group
+Reward:1
+experimental_model_of_disease	pathologic_function	age_group
+precedes	occurs_in
+1
+-1.328795532695949
+___
+experimental_model_of_disease	population_group	age_group
+occurs_in	interacts_with
+1
+-3.4050065278997863
+___
+experimental_model_of_disease	patient_or_disabled_group	age_group
+occurs_in	_interacts_with
+1
+-3.406753798481077
+___
+experimental_model_of_disease	neoplastic_process	experimental_model_of_disease
+occurs_in	precedes
+-1
+-3.5765779614448547
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	experimental_model_of_disease
+precedes	_precedes
+-1
+-3.647800922393799
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+precedes	_precedes
+-1
+-3.647800922393799
+___
+experimental_model_of_disease	disease_or_syndrome	pathologic_function
+precedes	_precedes
+-1
+-3.6857833862304688
+___
+experimental_model_of_disease	disease_or_syndrome	experimental_model_of_disease
+precedes	_precedes
+-1
+-3.6857833862304688
+___
+experimental_model_of_disease	disease_or_syndrome	cell_or_molecular_dysfunction
+precedes	_precedes
+-1
+-3.6857833862304688
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+precedes	precedes
+-1
+-3.773190975189209
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	pathologic_function
+precedes	precedes
+-1
+-3.773190975189209
+___
+experimental_model_of_disease	disease_or_syndrome	pathologic_function
+precedes	precedes
+-1
+-3.811173439025879
+___
+experimental_model_of_disease	disease_or_syndrome	cell_or_molecular_dysfunction
+precedes	precedes
+-1
+-3.811173439025879
+___
+experimental_model_of_disease	pathologic_function	age_group
+_precedes	occurs_in
+1
+-4.017930332105607
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	hazardous_or_poisonous_substance
+precedes	_complicates
+-1
+-4.06748628616333
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	pathologic_function
+precedes	_complicates
+-1
+-4.06748628616333
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	enzyme
+precedes	_complicates
+-1
+-4.06748628616333
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	antibiotic
+precedes	_complicates
+-1
+-4.06748628616333
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	immunologic_factor
+precedes	_complicates
+-1
+-4.06748628616333
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	neuroreactive_substance_or_biogenic_amine
+precedes	_complicates
+-1
+-4.06748628616333
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	biologically_active_substance
+precedes	_complicates
+-1
+-4.06748628616333
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+precedes	_complicates
+-1
+-4.06748628616333
+___
+experimental_model_of_disease	disease_or_syndrome	pathologic_function
+precedes	_complicates
+-1
+-4.10546875
+___
+experimental_model_of_disease	disease_or_syndrome	hazardous_or_poisonous_substance
+precedes	_complicates
+-1
+-4.10546875
+___
+experimental_model_of_disease	disease_or_syndrome	therapeutic_or_preventive_procedure
+precedes	_complicates
+-1
+-4.10546875
+___
+experimental_model_of_disease	disease_or_syndrome	enzyme
+precedes	_complicates
+-1
+-4.10546875
+___
+experimental_model_of_disease	disease_or_syndrome	cell_or_molecular_dysfunction
+precedes	_complicates
+-1
+-4.10546875
+___
+experimental_model_of_disease	disease_or_syndrome	pharmacologic_substance
+precedes	_complicates
+-1
+-4.10546875
+___
+experimental_model_of_disease	disease_or_syndrome	antibiotic
+precedes	_complicates
+-1
+-4.10546875
+___
+experimental_model_of_disease	neoplastic_process	pathologic_function
+occurs_in	_degree_of
+-1
+-5.765890836715698
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+precedes	_degree_of
+-1
+-5.778223752975464
+___
+experimental_model_of_disease	pathologic_function	age_group
+_degree_of	occurs_in
+1
+-5.813030374236405
+___
+experimental_model_of_disease	disease_or_syndrome	pathologic_function
+precedes	_degree_of
+-1
+-5.816206693649292
+___
+experimental_model_of_disease	disease_or_syndrome	cell_or_molecular_dysfunction
+precedes	_degree_of
+-1
+-5.816206693649292
+___
+experimental_model_of_disease	professional_or_occupational_group	medical_device
+occurs_in	produces
+-1
+-6.022282361984253
+___
+experimental_model_of_disease	professional_or_occupational_group	clinical_drug
+occurs_in	produces
+-1
+-6.022282361984253
+___
+experimental_model_of_disease	professional_or_occupational_group	classification
+occurs_in	produces
+-1
+-6.022282361984253
+___
+experimental_model_of_disease	professional_or_occupational_group	manufactured_object
+occurs_in	produces
+-1
+-6.022282361984253
+___
+experimental_model_of_disease	professional_or_occupational_group	drug_delivery_device
+occurs_in	produces
+-1
+-6.022282361984253
+___
+experimental_model_of_disease	professional_or_occupational_group	research_device
+occurs_in	produces
+-1
+-6.022282361984253
+___
+experimental_model_of_disease	professional_or_occupational_group	intellectual_product
+occurs_in	produces
+-1
+-6.022282361984253
+___
+experimental_model_of_disease	professional_or_occupational_group	behavior
+occurs_in	_associated_with
+-1
+-6.027184724807739
+___
+experimental_model_of_disease	professional_or_occupational_group	individual_behavior
+occurs_in	_associated_with
+-1
+-6.027184724807739
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+_precedes	_precedes
+-1
+-6.056429862976074
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	experimental_model_of_disease
+_precedes	_precedes
+-1
+-6.056429862976074
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	biologically_active_substance
+precedes	produces
+-1
+-6.067984342575073
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	immunologic_factor
+precedes	produces
+-1
+-6.067984342575073
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	tissue
+precedes	produces
+-1
+-6.067984342575073
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	hormone
+precedes	produces
+-1
+-6.067984342575073
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	body_substance
+precedes	produces
+-1
+-6.067984342575073
+___
+experimental_model_of_disease	disease_or_syndrome	biologically_active_substance
+precedes	produces
+-1
+-6.105966329574585
+___
+experimental_model_of_disease	disease_or_syndrome	neuroreactive_substance_or_biogenic_amine
+precedes	produces
+-1
+-6.105966329574585
+___
+experimental_model_of_disease	disease_or_syndrome	enzyme
+precedes	produces
+-1
+-6.105966329574585
+___
+experimental_model_of_disease	disease_or_syndrome	receptor
+precedes	produces
+-1
+-6.105966329574585
+___
+experimental_model_of_disease	disease_or_syndrome	pathologic_function
+_precedes	_precedes
+-1
+-6.137757778167725
+___
+experimental_model_of_disease	disease_or_syndrome	experimental_model_of_disease
+_precedes	_precedes
+-1
+-6.137757778167725
+___
+experimental_model_of_disease	disease_or_syndrome	cell_or_molecular_dysfunction
+_precedes	_precedes
+-1
+-6.137757778167725
+___
+experimental_model_of_disease	professional_or_occupational_group	conceptual_entity
+occurs_in	isa
+-1
+-6.211117506027222
+___
+experimental_model_of_disease	professional_or_occupational_group	pathologic_function
+occurs_in	diagnoses
+-1
+-6.271079063415527
+___
+experimental_model_of_disease	professional_or_occupational_group	cell_or_molecular_dysfunction
+occurs_in	diagnoses
+-1
+-6.271079063415527
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	pathologic_function
+_precedes	precedes
+-1
+-6.426422119140625
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+_precedes	precedes
+-1
+-6.426422119140625
+___
+experimental_model_of_disease	disease_or_syndrome	pathologic_function
+_precedes	precedes
+-1
+-6.507750034332275
+___
+experimental_model_of_disease	disease_or_syndrome	cell_or_molecular_dysfunction
+_precedes	precedes
+-1
+-6.507750034332275
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	anatomical_abnormality
+precedes	co-occurs_with
+-1
+-6.773629903793335
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+precedes	co-occurs_with
+-1
+-6.773629903793335
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	pathologic_function
+precedes	co-occurs_with
+-1
+-6.773629903793335
+___
+experimental_model_of_disease	disease_or_syndrome	experimental_model_of_disease
+precedes	co-occurs_with
+-1
+-6.811612844467163
+___
+experimental_model_of_disease	disease_or_syndrome	acquired_abnormality
+precedes	co-occurs_with
+-1
+-6.811612844467163
+___
+experimental_model_of_disease	disease_or_syndrome	congenital_abnormality
+precedes	co-occurs_with
+-1
+-6.811612844467163
+___
+experimental_model_of_disease	disease_or_syndrome	anatomical_abnormality
+precedes	co-occurs_with
+-1
+-6.811612844467163
+___
+experimental_model_of_disease	disease_or_syndrome	cell_or_molecular_dysfunction
+precedes	co-occurs_with
+-1
+-6.811612844467163
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	hazardous_or_poisonous_substance
+_precedes	_complicates
+-1
+-6.916547775268555
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	biologically_active_substance
+_precedes	_complicates
+-1
+-6.916547775268555
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	immunologic_factor
+_precedes	_complicates
+-1
+-6.916547775268555
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	neuroreactive_substance_or_biogenic_amine
+_precedes	_complicates
+-1
+-6.916547775268555
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	antibiotic
+_precedes	_complicates
+-1
+-6.916547775268555
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+_precedes	_complicates
+-1
+-6.916547775268555
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	enzyme
+_precedes	_complicates
+-1
+-6.916547775268555
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	pathologic_function
+_precedes	_complicates
+-1
+-6.916547775268555
+___
+experimental_model_of_disease	disease_or_syndrome	hazardous_or_poisonous_substance
+_precedes	_complicates
+-1
+-6.997875690460205
+___
+experimental_model_of_disease	disease_or_syndrome	pathologic_function
+_precedes	_complicates
+-1
+-6.997875690460205
+___
+experimental_model_of_disease	disease_or_syndrome	enzyme
+_precedes	_complicates
+-1
+-6.997875690460205
+___
+experimental_model_of_disease	disease_or_syndrome	pharmacologic_substance
+_precedes	_complicates
+-1
+-6.997875690460205
+___
+experimental_model_of_disease	disease_or_syndrome	therapeutic_or_preventive_procedure
+_precedes	_complicates
+-1
+-6.997875690460205
+___
+experimental_model_of_disease	disease_or_syndrome	cell_or_molecular_dysfunction
+_precedes	_complicates
+-1
+-6.997875690460205
+___
+experimental_model_of_disease	disease_or_syndrome	antibiotic
+_precedes	_complicates
+-1
+-6.997875690460205
+___
+experimental_model_of_disease	professional_or_occupational_group	research_device
+occurs_in	uses
+-1
+-7.264995336532593
+___
+experimental_model_of_disease	professional_or_occupational_group	clinical_drug
+occurs_in	uses
+-1
+-7.264995336532593
+___
+experimental_model_of_disease	professional_or_occupational_group	intellectual_product
+occurs_in	uses
+-1
+-7.264995336532593
+___
+experimental_model_of_disease	professional_or_occupational_group	medical_device
+occurs_in	uses
+-1
+-7.264995336532593
+___
+experimental_model_of_disease	professional_or_occupational_group	classification
+occurs_in	uses
+-1
+-7.264995336532593
+___
+experimental_model_of_disease	professional_or_occupational_group	regulation_or_law
+occurs_in	_affects
+-1
+-7.30839467048645
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	pathologic_function
+precedes	degree_of
+-1
+-7.9356982707977295
+___
+experimental_model_of_disease	cell_or_molecular_dysfunction	pathologic_function
+_degree_of	precedes
+-1
+-8.001306533813477
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	experimental_model_of_disease
+_degree_of	_precedes
+-1
+-8.004169940948486
+___
+experimental_model_of_disease	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+_degree_of	_precedes
+-1
+-8.004169940948486
+___
+experimental_model_of_disease	disease_or_syndrome	pathologic_function
+_degree_of	_precedes
+-1
+-8.049681663513184
+___
+experimental_model_of_disease	disease_or_syndrome	experimental_model_of_disease
+_degree_of	_precedes
+-1
+-8.049681663513184
+___
+experimental_model_of_disease	disease_or_syndrome	cell_or_molecular_dysfunction
+_degree_of	_precedes
+-1
+-8.049681663513184
+___
+#####################
+disease_or_syndrome	neoplastic_process
+Reward:1
+disease_or_syndrome	mental_or_behavioral_dysfunction	disease_or_syndrome
+precedes	occurs_in
+-1
+-1.2939204690046608
+___
+disease_or_syndrome	pathologic_function	neoplastic_process
+precedes	occurs_in
+1
+-1.2962346887215972
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	neoplastic_process
+precedes	occurs_in
+1
+-1.982771635055542
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	disease_or_syndrome
+precedes	occurs_in
+-1
+-1.982771635055542
+___
+disease_or_syndrome	neoplastic_process	disease_or_syndrome
+_precedes	occurs_in
+-1
+-3.9806562871672213
+___
+disease_or_syndrome	experimental_model_of_disease	neoplastic_process
+_precedes	occurs_in
+1
+-3.981476101092994
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	disease_or_syndrome
+_precedes	occurs_in
+-1
+-3.983289124444127
+___
+disease_or_syndrome	pathologic_function	neoplastic_process
+_precedes	occurs_in
+1
+-3.986868995241821
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	disease_or_syndrome
+_precedes	occurs_in
+-1
+-4.671678125858307
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	neoplastic_process
+_precedes	occurs_in
+1
+-4.671678125858307
+___
+disease_or_syndrome	family_group	organism_function
+occurs_in	_produces
+-1
+-5.584993839263916
+___
+disease_or_syndrome	family_group	mental_process
+occurs_in	_produces
+-1
+-5.584993839263916
+___
+disease_or_syndrome	neoplastic_process	disease_or_syndrome
+_degree_of	occurs_in
+-1
+-5.775890078395605
+___
+disease_or_syndrome	pathologic_function	neoplastic_process
+_degree_of	occurs_in
+1
+-5.7803459307178855
+___
+disease_or_syndrome	professional_or_occupational_group	research_device
+occurs_in	produces
+-1
+-6.0961503982543945
+___
+disease_or_syndrome	professional_or_occupational_group	manufactured_object
+occurs_in	produces
+-1
+-6.0961503982543945
+___
+disease_or_syndrome	professional_or_occupational_group	intellectual_product
+occurs_in	produces
+-1
+-6.0961503982543945
+___
+disease_or_syndrome	professional_or_occupational_group	medical_device
+occurs_in	produces
+-1
+-6.0961503982543945
+___
+disease_or_syndrome	professional_or_occupational_group	drug_delivery_device
+occurs_in	produces
+-1
+-6.0961503982543945
+___
+disease_or_syndrome	professional_or_occupational_group	classification
+occurs_in	produces
+-1
+-6.0961503982543945
+___
+disease_or_syndrome	professional_or_occupational_group	clinical_drug
+occurs_in	produces
+-1
+-6.0961503982543945
+___
+disease_or_syndrome	professional_or_occupational_group	individual_behavior
+occurs_in	_associated_with
+-1
+-6.101052761077881
+___
+disease_or_syndrome	professional_or_occupational_group	behavior
+occurs_in	_associated_with
+-1
+-6.101052761077881
+___
+disease_or_syndrome	professional_or_occupational_group	conceptual_entity
+occurs_in	isa
+-1
+-6.284985542297363
+___
+disease_or_syndrome	family_group	classification
+occurs_in	produces
+-1
+-6.3009254932403564
+___
+disease_or_syndrome	family_group	intellectual_product
+occurs_in	produces
+-1
+-6.3009254932403564
+___
+disease_or_syndrome	family_group	medical_device
+occurs_in	produces
+-1
+-6.3009254932403564
+___
+disease_or_syndrome	family_group	clinical_drug
+occurs_in	produces
+-1
+-6.3009254932403564
+___
+disease_or_syndrome	family_group	drug_delivery_device
+occurs_in	produces
+-1
+-6.3009254932403564
+___
+disease_or_syndrome	family_group	manufactured_object
+occurs_in	produces
+-1
+-6.3009254932403564
+___
+disease_or_syndrome	family_group	regulation_or_law
+occurs_in	produces
+-1
+-6.3009254932403564
+___
+disease_or_syndrome	family_group	behavior
+occurs_in	_associated_with
+-1
+-6.305827617645264
+___
+disease_or_syndrome	family_group	social_behavior
+occurs_in	_associated_with
+-1
+-6.305827617645264
+___
+disease_or_syndrome	family_group	individual_behavior
+occurs_in	_associated_with
+-1
+-6.305827617645264
+___
+disease_or_syndrome	professional_or_occupational_group	cell_or_molecular_dysfunction
+occurs_in	diagnoses
+-1
+-6.344947099685669
+___
+disease_or_syndrome	professional_or_occupational_group	pathologic_function
+occurs_in	diagnoses
+-1
+-6.344947099685669
+___
+disease_or_syndrome	professional_or_occupational_group	disease_or_syndrome
+occurs_in	diagnoses
+-1
+-6.344947099685669
+___
+disease_or_syndrome	professional_or_occupational_group	neoplastic_process
+occurs_in	diagnoses
+1
+-6.344947099685669
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	neoplastic_process
+_degree_of	occurs_in
+1
+-6.466985523700714
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	disease_or_syndrome
+_degree_of	occurs_in
+-1
+-6.466985523700714
+___
+disease_or_syndrome	family_group	conceptual_entity
+occurs_in	isa
+-1
+-6.489760875701904
+___
+disease_or_syndrome	family_group	entity
+occurs_in	isa
+-1
+-6.489760875701904
+___
+disease_or_syndrome	professional_or_occupational_group	clinical_drug
+occurs_in	uses
+-1
+-7.338863372802734
+___
+disease_or_syndrome	professional_or_occupational_group	classification
+occurs_in	uses
+-1
+-7.338863372802734
+___
+disease_or_syndrome	professional_or_occupational_group	medical_device
+occurs_in	uses
+-1
+-7.338863372802734
+___
+disease_or_syndrome	professional_or_occupational_group	research_device
+occurs_in	uses
+-1
+-7.338863372802734
+___
+disease_or_syndrome	professional_or_occupational_group	intellectual_product
+occurs_in	uses
+-1
+-7.338863372802734
+___
+disease_or_syndrome	professional_or_occupational_group	regulation_or_law
+occurs_in	_affects
+-1
+-7.382262706756592
+___
+disease_or_syndrome	family_group	drug_delivery_device
+occurs_in	uses
+-1
+-7.543638229370117
+___
+disease_or_syndrome	family_group	manufactured_object
+occurs_in	uses
+-1
+-7.543638229370117
+___
+disease_or_syndrome	family_group	intellectual_product
+occurs_in	uses
+-1
+-7.543638229370117
+___
+disease_or_syndrome	family_group	clinical_drug
+occurs_in	uses
+-1
+-7.543638229370117
+___
+disease_or_syndrome	family_group	classification
+occurs_in	uses
+-1
+-7.543638229370117
+___
+disease_or_syndrome	family_group	research_device
+occurs_in	uses
+-1
+-7.543638229370117
+___
+disease_or_syndrome	family_group	regulation_or_law
+occurs_in	uses
+-1
+-7.543638229370117
+___
+disease_or_syndrome	family_group	regulation_or_law
+occurs_in	_affects
+-1
+-7.587038040161133
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+precedes	_isa
+-1
+-7.646745324134827
+___
+disease_or_syndrome	pathologic_function	neoplastic_process
+precedes	_isa
+1
+-7.646745324134827
+___
+disease_or_syndrome	professional_or_occupational_group	behavior
+occurs_in	exhibits
+-1
+-8.448305130004883
+___
+disease_or_syndrome	professional_or_occupational_group	social_behavior
+occurs_in	exhibits
+-1
+-8.448305130004883
+___
+disease_or_syndrome	family_group	individual_behavior
+occurs_in	exhibits
+-1
+-8.653079986572266
+___
+disease_or_syndrome	family_group	behavior
+occurs_in	exhibits
+-1
+-8.653079986572266
+___
+disease_or_syndrome	family_group	social_behavior
+occurs_in	exhibits
+-1
+-8.653079986572266
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	experimental_model_of_disease
+precedes	_precedes
+-1
+-8.994574666023254
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+precedes	_precedes
+-1
+-8.994574666023254
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	disease_or_syndrome
+precedes	_precedes
+-1
+-8.994574666023254
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+precedes	_precedes
+-1
+-8.996888756752014
+___
+disease_or_syndrome	pathologic_function	experimental_model_of_disease
+precedes	_precedes
+-1
+-8.996888756752014
+___
+disease_or_syndrome	pathologic_function	cell_or_molecular_dysfunction
+precedes	_precedes
+-1
+-8.996888756752014
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	disease_or_syndrome
+precedes	precedes
+-1
+-9.119964718818665
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	pathologic_function
+precedes	precedes
+-1
+-9.119964718818665
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+precedes	precedes
+-1
+-9.119964718818665
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	neoplastic_process
+precedes	precedes
+1
+-9.119964718818665
+___
+disease_or_syndrome	pathologic_function	experimental_model_of_disease
+precedes	precedes
+-1
+-9.122278809547424
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	biologically_active_substance
+precedes	_complicates
+-1
+-9.414260029792786
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	neoplastic_process
+precedes	_complicates
+1
+-9.414260029792786
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	neuroreactive_substance_or_biogenic_amine
+precedes	_complicates
+-1
+-9.414260029792786
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	enzyme
+precedes	_complicates
+-1
+-9.414260029792786
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	pathologic_function
+precedes	_complicates
+-1
+-9.414260029792786
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	hazardous_or_poisonous_substance
+precedes	_complicates
+-1
+-9.414260029792786
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	immunologic_factor
+precedes	_complicates
+-1
+-9.414260029792786
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	antibiotic
+precedes	_complicates
+-1
+-9.414260029792786
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+precedes	_complicates
+-1
+-9.414260029792786
+___
+disease_or_syndrome	pathologic_function	pharmacologic_substance
+precedes	_complicates
+-1
+-9.416573643684387
+___
+disease_or_syndrome	pathologic_function	cell_or_molecular_dysfunction
+precedes	_complicates
+-1
+-9.416573643684387
+___
+disease_or_syndrome	pathologic_function	experimental_model_of_disease
+precedes	_complicates
+-1
+-9.416573643684387
+___
+disease_or_syndrome	pathologic_function	hormone
+precedes	_complicates
+-1
+-9.416573643684387
+___
+disease_or_syndrome	pathologic_function	hazardous_or_poisonous_substance
+precedes	_complicates
+-1
+-9.416573643684387
+___
+disease_or_syndrome	pathologic_function	neuroreactive_substance_or_biogenic_amine
+precedes	_complicates
+-1
+-9.416573643684387
+___
+disease_or_syndrome	pathologic_function	vitamin
+precedes	_complicates
+-1
+-9.416573643684387
+___
+disease_or_syndrome	pathologic_function	neoplastic_process
+precedes	_complicates
+1
+-9.416573643684387
+___
+disease_or_syndrome	pathologic_function	biologically_active_substance
+precedes	_complicates
+-1
+-9.416573643684387
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	pathologic_function
+precedes	precedes
+-1
+-9.808816075325012
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	neoplastic_process
+precedes	precedes
+1
+-9.808816075325012
+___
+disease_or_syndrome	professional_or_occupational_group	research_activity
+occurs_in	performs
+-1
+-9.838396072387695
+___
+disease_or_syndrome	professional_or_occupational_group	therapeutic_or_preventive_procedure
+occurs_in	performs
+-1
+-9.838396072387695
+___
+disease_or_syndrome	professional_or_occupational_group	social_behavior
+occurs_in	performs
+-1
+-9.838396072387695
+___
+disease_or_syndrome	professional_or_occupational_group	educational_activity
+occurs_in	performs
+-1
+-9.838396072387695
+___
+disease_or_syndrome	professional_or_occupational_group	occupational_activity
+occurs_in	performs
+-1
+-9.838396072387695
+___
+disease_or_syndrome	professional_or_occupational_group	daily_or_recreational_activity
+occurs_in	performs
+-1
+-9.838396072387695
+___
+#####################
+cell_or_molecular_dysfunction	injury_or_poisoning
+Reward:1
+cell_or_molecular_dysfunction	neoplastic_process	experimental_model_of_disease
+precedes	precedes
+-1
+-3.1826865673065186
+___
+cell_or_molecular_dysfunction	neoplastic_process	experimental_model_of_disease
+occurs_in	precedes
+-1
+-3.23111529648304
+___
+cell_or_molecular_dysfunction	pathologic_function	experimental_model_of_disease
+precedes	_precedes
+-1
+-3.2559444904327393
+___
+cell_or_molecular_dysfunction	pathologic_function	cell_or_molecular_dysfunction
+precedes	_precedes
+-1
+-3.2559444904327393
+___
+cell_or_molecular_dysfunction	pathologic_function	experimental_model_of_disease
+precedes	precedes
+-1
+-3.3813345432281494
+___
+cell_or_molecular_dysfunction	neoplastic_process	pharmacologic_substance
+precedes	_complicates
+-1
+-3.4769818782806396
+___
+cell_or_molecular_dysfunction	neoplastic_process	pathologic_function
+precedes	_complicates
+-1
+-3.4769818782806396
+___
+cell_or_molecular_dysfunction	neoplastic_process	cell_or_molecular_dysfunction
+precedes	_complicates
+-1
+-3.4769818782806396
+___
+cell_or_molecular_dysfunction	neoplastic_process	neuroreactive_substance_or_biogenic_amine
+precedes	_complicates
+-1
+-3.4769818782806396
+___
+cell_or_molecular_dysfunction	neoplastic_process	experimental_model_of_disease
+precedes	_complicates
+-1
+-3.4769818782806396
+___
+cell_or_molecular_dysfunction	neoplastic_process	hormone
+precedes	_complicates
+-1
+-3.4769818782806396
+___
+cell_or_molecular_dysfunction	neoplastic_process	therapeutic_or_preventive_procedure
+precedes	_complicates
+-1
+-3.4769818782806396
+___
+cell_or_molecular_dysfunction	neoplastic_process	receptor
+precedes	_complicates
+-1
+-3.4769818782806396
+___
+cell_or_molecular_dysfunction	neoplastic_process	injury_or_poisoning
+precedes	_complicates
+1
+-3.4769818782806396
+___
+cell_or_molecular_dysfunction	pathologic_function	biologically_active_substance
+precedes	_complicates
+-1
+-3.6756298542022705
+___
+cell_or_molecular_dysfunction	pathologic_function	hazardous_or_poisonous_substance
+precedes	_complicates
+-1
+-3.6756298542022705
+___
+cell_or_molecular_dysfunction	pathologic_function	experimental_model_of_disease
+precedes	_complicates
+-1
+-3.6756298542022705
+___
+cell_or_molecular_dysfunction	pathologic_function	hormone
+precedes	_complicates
+-1
+-3.6756298542022705
+___
+cell_or_molecular_dysfunction	pathologic_function	injury_or_poisoning
+precedes	_complicates
+1
+-3.6756298542022705
+___
+cell_or_molecular_dysfunction	pathologic_function	neuroreactive_substance_or_biogenic_amine
+precedes	_complicates
+-1
+-3.6756298542022705
+___
+cell_or_molecular_dysfunction	pathologic_function	pharmacologic_substance
+precedes	_complicates
+-1
+-3.6756298542022705
+___
+cell_or_molecular_dysfunction	pathologic_function	vitamin
+precedes	_complicates
+-1
+-3.6756298542022705
+___
+cell_or_molecular_dysfunction	pathologic_function	cell_or_molecular_dysfunction
+precedes	_complicates
+-1
+-3.6756298542022705
+___
+cell_or_molecular_dysfunction	disease_or_syndrome	cell_or_molecular_dysfunction
+occurs_in	precedes
+-1
+-4.243582248687744
+___
+cell_or_molecular_dysfunction	disease_or_syndrome	pathologic_function
+occurs_in	precedes
+-1
+-4.243582248687744
+___
+cell_or_molecular_dysfunction	neoplastic_process	pathologic_function
+precedes	_degree_of
+-1
+-5.1877195835113525
+___
+cell_or_molecular_dysfunction	family_group	mental_process
+occurs_in	_produces
+-1
+-5.265625238418579
+___
+cell_or_molecular_dysfunction	family_group	organism_function
+occurs_in	_produces
+-1
+-5.265625238418579
+___
+cell_or_molecular_dysfunction	disease_or_syndrome	pathologic_function
+occurs_in	_precedes
+-1
+-5.34922981262207
+___
+cell_or_molecular_dysfunction	disease_or_syndrome	cell_or_molecular_dysfunction
+occurs_in	_precedes
+-1
+-5.34922981262207
+___
+cell_or_molecular_dysfunction	disease_or_syndrome	experimental_model_of_disease
+occurs_in	_precedes
+-1
+-5.34922981262207
+___
+cell_or_molecular_dysfunction	pathologic_function	cell_or_molecular_dysfunction
+precedes	_degree_of
+-1
+-5.386367559432983
+___
+cell_or_molecular_dysfunction	neoplastic_process	pathologic_function
+occurs_in	_degree_of
+-1
+-5.420428276062012
+___
+cell_or_molecular_dysfunction	neoplastic_process	body_substance
+precedes	produces
+-1
+-5.477479696273804
+___
+cell_or_molecular_dysfunction	neoplastic_process	neuroreactive_substance_or_biogenic_amine
+precedes	produces
+-1
+-5.477479696273804
+___
+cell_or_molecular_dysfunction	neoplastic_process	enzyme
+precedes	produces
+-1
+-5.477479696273804
+___
+cell_or_molecular_dysfunction	neoplastic_process	vitamin
+precedes	produces
+-1
+-5.477479696273804
+___
+cell_or_molecular_dysfunction	neoplastic_process	biologically_active_substance
+precedes	produces
+-1
+-5.477479696273804
+___
+cell_or_molecular_dysfunction	neoplastic_process	hormone
+precedes	produces
+-1
+-5.477479696273804
+___
+cell_or_molecular_dysfunction	population_group	drug_delivery_device
+occurs_in	produces
+-1
+-5.6697022914886475
+___
+cell_or_molecular_dysfunction	population_group	clinical_drug
+occurs_in	produces
+-1
+-5.6697022914886475
+___
+cell_or_molecular_dysfunction	population_group	research_device
+occurs_in	produces
+-1
+-5.6697022914886475
+___
+cell_or_molecular_dysfunction	population_group	classification
+occurs_in	produces
+-1
+-5.6697022914886475
+___
+cell_or_molecular_dysfunction	population_group	manufactured_object
+occurs_in	produces
+-1
+-5.6697022914886475
+___
+cell_or_molecular_dysfunction	population_group	intellectual_product
+occurs_in	produces
+-1
+-5.6697022914886475
+___
+cell_or_molecular_dysfunction	population_group	behavior
+occurs_in	_associated_with
+-1
+-5.674604654312134
+___
+cell_or_molecular_dysfunction	population_group	individual_behavior
+occurs_in	_associated_with
+-1
+-5.674604654312134
+___
+cell_or_molecular_dysfunction	population_group	social_behavior
+occurs_in	_associated_with
+-1
+-5.674604654312134
+___
+cell_or_molecular_dysfunction	pathologic_function	hormone
+precedes	produces
+-1
+-5.676127672195435
+___
+cell_or_molecular_dysfunction	pathologic_function	receptor
+precedes	produces
+-1
+-5.676127672195435
+___
+cell_or_molecular_dysfunction	pathologic_function	enzyme
+precedes	produces
+-1
+-5.676127672195435
+___
+cell_or_molecular_dysfunction	pathologic_function	immunologic_factor
+precedes	produces
+-1
+-5.676127672195435
+___
+cell_or_molecular_dysfunction	group	regulation_or_law
+occurs_in	produces
+-1
+-5.732229709625244
+___
+cell_or_molecular_dysfunction	group	manufactured_object
+occurs_in	produces
+-1
+-5.732229709625244
+___
+cell_or_molecular_dysfunction	group	medical_device
+occurs_in	produces
+-1
+-5.732229709625244
+___
+cell_or_molecular_dysfunction	group	classification
+occurs_in	produces
+-1
+-5.732229709625244
+___
+cell_or_molecular_dysfunction	group	clinical_drug
+occurs_in	produces
+-1
+-5.732229709625244
+___
+cell_or_molecular_dysfunction	group	drug_delivery_device
+occurs_in	produces
+-1
+-5.732229709625244
+___
+cell_or_molecular_dysfunction	group	intellectual_product
+occurs_in	produces
+-1
+-5.732229709625244
+___
+cell_or_molecular_dysfunction	group	social_behavior
+occurs_in	_associated_with
+-1
+-5.737131834030151
+___
+cell_or_molecular_dysfunction	group	individual_behavior
+occurs_in	_associated_with
+-1
+-5.737131834030151
+___
+cell_or_molecular_dysfunction	group	behavior
+occurs_in	_associated_with
+-1
+-5.737131834030151
+___
+cell_or_molecular_dysfunction	population_group	conceptual_entity
+occurs_in	isa
+-1
+-5.858537435531616
+___
+cell_or_molecular_dysfunction	population_group	entity
+occurs_in	isa
+-1
+-5.858537435531616
+___
+cell_or_molecular_dysfunction	group	entity
+occurs_in	isa
+-1
+-5.921065092086792
+___
+cell_or_molecular_dysfunction	group	conceptual_entity
+occurs_in	isa
+-1
+-5.921065092086792
+___
+cell_or_molecular_dysfunction	family_group	drug_delivery_device
+occurs_in	produces
+-1
+-5.9815568923950195
+___
+cell_or_molecular_dysfunction	family_group	intellectual_product
+occurs_in	produces
+-1
+-5.9815568923950195
+___
+cell_or_molecular_dysfunction	family_group	medical_device
+occurs_in	produces
+-1
+-5.9815568923950195
+___
+cell_or_molecular_dysfunction	family_group	clinical_drug
+occurs_in	produces
+-1
+-5.9815568923950195
+___
+cell_or_molecular_dysfunction	family_group	classification
+occurs_in	produces
+-1
+-5.9815568923950195
+___
+cell_or_molecular_dysfunction	family_group	regulation_or_law
+occurs_in	produces
+-1
+-5.9815568923950195
+___
+cell_or_molecular_dysfunction	family_group	manufactured_object
+occurs_in	produces
+-1
+-5.9815568923950195
+___
+cell_or_molecular_dysfunction	family_group	behavior
+occurs_in	_associated_with
+-1
+-5.986459016799927
+___
+cell_or_molecular_dysfunction	family_group	social_behavior
+occurs_in	_associated_with
+-1
+-5.986459016799927
+___
+cell_or_molecular_dysfunction	family_group	individual_behavior
+occurs_in	_associated_with
+-1
+-5.986459016799927
+___
+cell_or_molecular_dysfunction	family_group	conceptual_entity
+occurs_in	isa
+-1
+-6.170392274856567
+___
+cell_or_molecular_dysfunction	family_group	entity
+occurs_in	isa
+-1
+-6.170392274856567
+___
+cell_or_molecular_dysfunction	neoplastic_process	injury_or_poisoning
+precedes	co-occurs_with
+1
+-6.183125734329224
+___
+cell_or_molecular_dysfunction	neoplastic_process	acquired_abnormality
+precedes	co-occurs_with
+-1
+-6.183125734329224
+___
+cell_or_molecular_dysfunction	neoplastic_process	cell_or_molecular_dysfunction
+precedes	co-occurs_with
+-1
+-6.183125734329224
+___
+cell_or_molecular_dysfunction	pathologic_function	acquired_abnormality
+precedes	co-occurs_with
+-1
+-6.3817737102508545
+___
+cell_or_molecular_dysfunction	pathologic_function	anatomical_abnormality
+precedes	co-occurs_with
+-1
+-6.3817737102508545
+___
+cell_or_molecular_dysfunction	disease_or_syndrome	pathologic_function
+occurs_in	_degree_of
+-1
+-6.432895183563232
+___
+cell_or_molecular_dysfunction	disease_or_syndrome	cell_or_molecular_dysfunction
+occurs_in	_degree_of
+-1
+-6.432895183563232
+___
+cell_or_molecular_dysfunction	population_group	clinical_drug
+occurs_in	uses
+-1
+-6.912415266036987
+___
+cell_or_molecular_dysfunction	population_group	research_device
+occurs_in	uses
+-1
+-6.912415266036987
+___
+cell_or_molecular_dysfunction	population_group	intellectual_product
+occurs_in	uses
+-1
+-6.912415266036987
+___
+cell_or_molecular_dysfunction	population_group	drug_delivery_device
+occurs_in	uses
+-1
+-6.912415266036987
+___
+cell_or_molecular_dysfunction	population_group	manufactured_object
+occurs_in	uses
+-1
+-6.912415266036987
+___
+cell_or_molecular_dysfunction	population_group	classification
+occurs_in	uses
+-1
+-6.912415266036987
+___
+cell_or_molecular_dysfunction	population_group	regulation_or_law
+occurs_in	_affects
+-1
+-6.955814599990845
+___
+cell_or_molecular_dysfunction	group	drug_delivery_device
+occurs_in	uses
+-1
+-6.974942684173584
+___
+cell_or_molecular_dysfunction	group	manufactured_object
+occurs_in	uses
+-1
+-6.974942684173584
+___
+cell_or_molecular_dysfunction	group	regulation_or_law
+occurs_in	uses
+-1
+-6.974942684173584
+___
+cell_or_molecular_dysfunction	group	medical_device
+occurs_in	uses
+-1
+-6.974942684173584
+___
+cell_or_molecular_dysfunction	group	intellectual_product
+occurs_in	uses
+-1
+-6.974942684173584
+___
+cell_or_molecular_dysfunction	group	research_device
+occurs_in	uses
+-1
+-6.974942684173584
+___
+cell_or_molecular_dysfunction	group	clinical_drug
+occurs_in	uses
+-1
+-6.974942684173584
+___
+cell_or_molecular_dysfunction	group	regulation_or_law
+occurs_in	_affects
+-1
+-7.018342018127441
+___
+#####################
+acquired_abnormality	age_group
+Reward:1
+acquired_abnormality	population_group	age_group
+occurs_in	interacts_with
+1
+-1.388906598090216
+___
+acquired_abnormality	family_group	age_group
+occurs_in	interacts_with
+1
+-1.38890695571763
+___
+acquired_abnormality	patient_or_disabled_group	age_group
+occurs_in	_interacts_with
+1
+-1.3906595807056874
+___
+acquired_abnormality	group	age_group
+occurs_in	_interacts_with
+1
+-1.3907435914734378
+___
+acquired_abnormality	anatomical_abnormality	age_group
+co-occurs_with	occurs_in
+1
+-8.196496613323689
+___
+acquired_abnormality	archaeon	organism
+part_of	interacts_with
+-1
+-9.052671261131763
+___
+acquired_abnormality	human	archaeon
+part_of	interacts_with
+-1
+-9.057232778519392
+___
+acquired_abnormality	congenital_abnormality	age_group
+complicates	occurs_in
+1
+-10.031090010423213
+___
+acquired_abnormality	anatomical_abnormality	age_group
+complicates	occurs_in
+1
+-10.044047544710338
+___
+acquired_abnormality	fish	mammal
+part_of	interacts_with
+-1
+-10.131320357322693
+___
+acquired_abnormality	fish	reptile
+part_of	interacts_with
+-1
+-10.131320357322693
+___
+acquired_abnormality	fish	human
+part_of	interacts_with
+-1
+-10.131320357322693
+___
+acquired_abnormality	mammal	human
+part_of	interacts_with
+-1
+-10.131971836090088
+___
+acquired_abnormality	mammal	archaeon
+part_of	interacts_with
+-1
+-10.131971836090088
+___
+acquired_abnormality	mammal	organism
+part_of	interacts_with
+-1
+-10.131971836090088
+___
+acquired_abnormality	patient_or_disabled_group	drug_delivery_device
+occurs_in	produces
+-1
+-10.375521421432495
+___
+acquired_abnormality	patient_or_disabled_group	regulation_or_law
+occurs_in	produces
+-1
+-10.375521421432495
+___
+acquired_abnormality	patient_or_disabled_group	intellectual_product
+occurs_in	produces
+-1
+-10.375521421432495
+___
+acquired_abnormality	patient_or_disabled_group	clinical_drug
+occurs_in	produces
+-1
+-10.375521421432495
+___
+acquired_abnormality	patient_or_disabled_group	classification
+occurs_in	produces
+-1
+-10.375521421432495
+___
+acquired_abnormality	patient_or_disabled_group	research_device
+occurs_in	produces
+-1
+-10.375521421432495
+___
+acquired_abnormality	patient_or_disabled_group	manufactured_object
+occurs_in	produces
+-1
+-10.375521421432495
+___
+acquired_abnormality	group	drug_delivery_device
+occurs_in	produces
+-1
+-10.375605344772339
+___
+acquired_abnormality	group	classification
+occurs_in	produces
+-1
+-10.375605344772339
+___
+acquired_abnormality	group	manufactured_object
+occurs_in	produces
+-1
+-10.375605344772339
+___
+acquired_abnormality	group	intellectual_product
+occurs_in	produces
+-1
+-10.375605344772339
+___
+acquired_abnormality	group	regulation_or_law
+occurs_in	produces
+-1
+-10.375605344772339
+___
+acquired_abnormality	group	medical_device
+occurs_in	produces
+-1
+-10.375605344772339
+___
+acquired_abnormality	group	clinical_drug
+occurs_in	produces
+-1
+-10.375605344772339
+___
+acquired_abnormality	patient_or_disabled_group	individual_behavior
+occurs_in	_associated_with
+-1
+-10.380423307418823
+___
+acquired_abnormality	patient_or_disabled_group	behavior
+occurs_in	_associated_with
+-1
+-10.380423307418823
+___
+acquired_abnormality	group	individual_behavior
+occurs_in	_associated_with
+-1
+-10.380507230758667
+___
+acquired_abnormality	group	social_behavior
+occurs_in	_associated_with
+-1
+-10.380507230758667
+___
+acquired_abnormality	group	behavior
+occurs_in	_associated_with
+-1
+-10.380507230758667
+___
+acquired_abnormality	bird	fish
+part_of	interacts_with
+-1
+-10.416572570800781
+___
+acquired_abnormality	bird	human
+part_of	interacts_with
+-1
+-10.416572570800781
+___
+acquired_abnormality	bird	reptile
+part_of	interacts_with
+-1
+-10.416572570800781
+___
+acquired_abnormality	bird	organism
+part_of	interacts_with
+-1
+-10.416572570800781
+___
+acquired_abnormality	reptile	organism
+part_of	interacts_with
+-1
+-10.416887044906616
+___
+acquired_abnormality	reptile	human
+part_of	interacts_with
+-1
+-10.416887044906616
+___
+acquired_abnormality	reptile	archaeon
+part_of	interacts_with
+-1
+-10.416887044906616
+___
+acquired_abnormality	reptile	mammal
+part_of	interacts_with
+-1
+-10.416887044906616
+___
+acquired_abnormality	patient_or_disabled_group	conceptual_entity
+occurs_in	isa
+-1
+-10.564356565475464
+___
+acquired_abnormality	patient_or_disabled_group	entity
+occurs_in	isa
+-1
+-10.564356565475464
+___
+acquired_abnormality	group	conceptual_entity
+occurs_in	isa
+-1
+-10.564440488815308
+___
+acquired_abnormality	group	entity
+occurs_in	isa
+-1
+-10.564440488815308
+___
+acquired_abnormality	invertebrate	bird
+part_of	interacts_with
+-1
+-10.972182273864746
+___
+acquired_abnormality	invertebrate	organism
+part_of	interacts_with
+-1
+-10.972182273864746
+___
+acquired_abnormality	invertebrate	archaeon
+part_of	interacts_with
+-1
+-10.972182273864746
+___
+acquired_abnormality	invertebrate	human
+part_of	interacts_with
+-1
+-10.972182273864746
+___
+acquired_abnormality	invertebrate	amphibian
+part_of	interacts_with
+-1
+-10.972182273864746
+___
+acquired_abnormality	invertebrate	mammal
+part_of	interacts_with
+-1
+-10.972182273864746
+___
+acquired_abnormality	invertebrate	vertebrate
+part_of	interacts_with
+-1
+-10.972182273864746
+___
+acquired_abnormality	injury_or_poisoning	age_group
+_complicates	occurs_in
+1
+-11.012514758505858
+___
+acquired_abnormality	congenital_abnormality	age_group
+_complicates	occurs_in
+1
+-11.013071065070108
+___
+acquired_abnormality	hazardous_or_poisonous_substance	chemical
+_complicates	interacts_with
+-1
+-11.03572059981525
+___
+acquired_abnormality	anatomical_abnormality	age_group
+_complicates	occurs_in
+1
+-11.039079243317246
+___
+acquired_abnormality	experimental_model_of_disease	neoplastic_process
+_complicates	occurs_in
+-1
+-11.073435600847006
+___
+acquired_abnormality	vertebrate	bird
+part_of	interacts_with
+-1
+-11.119789123535156
+___
+acquired_abnormality	vertebrate	reptile
+part_of	interacts_with
+-1
+-11.119789123535156
+___
+acquired_abnormality	vertebrate	human
+part_of	interacts_with
+-1
+-11.119789123535156
+___
+acquired_abnormality	vertebrate	mammal
+part_of	interacts_with
+-1
+-11.119789123535156
+___
+acquired_abnormality	vertebrate	fish
+part_of	interacts_with
+-1
+-11.119789123535156
+___
+acquired_abnormality	vertebrate	organism
+part_of	interacts_with
+-1
+-11.119789123535156
+___
+acquired_abnormality	vertebrate	amphibian
+part_of	interacts_with
+-1
+-11.119789123535156
+___
+acquired_abnormality	vertebrate	archaeon
+part_of	interacts_with
+-1
+-11.119789123535156
+___
+acquired_abnormality	animal	vertebrate
+part_of	interacts_with
+-1
+-11.122157573699951
+___
+acquired_abnormality	animal	human
+part_of	interacts_with
+-1
+-11.122157573699951
+___
+acquired_abnormality	animal	archaeon
+part_of	interacts_with
+-1
+-11.122157573699951
+___
+acquired_abnormality	animal	invertebrate
+part_of	interacts_with
+-1
+-11.122157573699951
+___
+acquired_abnormality	animal	reptile
+part_of	interacts_with
+-1
+-11.122157573699951
+___
+acquired_abnormality	animal	fish
+part_of	interacts_with
+-1
+-11.122157573699951
+___
+acquired_abnormality	animal	bird
+part_of	interacts_with
+-1
+-11.122157573699951
+___
+acquired_abnormality	animal	amphibian
+part_of	interacts_with
+-1
+-11.122157573699951
+___
+acquired_abnormality	anatomical_abnormality	congenital_abnormality
+co-occurs_with	_isa
+-1
+-11.19607138633728
+___
+acquired_abnormality	bacterium	vertebrate
+part_of	interacts_with
+-1
+-11.22239089012146
+___
+acquired_abnormality	bacterium	bird
+part_of	interacts_with
+-1
+-11.22239089012146
+___
+acquired_abnormality	bacterium	mammal
+part_of	interacts_with
+-1
+-11.22239089012146
+___
+acquired_abnormality	bacterium	invertebrate
+part_of	interacts_with
+-1
+-11.22239089012146
+___
+acquired_abnormality	bacterium	amphibian
+part_of	interacts_with
+-1
+-11.22239089012146
+___
+acquired_abnormality	bacterium	reptile
+part_of	interacts_with
+-1
+-11.22239089012146
+___
+acquired_abnormality	bacterium	animal
+part_of	interacts_with
+-1
+-11.22239089012146
+___
+acquired_abnormality	bacterium	human
+part_of	interacts_with
+-1
+-11.22239089012146
+___
+acquired_abnormality	bacterium	organism
+part_of	interacts_with
+-1
+-11.22239089012146
+___
+acquired_abnormality	virus	bacterium
+part_of	interacts_with
+-1
+-11.422731637954712
+___
+acquired_abnormality	virus	reptile
+part_of	interacts_with
+-1
+-11.422731637954712
+___
+acquired_abnormality	virus	rickettsia_or_chlamydia
+part_of	interacts_with
+-1
+-11.422731637954712
+___
+acquired_abnormality	virus	human
+part_of	interacts_with
+-1
+-11.422731637954712
+___
+acquired_abnormality	virus	animal
+part_of	interacts_with
+-1
+-11.422731637954712
+___
+acquired_abnormality	virus	bird
+part_of	interacts_with
+-1
+-11.422731637954712
+___
+acquired_abnormality	virus	amphibian
+part_of	interacts_with
+-1
+-11.422731637954712
+___
+acquired_abnormality	virus	organism
+part_of	interacts_with
+-1
+-11.422731637954712
+___
+acquired_abnormality	virus	mammal
+part_of	interacts_with
+-1
+-11.422731637954712
+___
+acquired_abnormality	virus	vertebrate
+part_of	interacts_with
+-1
+-11.422731637954712
+___
+acquired_abnormality	virus	invertebrate
+part_of	interacts_with
+-1
+-11.422731637954712
+___
+acquired_abnormality	fungus	virus
+part_of	interacts_with
+-1
+-11.509253025054932
+___
+acquired_abnormality	fungus	bacterium
+part_of	interacts_with
+-1
+-11.509253025054932
+___
+acquired_abnormality	fungus	bird
+part_of	interacts_with
+-1
+-11.509253025054932
+___
+acquired_abnormality	fungus	animal
+part_of	interacts_with
+-1
+-11.509253025054932
+___
+acquired_abnormality	fungus	human
+part_of	interacts_with
+-1
+-11.509253025054932
+___
+#####################
+disease_or_syndrome	patient_or_disabled_group
+Reward:1
+disease_or_syndrome	cell_or_molecular_dysfunction	disease_or_syndrome
+precedes	occurs_in
+-1
+-1.2908023234922439
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	disease_or_syndrome
+precedes	occurs_in
+-1
+-1.2932145819067955
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+precedes	_isa
+-1
+-2.5899555683135986
+___
+disease_or_syndrome	professional_or_occupational_group	patient_or_disabled_group
+occurs_in	interacts_with
+1
+-3.368098974226541
+___
+disease_or_syndrome	family_group	patient_or_disabled_group
+occurs_in	interacts_with
+1
+-3.368099093435603
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+precedes	_precedes
+-1
+-3.9400988817214966
+___
+disease_or_syndrome	pathologic_function	cell_or_molecular_dysfunction
+precedes	_precedes
+-1
+-3.9400988817214966
+___
+disease_or_syndrome	pathologic_function	experimental_model_of_disease
+precedes	_precedes
+-1
+-3.9400988817214966
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	disease_or_syndrome
+_precedes	occurs_in
+-1
+-3.979633158771321
+___
+disease_or_syndrome	experimental_model_of_disease	patient_or_disabled_group
+_precedes	occurs_in
+1
+-3.981376552954316
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	disease_or_syndrome
+_precedes	occurs_in
+-1
+-3.9825846939347684
+___
+disease_or_syndrome	pathologic_function	experimental_model_of_disease
+precedes	precedes
+-1
+-4.065488934516907
+___
+disease_or_syndrome	pathologic_function	experimental_model_of_disease
+precedes	_complicates
+-1
+-4.359784245491028
+___
+disease_or_syndrome	pathologic_function	pharmacologic_substance
+precedes	_complicates
+-1
+-4.359784245491028
+___
+disease_or_syndrome	pathologic_function	biologically_active_substance
+precedes	_complicates
+-1
+-4.359784245491028
+___
+disease_or_syndrome	pathologic_function	cell_or_molecular_dysfunction
+precedes	_complicates
+-1
+-4.359784245491028
+___
+disease_or_syndrome	pathologic_function	hazardous_or_poisonous_substance
+precedes	_complicates
+-1
+-4.359784245491028
+___
+disease_or_syndrome	pathologic_function	hormone
+precedes	_complicates
+-1
+-4.359784245491028
+___
+disease_or_syndrome	pathologic_function	neuroreactive_substance_or_biogenic_amine
+precedes	_complicates
+-1
+-4.359784245491028
+___
+disease_or_syndrome	pathologic_function	vitamin
+precedes	_complicates
+-1
+-4.359784245491028
+___
+disease_or_syndrome	neoplastic_process	disease_or_syndrome
+_precedes	occurs_in
+-1
+-4.671841561794281
+___
+disease_or_syndrome	neoplastic_process	patient_or_disabled_group
+_precedes	occurs_in
+1
+-4.671841561794281
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+_precedes	_isa
+-1
+-5.105159521102905
+___
+disease_or_syndrome	cell_or_molecular_dysfunction	disease_or_syndrome
+_degree_of	occurs_in
+-1
+-5.774960955604911
+___
+disease_or_syndrome	pathologic_function	cell_or_molecular_dysfunction
+precedes	_degree_of
+-1
+-6.070521950721741
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+precedes	_degree_of
+-1
+-6.070521950721741
+___
+disease_or_syndrome	pathologic_function	receptor
+precedes	produces
+-1
+-6.360282063484192
+___
+disease_or_syndrome	pathologic_function	hormone
+precedes	produces
+-1
+-6.360282063484192
+___
+disease_or_syndrome	pathologic_function	enzyme
+precedes	produces
+-1
+-6.360282063484192
+___
+disease_or_syndrome	pathologic_function	immunologic_factor
+precedes	produces
+-1
+-6.360282063484192
+___
+disease_or_syndrome	pathologic_function	cell_or_molecular_dysfunction
+_precedes	_precedes
+-1
+-6.455463171005249
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+_precedes	_precedes
+-1
+-6.455463171005249
+___
+disease_or_syndrome	pathologic_function	experimental_model_of_disease
+_precedes	_precedes
+-1
+-6.455463171005249
+___
+disease_or_syndrome	neoplastic_process	patient_or_disabled_group
+_degree_of	occurs_in
+1
+-6.46714448928833
+___
+disease_or_syndrome	neoplastic_process	disease_or_syndrome
+_degree_of	occurs_in
+-1
+-6.46714448928833
+___
+disease_or_syndrome	pathologic_function	experimental_model_of_disease
+_precedes	precedes
+-1
+-6.8254554271698
+___
+disease_or_syndrome	pathologic_function	anatomical_abnormality
+precedes	co-occurs_with
+-1
+-7.065928101539612
+___
+disease_or_syndrome	pathologic_function	acquired_abnormality
+precedes	co-occurs_with
+-1
+-7.065928101539612
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+_degree_of	_isa
+-1
+-7.0877591371536255
+___
+disease_or_syndrome	pathologic_function	vitamin
+_precedes	_complicates
+-1
+-7.3155810832977295
+___
+disease_or_syndrome	pathologic_function	neuroreactive_substance_or_biogenic_amine
+_precedes	_complicates
+-1
+-7.3155810832977295
+___
+disease_or_syndrome	pathologic_function	cell_or_molecular_dysfunction
+_precedes	_complicates
+-1
+-7.3155810832977295
+___
+disease_or_syndrome	pathologic_function	experimental_model_of_disease
+_precedes	_complicates
+-1
+-7.3155810832977295
+___
+disease_or_syndrome	pathologic_function	pharmacologic_substance
+_precedes	_complicates
+-1
+-7.3155810832977295
+___
+disease_or_syndrome	pathologic_function	biologically_active_substance
+_precedes	_complicates
+-1
+-7.3155810832977295
+___
+disease_or_syndrome	pathologic_function	hazardous_or_poisonous_substance
+_precedes	_complicates
+-1
+-7.3155810832977295
+___
+disease_or_syndrome	pathologic_function	hormone
+_precedes	_complicates
+-1
+-7.3155810832977295
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+precedes	degree_of
+-1
+-8.227995991706848
+___
+disease_or_syndrome	pathologic_function	experimental_model_of_disease
+precedes	degree_of
+-1
+-8.227995991706848
+___
+disease_or_syndrome	pathologic_function	cell_or_molecular_dysfunction
+precedes	degree_of
+-1
+-8.227995991706848
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+_degree_of	_precedes
+-1
+-8.31664514541626
+___
+disease_or_syndrome	pathologic_function	experimental_model_of_disease
+_degree_of	_precedes
+-1
+-8.31664514541626
+___
+disease_or_syndrome	pathologic_function	cell_or_molecular_dysfunction
+_degree_of	_precedes
+-1
+-8.31664514541626
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+_precedes	_degree_of
+-1
+-8.489833354949951
+___
+disease_or_syndrome	pathologic_function	cell_or_molecular_dysfunction
+_precedes	_degree_of
+-1
+-8.489833354949951
+___
+disease_or_syndrome	pathologic_function	experimental_model_of_disease
+_degree_of	precedes
+-1
+-8.749646663665771
+___
+disease_or_syndrome	pathologic_function	genetic_function
+precedes	_process_of
+-1
+-8.757662892341614
+___
+disease_or_syndrome	pathologic_function	biologic_function
+precedes	_process_of
+-1
+-8.757662892341614
+___
+disease_or_syndrome	pathologic_function	cell_or_molecular_dysfunction
+precedes	_process_of
+-1
+-8.757662892341614
+___
+disease_or_syndrome	pathologic_function	mental_process
+precedes	_process_of
+-1
+-8.757662892341614
+___
+disease_or_syndrome	pathologic_function	organ_or_tissue_function
+precedes	_process_of
+-1
+-8.757662892341614
+___
+disease_or_syndrome	pathologic_function	molecular_function
+precedes	_process_of
+-1
+-8.757662892341614
+___
+disease_or_syndrome	pathologic_function	physiologic_function
+precedes	_process_of
+-1
+-8.757662892341614
+___
+disease_or_syndrome	pathologic_function	cell_function
+precedes	_process_of
+-1
+-8.757662892341614
+___
+disease_or_syndrome	pathologic_function	natural_phenomenon_or_process
+precedes	_process_of
+-1
+-8.757662892341614
+___
+disease_or_syndrome	pathologic_function	neuroreactive_substance_or_biogenic_amine
+_degree_of	_complicates
+-1
+-8.846018314361572
+___
+disease_or_syndrome	pathologic_function	cell_or_molecular_dysfunction
+_degree_of	_complicates
+-1
+-8.846018314361572
+___
+disease_or_syndrome	pathologic_function	experimental_model_of_disease
+_degree_of	_complicates
+-1
+-8.846018314361572
+___
+disease_or_syndrome	pathologic_function	hazardous_or_poisonous_substance
+_degree_of	_complicates
+-1
+-8.846018314361572
+___
+disease_or_syndrome	pathologic_function	vitamin
+_degree_of	_complicates
+-1
+-8.846018314361572
+___
+disease_or_syndrome	pathologic_function	pharmacologic_substance
+_degree_of	_complicates
+-1
+-8.846018314361572
+___
+disease_or_syndrome	pathologic_function	biologically_active_substance
+_degree_of	_complicates
+-1
+-8.846018314361572
+___
+disease_or_syndrome	pathologic_function	hormone
+_degree_of	_complicates
+-1
+-8.846018314361572
+___
+disease_or_syndrome	pathologic_function	laboratory_or_test_result
+precedes	_associated_with
+-1
+-8.9405118227005
+___
+disease_or_syndrome	pathologic_function	finding
+precedes	_associated_with
+-1
+-8.9405118227005
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+precedes	_associated_with
+-1
+-8.9405118227005
+___
+disease_or_syndrome	pathologic_function	sign_or_symptom
+precedes	_associated_with
+-1
+-8.9405118227005
+___
+disease_or_syndrome	pathologic_function	occupational_activity
+precedes	_associated_with
+-1
+-8.9405118227005
+___
+disease_or_syndrome	pathologic_function	geographic_area
+precedes	_associated_with
+-1
+-8.9405118227005
+___
+disease_or_syndrome	pathologic_function	physiologic_function
+precedes	manifestation_of
+-1
+-8.948443531990051
+___
+disease_or_syndrome	pathologic_function	organism_function
+precedes	manifestation_of
+-1
+-8.948443531990051
+___
+disease_or_syndrome	pathologic_function	cell_function
+precedes	manifestation_of
+-1
+-8.948443531990051
+___
+disease_or_syndrome	pathologic_function	experimental_model_of_disease
+precedes	manifestation_of
+-1
+-8.948443531990051
+___
+disease_or_syndrome	pathologic_function	molecular_function
+precedes	manifestation_of
+-1
+-8.948443531990051
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	disease_or_syndrome
+precedes	_precedes
+-1
+-8.993868470191956
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	cell_or_molecular_dysfunction
+precedes	_precedes
+-1
+-8.993868470191956
+___
+disease_or_syndrome	mental_or_behavioral_dysfunction	experimental_model_of_disease
+precedes	_precedes
+-1
+-8.993868470191956
+___
+disease_or_syndrome	pathologic_function	natural_phenomenon_or_process
+precedes	isa
+-1
+-9.008152604103088
+___
+disease_or_syndrome	pathologic_function	phenomenon_or_process
+precedes	isa
+-1
+-9.008152604103088
+___
+disease_or_syndrome	pathologic_function	plant
+precedes	affects
+-1
+-9.058953404426575
+___
+disease_or_syndrome	pathologic_function	disease_or_syndrome
+precedes	affects
+-1
+-9.058953404426575
+___
+disease_or_syndrome	pathologic_function	rickettsia_or_chlamydia
+precedes	affects
+-1
+-9.058953404426575
+___
+disease_or_syndrome	pathologic_function	bird
+precedes	affects
+-1
+-9.058953404426575
+___
+disease_or_syndrome	pathologic_function	fungus
+precedes	affects
+-1
+-9.058953404426575
+___
+disease_or_syndrome	pathologic_function	archaeon
+precedes	affects
+-1
+-9.058953404426575
+___
+disease_or_syndrome	pathologic_function	organ_or_tissue_function
+precedes	affects
+-1
+-9.058953404426575
+___
+disease_or_syndrome	pathologic_function	human
+precedes	affects
+-1
+-9.058953404426575
+___
+disease_or_syndrome	pathologic_function	reptile
+precedes	affects
+-1
+-9.058953404426575
+___
+disease_or_syndrome	pathologic_function	vertebrate
+precedes	affects
+-1
+-9.058953404426575
+___
+disease_or_syndrome	pathologic_function	organism_function
+precedes	affects
+-1
+-9.058953404426575
+___
+#####################

@@ -1,0 +1,7545 @@
+molecular_biology_research_technique	chemical_viewed_functionally
+Reward:1
+molecular_biology_research_technique	acquired_abnormality	congenital_abnormality
+associated_with	_co-occurs_with
+-1
+-4.096226043999195
+___
+molecular_biology_research_technique	indicator_reagent_or_diagnostic_aid	chemical_viewed_functionally
+measures	_interacts_with
+1
+-4.244265198707581
+___
+molecular_biology_research_technique	chemical	chemical_viewed_functionally
+measures	_interacts_with
+1
+-4.571152150630951
+___
+molecular_biology_research_technique	hazardous_or_poisonous_substance	chemical_viewed_functionally
+measures	_interacts_with
+1
+-4.58501935005188
+___
+molecular_biology_research_technique	inorganic_chemical	chemical_viewed_functionally
+measures	interacts_with
+1
+-4.668791651725769
+___
+molecular_biology_research_technique	temporal_concept	occupation_or_discipline
+measures	issue_in
+-1
+-4.788172483444214
+___
+molecular_biology_research_technique	temporal_concept	biomedical_occupation_or_discipline
+measures	issue_in
+-1
+-4.788172483444214
+___
+molecular_biology_research_technique	antibiotic	chemical_viewed_functionally
+measures	_interacts_with
+1
+-4.874607086181641
+___
+molecular_biology_research_technique	chemical	chemical_viewed_functionally
+measures	_isa
+1
+-4.928901195526123
+___
+molecular_biology_research_technique	experimental_model_of_disease	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-4.96587336063385
+___
+molecular_biology_research_technique	pharmacologic_substance	chemical_viewed_functionally
+measures	_interacts_with
+1
+-4.9777175188064575
+___
+molecular_biology_research_technique	disease_or_syndrome	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-5.040131092071533
+___
+molecular_biology_research_technique	anatomical_abnormality	acquired_abnormality
+associated_with	_co-occurs_with
+-1
+-5.040253400802612
+___
+molecular_biology_research_technique	anatomical_abnormality	congenital_abnormality
+associated_with	_co-occurs_with
+-1
+-5.040253400802612
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-5.061395168304443
+___
+molecular_biology_research_technique	vitamin	chemical_viewed_functionally
+measures	_interacts_with
+1
+-5.105218172073364
+___
+molecular_biology_research_technique	chemical_viewed_structurally	biomedical_occupation_or_discipline
+measures	issue_in
+-1
+-5.121384024620056
+___
+molecular_biology_research_technique	neuroreactive_substance_or_biogenic_amine	chemical_viewed_functionally
+measures	_interacts_with
+1
+-5.173306345939636
+___
+molecular_biology_research_technique	neoplastic_process	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-5.202209949493408
+___
+molecular_biology_research_technique	hormone	chemical_viewed_functionally
+measures	_interacts_with
+1
+-5.2049784660339355
+___
+molecular_biology_research_technique	biologically_active_substance	chemical_viewed_functionally
+measures	_interacts_with
+1
+-5.269382119178772
+___
+molecular_biology_research_technique	enzyme	chemical_viewed_functionally
+measures	_interacts_with
+1
+-5.291715741157532
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	chemical_viewed_functionally
+measures	interacts_with
+1
+-5.30155336856842
+___
+molecular_biology_research_technique	body_substance	body_part_organ_or_organ_component
+measures	_consists_of
+-1
+-5.356753587722778
+___
+molecular_biology_research_technique	anatomical_abnormality	congenital_abnormality
+associated_with	_isa
+-1
+-5.39971137046814
+___
+molecular_biology_research_technique	organophosphorus_compound	chemical_viewed_functionally
+measures	interacts_with
+1
+-5.4936888217926025
+___
+molecular_biology_research_technique	mental_process	family_group
+affects	produces
+-1
+-5.5486133098602295
+___
+molecular_biology_research_technique	mental_process	age_group
+affects	produces
+-1
+-5.5486133098602295
+___
+molecular_biology_research_technique	pathologic_function	injury_or_poisoning
+associated_with	_complicates
+-1
+-5.551509380340576
+___
+molecular_biology_research_technique	carbohydrate	chemical_viewed_functionally
+measures	interacts_with
+1
+-5.561417102813721
+___
+molecular_biology_research_technique	organic_chemical	cell
+measures	_produces
+-1
+-5.586284875869751
+___
+molecular_biology_research_technique	organic_chemical	gene_or_genome
+measures	_produces
+-1
+-5.586284875869751
+___
+molecular_biology_research_technique	organic_chemical	cell_component
+measures	_produces
+-1
+-5.586284875869751
+___
+molecular_biology_research_technique	organic_chemical	fully_formed_anatomical_structure
+measures	_produces
+-1
+-5.586284875869751
+___
+molecular_biology_research_technique	cell_or_molecular_dysfunction	injury_or_poisoning
+associated_with	_complicates
+-1
+-5.60856568813324
+___
+molecular_biology_research_technique	lipid	chemical_viewed_functionally
+measures	interacts_with
+1
+-5.620886445045471
+___
+molecular_biology_research_technique	steroid	chemical_viewed_functionally
+measures	interacts_with
+1
+-5.637136936187744
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	fully_formed_anatomical_structure
+measures	_produces
+-1
+-5.68654203414917
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	body_part_organ_or_organ_component
+measures	_produces
+-1
+-5.68654203414917
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	cell
+measures	_produces
+-1
+-5.68654203414917
+___
+molecular_biology_research_technique	quantitative_concept	carbohydrate_sequence
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	geographic_area
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	body_space_or_junction
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	amino_acid_sequence
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	spatial_concept
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	nucleotide_sequence
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	physiologic_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.713477730751038
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	injury_or_poisoning
+measures	_complicates
+-1
+-5.758181214332581
+___
+molecular_biology_research_technique	biologic_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.797513723373413
+___
+molecular_biology_research_technique	experimental_model_of_disease	therapeutic_or_preventive_procedure
+associated_with	_complicates
+-1
+-5.806070685386658
+___
+molecular_biology_research_technique	therapeutic_or_preventive_procedure	diagnostic_procedure
+method_of	_precedes
+-1
+-5.80766099691391
+___
+molecular_biology_research_technique	pathologic_function	injury_or_poisoning
+measures	_complicates
+-1
+-5.8196941614151
+___
+molecular_biology_research_technique	clinical_attribute	environmental_effect_of_humans
+measures	result_of
+-1
+-5.83168888092041
+___
+molecular_biology_research_technique	clinical_attribute	phenomenon_or_process
+measures	result_of
+-1
+-5.83168888092041
+___
+molecular_biology_research_technique	clinical_attribute	injury_or_poisoning
+measures	result_of
+-1
+-5.83168888092041
+___
+molecular_biology_research_technique	cell_or_molecular_dysfunction	injury_or_poisoning
+measures	_complicates
+-1
+-5.854145050048828
+___
+molecular_biology_research_technique	organ_or_tissue_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.865704774856567
+___
+molecular_biology_research_technique	disease_or_syndrome	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.876264810562134
+___
+molecular_biology_research_technique	chemical_viewed_structurally	diagnostic_procedure
+measures	_analyzes
+-1
+-5.8768510818481445
+___
+molecular_biology_research_technique	organophosphorus_compound	gene_or_genome
+measures	_produces
+-1
+-5.878677606582642
+___
+molecular_biology_research_technique	organophosphorus_compound	body_part_organ_or_organ_component
+measures	_produces
+-1
+-5.878677606582642
+___
+molecular_biology_research_technique	organophosphorus_compound	cell
+measures	_produces
+-1
+-5.878677606582642
+___
+molecular_biology_research_technique	organophosphorus_compound	cell_component
+measures	_produces
+-1
+-5.878677606582642
+___
+molecular_biology_research_technique	organophosphorus_compound	fully_formed_anatomical_structure
+measures	_produces
+-1
+-5.878677606582642
+___
+molecular_biology_research_technique	disease_or_syndrome	therapeutic_or_preventive_procedure
+associated_with	_complicates
+-1
+-5.880328416824341
+___
+molecular_biology_research_technique	genetic_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.881727457046509
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	injury_or_poisoning
+associated_with	_complicates
+-1
+-5.901592493057251
+___
+molecular_biology_research_technique	carbohydrate	body_part_organ_or_organ_component
+measures	_produces
+-1
+-5.94640588760376
+___
+molecular_biology_research_technique	carbohydrate	tissue
+measures	_produces
+-1
+-5.94640588760376
+___
+molecular_biology_research_technique	carbohydrate	cell
+measures	_produces
+-1
+-5.94640588760376
+___
+molecular_biology_research_technique	carbohydrate	gene_or_genome
+measures	_produces
+-1
+-5.94640588760376
+___
+molecular_biology_research_technique	carbohydrate	cell_component
+measures	_produces
+-1
+-5.94640588760376
+___
+molecular_biology_research_technique	organism_attribute	phenomenon_or_process
+measures	result_of
+-1
+-5.959920406341553
+___
+molecular_biology_research_technique	organism_attribute	environmental_effect_of_humans
+measures	result_of
+-1
+-5.959920406341553
+___
+molecular_biology_research_technique	organism_attribute	injury_or_poisoning
+measures	result_of
+-1
+-5.959920406341553
+___
+molecular_biology_research_technique	organism_attribute	human_caused_phenomenon_or_process
+measures	result_of
+-1
+-5.959920406341553
+___
+molecular_biology_research_technique	congenital_abnormality	acquired_abnormality
+associated_with	_complicates
+-1
+-5.992388844490051
+___
+molecular_biology_research_technique	congenital_abnormality	anatomical_abnormality
+associated_with	_complicates
+-1
+-5.992388844490051
+___
+molecular_biology_research_technique	congenital_abnormality	injury_or_poisoning
+associated_with	_complicates
+-1
+-5.992388844490051
+___
+molecular_biology_research_technique	lipid	fully_formed_anatomical_structure
+measures	_produces
+-1
+-6.005875110626221
+___
+molecular_biology_research_technique	lipid	body_part_organ_or_organ_component
+measures	_produces
+-1
+-6.005875110626221
+___
+molecular_biology_research_technique	lipid	gene_or_genome
+measures	_produces
+-1
+-6.005875110626221
+___
+molecular_biology_research_technique	lipid	tissue
+measures	_produces
+-1
+-6.005875110626221
+___
+molecular_biology_research_technique	lipid	cell
+measures	_produces
+-1
+-6.005875110626221
+___
+molecular_biology_research_technique	lipid	cell_component
+measures	_produces
+-1
+-6.005875110626221
+___
+molecular_biology_research_technique	steroid	cell_component
+measures	_produces
+-1
+-6.022125720977783
+___
+molecular_biology_research_technique	steroid	tissue
+measures	_produces
+-1
+-6.022125720977783
+___
+molecular_biology_research_technique	steroid	cell
+measures	_produces
+-1
+-6.022125720977783
+___
+molecular_biology_research_technique	steroid	fully_formed_anatomical_structure
+measures	_produces
+-1
+-6.022125720977783
+___
+molecular_biology_research_technique	steroid	body_part_organ_or_organ_component
+measures	_produces
+-1
+-6.022125720977783
+___
+molecular_biology_research_technique	steroid	gene_or_genome
+measures	_produces
+-1
+-6.022125720977783
+___
+molecular_biology_research_technique	inorganic_chemical	occupation_or_discipline
+measures	issue_in
+-1
+-6.041069984436035
+___
+molecular_biology_research_technique	inorganic_chemical	biomedical_occupation_or_discipline
+measures	issue_in
+-1
+-6.041069984436035
+___
+molecular_biology_research_technique	neoplastic_process	therapeutic_or_preventive_procedure
+associated_with	_complicates
+-1
+-6.042407274246216
+___
+molecular_biology_research_technique	neoplastic_process	injury_or_poisoning
+associated_with	_complicates
+-1
+-6.042407274246216
+___
+molecular_biology_research_technique	injury_or_poisoning	acquired_abnormality
+associated_with	complicates
+-1
+-6.045724868774414
+___
+molecular_biology_research_technique	injury_or_poisoning	congenital_abnormality
+associated_with	complicates
+-1
+-6.045724868774414
+___
+molecular_biology_research_technique	injury_or_poisoning	anatomical_abnormality
+associated_with	complicates
+-1
+-6.045724868774414
+___
+molecular_biology_research_technique	pathologic_function	acquired_abnormality
+associated_with	complicates
+-1
+-6.0986292362213135
+___
+molecular_biology_research_technique	pathologic_function	congenital_abnormality
+associated_with	complicates
+-1
+-6.0986292362213135
+___
+#####################
+molecular_biology_research_technique	element_ion_or_isotope
+Reward:1
+molecular_biology_research_technique	acquired_abnormality	congenital_abnormality
+associated_with	_co-occurs_with
+-1
+-4.096247352659702
+___
+molecular_biology_research_technique	indicator_reagent_or_diagnostic_aid	element_ion_or_isotope
+measures	_interacts_with
+1
+-4.230483800172806
+___
+molecular_biology_research_technique	inorganic_chemical	element_ion_or_isotope
+measures	_interacts_with
+1
+-4.263307183980942
+___
+molecular_biology_research_technique	chemical	element_ion_or_isotope
+measures	_interacts_with
+1
+-4.571152031421661
+___
+molecular_biology_research_technique	chemical_viewed_structurally	element_ion_or_isotope
+measures	_isa
+1
+-4.5885730385780334
+___
+molecular_biology_research_technique	temporal_concept	biomedical_occupation_or_discipline
+measures	issue_in
+-1
+-4.788172483444214
+___
+molecular_biology_research_technique	temporal_concept	occupation_or_discipline
+measures	issue_in
+-1
+-4.788172483444214
+___
+molecular_biology_research_technique	antibiotic	element_ion_or_isotope
+measures	_interacts_with
+1
+-4.867293357849121
+___
+molecular_biology_research_technique	chemical	element_ion_or_isotope
+measures	_isa
+1
+-4.928901195526123
+___
+molecular_biology_research_technique	experimental_model_of_disease	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-4.961427927017212
+___
+molecular_biology_research_technique	pharmacologic_substance	element_ion_or_isotope
+measures	_interacts_with
+1
+-4.971122741699219
+___
+molecular_biology_research_technique	disease_or_syndrome	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-5.036004543304443
+___
+molecular_biology_research_technique	anatomical_abnormality	congenital_abnormality
+associated_with	_co-occurs_with
+-1
+-5.040261745452881
+___
+molecular_biology_research_technique	anatomical_abnormality	acquired_abnormality
+associated_with	_co-occurs_with
+-1
+-5.040261745452881
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-5.065418601036072
+___
+molecular_biology_research_technique	chemical_viewed_structurally	element_ion_or_isotope
+measures	interacts_with
+1
+-5.115954399108887
+___
+molecular_biology_research_technique	neuroreactive_substance_or_biogenic_amine	element_ion_or_isotope
+measures	_interacts_with
+1
+-5.173306345939636
+___
+molecular_biology_research_technique	hormone	element_ion_or_isotope
+measures	_interacts_with
+1
+-5.199727773666382
+___
+molecular_biology_research_technique	neoplastic_process	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-5.20544695854187
+___
+molecular_biology_research_technique	biologically_active_substance	element_ion_or_isotope
+measures	_interacts_with
+1
+-5.264459729194641
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	element_ion_or_isotope
+measures	interacts_with
+1
+-5.30155336856842
+___
+molecular_biology_research_technique	body_substance	body_part_organ_or_organ_component
+measures	_consists_of
+-1
+-5.356753587722778
+___
+molecular_biology_research_technique	immunologic_factor	element_ion_or_isotope
+measures	_interacts_with
+1
+-5.381734132766724
+___
+molecular_biology_research_technique	anatomical_abnormality	congenital_abnormality
+associated_with	_isa
+-1
+-5.399719715118408
+___
+molecular_biology_research_technique	organic_chemical	element_ion_or_isotope
+measures	interacts_with
+1
+-5.427557945251465
+___
+molecular_biology_research_technique	hazardous_or_poisonous_substance	injury_or_poisoning
+measures	complicates
+-1
+-5.518704652786255
+___
+molecular_biology_research_technique	hazardous_or_poisonous_substance	acquired_abnormality
+measures	complicates
+-1
+-5.518704652786255
+___
+molecular_biology_research_technique	mental_process	family_group
+affects	produces
+-1
+-5.5486133098602295
+___
+molecular_biology_research_technique	mental_process	age_group
+affects	produces
+-1
+-5.5486133098602295
+___
+molecular_biology_research_technique	pathologic_function	injury_or_poisoning
+associated_with	_complicates
+-1
+-5.557214379310608
+___
+molecular_biology_research_technique	carbohydrate	element_ion_or_isotope
+measures	interacts_with
+1
+-5.561417102813721
+___
+molecular_biology_research_technique	cell_or_molecular_dysfunction	injury_or_poisoning
+associated_with	_complicates
+-1
+-5.602743864059448
+___
+molecular_biology_research_technique	lipid	element_ion_or_isotope
+measures	interacts_with
+1
+-5.620886325836182
+___
+molecular_biology_research_technique	steroid	element_ion_or_isotope
+measures	interacts_with
+1
+-5.637136936187744
+___
+molecular_biology_research_technique	organophosphorus_compound	body_part_organ_or_organ_component
+measures	_produces
+-1
+-5.668532848358154
+___
+molecular_biology_research_technique	organophosphorus_compound	fully_formed_anatomical_structure
+measures	_produces
+-1
+-5.668532848358154
+___
+molecular_biology_research_technique	organophosphorus_compound	cell_component
+measures	_produces
+-1
+-5.668532848358154
+___
+molecular_biology_research_technique	organophosphorus_compound	gene_or_genome
+measures	_produces
+-1
+-5.668532848358154
+___
+molecular_biology_research_technique	organophosphorus_compound	cell
+measures	_produces
+-1
+-5.668532848358154
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	body_part_organ_or_organ_component
+measures	_produces
+-1
+-5.68654203414917
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	fully_formed_anatomical_structure
+measures	_produces
+-1
+-5.68654203414917
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	cell
+measures	_produces
+-1
+-5.68654203414917
+___
+molecular_biology_research_technique	quantitative_concept	geographic_area
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	spatial_concept
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	nucleotide_sequence
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	body_space_or_junction
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	amino_acid_sequence
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	carbohydrate_sequence
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	physiologic_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.722776889801025
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	injury_or_poisoning
+measures	_complicates
+-1
+-5.767075538635254
+___
+molecular_biology_research_technique	biologic_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.797513723373413
+___
+molecular_biology_research_technique	experimental_model_of_disease	therapeutic_or_preventive_procedure
+associated_with	_complicates
+-1
+-5.8016252517700195
+___
+molecular_biology_research_technique	therapeutic_or_preventive_procedure	diagnostic_procedure
+method_of	_precedes
+-1
+-5.80766099691391
+___
+molecular_biology_research_technique	organic_chemical	gene_or_genome
+measures	_produces
+-1
+-5.812546610832214
+___
+molecular_biology_research_technique	organic_chemical	cell
+measures	_produces
+-1
+-5.812546610832214
+___
+molecular_biology_research_technique	organic_chemical	fully_formed_anatomical_structure
+measures	_produces
+-1
+-5.812546610832214
+___
+molecular_biology_research_technique	organic_chemical	cell_component
+measures	_produces
+-1
+-5.812546610832214
+___
+molecular_biology_research_technique	pathologic_function	injury_or_poisoning
+measures	_complicates
+-1
+-5.828060150146484
+___
+molecular_biology_research_technique	clinical_attribute	environmental_effect_of_humans
+measures	result_of
+-1
+-5.83168888092041
+___
+molecular_biology_research_technique	clinical_attribute	injury_or_poisoning
+measures	result_of
+-1
+-5.83168888092041
+___
+molecular_biology_research_technique	clinical_attribute	phenomenon_or_process
+measures	result_of
+-1
+-5.83168888092041
+___
+molecular_biology_research_technique	cell_or_molecular_dysfunction	injury_or_poisoning
+measures	_complicates
+-1
+-5.843409776687622
+___
+molecular_biology_research_technique	organ_or_tissue_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.865704774856567
+___
+molecular_biology_research_technique	disease_or_syndrome	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.8682942390441895
+___
+molecular_biology_research_technique	disease_or_syndrome	therapeutic_or_preventive_procedure
+associated_with	_complicates
+-1
+-5.876201868057251
+___
+molecular_biology_research_technique	genetic_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.881727457046509
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	injury_or_poisoning
+associated_with	_complicates
+-1
+-5.905615925788879
+___
+molecular_biology_research_technique	carbohydrate	gene_or_genome
+measures	_produces
+-1
+-5.94640588760376
+___
+molecular_biology_research_technique	carbohydrate	cell_component
+measures	_produces
+-1
+-5.94640588760376
+___
+molecular_biology_research_technique	carbohydrate	body_part_organ_or_organ_component
+measures	_produces
+-1
+-5.94640588760376
+___
+molecular_biology_research_technique	carbohydrate	tissue
+measures	_produces
+-1
+-5.94640588760376
+___
+molecular_biology_research_technique	carbohydrate	cell
+measures	_produces
+-1
+-5.94640588760376
+___
+molecular_biology_research_technique	organism_attribute	phenomenon_or_process
+measures	result_of
+-1
+-5.959920406341553
+___
+molecular_biology_research_technique	organism_attribute	injury_or_poisoning
+measures	result_of
+-1
+-5.959920406341553
+___
+molecular_biology_research_technique	organism_attribute	environmental_effect_of_humans
+measures	result_of
+-1
+-5.959920406341553
+___
+molecular_biology_research_technique	organism_attribute	human_caused_phenomenon_or_process
+measures	result_of
+-1
+-5.959920406341553
+___
+molecular_biology_research_technique	congenital_abnormality	injury_or_poisoning
+associated_with	_complicates
+-1
+-5.992388844490051
+___
+molecular_biology_research_technique	congenital_abnormality	anatomical_abnormality
+associated_with	_complicates
+-1
+-5.992388844490051
+___
+molecular_biology_research_technique	congenital_abnormality	acquired_abnormality
+associated_with	_complicates
+-1
+-5.992388844490051
+___
+molecular_biology_research_technique	lipid	gene_or_genome
+measures	_produces
+-1
+-6.005875110626221
+___
+molecular_biology_research_technique	lipid	body_part_organ_or_organ_component
+measures	_produces
+-1
+-6.005875110626221
+___
+molecular_biology_research_technique	lipid	fully_formed_anatomical_structure
+measures	_produces
+-1
+-6.005875110626221
+___
+molecular_biology_research_technique	lipid	tissue
+measures	_produces
+-1
+-6.005875110626221
+___
+molecular_biology_research_technique	lipid	cell_component
+measures	_produces
+-1
+-6.005875110626221
+___
+molecular_biology_research_technique	lipid	cell
+measures	_produces
+-1
+-6.005875110626221
+___
+molecular_biology_research_technique	steroid	cell_component
+measures	_produces
+-1
+-6.022125720977783
+___
+molecular_biology_research_technique	steroid	tissue
+measures	_produces
+-1
+-6.022125720977783
+___
+molecular_biology_research_technique	steroid	fully_formed_anatomical_structure
+measures	_produces
+-1
+-6.022125720977783
+___
+molecular_biology_research_technique	steroid	gene_or_genome
+measures	_produces
+-1
+-6.022125720977783
+___
+molecular_biology_research_technique	steroid	cell
+measures	_produces
+-1
+-6.022125720977783
+___
+molecular_biology_research_technique	steroid	body_part_organ_or_organ_component
+measures	_produces
+-1
+-6.022125720977783
+___
+molecular_biology_research_technique	neoplastic_process	therapeutic_or_preventive_procedure
+associated_with	_complicates
+-1
+-6.045644283294678
+___
+molecular_biology_research_technique	neoplastic_process	injury_or_poisoning
+associated_with	_complicates
+-1
+-6.045644283294678
+___
+molecular_biology_research_technique	injury_or_poisoning	anatomical_abnormality
+associated_with	complicates
+-1
+-6.045724868774414
+___
+molecular_biology_research_technique	injury_or_poisoning	congenital_abnormality
+associated_with	complicates
+-1
+-6.045724868774414
+___
+molecular_biology_research_technique	injury_or_poisoning	acquired_abnormality
+associated_with	complicates
+-1
+-6.045724868774414
+___
+molecular_biology_research_technique	vitamin	cell_component
+measures	_produces
+-1
+-6.047515153884888
+___
+molecular_biology_research_technique	vitamin	fully_formed_anatomical_structure
+measures	_produces
+-1
+-6.047515153884888
+___
+molecular_biology_research_technique	vitamin	tissue
+measures	_produces
+-1
+-6.047515153884888
+___
+molecular_biology_research_technique	pathologic_function	acquired_abnormality
+associated_with	complicates
+-1
+-6.104334354400635
+___
+#####################
+research_activity	amino_acid_peptide_or_protein
+Reward:1
+research_activity	element_ion_or_isotope	amino_acid_peptide_or_protein
+measures	_interacts_with
+1
+-4.167771518230438
+___
+research_activity	acquired_abnormality	congenital_abnormality
+associated_with	_co-occurs_with
+-1
+-4.1706730499863625
+___
+research_activity	molecular_biology_research_technique	occupation_or_discipline
+_isa	issue_in
+-1
+-4.242078065872192
+___
+research_activity	molecular_biology_research_technique	biomedical_occupation_or_discipline
+_isa	issue_in
+-1
+-4.242078065872192
+___
+research_activity	indicator_reagent_or_diagnostic_aid	amino_acid_peptide_or_protein
+measures	_interacts_with
+1
+-4.304909497499466
+___
+research_activity	molecular_biology_research_technique	therapeutic_or_preventive_procedure
+_isa	method_of
+-1
+-4.306759834289551
+___
+research_activity	molecular_biology_research_technique	biomedical_occupation_or_discipline
+_isa	method_of
+-1
+-4.306759834289551
+___
+research_activity	molecular_biology_research_technique	occupation_or_discipline
+_isa	method_of
+-1
+-4.306759834289551
+___
+research_activity	molecular_biology_research_technique	research_device
+_isa	uses
+-1
+-4.333946466445923
+___
+research_activity	inorganic_chemical	amino_acid_peptide_or_protein
+measures	_interacts_with
+1
+-4.337732881307602
+___
+research_activity	chemical	amino_acid_peptide_or_protein
+measures	_interacts_with
+1
+-4.645577847957611
+___
+research_activity	hazardous_or_poisonous_substance	amino_acid_peptide_or_protein
+measures	_interacts_with
+1
+-4.65944504737854
+___
+research_activity	carbohydrate	amino_acid_peptide_or_protein
+measures	_interacts_with
+1
+-4.9755319356918335
+___
+research_activity	chemical	amino_acid_peptide_or_protein
+measures	_isa
+1
+-5.003326892852783
+___
+research_activity	lipid	amino_acid_peptide_or_protein
+measures	_interacts_with
+1
+-5.023308753967285
+___
+research_activity	experimental_model_of_disease	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-5.03997004032135
+___
+research_activity	disease_or_syndrome	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-5.114556908607483
+___
+research_activity	anatomical_abnormality	congenital_abnormality
+associated_with	_co-occurs_with
+-1
+-5.114687442779541
+___
+research_activity	anatomical_abnormality	acquired_abnormality
+associated_with	_co-occurs_with
+-1
+-5.114687442779541
+___
+research_activity	receptor	amino_acid_peptide_or_protein
+measures	_interacts_with
+1
+-5.151593446731567
+___
+research_activity	vitamin	amino_acid_peptide_or_protein
+measures	_interacts_with
+1
+-5.179643869400024
+___
+research_activity	organic_chemical	amino_acid_peptide_or_protein
+measures	_isa
+1
+-5.269596219062805
+___
+research_activity	hormone	amino_acid_peptide_or_protein
+measures	_interacts_with
+1
+-5.274153470993042
+___
+research_activity	neoplastic_process	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-5.280131459236145
+___
+research_activity	chemical_viewed_functionally	biomedical_occupation_or_discipline
+measures	issue_in
+-1
+-5.2843769788742065
+___
+research_activity	enzyme	amino_acid_peptide_or_protein
+measures	_interacts_with
+1
+-5.361327886581421
+___
+research_activity	nucleic_acid_nucleoside_or_nucleotide	amino_acid_peptide_or_protein
+measures	interacts_with
+1
+-5.375979065895081
+___
+research_activity	immunologic_factor	amino_acid_peptide_or_protein
+measures	_interacts_with
+1
+-5.456159830093384
+___
+research_activity	anatomical_abnormality	congenital_abnormality
+associated_with	_isa
+-1
+-5.474145412445068
+___
+research_activity	body_substance	body_part_organ_or_organ_component
+measures	_consists_of
+-1
+-5.5627453327178955
+___
+research_activity	cell_or_molecular_dysfunction	injury_or_poisoning
+associated_with	_complicates
+-1
+-5.682590484619141
+___
+research_activity	organophosphorus_compound	cell_component
+measures	_produces
+-1
+-5.7429585456848145
+___
+research_activity	organophosphorus_compound	body_part_organ_or_organ_component
+measures	_produces
+-1
+-5.7429585456848145
+___
+research_activity	organophosphorus_compound	cell
+measures	_produces
+-1
+-5.7429585456848145
+___
+research_activity	organophosphorus_compound	gene_or_genome
+measures	_produces
+-1
+-5.7429585456848145
+___
+research_activity	organophosphorus_compound	fully_formed_anatomical_structure
+measures	_produces
+-1
+-5.7429585456848145
+___
+research_activity	nucleic_acid_nucleoside_or_nucleotide	body_part_organ_or_organ_component
+measures	_produces
+-1
+-5.76096773147583
+___
+research_activity	nucleic_acid_nucleoside_or_nucleotide	cell
+measures	_produces
+-1
+-5.76096773147583
+___
+research_activity	nucleic_acid_nucleoside_or_nucleotide	fully_formed_anatomical_structure
+measures	_produces
+-1
+-5.76096773147583
+___
+research_activity	quantitative_concept	geographic_area
+measures	measurement_of
+-1
+-5.772274971008301
+___
+research_activity	quantitative_concept	carbohydrate_sequence
+measures	measurement_of
+-1
+-5.772274971008301
+___
+research_activity	quantitative_concept	amino_acid_sequence
+measures	measurement_of
+-1
+-5.772274971008301
+___
+research_activity	quantitative_concept	body_space_or_junction
+measures	measurement_of
+-1
+-5.772274971008301
+___
+research_activity	quantitative_concept	spatial_concept
+measures	measurement_of
+-1
+-5.772274971008301
+___
+research_activity	quantitative_concept	nucleotide_sequence
+measures	measurement_of
+-1
+-5.772274971008301
+___
+research_activity	organic_chemical	amino_acid_peptide_or_protein
+measures	interacts_with
+1
+-5.796977519989014
+___
+research_activity	physiologic_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.7972025871276855
+___
+research_activity	organism_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.8120152950286865
+___
+research_activity	mental_or_behavioral_dysfunction	injury_or_poisoning
+measures	_complicates
+-1
+-5.835422039031982
+___
+research_activity	biologic_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.863312840461731
+___
+research_activity	experimental_model_of_disease	therapeutic_or_preventive_procedure
+associated_with	_complicates
+-1
+-5.880167365074158
+___
+research_activity	pathologic_function	injury_or_poisoning
+measures	_complicates
+-1
+-5.89411985874176
+___
+research_activity	clinical_attribute	environmental_effect_of_humans
+measures	result_of
+-1
+-5.90611457824707
+___
+research_activity	clinical_attribute	phenomenon_or_process
+measures	result_of
+-1
+-5.90611457824707
+___
+research_activity	clinical_attribute	injury_or_poisoning
+measures	result_of
+-1
+-5.90611457824707
+___
+research_activity	cell_or_molecular_dysfunction	injury_or_poisoning
+measures	_complicates
+-1
+-5.926006317138672
+___
+research_activity	organ_or_tissue_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.9401304721832275
+___
+research_activity	eicosanoid	fully_formed_anatomical_structure
+measures	_produces
+-1
+-5.946332931518555
+___
+research_activity	eicosanoid	cell_component
+measures	_produces
+-1
+-5.946332931518555
+___
+research_activity	eicosanoid	gene_or_genome
+measures	_produces
+-1
+-5.946332931518555
+___
+research_activity	eicosanoid	cell
+measures	_produces
+-1
+-5.946332931518555
+___
+research_activity	eicosanoid	tissue
+measures	_produces
+-1
+-5.946332931518555
+___
+research_activity	eicosanoid	body_part_organ_or_organ_component
+measures	_produces
+-1
+-5.946332931518555
+___
+research_activity	disease_or_syndrome	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.950690507888794
+___
+research_activity	disease_or_syndrome	therapeutic_or_preventive_procedure
+associated_with	_complicates
+-1
+-5.9547542333602905
+___
+research_activity	genetic_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.956153154373169
+___
+research_activity	body_substance	amino_acid_peptide_or_protein
+measures	consists_of
+1
+-5.998230934143066
+___
+research_activity	experimental_model_of_disease	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-6.020331382751465
+___
+research_activity	chemical_viewed_functionally	laboratory_procedure
+measures	_analyzes
+-1
+-6.039844036102295
+___
+research_activity	chemical_viewed_functionally	diagnostic_procedure
+measures	_analyzes
+-1
+-6.039844036102295
+___
+research_activity	chemical_viewed_functionally	clinical_drug
+measures	ingredient_of
+-1
+-6.059074878692627
+___
+research_activity	congenital_abnormality	injury_or_poisoning
+associated_with	_complicates
+-1
+-6.066814541816711
+___
+research_activity	congenital_abnormality	acquired_abnormality
+associated_with	_complicates
+-1
+-6.066814541816711
+___
+research_activity	congenital_abnormality	anatomical_abnormality
+associated_with	_complicates
+-1
+-6.066814541816711
+___
+research_activity	neoplastic_process	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-6.11032772064209
+___
+research_activity	neoplastic_process	injury_or_poisoning
+measures	_complicates
+-1
+-6.11032772064209
+___
+research_activity	injury_or_poisoning	congenital_abnormality
+associated_with	complicates
+-1
+-6.120150566101074
+___
+research_activity	injury_or_poisoning	acquired_abnormality
+associated_with	complicates
+-1
+-6.120150566101074
+___
+research_activity	injury_or_poisoning	anatomical_abnormality
+associated_with	complicates
+-1
+-6.120150566101074
+___
+research_activity	neoplastic_process	injury_or_poisoning
+associated_with	_complicates
+-1
+-6.120328903198242
+___
+research_activity	neoplastic_process	therapeutic_or_preventive_procedure
+associated_with	_complicates
+-1
+-6.120328903198242
+___
+research_activity	organic_chemical	fully_formed_anatomical_structure
+measures	_produces
+-1
+-6.181966304779053
+___
+research_activity	organic_chemical	cell_component
+measures	_produces
+-1
+-6.181966304779053
+___
+research_activity	organic_chemical	cell
+measures	_produces
+-1
+-6.181966304779053
+___
+research_activity	organic_chemical	gene_or_genome
+measures	_produces
+-1
+-6.181966304779053
+___
+research_activity	neuroreactive_substance_or_biogenic_amine	cell
+measures	_produces
+-1
+-6.215243577957153
+___
+research_activity	neuroreactive_substance_or_biogenic_amine	gene_or_genome
+measures	_produces
+-1
+-6.215243577957153
+___
+research_activity	neuroreactive_substance_or_biogenic_amine	cell_component
+measures	_produces
+-1
+-6.215243577957153
+___
+research_activity	neuroreactive_substance_or_biogenic_amine	fully_formed_anatomical_structure
+measures	_produces
+-1
+-6.215243577957153
+___
+research_activity	natural_phenomenon_or_process	phenomenon_or_process
+measures	_result_of
+-1
+-6.225979804992676
+___
+research_activity	natural_phenomenon_or_process	injury_or_poisoning
+measures	_result_of
+-1
+-6.225979804992676
+___
+research_activity	natural_phenomenon_or_process	acquired_abnormality
+measures	_result_of
+-1
+-6.225979804992676
+___
+research_activity	natural_phenomenon_or_process	congenital_abnormality
+measures	_result_of
+-1
+-6.225979804992676
+___
+research_activity	natural_phenomenon_or_process	environmental_effect_of_humans
+measures	_result_of
+-1
+-6.225979804992676
+___
+research_activity	natural_phenomenon_or_process	anatomical_abnormality
+measures	_result_of
+-1
+-6.225979804992676
+___
+research_activity	hazardous_or_poisonous_substance	injury_or_poisoning
+measures	complicates
+-1
+-6.228452444076538
+___
+research_activity	hazardous_or_poisonous_substance	acquired_abnormality
+measures	complicates
+-1
+-6.228452444076538
+___
+research_activity	cell_or_molecular_dysfunction	congenital_abnormality
+associated_with	complicates
+-1
+-6.229710340499878
+___
+research_activity	cell_or_molecular_dysfunction	anatomical_abnormality
+associated_with	complicates
+-1
+-6.229710340499878
+___
+research_activity	cell_or_molecular_dysfunction	acquired_abnormality
+associated_with	complicates
+-1
+-6.229710340499878
+___
+#####################
+molecular_biology_research_technique	amino_acid_peptide_or_protein
+Reward:1
+molecular_biology_research_technique	acquired_abnormality	congenital_abnormality
+associated_with	_co-occurs_with
+-1
+-4.096247352659702
+___
+molecular_biology_research_technique	indicator_reagent_or_diagnostic_aid	amino_acid_peptide_or_protein
+measures	_interacts_with
+1
+-4.230483800172806
+___
+molecular_biology_research_technique	inorganic_chemical	amino_acid_peptide_or_protein
+measures	_interacts_with
+1
+-4.263307183980942
+___
+molecular_biology_research_technique	chemical_viewed_structurally	amino_acid_peptide_or_protein
+measures	interacts_with
+1
+-4.483776271343231
+___
+molecular_biology_research_technique	chemical	amino_acid_peptide_or_protein
+measures	_interacts_with
+1
+-4.571152150630951
+___
+molecular_biology_research_technique	hazardous_or_poisonous_substance	amino_acid_peptide_or_protein
+measures	_interacts_with
+1
+-4.58501935005188
+___
+molecular_biology_research_technique	temporal_concept	occupation_or_discipline
+measures	issue_in
+-1
+-4.788172483444214
+___
+molecular_biology_research_technique	temporal_concept	biomedical_occupation_or_discipline
+measures	issue_in
+-1
+-4.788172483444214
+___
+molecular_biology_research_technique	carbohydrate	amino_acid_peptide_or_protein
+measures	_interacts_with
+1
+-4.901106238365173
+___
+molecular_biology_research_technique	chemical	amino_acid_peptide_or_protein
+measures	_isa
+1
+-4.928901195526123
+___
+molecular_biology_research_technique	lipid	amino_acid_peptide_or_protein
+measures	_interacts_with
+1
+-4.948883056640625
+___
+molecular_biology_research_technique	steroid	amino_acid_peptide_or_protein
+measures	_interacts_with
+1
+-4.962034821510315
+___
+molecular_biology_research_technique	experimental_model_of_disease	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-4.96554434299469
+___
+molecular_biology_research_technique	pharmacologic_substance	amino_acid_peptide_or_protein
+measures	_interacts_with
+1
+-4.971122741699219
+___
+molecular_biology_research_technique	disease_or_syndrome	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-5.040131211280823
+___
+molecular_biology_research_technique	anatomical_abnormality	acquired_abnormality
+associated_with	_co-occurs_with
+-1
+-5.040261745452881
+___
+molecular_biology_research_technique	anatomical_abnormality	congenital_abnormality
+associated_with	_co-occurs_with
+-1
+-5.040261745452881
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-5.061694264411926
+___
+molecular_biology_research_technique	vitamin	amino_acid_peptide_or_protein
+measures	_interacts_with
+1
+-5.105218172073364
+___
+molecular_biology_research_technique	organic_chemical	amino_acid_peptide_or_protein
+measures	_isa
+1
+-5.195170521736145
+___
+molecular_biology_research_technique	hormone	amino_acid_peptide_or_protein
+measures	_interacts_with
+1
+-5.199727773666382
+___
+molecular_biology_research_technique	neoplastic_process	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-5.205705761909485
+___
+molecular_biology_research_technique	enzyme	amino_acid_peptide_or_protein
+measures	_interacts_with
+1
+-5.286902189254761
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	amino_acid_peptide_or_protein
+measures	interacts_with
+1
+-5.30155336856842
+___
+molecular_biology_research_technique	immunologic_factor	amino_acid_peptide_or_protein
+measures	_interacts_with
+1
+-5.381734132766724
+___
+molecular_biology_research_technique	anatomical_abnormality	congenital_abnormality
+associated_with	_isa
+-1
+-5.399719715118408
+___
+molecular_biology_research_technique	body_substance	body_part_organ_or_organ_component
+measures	_consists_of
+-1
+-5.488319635391235
+___
+molecular_biology_research_technique	mental_process	age_group
+affects	produces
+-1
+-5.526022434234619
+___
+molecular_biology_research_technique	mental_process	family_group
+affects	produces
+-1
+-5.526022434234619
+___
+molecular_biology_research_technique	pathologic_function	injury_or_poisoning
+associated_with	_complicates
+-1
+-5.551509261131287
+___
+molecular_biology_research_technique	cell_or_molecular_dysfunction	injury_or_poisoning
+associated_with	_complicates
+-1
+-5.6081647872924805
+___
+molecular_biology_research_technique	organophosphorus_compound	fully_formed_anatomical_structure
+measures	_produces
+-1
+-5.668532848358154
+___
+molecular_biology_research_technique	organophosphorus_compound	body_part_organ_or_organ_component
+measures	_produces
+-1
+-5.668532848358154
+___
+molecular_biology_research_technique	organophosphorus_compound	cell
+measures	_produces
+-1
+-5.668532848358154
+___
+molecular_biology_research_technique	organophosphorus_compound	gene_or_genome
+measures	_produces
+-1
+-5.668532848358154
+___
+molecular_biology_research_technique	organophosphorus_compound	cell_component
+measures	_produces
+-1
+-5.668532848358154
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	body_part_organ_or_organ_component
+measures	_produces
+-1
+-5.68654203414917
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	cell
+measures	_produces
+-1
+-5.68654203414917
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	fully_formed_anatomical_structure
+measures	_produces
+-1
+-5.68654203414917
+___
+molecular_biology_research_technique	quantitative_concept	carbohydrate_sequence
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	spatial_concept
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	body_space_or_junction
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	amino_acid_sequence
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	nucleotide_sequence
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	geographic_area
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	organic_chemical	amino_acid_peptide_or_protein
+measures	interacts_with
+1
+-5.7225518226623535
+___
+molecular_biology_research_technique	physiologic_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.722776889801025
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	injury_or_poisoning
+measures	_complicates
+-1
+-5.760996341705322
+___
+molecular_biology_research_technique	biologic_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.788887143135071
+___
+molecular_biology_research_technique	experimental_model_of_disease	therapeutic_or_preventive_procedure
+associated_with	_complicates
+-1
+-5.805741667747498
+___
+molecular_biology_research_technique	therapeutic_or_preventive_procedure	diagnostic_procedure
+method_of	_precedes
+-1
+-5.80766099691391
+___
+molecular_biology_research_technique	pathologic_function	injury_or_poisoning
+measures	_complicates
+-1
+-5.8196941614151
+___
+molecular_biology_research_technique	clinical_attribute	phenomenon_or_process
+measures	result_of
+-1
+-5.83168888092041
+___
+molecular_biology_research_technique	clinical_attribute	environmental_effect_of_humans
+measures	result_of
+-1
+-5.83168888092041
+___
+molecular_biology_research_technique	clinical_attribute	injury_or_poisoning
+measures	result_of
+-1
+-5.83168888092041
+___
+molecular_biology_research_technique	cell_or_molecular_dysfunction	injury_or_poisoning
+measures	_complicates
+-1
+-5.851580619812012
+___
+molecular_biology_research_technique	chemical_viewed_structurally	biomedical_occupation_or_discipline
+measures	issue_in
+-1
+-5.8560545444488525
+___
+molecular_biology_research_technique	organ_or_tissue_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.865704774856567
+___
+molecular_biology_research_technique	disease_or_syndrome	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.876264810562134
+___
+molecular_biology_research_technique	disease_or_syndrome	therapeutic_or_preventive_procedure
+associated_with	_complicates
+-1
+-5.88032853603363
+___
+molecular_biology_research_technique	genetic_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.881727457046509
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	injury_or_poisoning
+associated_with	_complicates
+-1
+-5.901891589164734
+___
+molecular_biology_research_technique	body_substance	amino_acid_peptide_or_protein
+measures	consists_of
+1
+-5.923805236816406
+___
+molecular_biology_research_technique	organism_attribute	phenomenon_or_process
+measures	result_of
+-1
+-5.959920406341553
+___
+molecular_biology_research_technique	organism_attribute	human_caused_phenomenon_or_process
+measures	result_of
+-1
+-5.959920406341553
+___
+molecular_biology_research_technique	organism_attribute	environmental_effect_of_humans
+measures	result_of
+-1
+-5.959920406341553
+___
+molecular_biology_research_technique	organism_attribute	injury_or_poisoning
+measures	result_of
+-1
+-5.959920406341553
+___
+molecular_biology_research_technique	congenital_abnormality	injury_or_poisoning
+associated_with	_complicates
+-1
+-5.992388844490051
+___
+molecular_biology_research_technique	congenital_abnormality	anatomical_abnormality
+associated_with	_complicates
+-1
+-5.992388844490051
+___
+molecular_biology_research_technique	congenital_abnormality	acquired_abnormality
+associated_with	_complicates
+-1
+-5.992388844490051
+___
+molecular_biology_research_technique	antibiotic	injury_or_poisoning
+measures	complicates
+-1
+-5.9984331130981445
+___
+molecular_biology_research_technique	antibiotic	congenital_abnormality
+measures	complicates
+-1
+-5.9984331130981445
+___
+molecular_biology_research_technique	injury_or_poisoning	congenital_abnormality
+associated_with	complicates
+-1
+-6.045724868774414
+___
+molecular_biology_research_technique	injury_or_poisoning	anatomical_abnormality
+associated_with	complicates
+-1
+-6.045724868774414
+___
+molecular_biology_research_technique	injury_or_poisoning	acquired_abnormality
+associated_with	complicates
+-1
+-6.045724868774414
+___
+molecular_biology_research_technique	neoplastic_process	injury_or_poisoning
+associated_with	_complicates
+-1
+-6.045903205871582
+___
+molecular_biology_research_technique	neoplastic_process	therapeutic_or_preventive_procedure
+associated_with	_complicates
+-1
+-6.045903205871582
+___
+molecular_biology_research_technique	pathologic_function	acquired_abnormality
+associated_with	complicates
+-1
+-6.098628997802734
+___
+molecular_biology_research_technique	pathologic_function	congenital_abnormality
+associated_with	complicates
+-1
+-6.098628997802734
+___
+molecular_biology_research_technique	organic_chemical	cell
+measures	_produces
+-1
+-6.107540607452393
+___
+molecular_biology_research_technique	organic_chemical	fully_formed_anatomical_structure
+measures	_produces
+-1
+-6.107540607452393
+___
+molecular_biology_research_technique	organic_chemical	gene_or_genome
+measures	_produces
+-1
+-6.107540607452393
+___
+molecular_biology_research_technique	organic_chemical	cell_component
+measures	_produces
+-1
+-6.107540607452393
+___
+molecular_biology_research_technique	neuroreactive_substance_or_biogenic_amine	fully_formed_anatomical_structure
+measures	_produces
+-1
+-6.140817880630493
+___
+molecular_biology_research_technique	neuroreactive_substance_or_biogenic_amine	cell_component
+measures	_produces
+-1
+-6.140817880630493
+___
+molecular_biology_research_technique	neuroreactive_substance_or_biogenic_amine	gene_or_genome
+measures	_produces
+-1
+-6.140817880630493
+___
+molecular_biology_research_technique	neuroreactive_substance_or_biogenic_amine	cell
+measures	_produces
+-1
+-6.140817880630493
+___
+molecular_biology_research_technique	hazardous_or_poisonous_substance	injury_or_poisoning
+measures	complicates
+-1
+-6.154026746749878
+___
+molecular_biology_research_technique	hazardous_or_poisonous_substance	acquired_abnormality
+measures	complicates
+-1
+-6.154026746749878
+___
+molecular_biology_research_technique	cell_or_molecular_dysfunction	acquired_abnormality
+associated_with	complicates
+-1
+-6.155284643173218
+___
+molecular_biology_research_technique	cell_or_molecular_dysfunction	congenital_abnormality
+associated_with	complicates
+-1
+-6.155284643173218
+___
+molecular_biology_research_technique	cell_or_molecular_dysfunction	anatomical_abnormality
+associated_with	complicates
+-1
+-6.155284643173218
+___
+molecular_biology_research_technique	carbohydrate	cell
+measures	_produces
+-1
+-6.171225547790527
+___
+molecular_biology_research_technique	carbohydrate	body_part_organ_or_organ_component
+measures	_produces
+-1
+-6.171225547790527
+___
+molecular_biology_research_technique	carbohydrate	gene_or_genome
+measures	_produces
+-1
+-6.171225547790527
+___
+molecular_biology_research_technique	carbohydrate	cell_component
+measures	_produces
+-1
+-6.171225547790527
+___
+molecular_biology_research_technique	carbohydrate	tissue
+measures	_produces
+-1
+-6.171225547790527
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	injury_or_poisoning
+measures	manifestation_of
+-1
+-6.214402675628662
+___
+molecular_biology_research_technique	lipid	gene_or_genome
+measures	_produces
+-1
+-6.2190022468566895
+___
+molecular_biology_research_technique	lipid	fully_formed_anatomical_structure
+measures	_produces
+-1
+-6.2190022468566895
+___
+#####################
+molecular_biology_research_technique	eicosanoid
+Reward:1
+molecular_biology_research_technique	acquired_abnormality	congenital_abnormality
+associated_with	_co-occurs_with
+-1
+-4.096247352659702
+___
+molecular_biology_research_technique	inorganic_chemical	eicosanoid
+measures	_interacts_with
+1
+-4.263307183980942
+___
+molecular_biology_research_technique	chemical	eicosanoid
+measures	_interacts_with
+1
+-4.571152031421661
+___
+molecular_biology_research_technique	hazardous_or_poisonous_substance	eicosanoid
+measures	_interacts_with
+1
+-4.58501935005188
+___
+molecular_biology_research_technique	chemical_viewed_structurally	eicosanoid
+measures	_isa
+1
+-4.5885730385780334
+___
+molecular_biology_research_technique	temporal_concept	occupation_or_discipline
+measures	issue_in
+-1
+-4.788172483444214
+___
+molecular_biology_research_technique	temporal_concept	biomedical_occupation_or_discipline
+measures	issue_in
+-1
+-4.788172483444214
+___
+molecular_biology_research_technique	antibiotic	eicosanoid
+measures	_interacts_with
+1
+-4.867293357849121
+___
+molecular_biology_research_technique	chemical	eicosanoid
+measures	_isa
+1
+-4.928901195526123
+___
+molecular_biology_research_technique	experimental_model_of_disease	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-4.9614280462265015
+___
+molecular_biology_research_technique	disease_or_syndrome	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-5.035697817802429
+___
+molecular_biology_research_technique	anatomical_abnormality	acquired_abnormality
+associated_with	_co-occurs_with
+-1
+-5.040261745452881
+___
+molecular_biology_research_technique	anatomical_abnormality	congenital_abnormality
+associated_with	_co-occurs_with
+-1
+-5.040261745452881
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-5.061694145202637
+___
+molecular_biology_research_technique	vitamin	eicosanoid
+measures	_interacts_with
+1
+-5.105218172073364
+___
+molecular_biology_research_technique	chemical_viewed_structurally	eicosanoid
+measures	interacts_with
+1
+-5.115954399108887
+___
+molecular_biology_research_technique	neuroreactive_substance_or_biogenic_amine	eicosanoid
+measures	_interacts_with
+1
+-5.173306345939636
+___
+molecular_biology_research_technique	hormone	eicosanoid
+measures	_interacts_with
+1
+-5.199727773666382
+___
+molecular_biology_research_technique	neoplastic_process	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-5.201950192451477
+___
+molecular_biology_research_technique	biologically_active_substance	eicosanoid
+measures	_interacts_with
+1
+-5.264459729194641
+___
+molecular_biology_research_technique	enzyme	eicosanoid
+measures	_interacts_with
+1
+-5.28690230846405
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	eicosanoid
+measures	interacts_with
+1
+-5.30155336856842
+___
+molecular_biology_research_technique	indicator_reagent_or_diagnostic_aid	biomedical_occupation_or_discipline
+measures	issue_in
+-1
+-5.378232717514038
+___
+molecular_biology_research_technique	indicator_reagent_or_diagnostic_aid	occupation_or_discipline
+measures	issue_in
+-1
+-5.378232717514038
+___
+molecular_biology_research_technique	immunologic_factor	eicosanoid
+measures	_interacts_with
+1
+-5.381734132766724
+___
+molecular_biology_research_technique	anatomical_abnormality	congenital_abnormality
+associated_with	_isa
+-1
+-5.399719715118408
+___
+molecular_biology_research_technique	body_substance	body_part_organ_or_organ_component
+measures	_consists_of
+-1
+-5.488319635391235
+___
+molecular_biology_research_technique	organophosphorus_compound	eicosanoid
+measures	interacts_with
+1
+-5.4936888217926025
+___
+molecular_biology_research_technique	mental_process	age_group
+affects	produces
+-1
+-5.526022434234619
+___
+molecular_biology_research_technique	mental_process	family_group
+affects	produces
+-1
+-5.526022434234619
+___
+molecular_biology_research_technique	pathologic_function	injury_or_poisoning
+associated_with	_complicates
+-1
+-5.551084995269775
+___
+molecular_biology_research_technique	carbohydrate	eicosanoid
+measures	interacts_with
+1
+-5.561417102813721
+___
+molecular_biology_research_technique	organic_chemical	fully_formed_anatomical_structure
+measures	_produces
+-1
+-5.586284875869751
+___
+molecular_biology_research_technique	organic_chemical	cell_component
+measures	_produces
+-1
+-5.586284875869751
+___
+molecular_biology_research_technique	organic_chemical	gene_or_genome
+measures	_produces
+-1
+-5.586284875869751
+___
+molecular_biology_research_technique	organic_chemical	cell
+measures	_produces
+-1
+-5.586284875869751
+___
+molecular_biology_research_technique	cell_or_molecular_dysfunction	injury_or_poisoning
+associated_with	_complicates
+-1
+-5.60856568813324
+___
+molecular_biology_research_technique	lipid	eicosanoid
+measures	interacts_with
+1
+-5.620886325836182
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	cell
+measures	_produces
+-1
+-5.68654203414917
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	fully_formed_anatomical_structure
+measures	_produces
+-1
+-5.68654203414917
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	body_part_organ_or_organ_component
+measures	_produces
+-1
+-5.68654203414917
+___
+molecular_biology_research_technique	quantitative_concept	spatial_concept
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	geographic_area
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	amino_acid_sequence
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	body_space_or_junction
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	nucleotide_sequence
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	carbohydrate_sequence
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	physiologic_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.722776889801025
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	injury_or_poisoning
+measures	_complicates
+-1
+-5.760996341705322
+___
+molecular_biology_research_technique	biologic_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.797513723373413
+___
+molecular_biology_research_technique	experimental_model_of_disease	therapeutic_or_preventive_procedure
+associated_with	_complicates
+-1
+-5.801625370979309
+___
+molecular_biology_research_technique	therapeutic_or_preventive_procedure	diagnostic_procedure
+method_of	_precedes
+-1
+-5.80766099691391
+___
+molecular_biology_research_technique	pathologic_function	injury_or_poisoning
+measures	_complicates
+-1
+-5.817039728164673
+___
+molecular_biology_research_technique	clinical_attribute	phenomenon_or_process
+measures	result_of
+-1
+-5.83168888092041
+___
+molecular_biology_research_technique	clinical_attribute	environmental_effect_of_humans
+measures	result_of
+-1
+-5.83168888092041
+___
+molecular_biology_research_technique	clinical_attribute	injury_or_poisoning
+measures	result_of
+-1
+-5.83168888092041
+___
+molecular_biology_research_technique	steroid	tissue
+measures	_produces
+-1
+-5.842753887176514
+___
+molecular_biology_research_technique	steroid	body_part_organ_or_organ_component
+measures	_produces
+-1
+-5.842753887176514
+___
+molecular_biology_research_technique	steroid	cell_component
+measures	_produces
+-1
+-5.842753887176514
+___
+molecular_biology_research_technique	steroid	fully_formed_anatomical_structure
+measures	_produces
+-1
+-5.842753887176514
+___
+molecular_biology_research_technique	steroid	gene_or_genome
+measures	_produces
+-1
+-5.842753887176514
+___
+molecular_biology_research_technique	steroid	cell
+measures	_produces
+-1
+-5.842753887176514
+___
+molecular_biology_research_technique	cell_or_molecular_dysfunction	injury_or_poisoning
+measures	_complicates
+-1
+-5.854145050048828
+___
+molecular_biology_research_technique	organ_or_tissue_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.865704774856567
+___
+molecular_biology_research_technique	disease_or_syndrome	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.865765810012817
+___
+molecular_biology_research_technique	disease_or_syndrome	therapeutic_or_preventive_procedure
+associated_with	_complicates
+-1
+-5.875895142555237
+___
+molecular_biology_research_technique	organophosphorus_compound	body_part_organ_or_organ_component
+measures	_produces
+-1
+-5.878677606582642
+___
+molecular_biology_research_technique	organophosphorus_compound	cell_component
+measures	_produces
+-1
+-5.878677606582642
+___
+molecular_biology_research_technique	organophosphorus_compound	gene_or_genome
+measures	_produces
+-1
+-5.878677606582642
+___
+molecular_biology_research_technique	organophosphorus_compound	cell
+measures	_produces
+-1
+-5.878677606582642
+___
+molecular_biology_research_technique	organophosphorus_compound	fully_formed_anatomical_structure
+measures	_produces
+-1
+-5.878677606582642
+___
+molecular_biology_research_technique	genetic_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.881727457046509
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	injury_or_poisoning
+associated_with	_complicates
+-1
+-5.901891469955444
+___
+molecular_biology_research_technique	body_substance	eicosanoid
+measures	consists_of
+1
+-5.923805236816406
+___
+molecular_biology_research_technique	carbohydrate	cell
+measures	_produces
+-1
+-5.94640588760376
+___
+molecular_biology_research_technique	carbohydrate	body_part_organ_or_organ_component
+measures	_produces
+-1
+-5.94640588760376
+___
+molecular_biology_research_technique	carbohydrate	tissue
+measures	_produces
+-1
+-5.94640588760376
+___
+molecular_biology_research_technique	carbohydrate	cell_component
+measures	_produces
+-1
+-5.94640588760376
+___
+molecular_biology_research_technique	carbohydrate	gene_or_genome
+measures	_produces
+-1
+-5.94640588760376
+___
+molecular_biology_research_technique	organism_attribute	environmental_effect_of_humans
+measures	result_of
+-1
+-5.959920406341553
+___
+molecular_biology_research_technique	organism_attribute	injury_or_poisoning
+measures	result_of
+-1
+-5.959920406341553
+___
+molecular_biology_research_technique	organism_attribute	phenomenon_or_process
+measures	result_of
+-1
+-5.959920406341553
+___
+molecular_biology_research_technique	organism_attribute	human_caused_phenomenon_or_process
+measures	result_of
+-1
+-5.959920406341553
+___
+molecular_biology_research_technique	congenital_abnormality	anatomical_abnormality
+associated_with	_complicates
+-1
+-5.992388844490051
+___
+molecular_biology_research_technique	congenital_abnormality	injury_or_poisoning
+associated_with	_complicates
+-1
+-5.992388844490051
+___
+molecular_biology_research_technique	congenital_abnormality	acquired_abnormality
+associated_with	_complicates
+-1
+-5.992388844490051
+___
+molecular_biology_research_technique	lipid	tissue
+measures	_produces
+-1
+-6.005875110626221
+___
+molecular_biology_research_technique	lipid	gene_or_genome
+measures	_produces
+-1
+-6.005875110626221
+___
+molecular_biology_research_technique	lipid	cell
+measures	_produces
+-1
+-6.005875110626221
+___
+molecular_biology_research_technique	lipid	cell_component
+measures	_produces
+-1
+-6.005875110626221
+___
+molecular_biology_research_technique	lipid	body_part_organ_or_organ_component
+measures	_produces
+-1
+-6.005875110626221
+___
+molecular_biology_research_technique	lipid	fully_formed_anatomical_structure
+measures	_produces
+-1
+-6.005875110626221
+___
+molecular_biology_research_technique	neoplastic_process	injury_or_poisoning
+associated_with	_complicates
+-1
+-6.042147636413574
+___
+molecular_biology_research_technique	neoplastic_process	therapeutic_or_preventive_procedure
+associated_with	_complicates
+-1
+-6.042147636413574
+___
+molecular_biology_research_technique	injury_or_poisoning	congenital_abnormality
+associated_with	complicates
+-1
+-6.045724868774414
+___
+molecular_biology_research_technique	injury_or_poisoning	anatomical_abnormality
+associated_with	complicates
+-1
+-6.045724868774414
+___
+molecular_biology_research_technique	injury_or_poisoning	acquired_abnormality
+associated_with	complicates
+-1
+-6.045724868774414
+___
+molecular_biology_research_technique	pathologic_function	congenital_abnormality
+associated_with	complicates
+-1
+-6.098204851150513
+___
+molecular_biology_research_technique	pathologic_function	acquired_abnormality
+associated_with	complicates
+-1
+-6.098204851150513
+___
+molecular_biology_research_technique	indicator_reagent_or_diagnostic_aid	laboratory_procedure
+measures	_analyzes
+-1
+-6.133699655532837
+___
+#####################
+molecular_biology_research_technique	natural_phenomenon_or_process
+Reward:1
+molecular_biology_research_technique	acquired_abnormality	congenital_abnormality
+associated_with	_co-occurs_with
+-1
+-4.097242847084999
+___
+molecular_biology_research_technique	inorganic_chemical	natural_phenomenon_or_process
+measures	affects
+1
+-4.099950432777405
+___
+molecular_biology_research_technique	hazardous_or_poisonous_substance	natural_phenomenon_or_process
+measures	affects
+1
+-4.327200621366501
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	natural_phenomenon_or_process
+measures	affects
+1
+-4.412864446640015
+___
+molecular_biology_research_technique	organophosphorus_compound	natural_phenomenon_or_process
+measures	affects
+1
+-4.527433931827545
+___
+molecular_biology_research_technique	pathologic_function	natural_phenomenon_or_process
+associated_with	_process_of
+1
+-4.538365185260773
+___
+molecular_biology_research_technique	carbohydrate	natural_phenomenon_or_process
+measures	affects
+1
+-4.56991320848465
+___
+molecular_biology_research_technique	lipid	natural_phenomenon_or_process
+measures	affects
+1
+-4.608089447021484
+___
+molecular_biology_research_technique	steroid	natural_phenomenon_or_process
+measures	affects
+1
+-4.618662357330322
+___
+molecular_biology_research_technique	pharmacologic_substance	natural_phenomenon_or_process
+measures	affects
+1
+-4.625984072685242
+___
+molecular_biology_research_technique	experimental_model_of_disease	natural_phenomenon_or_process
+associated_with	_process_of
+1
+-4.6506786942481995
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	natural_phenomenon_or_process
+associated_with	_process_of
+1
+-4.6934274435043335
+___
+molecular_biology_research_technique	neoplastic_process	natural_phenomenon_or_process
+associated_with	_process_of
+1
+-4.761260688304901
+___
+molecular_biology_research_technique	temporal_concept	occupation_or_discipline
+measures	issue_in
+-1
+-4.788172483444214
+___
+molecular_biology_research_technique	temporal_concept	biomedical_occupation_or_discipline
+measures	issue_in
+-1
+-4.788172483444214
+___
+molecular_biology_research_technique	neuroreactive_substance_or_biogenic_amine	natural_phenomenon_or_process
+measures	affects
+1
+-4.792079329490662
+___
+molecular_biology_research_technique	hormone	natural_phenomenon_or_process
+measures	affects
+1
+-4.814215183258057
+___
+molecular_biology_research_technique	biologically_active_substance	natural_phenomenon_or_process
+measures	affects
+1
+-4.868841767311096
+___
+molecular_biology_research_technique	enzyme	natural_phenomenon_or_process
+measures	affects
+1
+-4.887908101081848
+___
+molecular_biology_research_technique	physiologic_function	natural_phenomenon_or_process
+measures	_process_of
+1
+-4.960218667984009
+___
+molecular_biology_research_technique	cell_function	natural_phenomenon_or_process
+measures	_process_of
+1
+-4.960745573043823
+___
+molecular_biology_research_technique	immunologic_factor	natural_phenomenon_or_process
+measures	affects
+1
+-4.96916651725769
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	natural_phenomenon_or_process
+measures	_process_of
+1
+-4.9703816175460815
+___
+molecular_biology_research_technique	pathologic_function	natural_phenomenon_or_process
+measures	_process_of
+1
+-5.023340344429016
+___
+molecular_biology_research_technique	anatomical_abnormality	congenital_abnormality
+associated_with	_co-occurs_with
+-1
+-5.0402867794036865
+___
+molecular_biology_research_technique	anatomical_abnormality	acquired_abnormality
+associated_with	_co-occurs_with
+-1
+-5.0402867794036865
+___
+molecular_biology_research_technique	disease_or_syndrome	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-5.041246771812439
+___
+molecular_biology_research_technique	biologic_function	natural_phenomenon_or_process
+measures	_process_of
+1
+-5.044678211212158
+___
+molecular_biology_research_technique	organ_or_tissue_function	natural_phenomenon_or_process
+measures	_process_of
+1
+-5.066487431526184
+___
+molecular_biology_research_technique	genetic_function	natural_phenomenon_or_process
+measures	_process_of
+1
+-5.094373106956482
+___
+molecular_biology_research_technique	chemical_viewed_structurally	biomedical_occupation_or_discipline
+measures	issue_in
+-1
+-5.121384024620056
+___
+molecular_biology_research_technique	chemical	occupation_or_discipline
+measures	issue_in
+-1
+-5.166755318641663
+___
+molecular_biology_research_technique	body_substance	body_part_organ_or_organ_component
+measures	_consists_of
+-1
+-5.356753587722778
+___
+molecular_biology_research_technique	indicator_reagent_or_diagnostic_aid	biomedical_occupation_or_discipline
+measures	issue_in
+-1
+-5.378232717514038
+___
+molecular_biology_research_technique	indicator_reagent_or_diagnostic_aid	occupation_or_discipline
+measures	issue_in
+-1
+-5.378232717514038
+___
+molecular_biology_research_technique	anatomical_abnormality	congenital_abnormality
+associated_with	_isa
+-1
+-5.399744749069214
+___
+molecular_biology_research_technique	organic_chemical	cell_component
+measures	_produces
+-1
+-5.586284875869751
+___
+molecular_biology_research_technique	organic_chemical	fully_formed_anatomical_structure
+measures	_produces
+-1
+-5.586284875869751
+___
+molecular_biology_research_technique	organic_chemical	cell
+measures	_produces
+-1
+-5.586284875869751
+___
+molecular_biology_research_technique	organic_chemical	gene_or_genome
+measures	_produces
+-1
+-5.586284875869751
+___
+molecular_biology_research_technique	mental_process	age_group
+affects	produces
+-1
+-5.587784290313721
+___
+molecular_biology_research_technique	mental_process	family_group
+affects	produces
+-1
+-5.587784290313721
+___
+molecular_biology_research_technique	cell_or_molecular_dysfunction	injury_or_poisoning
+associated_with	_complicates
+-1
+-5.609348177909851
+___
+molecular_biology_research_technique	quantitative_concept	spatial_concept
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	geographic_area
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	carbohydrate_sequence
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	amino_acid_sequence
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	nucleotide_sequence
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	body_space_or_junction
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	experimental_model_of_disease	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-5.739336252212524
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-5.782085061073303
+___
+molecular_biology_research_technique	therapeutic_or_preventive_procedure	diagnostic_procedure
+method_of	_precedes
+-1
+-5.80766099691391
+___
+molecular_biology_research_technique	neoplastic_process	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-5.849918365478516
+___
+molecular_biology_research_technique	cell_or_molecular_dysfunction	injury_or_poisoning
+measures	_complicates
+-1
+-5.867812871932983
+___
+molecular_biology_research_technique	chemical_viewed_structurally	diagnostic_procedure
+measures	_analyzes
+-1
+-5.8768510818481445
+___
+molecular_biology_research_technique	disease_or_syndrome	therapeutic_or_preventive_procedure
+associated_with	_complicates
+-1
+-5.881444096565247
+___
+molecular_biology_research_technique	disease_or_syndrome	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.921884536743164
+___
+molecular_biology_research_technique	chemical	diagnostic_procedure
+measures	_analyzes
+-1
+-5.922222137451172
+___
+molecular_biology_research_technique	chemical	laboratory_procedure
+measures	_analyzes
+-1
+-5.922222137451172
+___
+molecular_biology_research_technique	chemical	clinical_drug
+measures	ingredient_of
+-1
+-5.941452980041504
+___
+molecular_biology_research_technique	clinical_attribute	environmental_effect_of_humans
+measures	result_of
+-1
+-5.95847487449646
+___
+molecular_biology_research_technique	clinical_attribute	natural_phenomenon_or_process
+measures	result_of
+1
+-5.95847487449646
+___
+molecular_biology_research_technique	clinical_attribute	injury_or_poisoning
+measures	result_of
+-1
+-5.95847487449646
+___
+molecular_biology_research_technique	clinical_attribute	phenomenon_or_process
+measures	result_of
+-1
+-5.95847487449646
+___
+molecular_biology_research_technique	congenital_abnormality	anatomical_abnormality
+associated_with	_complicates
+-1
+-5.993209481239319
+___
+molecular_biology_research_technique	congenital_abnormality	injury_or_poisoning
+associated_with	_complicates
+-1
+-5.993209481239319
+___
+molecular_biology_research_technique	congenital_abnormality	acquired_abnormality
+associated_with	_complicates
+-1
+-5.993209481239319
+___
+molecular_biology_research_technique	antibiotic	congenital_abnormality
+measures	complicates
+-1
+-5.9984331130981445
+___
+molecular_biology_research_technique	antibiotic	injury_or_poisoning
+measures	complicates
+-1
+-5.9984331130981445
+___
+molecular_biology_research_technique	vitamin	fully_formed_anatomical_structure
+measures	_produces
+-1
+-6.047515153884888
+___
+molecular_biology_research_technique	vitamin	tissue
+measures	_produces
+-1
+-6.047515153884888
+___
+molecular_biology_research_technique	vitamin	cell_component
+measures	_produces
+-1
+-6.047515153884888
+___
+molecular_biology_research_technique	injury_or_poisoning	congenital_abnormality
+associated_with	complicates
+-1
+-6.066395044326782
+___
+molecular_biology_research_technique	injury_or_poisoning	acquired_abnormality
+associated_with	complicates
+-1
+-6.066395044326782
+___
+molecular_biology_research_technique	injury_or_poisoning	anatomical_abnormality
+associated_with	complicates
+-1
+-6.066395044326782
+___
+molecular_biology_research_technique	organism_attribute	environmental_effect_of_humans
+measures	result_of
+-1
+-6.072271823883057
+___
+molecular_biology_research_technique	organism_attribute	injury_or_poisoning
+measures	result_of
+-1
+-6.072271823883057
+___
+molecular_biology_research_technique	organism_attribute	phenomenon_or_process
+measures	result_of
+-1
+-6.072271823883057
+___
+molecular_biology_research_technique	organism_attribute	natural_phenomenon_or_process
+measures	result_of
+1
+-6.072271823883057
+___
+molecular_biology_research_technique	organism_attribute	human_caused_phenomenon_or_process
+measures	result_of
+-1
+-6.072271823883057
+___
+molecular_biology_research_technique	chemical_viewed_structurally	laboratory_or_test_result
+measures	_measurement_of
+-1
+-6.11069393157959
+___
+molecular_biology_research_technique	indicator_reagent_or_diagnostic_aid	laboratory_procedure
+measures	_analyzes
+-1
+-6.133699655532837
+___
+molecular_biology_research_technique	physiologic_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-6.1509106159210205
+___
+molecular_biology_research_technique	indicator_reagent_or_diagnostic_aid	clinical_drug
+measures	ingredient_of
+-1
+-6.152930498123169
+___
+molecular_biology_research_technique	cell_or_molecular_dysfunction	congenital_abnormality
+associated_with	complicates
+-1
+-6.156467914581299
+___
+molecular_biology_research_technique	cell_or_molecular_dysfunction	acquired_abnormality
+associated_with	complicates
+-1
+-6.156467914581299
+___
+molecular_biology_research_technique	cell_or_molecular_dysfunction	anatomical_abnormality
+associated_with	complicates
+-1
+-6.156467914581299
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	injury_or_poisoning
+measures	_complicates
+-1
+-6.161073684692383
+___
+molecular_biology_research_technique	pathologic_function	injury_or_poisoning
+measures	_complicates
+-1
+-6.214032173156738
+___
+molecular_biology_research_technique	biologic_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-6.23537015914917
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	fully_formed_anatomical_structure
+measures	_produces
+-1
+-6.243335008621216
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	cell
+measures	_produces
+-1
+-6.243335008621216
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	body_part_organ_or_organ_component
+measures	_produces
+-1
+-6.243335008621216
+___
+molecular_biology_research_technique	organ_or_tissue_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-6.257179260253906
+___
+molecular_biology_research_technique	genetic_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-6.285065174102783
+___
+molecular_biology_research_technique	vitamin	acquired_abnormality
+measures	complicates
+-1
+-6.346403360366821
+___
+molecular_biology_research_technique	vitamin	anatomical_abnormality
+measures	complicates
+-1
+-6.346403360366821
+___
+molecular_biology_research_technique	vitamin	injury_or_poisoning
+measures	complicates
+-1
+-6.346403360366821
+___
+molecular_biology_research_technique	clinical_attribute	behavior
+measures	_associated_with
+-1
+-6.348729610443115
+___
+molecular_biology_research_technique	clinical_attribute	social_behavior
+measures	_associated_with
+-1
+-6.348729610443115
+___
+#####################
+diagnostic_procedure	cell_function
+Reward:1
+diagnostic_procedure	chemical_viewed_structurally	cell_function
+analyzes	affects
+1
+-3.9178696498274803
+___
+diagnostic_procedure	chemical	cell_function
+analyzes	affects
+1
+-3.9283662661910057
+___
+diagnostic_procedure	biomedical_or_dental_material	cell_function
+analyzes	affects
+1
+-3.93031944334507
+___
+diagnostic_procedure	chemical_viewed_functionally	cell_function
+analyzes	affects
+1
+-3.932906284928322
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	cell_function
+analyzes	affects
+1
+-4.1385805904865265
+___
+diagnostic_procedure	organic_chemical	cell_function
+analyzes	affects
+1
+-4.187435001134872
+___
+diagnostic_procedure	organophosphorus_compound	cell_function
+analyzes	affects
+1
+-4.214870899915695
+___
+diagnostic_procedure	carbohydrate	cell_function
+analyzes	affects
+1
+-4.236257404088974
+___
+diagnostic_procedure	lipid	cell_function
+analyzes	affects
+1
+-4.2742321491241455
+___
+diagnostic_procedure	steroid	cell_function
+analyzes	affects
+1
+-4.281444251537323
+___
+diagnostic_procedure	amino_acid_peptide_or_protein	cell_function
+analyzes	affects
+1
+-4.281730592250824
+___
+diagnostic_procedure	eicosanoid	cell_function
+analyzes	affects
+1
+-4.291753202676773
+___
+diagnostic_procedure	chemical_viewed_structurally	cell_function
+assesses_effect_of	affects
+1
+-4.430513575673103
+___
+diagnostic_procedure	chemical	cell_function
+assesses_effect_of	affects
+1
+-4.437752738595009
+___
+diagnostic_procedure	chemical_viewed_functionally	cell_function
+assesses_effect_of	affects
+1
+-4.444841638207436
+___
+diagnostic_procedure	vitamin	cell_function
+analyzes	affects
+1
+-4.453910171985626
+___
+diagnostic_procedure	biomedical_or_dental_material	cell_function
+assesses_effect_of	affects
+1
+-4.457638502120972
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	cell_function
+assesses_effect_of	affects
+1
+-4.460951954126358
+___
+diagnostic_procedure	hormone	cell_function
+analyzes	affects
+1
+-4.480782687664032
+___
+diagnostic_procedure	biologically_active_substance	cell_function
+analyzes	affects
+1
+-4.54754364490509
+___
+diagnostic_procedure	enzyme	cell_function
+analyzes	affects
+1
+-4.548876464366913
+___
+diagnostic_procedure	immunologic_factor	cell_function
+analyzes	affects
+1
+-4.650918960571289
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	cell_function
+assesses_effect_of	affects
+1
+-4.683290719985962
+___
+diagnostic_procedure	hazardous_or_poisonous_substance	cell_function
+assesses_effect_of	affects
+1
+-4.722060829401016
+___
+diagnostic_procedure	organic_chemical	cell_function
+assesses_effect_of	affects
+1
+-4.734319239854813
+___
+diagnostic_procedure	carbohydrate	cell_function
+assesses_effect_of	affects
+1
+-4.792996376752853
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	diagnostic_procedure
+precedes	_precedes
+-1
+-4.814212679862976
+___
+diagnostic_procedure	steroid	cell_function
+assesses_effect_of	affects
+1
+-4.834329426288605
+___
+diagnostic_procedure	eicosanoid	cell_function
+assesses_effect_of	affects
+1
+-4.844087600708008
+___
+diagnostic_procedure	amino_acid_peptide_or_protein	cell_function
+assesses_effect_of	affects
+1
+-4.844430983066559
+___
+diagnostic_procedure	pharmacologic_substance	cell_function
+assesses_effect_of	affects
+1
+-4.922790467739105
+___
+diagnostic_procedure	hormone	cell_function
+assesses_effect_of	affects
+1
+-5.03227162361145
+___
+diagnostic_procedure	neuroreactive_substance_or_biogenic_amine	cell_function
+assesses_effect_of	affects
+1
+-5.056328594684601
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	congenital_abnormality
+precedes	_result_of
+-1
+-5.099237322807312
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	acquired_abnormality
+precedes	_result_of
+-1
+-5.099237322807312
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	anatomical_abnormality
+precedes	_result_of
+-1
+-5.099237322807312
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	injury_or_poisoning
+precedes	_result_of
+-1
+-5.099237322807312
+___
+diagnostic_procedure	biologically_active_substance	cell_function
+assesses_effect_of	affects
+1
+-5.107766568660736
+___
+diagnostic_procedure	immunologic_factor	cell_function
+assesses_effect_of	affects
+1
+-5.204526722431183
+___
+diagnostic_procedure	biologic_function	cell_function
+affects	_process_of
+1
+-5.449012294411659
+___
+diagnostic_procedure	organism_function	cell_function
+affects	_precedes
+1
+-5.573938012123108
+___
+diagnostic_procedure	organ_or_tissue_function	cell_function
+affects	_precedes
+1
+-5.590088605880737
+___
+diagnostic_procedure	inorganic_chemical	diagnostic_procedure
+analyzes	_analyzes
+-1
+-5.686344623565674
+___
+diagnostic_procedure	inorganic_chemical	laboratory_procedure
+analyzes	_analyzes
+-1
+-5.686344623565674
+___
+diagnostic_procedure	body_substance	body_part_organ_or_organ_component
+analyzes	_consists_of
+-1
+-5.687193870544434
+___
+diagnostic_procedure	experimental_model_of_disease	cell_function
+affects	_process_of
+1
+-5.6988202929496765
+___
+diagnostic_procedure	disease_or_syndrome	cell_function
+affects	_process_of
+1
+-5.71555882692337
+___
+diagnostic_procedure	mental_or_behavioral_dysfunction	cell_function
+affects	_process_of
+1
+-5.742448329925537
+___
+diagnostic_procedure	element_ion_or_isotope	cell_function
+measures	affects
+1
+-5.92150604724884
+___
+diagnostic_procedure	molecular_function	cell_function
+affects	_precedes
+1
+-5.954054355621338
+___
+diagnostic_procedure	chemical_viewed_structurally	cell_function
+measures	affects
+1
+-5.95964702963829
+___
+diagnostic_procedure	inorganic_chemical	biomedical_occupation_or_discipline
+analyzes	issue_in
+-1
+-5.963338375091553
+___
+diagnostic_procedure	inorganic_chemical	occupation_or_discipline
+analyzes	issue_in
+-1
+-5.963338375091553
+___
+diagnostic_procedure	physiologic_function	cell_function
+affects	_precedes
+1
+-5.965203583240509
+___
+diagnostic_procedure	genetic_function	cell_function
+affects	_precedes
+1
+-5.965551853179932
+___
+diagnostic_procedure	chemical	cell_function
+measures	affects
+1
+-5.967895969748497
+___
+diagnostic_procedure	chemical_viewed_functionally	cell_function
+measures	affects
+1
+-5.976037919521332
+___
+diagnostic_procedure	acquired_abnormality	congenital_abnormality
+diagnoses	_co-occurs_with
+-1
+-5.98961141705513
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	cell_function
+measures	affects
+1
+-6.010586738586426
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	molecular_biology_research_technique
+precedes	_method_of
+-1
+-6.0362653732299805
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	laboratory_procedure
+precedes	_method_of
+-1
+-6.0362653732299805
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	machine_activity
+precedes	_method_of
+-1
+-6.0362653732299805
+___
+diagnostic_procedure	inorganic_chemical	occupation_or_discipline
+assesses_effect_of	issue_in
+-1
+-6.058535933494568
+___
+diagnostic_procedure	inorganic_chemical	biomedical_occupation_or_discipline
+assesses_effect_of	issue_in
+-1
+-6.058535933494568
+___
+diagnostic_procedure	inorganic_chemical	clinical_drug
+analyzes	ingredient_of
+-1
+-6.215410232543945
+___
+diagnostic_procedure	receptor	cell_function
+analyzes	_produces
+1
+-6.285391092300415
+___
+diagnostic_procedure	receptor	tissue
+analyzes	_produces
+-1
+-6.285391092300415
+___
+diagnostic_procedure	receptor	gene_or_genome
+analyzes	_produces
+-1
+-6.285391092300415
+___
+diagnostic_procedure	natural_phenomenon_or_process	cell_function
+measures	_process_of
+1
+-6.31766015291214
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	cell_function
+measures	affects
+1
+-6.345450043678284
+___
+diagnostic_procedure	hazardous_or_poisonous_substance	cell_function
+measures	affects
+1
+-6.3533594608306885
+___
+diagnostic_procedure	organic_chemical	cell_function
+measures	affects
+1
+-6.419585347175598
+___
+diagnostic_procedure	organophosphorus_compound	cell_function
+measures	affects
+1
+-6.460019528865814
+___
+diagnostic_procedure	molecular_function	cell_function
+affects	_co-occurs_with
+1
+-6.470682621002197
+___
+diagnostic_procedure	physiologic_function	cell_function
+affects	_co-occurs_with
+1
+-6.481831789016724
+___
+diagnostic_procedure	genetic_function	cell_function
+affects	_co-occurs_with
+1
+-6.482180118560791
+___
+diagnostic_procedure	carbohydrate	cell_function
+measures	affects
+1
+-6.502498924732208
+___
+diagnostic_procedure	inorganic_chemical	laboratory_or_test_result
+analyzes	_measurement_of
+-1
+-6.5397748947143555
+___
+diagnostic_procedure	lipid	cell_function
+measures	affects
+1
+-6.540675163269043
+___
+diagnostic_procedure	body_substance	cell_function
+analyzes	_produces
+1
+-6.544753074645996
+___
+diagnostic_procedure	body_substance	cell_component
+analyzes	_produces
+-1
+-6.544753074645996
+___
+diagnostic_procedure	body_substance	cell
+analyzes	_produces
+-1
+-6.544753074645996
+___
+diagnostic_procedure	body_substance	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-6.544753074645996
+___
+diagnostic_procedure	steroid	cell_function
+measures	affects
+1
+-6.551248073577881
+___
+diagnostic_procedure	eicosanoid	cell_function
+measures	affects
+1
+-6.567251265048981
+___
+diagnostic_procedure	inorganic_chemical	diagnostic_procedure
+assesses_effect_of	_analyzes
+-1
+-6.5677406787872314
+___
+diagnostic_procedure	inorganic_chemical	laboratory_procedure
+assesses_effect_of	_analyzes
+-1
+-6.5677406787872314
+___
+diagnostic_procedure	antibiotic	sign_or_symptom
+analyzes	treats
+-1
+-6.577038764953613
+___
+diagnostic_procedure	antibiotic	anatomical_abnormality
+analyzes	treats
+-1
+-6.577038764953613
+___
+diagnostic_procedure	antibiotic	injury_or_poisoning
+analyzes	treats
+-1
+-6.577038764953613
+___
+diagnostic_procedure	antibiotic	congenital_abnormality
+analyzes	complicates
+-1
+-6.581771612167358
+___
+diagnostic_procedure	antibiotic	injury_or_poisoning
+analyzes	complicates
+-1
+-6.581771612167358
+___
+diagnostic_procedure	inorganic_chemical	diagnostic_procedure
+analyzes	_assesses_effect_of
+-1
+-6.679409027099609
+___
+diagnostic_procedure	inorganic_chemical	laboratory_procedure
+analyzes	_assesses_effect_of
+-1
+-6.679409027099609
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-6.6970860958099365
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	cell
+analyzes	_produces
+-1
+-6.6970860958099365
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-6.6970860958099365
+___
+diagnostic_procedure	body_substance	cell
+analyzes	_contains
+-1
+-6.724698543548584
+___
+diagnostic_procedure	body_substance	body_part_organ_or_organ_component
+analyzes	_contains
+-1
+-6.724698543548584
+___
+diagnostic_procedure	body_substance	cell_component
+analyzes	_contains
+-1
+-6.724698543548584
+___
+#####################
+molecular_biology_research_technique	molecular_function
+Reward:1
+molecular_biology_research_technique	mental_process	molecular_function
+affects	_precedes
+1
+-3.414049915969372
+___
+molecular_biology_research_technique	chemical_viewed_structurally	molecular_function
+measures	affects
+1
+-4.027061313390732
+___
+molecular_biology_research_technique	chemical	molecular_function
+measures	affects
+1
+-4.035310253500938
+___
+molecular_biology_research_technique	indicator_reagent_or_diagnostic_aid	molecular_function
+measures	affects
+1
+-4.078001022338867
+___
+molecular_biology_research_technique	inorganic_chemical	molecular_function
+measures	affects
+1
+-4.099950432777405
+___
+molecular_biology_research_technique	acquired_abnormality	congenital_abnormality
+associated_with	_co-occurs_with
+-1
+-4.12211337685585
+___
+molecular_biology_research_technique	organic_chemical	molecular_function
+measures	affects
+1
+-4.4869996309280396
+___
+molecular_biology_research_technique	organophosphorus_compound	molecular_function
+measures	affects
+1
+-4.527433812618256
+___
+molecular_biology_research_technique	cell_or_molecular_dysfunction	molecular_function
+associated_with	_process_of
+1
+-4.5557422041893005
+___
+molecular_biology_research_technique	lipid	molecular_function
+measures	affects
+1
+-4.608089447021484
+___
+molecular_biology_research_technique	steroid	molecular_function
+measures	affects
+1
+-4.618662357330322
+___
+molecular_biology_research_technique	antibiotic	molecular_function
+measures	affects
+1
+-4.619192123413086
+___
+molecular_biology_research_technique	pharmacologic_substance	molecular_function
+measures	affects
+1
+-4.6962151527404785
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	molecular_function
+associated_with	_process_of
+1
+-4.696802020072937
+___
+molecular_biology_research_technique	pathologic_function	molecular_function
+associated_with	_process_of
+1
+-4.7235419154167175
+___
+molecular_biology_research_technique	experimental_model_of_disease	molecular_function
+associated_with	_process_of
+1
+-4.80855929851532
+___
+molecular_biology_research_technique	disease_or_syndrome	molecular_function
+associated_with	_process_of
+1
+-4.838161528110504
+___
+molecular_biology_research_technique	vitamin	molecular_function
+measures	affects
+1
+-4.8425129652023315
+___
+molecular_biology_research_technique	neuroreactive_substance_or_biogenic_amine	molecular_function
+measures	affects
+1
+-4.8518770933151245
+___
+molecular_biology_research_technique	hormone	molecular_function
+measures	affects
+1
+-4.872741460800171
+___
+molecular_biology_research_technique	temporal_concept	molecular_function
+measures	_occurs_in
+1
+-4.916067719459534
+___
+molecular_biology_research_technique	neoplastic_process	molecular_function
+associated_with	_process_of
+1
+-4.916672706604004
+___
+molecular_biology_research_technique	enzyme	molecular_function
+measures	affects
+1
+-4.9937849044799805
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	molecular_function
+measures	_process_of
+1
+-5.019251465797424
+___
+molecular_biology_research_technique	anatomical_abnormality	acquired_abnormality
+associated_with	_co-occurs_with
+-1
+-5.050405025482178
+___
+molecular_biology_research_technique	anatomical_abnormality	congenital_abnormality
+associated_with	_co-occurs_with
+-1
+-5.050405025482178
+___
+molecular_biology_research_technique	physiologic_function	molecular_function
+measures	_process_of
+1
+-5.05131995677948
+___
+molecular_biology_research_technique	biologic_function	molecular_function
+measures	_process_of
+1
+-5.05164110660553
+___
+molecular_biology_research_technique	cell_or_molecular_dysfunction	molecular_function
+measures	_process_of
+1
+-5.056960344314575
+___
+molecular_biology_research_technique	immunologic_factor	molecular_function
+measures	affects
+1
+-5.067171692848206
+___
+molecular_biology_research_technique	pathologic_function	molecular_function
+measures	_process_of
+1
+-5.091790676116943
+___
+molecular_biology_research_technique	organ_or_tissue_function	molecular_function
+measures	_process_of
+1
+-5.105920076370239
+___
+molecular_biology_research_technique	disease_or_syndrome	molecular_function
+measures	_process_of
+1
+-5.110954999923706
+___
+molecular_biology_research_technique	organism_attribute	molecular_function
+measures	manifestation_of
+1
+-5.1654462814331055
+___
+molecular_biology_research_technique	genetic_function	molecular_function
+measures	_process_of
+1
+-5.180971384048462
+___
+molecular_biology_research_technique	temporal_concept	biomedical_occupation_or_discipline
+measures	issue_in
+-1
+-5.200222849845886
+___
+molecular_biology_research_technique	temporal_concept	occupation_or_discipline
+measures	issue_in
+-1
+-5.200222849845886
+___
+molecular_biology_research_technique	mental_process	molecular_function
+measures	_process_of
+1
+-5.24307107925415
+___
+molecular_biology_research_technique	anatomical_abnormality	congenital_abnormality
+associated_with	_isa
+-1
+-5.409862995147705
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	body_part_organ_or_organ_component
+measures	_produces
+-1
+-5.425589323043823
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	cell
+measures	_produces
+-1
+-5.425589323043823
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	fully_formed_anatomical_structure
+measures	_produces
+-1
+-5.425589323043823
+___
+molecular_biology_research_technique	body_substance	body_part_organ_or_organ_component
+measures	_consists_of
+-1
+-5.427210807800293
+___
+molecular_biology_research_technique	congenital_abnormality	molecular_function
+associated_with	manifestation_of
+1
+-5.432424068450928
+___
+molecular_biology_research_technique	hazardous_or_poisonous_substance	molecular_function
+measures	complicates
+1
+-5.742306470870972
+___
+molecular_biology_research_technique	hazardous_or_poisonous_substance	injury_or_poisoning
+measures	complicates
+-1
+-5.742306470870972
+___
+molecular_biology_research_technique	hazardous_or_poisonous_substance	acquired_abnormality
+measures	complicates
+-1
+-5.742306470870972
+___
+molecular_biology_research_technique	carbohydrate	body_part_organ_or_organ_component
+measures	_produces
+-1
+-5.751459360122681
+___
+molecular_biology_research_technique	carbohydrate	tissue
+measures	_produces
+-1
+-5.751459360122681
+___
+molecular_biology_research_technique	carbohydrate	cell
+measures	_produces
+-1
+-5.751459360122681
+___
+molecular_biology_research_technique	carbohydrate	gene_or_genome
+measures	_produces
+-1
+-5.751459360122681
+___
+molecular_biology_research_technique	carbohydrate	cell_component
+measures	_produces
+-1
+-5.751459360122681
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-5.785459637641907
+___
+molecular_biology_research_technique	pathologic_function	molecular_function
+associated_with	manifestation_of
+1
+-5.812199592590332
+___
+molecular_biology_research_technique	quantitative_concept	spatial_concept
+measures	measurement_of
+-1
+-5.8415443897247314
+___
+molecular_biology_research_technique	quantitative_concept	molecular_function
+measures	measurement_of
+1
+-5.8415443897247314
+___
+molecular_biology_research_technique	quantitative_concept	nucleotide_sequence
+measures	measurement_of
+-1
+-5.8415443897247314
+___
+molecular_biology_research_technique	quantitative_concept	body_space_or_junction
+measures	measurement_of
+-1
+-5.8415443897247314
+___
+molecular_biology_research_technique	quantitative_concept	amino_acid_sequence
+measures	measurement_of
+-1
+-5.8415443897247314
+___
+molecular_biology_research_technique	quantitative_concept	geographic_area
+measures	measurement_of
+-1
+-5.8415443897247314
+___
+molecular_biology_research_technique	quantitative_concept	carbohydrate_sequence
+measures	measurement_of
+-1
+-5.8415443897247314
+___
+molecular_biology_research_technique	experimental_model_of_disease	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-5.8972169160842896
+___
+molecular_biology_research_technique	experimental_model_of_disease	molecular_function
+associated_with	manifestation_of
+1
+-5.8972169160842896
+___
+molecular_biology_research_technique	disease_or_syndrome	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-5.926819086074829
+___
+molecular_biology_research_technique	disease_or_syndrome	molecular_function
+associated_with	manifestation_of
+1
+-5.926819086074829
+___
+molecular_biology_research_technique	therapeutic_or_preventive_procedure	diagnostic_procedure
+method_of	_precedes
+-1
+-5.987163424491882
+___
+molecular_biology_research_technique	clinical_attribute	phenomenon_or_process
+measures	result_of
+-1
+-5.997751474380493
+___
+molecular_biology_research_technique	clinical_attribute	molecular_function
+measures	result_of
+1
+-5.997751474380493
+___
+molecular_biology_research_technique	clinical_attribute	environmental_effect_of_humans
+measures	result_of
+-1
+-5.997751474380493
+___
+molecular_biology_research_technique	clinical_attribute	injury_or_poisoning
+measures	result_of
+-1
+-5.997751474380493
+___
+molecular_biology_research_technique	neoplastic_process	molecular_function
+associated_with	manifestation_of
+1
+-6.005330324172974
+___
+molecular_biology_research_technique	neoplastic_process	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-6.005330324172974
+___
+molecular_biology_research_technique	injury_or_poisoning	anatomical_abnormality
+associated_with	complicates
+-1
+-6.066395044326782
+___
+molecular_biology_research_technique	injury_or_poisoning	congenital_abnormality
+associated_with	complicates
+-1
+-6.066395044326782
+___
+molecular_biology_research_technique	injury_or_poisoning	acquired_abnormality
+associated_with	complicates
+-1
+-6.066395044326782
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	injury_or_poisoning
+measures	_complicates
+-1
+-6.2099432945251465
+___
+molecular_biology_research_technique	physiologic_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-6.242012023925781
+___
+molecular_biology_research_technique	biologic_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-6.242332935333252
+___
+molecular_biology_research_technique	cell_or_molecular_dysfunction	injury_or_poisoning
+measures	_complicates
+-1
+-6.247652292251587
+___
+molecular_biology_research_technique	congenital_abnormality	acquired_abnormality
+associated_with	_complicates
+-1
+-6.272621393203735
+___
+molecular_biology_research_technique	congenital_abnormality	anatomical_abnormality
+associated_with	_complicates
+-1
+-6.272621393203735
+___
+molecular_biology_research_technique	congenital_abnormality	injury_or_poisoning
+associated_with	_complicates
+-1
+-6.272621393203735
+___
+molecular_biology_research_technique	pathologic_function	injury_or_poisoning
+measures	_complicates
+-1
+-6.282482624053955
+___
+molecular_biology_research_technique	organ_or_tissue_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-6.296612024307251
+___
+molecular_biology_research_technique	disease_or_syndrome	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-6.301646947860718
+___
+molecular_biology_research_technique	organic_chemical	cell
+measures	_produces
+-1
+-6.317470073699951
+___
+molecular_biology_research_technique	organic_chemical	cell_component
+measures	_produces
+-1
+-6.317470073699951
+___
+molecular_biology_research_technique	organic_chemical	fully_formed_anatomical_structure
+measures	_produces
+-1
+-6.317470073699951
+___
+molecular_biology_research_technique	organic_chemical	gene_or_genome
+measures	_produces
+-1
+-6.317470073699951
+___
+molecular_biology_research_technique	organophosphorus_compound	body_part_organ_or_organ_component
+measures	_produces
+-1
+-6.357904434204102
+___
+molecular_biology_research_technique	organophosphorus_compound	gene_or_genome
+measures	_produces
+-1
+-6.357904434204102
+___
+molecular_biology_research_technique	organophosphorus_compound	cell_component
+measures	_produces
+-1
+-6.357904434204102
+___
+molecular_biology_research_technique	organophosphorus_compound	fully_formed_anatomical_structure
+measures	_produces
+-1
+-6.357904434204102
+___
+molecular_biology_research_technique	organophosphorus_compound	cell
+measures	_produces
+-1
+-6.357904434204102
+___
+molecular_biology_research_technique	genetic_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-6.371663331985474
+___
+molecular_biology_research_technique	family_group	population_group
+_performs	_interacts_with
+-1
+-6.387555122375488
+___
+molecular_biology_research_technique	family_group	professional_or_occupational_group
+_performs	_interacts_with
+-1
+-6.387555122375488
+___
+molecular_biology_research_technique	clinical_attribute	congenital_abnormality
+measures	_associated_with
+-1
+-6.388006210327148
+___
+molecular_biology_research_technique	clinical_attribute	individual_behavior
+measures	_associated_with
+-1
+-6.388006210327148
+___
+molecular_biology_research_technique	clinical_attribute	anatomical_abnormality
+measures	_associated_with
+-1
+-6.388006210327148
+___
+#####################
+laboratory_procedure	pharmacologic_substance
+Reward:1
+laboratory_procedure	chemical	pharmacologic_substance
+analyzes	_interacts_with
+1
+-3.8515136912465096
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	pharmacologic_substance
+analyzes	_interacts_with
+1
+-3.8521739672869444
+___
+laboratory_procedure	hazardous_or_poisonous_substance	pharmacologic_substance
+analyzes	_interacts_with
+1
+-3.898448497056961
+___
+laboratory_procedure	element_ion_or_isotope	pharmacologic_substance
+analyzes	interacts_with
+1
+-3.933416686952114
+___
+laboratory_procedure	antibiotic	pharmacologic_substance
+analyzes	_interacts_with
+1
+-3.9508872851729393
+___
+laboratory_procedure	receptor	pharmacologic_substance
+analyzes	_interacts_with
+1
+-3.957100972533226
+___
+laboratory_procedure	biologically_active_substance	pharmacologic_substance
+analyzes	_interacts_with
+1
+-3.981084391474724
+___
+laboratory_procedure	enzyme	pharmacologic_substance
+analyzes	_interacts_with
+1
+-3.987799659371376
+___
+laboratory_procedure	inorganic_chemical	pharmacologic_substance
+analyzes	interacts_with
+1
+-4.009919315576553
+___
+laboratory_procedure	immunologic_factor	pharmacologic_substance
+analyzes	_interacts_with
+1
+-4.015205025672913
+___
+laboratory_procedure	chemical_viewed_functionally	pharmacologic_substance
+analyzes	_isa
+1
+-4.209309786558151
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	pharmacologic_substance
+analyzes	interacts_with
+1
+-4.261855125427246
+___
+laboratory_procedure	organic_chemical	pharmacologic_substance
+analyzes	interacts_with
+1
+-4.324798583984375
+___
+laboratory_procedure	steroid	pharmacologic_substance
+analyzes	interacts_with
+1
+-4.443570673465729
+___
+laboratory_procedure	chemical	pharmacologic_substance
+assesses_effect_of	_interacts_with
+1
+-4.477057635784149
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	pharmacologic_substance
+assesses_effect_of	_interacts_with
+1
+-4.505923315882683
+___
+laboratory_procedure	chemical_viewed_structurally	pharmacologic_substance
+assesses_effect_of	interacts_with
+1
+-4.782729625701904
+___
+laboratory_procedure	chemical_viewed_functionally	pharmacologic_substance
+assesses_effect_of	_isa
+1
+-4.8658260107040405
+___
+laboratory_procedure	inorganic_chemical	pharmacologic_substance
+assesses_effect_of	interacts_with
+1
+-4.933444797992706
+___
+laboratory_procedure	antibiotic	pharmacologic_substance
+assesses_effect_of	_interacts_with
+1
+-4.959584653377533
+___
+laboratory_procedure	receptor	pharmacologic_substance
+assesses_effect_of	_interacts_with
+1
+-5.049992322921753
+___
+laboratory_procedure	vitamin	pharmacologic_substance
+assesses_effect_of	_interacts_with
+1
+-5.084871709346771
+___
+laboratory_procedure	hormone	pharmacologic_substance
+assesses_effect_of	_interacts_with
+1
+-5.125229477882385
+___
+laboratory_procedure	chemical_viewed_functionally	pharmacologic_substance
+analyzes	interacts_with
+1
+-5.14353346824646
+___
+laboratory_procedure	enzyme	pharmacologic_substance
+assesses_effect_of	_interacts_with
+1
+-5.188377380371094
+___
+laboratory_procedure	immunologic_factor	pharmacologic_substance
+assesses_effect_of	_interacts_with
+1
+-5.28235536813736
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	pharmacologic_substance
+assesses_effect_of	interacts_with
+1
+-5.470855116844177
+___
+laboratory_procedure	organic_chemical	pharmacologic_substance
+assesses_effect_of	interacts_with
+1
+-5.581147313117981
+___
+laboratory_procedure	body_substance	body_part_organ_or_organ_component
+analyzes	_consists_of
+-1
+-5.626204967498779
+___
+laboratory_procedure	organophosphorus_compound	pharmacologic_substance
+assesses_effect_of	interacts_with
+1
+-5.641494989395142
+___
+laboratory_procedure	carbohydrate	pharmacologic_substance
+assesses_effect_of	interacts_with
+1
+-5.700578451156616
+___
+laboratory_procedure	chemical_viewed_functionally	pharmacologic_substance
+assesses_effect_of	interacts_with
+1
+-5.703868746757507
+___
+laboratory_procedure	steroid	pharmacologic_substance
+assesses_effect_of	interacts_with
+1
+-5.780645251274109
+___
+laboratory_procedure	amino_acid_peptide_or_protein	pharmacologic_substance
+assesses_effect_of	interacts_with
+1
+-5.799755096435547
+___
+laboratory_procedure	lipid	cell_component
+analyzes	_produces
+-1
+-5.82352602481842
+___
+laboratory_procedure	lipid	gene_or_genome
+analyzes	_produces
+-1
+-5.82352602481842
+___
+laboratory_procedure	lipid	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-5.82352602481842
+___
+laboratory_procedure	lipid	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-5.82352602481842
+___
+laboratory_procedure	lipid	tissue
+analyzes	_produces
+-1
+-5.82352602481842
+___
+laboratory_procedure	lipid	cell
+analyzes	_produces
+-1
+-5.82352602481842
+___
+laboratory_procedure	eicosanoid	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-5.871211051940918
+___
+laboratory_procedure	eicosanoid	cell
+analyzes	_produces
+-1
+-5.871211051940918
+___
+laboratory_procedure	eicosanoid	gene_or_genome
+analyzes	_produces
+-1
+-5.871211051940918
+___
+laboratory_procedure	eicosanoid	cell_component
+analyzes	_produces
+-1
+-5.871211051940918
+___
+laboratory_procedure	eicosanoid	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-5.871211051940918
+___
+laboratory_procedure	eicosanoid	tissue
+analyzes	_produces
+-1
+-5.871211051940918
+___
+laboratory_procedure	anatomical_abnormality	congenital_abnormality
+diagnoses	_isa
+-1
+-5.99896602332592
+___
+laboratory_procedure	chemical	pharmacologic_substance
+measures	_interacts_with
+1
+-6.105339378118515
+___
+laboratory_procedure	mental_or_behavioral_dysfunction	injury_or_poisoning
+assesses_effect_of	_complicates
+-1
+-6.236148238182068
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	body_part_organ_or_organ_component
+assesses_effect_of	_produces
+-1
+-6.296111106872559
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	fully_formed_anatomical_structure
+assesses_effect_of	_produces
+-1
+-6.296111106872559
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	cell
+assesses_effect_of	_produces
+-1
+-6.296111106872559
+___
+laboratory_procedure	element_ion_or_isotope	pharmacologic_substance
+measures	interacts_with
+1
+-6.317517399787903
+___
+laboratory_procedure	lipid	fully_formed_anatomical_structure
+assesses_effect_of	_produces
+-1
+-6.318410277366638
+___
+laboratory_procedure	lipid	body_part_organ_or_organ_component
+assesses_effect_of	_produces
+-1
+-6.318410277366638
+___
+laboratory_procedure	lipid	tissue
+assesses_effect_of	_produces
+-1
+-6.318410277366638
+___
+laboratory_procedure	lipid	cell_component
+assesses_effect_of	_produces
+-1
+-6.318410277366638
+___
+laboratory_procedure	lipid	gene_or_genome
+assesses_effect_of	_produces
+-1
+-6.318410277366638
+___
+laboratory_procedure	lipid	cell
+assesses_effect_of	_produces
+-1
+-6.318410277366638
+___
+laboratory_procedure	eicosanoid	cell
+assesses_effect_of	_produces
+-1
+-6.3643739223480225
+___
+laboratory_procedure	eicosanoid	body_part_organ_or_organ_component
+assesses_effect_of	_produces
+-1
+-6.3643739223480225
+___
+laboratory_procedure	eicosanoid	fully_formed_anatomical_structure
+assesses_effect_of	_produces
+-1
+-6.3643739223480225
+___
+laboratory_procedure	eicosanoid	tissue
+assesses_effect_of	_produces
+-1
+-6.3643739223480225
+___
+laboratory_procedure	eicosanoid	gene_or_genome
+assesses_effect_of	_produces
+-1
+-6.3643739223480225
+___
+laboratory_procedure	eicosanoid	cell_component
+assesses_effect_of	_produces
+-1
+-6.3643739223480225
+___
+laboratory_procedure	organic_chemical	gene_or_genome
+assesses_effect_of	_produces
+-1
+-6.406403303146362
+___
+laboratory_procedure	organic_chemical	cell_component
+assesses_effect_of	_produces
+-1
+-6.406403303146362
+___
+laboratory_procedure	organic_chemical	fully_formed_anatomical_structure
+assesses_effect_of	_produces
+-1
+-6.406403303146362
+___
+laboratory_procedure	organic_chemical	cell
+assesses_effect_of	_produces
+-1
+-6.406403303146362
+___
+laboratory_procedure	biologic_function	therapeutic_or_preventive_procedure
+affects	_complicates
+-1
+-6.411479830741882
+___
+laboratory_procedure	chemical_viewed_structurally	pharmacologic_substance
+measures	interacts_with
+1
+-6.423532724380493
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-6.443754196166992
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	cell
+analyzes	_produces
+-1
+-6.443754196166992
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-6.443754196166992
+___
+laboratory_procedure	cell_function	pharmacologic_substance
+affects	_complicates
+1
+-6.4445483684539795
+___
+laboratory_procedure	biologic_function	therapeutic_or_preventive_procedure
+assesses_effect_of	_complicates
+-1
+-6.456608772277832
+___
+laboratory_procedure	organophosphorus_compound	gene_or_genome
+assesses_effect_of	_produces
+-1
+-6.466750860214233
+___
+laboratory_procedure	organophosphorus_compound	cell
+assesses_effect_of	_produces
+-1
+-6.466750860214233
+___
+laboratory_procedure	organophosphorus_compound	body_part_organ_or_organ_component
+assesses_effect_of	_produces
+-1
+-6.466750860214233
+___
+laboratory_procedure	organophosphorus_compound	cell_component
+assesses_effect_of	_produces
+-1
+-6.466750860214233
+___
+laboratory_procedure	organophosphorus_compound	fully_formed_anatomical_structure
+assesses_effect_of	_produces
+-1
+-6.466750860214233
+___
+laboratory_procedure	molecular_function	pharmacologic_substance
+assesses_effect_of	_complicates
+1
+-6.482042074203491
+___
+laboratory_procedure	molecular_function	therapeutic_or_preventive_procedure
+assesses_effect_of	_complicates
+-1
+-6.482042074203491
+___
+laboratory_procedure	cell_function	pharmacologic_substance
+assesses_effect_of	_complicates
+1
+-6.4823524951934814
+___
+laboratory_procedure	body_substance	cell
+analyzes	_produces
+-1
+-6.483764171600342
+___
+laboratory_procedure	body_substance	cell_component
+analyzes	_produces
+-1
+-6.483764171600342
+___
+laboratory_procedure	body_substance	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-6.483764171600342
+___
+laboratory_procedure	organic_chemical	cell
+analyzes	_produces
+-1
+-6.506697654724121
+___
+laboratory_procedure	organic_chemical	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-6.506697654724121
+___
+laboratory_procedure	organic_chemical	gene_or_genome
+analyzes	_produces
+-1
+-6.506697654724121
+___
+laboratory_procedure	organic_chemical	cell_component
+analyzes	_produces
+-1
+-6.506697654724121
+___
+laboratory_procedure	organism_function	pharmacologic_substance
+assesses_effect_of	_complicates
+1
+-6.524128198623657
+___
+laboratory_procedure	organism_function	therapeutic_or_preventive_procedure
+assesses_effect_of	_complicates
+-1
+-6.524128198623657
+___
+laboratory_procedure	hazardous_or_poisonous_substance	pharmacologic_substance
+measures	_interacts_with
+1
+-6.524775743484497
+___
+laboratory_procedure	carbohydrate	gene_or_genome
+assesses_effect_of	_produces
+-1
+-6.525834321975708
+___
+laboratory_procedure	carbohydrate	cell
+assesses_effect_of	_produces
+-1
+-6.525834321975708
+___
+laboratory_procedure	carbohydrate	tissue
+assesses_effect_of	_produces
+-1
+-6.525834321975708
+___
+laboratory_procedure	carbohydrate	body_part_organ_or_organ_component
+assesses_effect_of	_produces
+-1
+-6.525834321975708
+___
+laboratory_procedure	carbohydrate	cell_component
+assesses_effect_of	_produces
+-1
+-6.525834321975708
+___
+laboratory_procedure	pathologic_function	pharmacologic_substance
+assesses_effect_of	_complicates
+1
+-6.5342137813568115
+___
+#####################
+diagnostic_procedure	pharmacologic_substance
+Reward:1
+diagnostic_procedure	chemical	pharmacologic_substance
+analyzes	_interacts_with
+1
+-3.8443425372242928
+___
+diagnostic_procedure	biomedical_or_dental_material	pharmacologic_substance
+analyzes	_interacts_with
+1
+-3.8447244483977556
+___
+diagnostic_procedure	antibiotic	pharmacologic_substance
+analyzes	_interacts_with
+1
+-3.9437161311507225
+___
+diagnostic_procedure	receptor	pharmacologic_substance
+analyzes	_interacts_with
+1
+-3.949929818511009
+___
+diagnostic_procedure	vitamin	pharmacologic_substance
+analyzes	_interacts_with
+1
+-3.95726777613163
+___
+diagnostic_procedure	chemical_viewed_structurally	pharmacologic_substance
+analyzes	interacts_with
+1
+-3.9576405435800552
+___
+diagnostic_procedure	hormone	pharmacologic_substance
+analyzes	_interacts_with
+1
+-3.965272903442383
+___
+diagnostic_procedure	biologically_active_substance	pharmacologic_substance
+analyzes	_interacts_with
+1
+-3.973913237452507
+___
+diagnostic_procedure	enzyme	pharmacologic_substance
+analyzes	_interacts_with
+1
+-3.9806285053491592
+___
+diagnostic_procedure	inorganic_chemical	pharmacologic_substance
+analyzes	interacts_with
+1
+-4.0027481615543365
+___
+diagnostic_procedure	immunologic_factor	pharmacologic_substance
+analyzes	_interacts_with
+1
+-4.008033871650696
+___
+diagnostic_procedure	chemical_viewed_functionally	pharmacologic_substance
+analyzes	_isa
+1
+-4.2021386325359344
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	pharmacologic_substance
+analyzes	interacts_with
+1
+-4.254683971405029
+___
+diagnostic_procedure	organic_chemical	pharmacologic_substance
+analyzes	interacts_with
+1
+-4.317627429962158
+___
+diagnostic_procedure	organophosphorus_compound	pharmacologic_substance
+analyzes	interacts_with
+1
+-4.352597236633301
+___
+diagnostic_procedure	carbohydrate	pharmacologic_substance
+analyzes	interacts_with
+1
+-4.3796767592430115
+___
+diagnostic_procedure	steroid	pharmacologic_substance
+analyzes	interacts_with
+1
+-4.436399519443512
+___
+diagnostic_procedure	amino_acid_peptide_or_protein	pharmacologic_substance
+analyzes	interacts_with
+1
+-4.43675684928894
+___
+diagnostic_procedure	chemical	pharmacologic_substance
+assesses_effect_of	_interacts_with
+1
+-4.469886481761932
+___
+diagnostic_procedure	biomedical_or_dental_material	pharmacologic_substance
+assesses_effect_of	_interacts_with
+1
+-4.494639426469803
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	pharmacologic_substance
+assesses_effect_of	_interacts_with
+1
+-4.498752161860466
+___
+diagnostic_procedure	hazardous_or_poisonous_substance	pharmacologic_substance
+assesses_effect_of	_interacts_with
+1
+-4.739120841026306
+___
+diagnostic_procedure	chemical_viewed_structurally	pharmacologic_substance
+assesses_effect_of	interacts_with
+1
+-4.7755584716796875
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	diagnostic_procedure
+precedes	_precedes
+-1
+-4.825534820556641
+___
+diagnostic_procedure	chemical_viewed_functionally	pharmacologic_substance
+assesses_effect_of	_isa
+1
+-4.858654856681824
+___
+diagnostic_procedure	inorganic_chemical	pharmacologic_substance
+assesses_effect_of	interacts_with
+1
+-4.9262736439704895
+___
+diagnostic_procedure	antibiotic	pharmacologic_substance
+assesses_effect_of	_interacts_with
+1
+-4.952413499355316
+___
+diagnostic_procedure	receptor	pharmacologic_substance
+assesses_effect_of	_interacts_with
+1
+-5.042821168899536
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	anatomical_abnormality
+precedes	_result_of
+-1
+-5.110559463500977
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	congenital_abnormality
+precedes	_result_of
+-1
+-5.110559463500977
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	acquired_abnormality
+precedes	_result_of
+-1
+-5.110559463500977
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	injury_or_poisoning
+precedes	_result_of
+-1
+-5.110559463500977
+___
+diagnostic_procedure	hormone	pharmacologic_substance
+assesses_effect_of	_interacts_with
+1
+-5.1180583238601685
+___
+diagnostic_procedure	chemical_viewed_functionally	pharmacologic_substance
+analyzes	interacts_with
+1
+-5.136362314224243
+___
+diagnostic_procedure	biologically_active_substance	pharmacologic_substance
+assesses_effect_of	_interacts_with
+1
+-5.157829165458679
+___
+diagnostic_procedure	immunologic_factor	pharmacologic_substance
+assesses_effect_of	_interacts_with
+1
+-5.275184214115143
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	pharmacologic_substance
+assesses_effect_of	interacts_with
+1
+-5.4636839628219604
+___
+diagnostic_procedure	organic_chemical	pharmacologic_substance
+assesses_effect_of	interacts_with
+1
+-5.573976159095764
+___
+diagnostic_procedure	body_substance	body_part_organ_or_organ_component
+analyzes	_consists_of
+-1
+-5.6190338134765625
+___
+diagnostic_procedure	carbohydrate	pharmacologic_substance
+assesses_effect_of	interacts_with
+1
+-5.693407297134399
+___
+diagnostic_procedure	chemical_viewed_functionally	pharmacologic_substance
+assesses_effect_of	interacts_with
+1
+-5.6966975927352905
+___
+diagnostic_procedure	steroid	pharmacologic_substance
+assesses_effect_of	interacts_with
+1
+-5.773474097251892
+___
+diagnostic_procedure	amino_acid_peptide_or_protein	pharmacologic_substance
+assesses_effect_of	interacts_with
+1
+-5.79258394241333
+___
+diagnostic_procedure	lipid	gene_or_genome
+analyzes	_produces
+-1
+-5.816354870796204
+___
+diagnostic_procedure	lipid	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-5.816354870796204
+___
+diagnostic_procedure	lipid	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-5.816354870796204
+___
+diagnostic_procedure	lipid	cell
+analyzes	_produces
+-1
+-5.816354870796204
+___
+diagnostic_procedure	lipid	tissue
+analyzes	_produces
+-1
+-5.816354870796204
+___
+diagnostic_procedure	lipid	cell_component
+analyzes	_produces
+-1
+-5.816354870796204
+___
+diagnostic_procedure	eicosanoid	gene_or_genome
+analyzes	_produces
+-1
+-5.864039897918701
+___
+diagnostic_procedure	eicosanoid	cell_component
+analyzes	_produces
+-1
+-5.864039897918701
+___
+diagnostic_procedure	eicosanoid	tissue
+analyzes	_produces
+-1
+-5.864039897918701
+___
+diagnostic_procedure	eicosanoid	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-5.864039897918701
+___
+diagnostic_procedure	eicosanoid	cell
+analyzes	_produces
+-1
+-5.864039897918701
+___
+diagnostic_procedure	eicosanoid	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-5.864039897918701
+___
+diagnostic_procedure	acquired_abnormality	congenital_abnormality
+diagnoses	_co-occurs_with
+-1
+-5.991629421710968
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	laboratory_procedure
+precedes	_method_of
+-1
+-6.0475873947143555
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	molecular_biology_research_technique
+precedes	_method_of
+-1
+-6.0475873947143555
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	machine_activity
+precedes	_method_of
+-1
+-6.0475873947143555
+___
+diagnostic_procedure	chemical	pharmacologic_substance
+measures	_interacts_with
+1
+-6.098168700933456
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	pharmacologic_substance
+measures	_interacts_with
+1
+-6.163069427013397
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	fully_formed_anatomical_structure
+assesses_effect_of	_produces
+-1
+-6.288939952850342
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	cell
+assesses_effect_of	_produces
+-1
+-6.288939952850342
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	body_part_organ_or_organ_component
+assesses_effect_of	_produces
+-1
+-6.288939952850342
+___
+diagnostic_procedure	element_ion_or_isotope	pharmacologic_substance
+measures	interacts_with
+1
+-6.310346722602844
+___
+diagnostic_procedure	eicosanoid	gene_or_genome
+assesses_effect_of	_produces
+-1
+-6.357202768325806
+___
+diagnostic_procedure	eicosanoid	cell
+assesses_effect_of	_produces
+-1
+-6.357202768325806
+___
+diagnostic_procedure	eicosanoid	tissue
+assesses_effect_of	_produces
+-1
+-6.357202768325806
+___
+diagnostic_procedure	eicosanoid	body_part_organ_or_organ_component
+assesses_effect_of	_produces
+-1
+-6.357202768325806
+___
+diagnostic_procedure	eicosanoid	fully_formed_anatomical_structure
+assesses_effect_of	_produces
+-1
+-6.357202768325806
+___
+diagnostic_procedure	eicosanoid	cell_component
+assesses_effect_of	_produces
+-1
+-6.357202768325806
+___
+diagnostic_procedure	organic_chemical	fully_formed_anatomical_structure
+assesses_effect_of	_produces
+-1
+-6.3992321491241455
+___
+diagnostic_procedure	organic_chemical	cell_component
+assesses_effect_of	_produces
+-1
+-6.3992321491241455
+___
+diagnostic_procedure	organic_chemical	gene_or_genome
+assesses_effect_of	_produces
+-1
+-6.3992321491241455
+___
+diagnostic_procedure	organic_chemical	cell
+assesses_effect_of	_produces
+-1
+-6.3992321491241455
+___
+diagnostic_procedure	biologic_function	therapeutic_or_preventive_procedure
+affects	_complicates
+-1
+-6.404308199882507
+___
+diagnostic_procedure	chemical_viewed_structurally	pharmacologic_substance
+measures	interacts_with
+1
+-6.416362047195435
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-6.436583042144775
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-6.436583042144775
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	cell
+analyzes	_produces
+-1
+-6.436583042144775
+___
+diagnostic_procedure	cell_function	pharmacologic_substance
+affects	_complicates
+1
+-6.4373767375946045
+___
+diagnostic_procedure	body_substance	cell
+analyzes	_produces
+-1
+-6.476593017578125
+___
+diagnostic_procedure	body_substance	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-6.476593017578125
+___
+diagnostic_procedure	body_substance	cell_component
+analyzes	_produces
+-1
+-6.476593017578125
+___
+diagnostic_procedure	organ_or_tissue_function	therapeutic_or_preventive_procedure
+affects	_complicates
+-1
+-6.487232327461243
+___
+diagnostic_procedure	organic_chemical	gene_or_genome
+analyzes	_produces
+-1
+-6.499526500701904
+___
+diagnostic_procedure	organic_chemical	cell_component
+analyzes	_produces
+-1
+-6.499526500701904
+___
+diagnostic_procedure	organic_chemical	cell
+analyzes	_produces
+-1
+-6.499526500701904
+___
+diagnostic_procedure	organic_chemical	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-6.499526500701904
+___
+diagnostic_procedure	hazardous_or_poisonous_substance	pharmacologic_substance
+measures	_interacts_with
+1
+-6.5176050662994385
+___
+diagnostic_procedure	carbohydrate	body_part_organ_or_organ_component
+assesses_effect_of	_produces
+-1
+-6.518663167953491
+___
+diagnostic_procedure	carbohydrate	cell
+assesses_effect_of	_produces
+-1
+-6.518663167953491
+___
+diagnostic_procedure	carbohydrate	tissue
+assesses_effect_of	_produces
+-1
+-6.518663167953491
+___
+diagnostic_procedure	carbohydrate	cell_component
+assesses_effect_of	_produces
+-1
+-6.518663167953491
+___
+diagnostic_procedure	carbohydrate	gene_or_genome
+assesses_effect_of	_produces
+-1
+-6.518663167953491
+___
+diagnostic_procedure	organophosphorus_compound	cell_component
+analyzes	_produces
+-1
+-6.534496307373047
+___
+diagnostic_procedure	organophosphorus_compound	gene_or_genome
+analyzes	_produces
+-1
+-6.534496307373047
+___
+diagnostic_procedure	organophosphorus_compound	cell
+analyzes	_produces
+-1
+-6.534496307373047
+___
+diagnostic_procedure	organophosphorus_compound	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-6.534496307373047
+___
+diagnostic_procedure	organophosphorus_compound	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-6.534496307373047
+___
+#####################
+laboratory_procedure	biomedical_or_dental_material
+Reward:1
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	biomedical_or_dental_material
+analyzes	_interacts_with
+1
+-3.8521739672869444
+___
+laboratory_procedure	chemical_viewed_functionally	biomedical_or_dental_material
+analyzes	_isa
+1
+-3.895359732210636
+___
+laboratory_procedure	hazardous_or_poisonous_substance	biomedical_or_dental_material
+analyzes	_interacts_with
+1
+-3.898448497056961
+___
+laboratory_procedure	element_ion_or_isotope	biomedical_or_dental_material
+analyzes	interacts_with
+1
+-3.9334167912602425
+___
+laboratory_procedure	receptor	biomedical_or_dental_material
+analyzes	_interacts_with
+1
+-3.957101084291935
+___
+laboratory_procedure	biologically_active_substance	biomedical_or_dental_material
+analyzes	_interacts_with
+1
+-3.981084495782852
+___
+laboratory_procedure	enzyme	biomedical_or_dental_material
+analyzes	_interacts_with
+1
+-3.987799659371376
+___
+laboratory_procedure	inorganic_chemical	biomedical_or_dental_material
+analyzes	interacts_with
+1
+-4.009919315576553
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	biomedical_or_dental_material
+analyzes	interacts_with
+1
+-4.261855125427246
+___
+laboratory_procedure	lipid	biomedical_or_dental_material
+analyzes	interacts_with
+1
+-4.43456095457077
+___
+laboratory_procedure	steroid	biomedical_or_dental_material
+analyzes	interacts_with
+1
+-4.443570673465729
+___
+laboratory_procedure	eicosanoid	biomedical_or_dental_material
+analyzes	interacts_with
+1
+-4.456421315670013
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	biomedical_or_dental_material
+assesses_effect_of	_interacts_with
+1
+-4.505923315882683
+___
+laboratory_procedure	antibiotic	biomedical_or_dental_material
+analyzes	interacts_with
+1
+-4.536816895008087
+___
+laboratory_procedure	chemical_viewed_functionally	biomedical_or_dental_material
+assesses_effect_of	_isa
+1
+-4.575718075037003
+___
+laboratory_procedure	chemical_viewed_structurally	biomedical_or_dental_material
+assesses_effect_of	interacts_with
+1
+-4.782729625701904
+___
+laboratory_procedure	inorganic_chemical	biomedical_or_dental_material
+assesses_effect_of	interacts_with
+1
+-4.9334447383880615
+___
+laboratory_procedure	receptor	biomedical_or_dental_material
+assesses_effect_of	_interacts_with
+1
+-5.049992203712463
+___
+laboratory_procedure	vitamin	biomedical_or_dental_material
+assesses_effect_of	_interacts_with
+1
+-5.084871709346771
+___
+laboratory_procedure	hormone	biomedical_or_dental_material
+assesses_effect_of	_interacts_with
+1
+-5.125229597091675
+___
+laboratory_procedure	neuroreactive_substance_or_biogenic_amine	biomedical_or_dental_material
+assesses_effect_of	_interacts_with
+1
+-5.132188081741333
+___
+laboratory_procedure	enzyme	biomedical_or_dental_material
+assesses_effect_of	_interacts_with
+1
+-5.188377380371094
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	biomedical_or_dental_material
+assesses_effect_of	interacts_with
+1
+-5.470855116844177
+___
+laboratory_procedure	chemical	laboratory_procedure
+analyzes	_analyzes
+-1
+-5.490095615386963
+___
+laboratory_procedure	chemical	diagnostic_procedure
+analyzes	_analyzes
+-1
+-5.490095615386963
+___
+laboratory_procedure	organic_chemical	gene_or_genome
+analyzes	_produces
+-1
+-5.562521576881409
+___
+laboratory_procedure	organic_chemical	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-5.562521576881409
+___
+laboratory_procedure	organic_chemical	cell
+analyzes	_produces
+-1
+-5.562521576881409
+___
+laboratory_procedure	organic_chemical	cell_component
+analyzes	_produces
+-1
+-5.562521576881409
+___
+laboratory_procedure	body_substance	body_part_organ_or_organ_component
+analyzes	_consists_of
+-1
+-5.626204967498779
+___
+laboratory_procedure	organophosphorus_compound	biomedical_or_dental_material
+assesses_effect_of	interacts_with
+1
+-5.641494989395142
+___
+laboratory_procedure	lipid	biomedical_or_dental_material
+assesses_effect_of	interacts_with
+1
+-5.763855695724487
+___
+laboratory_procedure	chemical	occupation_or_discipline
+assesses_effect_of	issue_in
+-1
+-5.765009880065918
+___
+laboratory_procedure	chemical	occupation_or_discipline
+analyzes	issue_in
+-1
+-5.767089247703552
+___
+laboratory_procedure	steroid	biomedical_or_dental_material
+assesses_effect_of	interacts_with
+1
+-5.780645132064819
+___
+laboratory_procedure	antibiotic	biomedical_or_dental_material
+assesses_effect_of	interacts_with
+1
+-5.793700337409973
+___
+laboratory_procedure	eicosanoid	biomedical_or_dental_material
+assesses_effect_of	interacts_with
+1
+-5.799108266830444
+___
+laboratory_procedure	amino_acid_peptide_or_protein	biomedical_or_dental_material
+assesses_effect_of	interacts_with
+1
+-5.799754977226257
+___
+laboratory_procedure	pharmacologic_substance	biomedical_or_dental_material
+assesses_effect_of	interacts_with
+1
+-5.890676975250244
+___
+laboratory_procedure	anatomical_abnormality	congenital_abnormality
+diagnoses	_isa
+-1
+-5.99885430932045
+___
+laboratory_procedure	chemical	clinical_drug
+analyzes	ingredient_of
+-1
+-6.019161224365234
+___
+laboratory_procedure	organic_chemical	cell
+assesses_effect_of	_produces
+-1
+-6.071354508399963
+___
+laboratory_procedure	organic_chemical	fully_formed_anatomical_structure
+assesses_effect_of	_produces
+-1
+-6.071354508399963
+___
+laboratory_procedure	organic_chemical	cell_component
+assesses_effect_of	_produces
+-1
+-6.071354508399963
+___
+laboratory_procedure	organic_chemical	gene_or_genome
+assesses_effect_of	_produces
+-1
+-6.071354508399963
+___
+laboratory_procedure	mental_or_behavioral_dysfunction	injury_or_poisoning
+assesses_effect_of	_complicates
+-1
+-6.224303841590881
+___
+laboratory_procedure	carbohydrate	tissue
+assesses_effect_of	_produces
+-1
+-6.234616637229919
+___
+laboratory_procedure	carbohydrate	cell
+assesses_effect_of	_produces
+-1
+-6.234616637229919
+___
+laboratory_procedure	carbohydrate	body_part_organ_or_organ_component
+assesses_effect_of	_produces
+-1
+-6.234616637229919
+___
+laboratory_procedure	carbohydrate	cell_component
+assesses_effect_of	_produces
+-1
+-6.234616637229919
+___
+laboratory_procedure	carbohydrate	gene_or_genome
+assesses_effect_of	_produces
+-1
+-6.234616637229919
+___
+laboratory_procedure	chemical_viewed_functionally	biomedical_or_dental_material
+measures	_isa
+1
+-6.236749887466431
+___
+laboratory_procedure	chemical	laboratory_procedure
+assesses_effect_of	_analyzes
+-1
+-6.2742146253585815
+___
+laboratory_procedure	chemical	diagnostic_procedure
+assesses_effect_of	_analyzes
+-1
+-6.2742146253585815
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	fully_formed_anatomical_structure
+assesses_effect_of	_produces
+-1
+-6.296111106872559
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	body_part_organ_or_organ_component
+assesses_effect_of	_produces
+-1
+-6.296111106872559
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	cell
+assesses_effect_of	_produces
+-1
+-6.296111106872559
+___
+laboratory_procedure	element_ion_or_isotope	biomedical_or_dental_material
+measures	interacts_with
+1
+-6.317517280578613
+___
+laboratory_procedure	molecular_function	therapeutic_or_preventive_procedure
+assesses_effect_of	_complicates
+-1
+-6.358673572540283
+___
+laboratory_procedure	biologic_function	therapeutic_or_preventive_procedure
+affects	_complicates
+-1
+-6.374545693397522
+___
+laboratory_procedure	physiologic_function	therapeutic_or_preventive_procedure
+affects	_complicates
+-1
+-6.397477030754089
+___
+laboratory_procedure	organism_function	therapeutic_or_preventive_procedure
+assesses_effect_of	_complicates
+-1
+-6.4066057205200195
+___
+laboratory_procedure	pathologic_function	injury_or_poisoning
+assesses_effect_of	_complicates
+-1
+-6.409900665283203
+___
+laboratory_procedure	chemical_viewed_structurally	biomedical_or_dental_material
+measures	interacts_with
+1
+-6.423532724380493
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-6.443754196166992
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-6.443754196166992
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	cell
+analyzes	_produces
+-1
+-6.443754196166992
+___
+laboratory_procedure	biologic_function	therapeutic_or_preventive_procedure
+assesses_effect_of	_complicates
+-1
+-6.448789358139038
+___
+laboratory_procedure	cell_or_molecular_dysfunction	injury_or_poisoning
+assesses_effect_of	_complicates
+-1
+-6.459333181381226
+___
+laboratory_procedure	organophosphorus_compound	body_part_organ_or_organ_component
+assesses_effect_of	_produces
+-1
+-6.466750860214233
+___
+laboratory_procedure	organophosphorus_compound	cell_component
+assesses_effect_of	_produces
+-1
+-6.466750860214233
+___
+laboratory_procedure	organophosphorus_compound	fully_formed_anatomical_structure
+assesses_effect_of	_produces
+-1
+-6.466750860214233
+___
+laboratory_procedure	organophosphorus_compound	cell
+assesses_effect_of	_produces
+-1
+-6.466750860214233
+___
+laboratory_procedure	organophosphorus_compound	gene_or_genome
+assesses_effect_of	_produces
+-1
+-6.466750860214233
+___
+laboratory_procedure	chemical	laboratory_procedure
+analyzes	_assesses_effect_of
+-1
+-6.483160018920898
+___
+laboratory_procedure	chemical	diagnostic_procedure
+analyzes	_assesses_effect_of
+-1
+-6.483160018920898
+___
+laboratory_procedure	body_substance	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-6.483764171600342
+___
+laboratory_procedure	body_substance	cell
+analyzes	_produces
+-1
+-6.483764171600342
+___
+laboratory_procedure	body_substance	cell_component
+analyzes	_produces
+-1
+-6.483764171600342
+___
+laboratory_procedure	immunologic_factor	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-6.502777338027954
+___
+laboratory_procedure	immunologic_factor	gene_or_genome
+analyzes	_produces
+-1
+-6.502777338027954
+___
+laboratory_procedure	immunologic_factor	tissue
+analyzes	_produces
+-1
+-6.502777338027954
+___
+laboratory_procedure	immunologic_factor	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-6.502777338027954
+___
+laboratory_procedure	immunologic_factor	cell_component
+analyzes	_produces
+-1
+-6.502777338027954
+___
+laboratory_procedure	immunologic_factor	cell
+analyzes	_produces
+-1
+-6.502777338027954
+___
+laboratory_procedure	chemical	clinical_drug
+assesses_effect_of	ingredient_of
+-1
+-6.5047430992126465
+___
+laboratory_procedure	molecular_function	therapeutic_or_preventive_procedure
+affects	_complicates
+-1
+-6.513856768608093
+___
+laboratory_procedure	hazardous_or_poisonous_substance	biomedical_or_dental_material
+measures	_interacts_with
+1
+-6.524775743484497
+___
+laboratory_procedure	organ_or_tissue_function	therapeutic_or_preventive_procedure
+assesses_effect_of	_complicates
+-1
+-6.555562973022461
+___
+laboratory_procedure	lipid	body_part_organ_or_organ_component
+assesses_effect_of	_produces
+-1
+-6.589111566543579
+___
+laboratory_procedure	lipid	gene_or_genome
+assesses_effect_of	_produces
+-1
+-6.589111566543579
+___
+laboratory_procedure	lipid	fully_formed_anatomical_structure
+assesses_effect_of	_produces
+-1
+-6.589111566543579
+___
+laboratory_procedure	lipid	cell_component
+assesses_effect_of	_produces
+-1
+-6.589111566543579
+___
+laboratory_procedure	lipid	tissue
+assesses_effect_of	_produces
+-1
+-6.589111566543579
+___
+laboratory_procedure	lipid	cell
+assesses_effect_of	_produces
+-1
+-6.589111566543579
+___
+laboratory_procedure	genetic_function	therapeutic_or_preventive_procedure
+affects	_complicates
+-1
+-6.605788350105286
+___
+laboratory_procedure	steroid	body_part_organ_or_organ_component
+assesses_effect_of	_produces
+-1
+-6.605901002883911
+___
+laboratory_procedure	steroid	cell_component
+assesses_effect_of	_produces
+-1
+-6.605901002883911
+___
+laboratory_procedure	steroid	fully_formed_anatomical_structure
+assesses_effect_of	_produces
+-1
+-6.605901002883911
+___
+laboratory_procedure	steroid	cell
+assesses_effect_of	_produces
+-1
+-6.605901002883911
+___
+#####################
+diagnostic_procedure	temporal_concept
+Reward:0
+diagnostic_procedure	therapeutic_or_preventive_procedure	diagnostic_procedure
+precedes	_precedes
+-1
+-4.814212679862976
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	injury_or_poisoning
+precedes	_result_of
+-1
+-5.099237322807312
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	acquired_abnormality
+precedes	_result_of
+-1
+-5.099237322807312
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	congenital_abnormality
+precedes	_result_of
+-1
+-5.099237322807312
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	anatomical_abnormality
+precedes	_result_of
+-1
+-5.099237322807312
+___
+diagnostic_procedure	chemical_viewed_structurally	diagnostic_procedure
+analyzes	_analyzes
+-1
+-5.370541334152222
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	cell
+analyzes	_produces
+-1
+-5.3847739696502686
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-5.3847739696502686
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-5.3847739696502686
+___
+diagnostic_procedure	chemical	diagnostic_procedure
+analyzes	_analyzes
+-1
+-5.482924461364746
+___
+diagnostic_procedure	chemical	laboratory_procedure
+analyzes	_analyzes
+-1
+-5.482924461364746
+___
+diagnostic_procedure	biomedical_or_dental_material	diagnostic_procedure
+analyzes	_analyzes
+-1
+-5.502631187438965
+___
+diagnostic_procedure	chemical_viewed_functionally	laboratory_procedure
+analyzes	_analyzes
+-1
+-5.528206706047058
+___
+diagnostic_procedure	chemical_viewed_functionally	diagnostic_procedure
+analyzes	_analyzes
+-1
+-5.528206706047058
+___
+diagnostic_procedure	organic_chemical	gene_or_genome
+analyzes	_produces
+-1
+-5.555350422859192
+___
+diagnostic_procedure	organic_chemical	cell
+analyzes	_produces
+-1
+-5.555350422859192
+___
+diagnostic_procedure	organic_chemical	cell_component
+analyzes	_produces
+-1
+-5.555350422859192
+___
+diagnostic_procedure	organic_chemical	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-5.555350422859192
+___
+diagnostic_procedure	body_substance	body_part_organ_or_organ_component
+analyzes	_consists_of
+-1
+-5.6190338134765625
+___
+diagnostic_procedure	organophosphorus_compound	gene_or_genome
+analyzes	_produces
+-1
+-5.64289116859436
+___
+diagnostic_procedure	organophosphorus_compound	cell_component
+analyzes	_produces
+-1
+-5.64289116859436
+___
+diagnostic_procedure	organophosphorus_compound	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-5.64289116859436
+___
+diagnostic_procedure	organophosphorus_compound	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-5.64289116859436
+___
+diagnostic_procedure	organophosphorus_compound	cell
+analyzes	_produces
+-1
+-5.64289116859436
+___
+diagnostic_procedure	chemical_viewed_structurally	biomedical_occupation_or_discipline
+analyzes	issue_in
+-1
+-5.647534966468811
+___
+diagnostic_procedure	inorganic_chemical	diagnostic_procedure
+analyzes	_analyzes
+-1
+-5.686344623565674
+___
+diagnostic_procedure	inorganic_chemical	laboratory_procedure
+analyzes	_analyzes
+-1
+-5.686344623565674
+___
+diagnostic_procedure	chemical_viewed_structurally	biomedical_occupation_or_discipline
+assesses_effect_of	issue_in
+-1
+-5.691984415054321
+___
+diagnostic_procedure	carbohydrate	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-5.707695960998535
+___
+diagnostic_procedure	carbohydrate	cell_component
+analyzes	_produces
+-1
+-5.707695960998535
+___
+diagnostic_procedure	carbohydrate	gene_or_genome
+analyzes	_produces
+-1
+-5.707695960998535
+___
+diagnostic_procedure	carbohydrate	cell
+analyzes	_produces
+-1
+-5.707695960998535
+___
+diagnostic_procedure	carbohydrate	tissue
+analyzes	_produces
+-1
+-5.707695960998535
+___
+diagnostic_procedure	chemical	occupation_or_discipline
+assesses_effect_of	issue_in
+-1
+-5.757838726043701
+___
+diagnostic_procedure	chemical	occupation_or_discipline
+analyzes	issue_in
+-1
+-5.7599180936813354
+___
+diagnostic_procedure	biomedical_or_dental_material	biomedical_occupation_or_discipline
+analyzes	issue_in
+-1
+-5.779624819755554
+___
+diagnostic_procedure	biomedical_or_dental_material	occupation_or_discipline
+analyzes	issue_in
+-1
+-5.779624819755554
+___
+diagnostic_procedure	chemical_viewed_functionally	biomedical_occupation_or_discipline
+analyzes	issue_in
+-1
+-5.8052003383636475
+___
+diagnostic_procedure	lipid	tissue
+analyzes	_produces
+-1
+-5.816354870796204
+___
+diagnostic_procedure	lipid	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-5.816354870796204
+___
+diagnostic_procedure	lipid	cell_component
+analyzes	_produces
+-1
+-5.816354870796204
+___
+diagnostic_procedure	lipid	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-5.816354870796204
+___
+diagnostic_procedure	lipid	cell
+analyzes	_produces
+-1
+-5.816354870796204
+___
+diagnostic_procedure	lipid	gene_or_genome
+analyzes	_produces
+-1
+-5.816354870796204
+___
+diagnostic_procedure	chemical_viewed_functionally	biomedical_occupation_or_discipline
+assesses_effect_of	issue_in
+-1
+-5.81880259513855
+___
+diagnostic_procedure	steroid	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-5.836157560348511
+___
+diagnostic_procedure	steroid	cell
+analyzes	_produces
+-1
+-5.836157560348511
+___
+diagnostic_procedure	steroid	tissue
+analyzes	_produces
+-1
+-5.836157560348511
+___
+diagnostic_procedure	steroid	gene_or_genome
+analyzes	_produces
+-1
+-5.836157560348511
+___
+diagnostic_procedure	steroid	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-5.836157560348511
+___
+diagnostic_procedure	steroid	cell_component
+analyzes	_produces
+-1
+-5.836157560348511
+___
+diagnostic_procedure	amino_acid_peptide_or_protein	cell
+analyzes	_produces
+-1
+-5.836938858032227
+___
+diagnostic_procedure	amino_acid_peptide_or_protein	cell_component
+analyzes	_produces
+-1
+-5.836938858032227
+___
+diagnostic_procedure	amino_acid_peptide_or_protein	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-5.836938858032227
+___
+diagnostic_procedure	amino_acid_peptide_or_protein	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-5.836938858032227
+___
+diagnostic_procedure	amino_acid_peptide_or_protein	tissue
+analyzes	_produces
+-1
+-5.836938858032227
+___
+diagnostic_procedure	amino_acid_peptide_or_protein	gene_or_genome
+analyzes	_produces
+-1
+-5.836938858032227
+___
+diagnostic_procedure	eicosanoid	tissue
+analyzes	_produces
+-1
+-5.864039897918701
+___
+diagnostic_procedure	eicosanoid	cell_component
+analyzes	_produces
+-1
+-5.864039897918701
+___
+diagnostic_procedure	eicosanoid	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-5.864039897918701
+___
+diagnostic_procedure	eicosanoid	gene_or_genome
+analyzes	_produces
+-1
+-5.864039897918701
+___
+diagnostic_procedure	eicosanoid	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-5.864039897918701
+___
+diagnostic_procedure	eicosanoid	cell
+analyzes	_produces
+-1
+-5.864039897918701
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	cell
+assesses_effect_of	_produces
+-1
+-5.906370162963867
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	body_part_organ_or_organ_component
+assesses_effect_of	_produces
+-1
+-5.906370162963867
+___
+diagnostic_procedure	nucleic_acid_nucleoside_or_nucleotide	fully_formed_anatomical_structure
+assesses_effect_of	_produces
+-1
+-5.906370162963867
+___
+diagnostic_procedure	biomedical_or_dental_material	biomedical_occupation_or_discipline
+assesses_effect_of	issue_in
+-1
+-5.921205401420593
+___
+diagnostic_procedure	biomedical_or_dental_material	occupation_or_discipline
+assesses_effect_of	issue_in
+-1
+-5.921205401420593
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	occupation_or_discipline
+assesses_effect_of	issue_in
+-1
+-5.94629430770874
+___
+diagnostic_procedure	indicator_reagent_or_diagnostic_aid	biomedical_occupation_or_discipline
+assesses_effect_of	issue_in
+-1
+-5.94629430770874
+___
+diagnostic_procedure	inorganic_chemical	biomedical_occupation_or_discipline
+analyzes	issue_in
+-1
+-5.963338375091553
+___
+diagnostic_procedure	inorganic_chemical	occupation_or_discipline
+analyzes	issue_in
+-1
+-5.963338375091553
+___
+diagnostic_procedure	acquired_abnormality	congenital_abnormality
+diagnoses	_co-occurs_with
+-1
+-5.98929113894701
+___
+diagnostic_procedure	chemical	clinical_drug
+analyzes	ingredient_of
+-1
+-6.011990070343018
+___
+diagnostic_procedure	biomedical_or_dental_material	clinical_drug
+analyzes	ingredient_of
+-1
+-6.031696796417236
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	laboratory_procedure
+precedes	_method_of
+-1
+-6.0362653732299805
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	molecular_biology_research_technique
+precedes	_method_of
+-1
+-6.0362653732299805
+___
+diagnostic_procedure	therapeutic_or_preventive_procedure	machine_activity
+precedes	_method_of
+-1
+-6.0362653732299805
+___
+diagnostic_procedure	chemical_viewed_functionally	clinical_drug
+analyzes	ingredient_of
+-1
+-6.05727219581604
+___
+diagnostic_procedure	inorganic_chemical	biomedical_occupation_or_discipline
+assesses_effect_of	issue_in
+-1
+-6.058535933494568
+___
+diagnostic_procedure	inorganic_chemical	occupation_or_discipline
+assesses_effect_of	issue_in
+-1
+-6.058535933494568
+___
+diagnostic_procedure	organic_chemical	cell_component
+assesses_effect_of	_produces
+-1
+-6.064183354377747
+___
+diagnostic_procedure	organic_chemical	gene_or_genome
+assesses_effect_of	_produces
+-1
+-6.064183354377747
+___
+diagnostic_procedure	organic_chemical	cell
+assesses_effect_of	_produces
+-1
+-6.064183354377747
+___
+diagnostic_procedure	organic_chemical	fully_formed_anatomical_structure
+assesses_effect_of	_produces
+-1
+-6.064183354377747
+___
+diagnostic_procedure	receptor	tissue
+analyzes	_produces
+-1
+-6.0839684009552
+___
+diagnostic_procedure	receptor	gene_or_genome
+analyzes	_produces
+-1
+-6.0839684009552
+___
+diagnostic_procedure	vitamin	cell_component
+analyzes	_produces
+-1
+-6.144778728485107
+___
+diagnostic_procedure	vitamin	tissue
+analyzes	_produces
+-1
+-6.144778728485107
+___
+diagnostic_procedure	vitamin	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-6.144778728485107
+___
+diagnostic_procedure	chemical_viewed_structurally	diagnostic_procedure
+assesses_effect_of	_analyzes
+-1
+-6.201189160346985
+___
+diagnostic_procedure	hormone	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-6.207620620727539
+___
+diagnostic_procedure	hormone	cell_component
+analyzes	_produces
+-1
+-6.207620620727539
+___
+diagnostic_procedure	hormone	gene_or_genome
+analyzes	_produces
+-1
+-6.207620620727539
+___
+diagnostic_procedure	hormone	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-6.207620620727539
+___
+diagnostic_procedure	inorganic_chemical	clinical_drug
+analyzes	ingredient_of
+-1
+-6.215410232543945
+___
+diagnostic_procedure	chemical_viewed_structurally	laboratory_or_test_result
+analyzes	_measurement_of
+-1
+-6.223971366882324
+___
+diagnostic_procedure	carbohydrate	cell_component
+assesses_effect_of	_produces
+-1
+-6.227445483207703
+___
+diagnostic_procedure	carbohydrate	gene_or_genome
+assesses_effect_of	_produces
+-1
+-6.227445483207703
+___
+diagnostic_procedure	carbohydrate	tissue
+assesses_effect_of	_produces
+-1
+-6.227445483207703
+___
+#####################
+molecular_biology_research_technique	receptor
+Reward:1
+molecular_biology_research_technique	acquired_abnormality	congenital_abnormality
+associated_with	_co-occurs_with
+-1
+-4.107034377753735
+___
+molecular_biology_research_technique	indicator_reagent_or_diagnostic_aid	receptor
+measures	_interacts_with
+1
+-4.2304836213588715
+___
+molecular_biology_research_technique	chemical_viewed_structurally	receptor
+measures	interacts_with
+1
+-4.483776211738586
+___
+molecular_biology_research_technique	chemical	receptor
+measures	_interacts_with
+1
+-4.571152150630951
+___
+molecular_biology_research_technique	hazardous_or_poisonous_substance	receptor
+measures	_interacts_with
+1
+-4.58501935005188
+___
+molecular_biology_research_technique	inorganic_chemical	receptor
+measures	interacts_with
+1
+-4.6687915325164795
+___
+molecular_biology_research_technique	temporal_concept	biomedical_occupation_or_discipline
+measures	issue_in
+-1
+-4.788172483444214
+___
+molecular_biology_research_technique	temporal_concept	occupation_or_discipline
+measures	issue_in
+-1
+-4.788172483444214
+___
+molecular_biology_research_technique	chemical	receptor
+measures	_isa
+1
+-4.928901195526123
+___
+molecular_biology_research_technique	experimental_model_of_disease	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-4.961427927017212
+___
+molecular_biology_research_technique	anatomical_abnormality	congenital_abnormality
+associated_with	_co-occurs_with
+-1
+-5.044480562210083
+___
+molecular_biology_research_technique	anatomical_abnormality	acquired_abnormality
+associated_with	_co-occurs_with
+-1
+-5.044480562210083
+___
+molecular_biology_research_technique	disease_or_syndrome	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-5.060749650001526
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-5.065418601036072
+___
+molecular_biology_research_technique	mental_process	receptor
+affects	_complicates
+1
+-5.219661712646484
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	receptor
+measures	interacts_with
+1
+-5.30155336856842
+___
+molecular_biology_research_technique	neoplastic_process	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-5.326452732086182
+___
+molecular_biology_research_technique	body_substance	body_part_organ_or_organ_component
+measures	_consists_of
+-1
+-5.356753587722778
+___
+molecular_biology_research_technique	anatomical_abnormality	congenital_abnormality
+associated_with	_isa
+-1
+-5.40393853187561
+___
+molecular_biology_research_technique	organic_chemical	receptor
+measures	interacts_with
+1
+-5.427557945251465
+___
+molecular_biology_research_technique	organophosphorus_compound	receptor
+measures	interacts_with
+1
+-5.4936888217926025
+___
+molecular_biology_research_technique	antibiotic	receptor
+measures	interacts_with
+1
+-5.5188963413238525
+___
+molecular_biology_research_technique	carbohydrate	receptor
+measures	interacts_with
+1
+-5.561417102813721
+___
+molecular_biology_research_technique	pathologic_function	injury_or_poisoning
+associated_with	_complicates
+-1
+-5.585176467895508
+___
+molecular_biology_research_technique	lipid	receptor
+measures	interacts_with
+1
+-5.620886325836182
+___
+molecular_biology_research_technique	steroid	receptor
+measures	interacts_with
+1
+-5.637136936187744
+___
+molecular_biology_research_technique	pharmacologic_substance	receptor
+measures	interacts_with
+1
+-5.648337006568909
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	cell
+measures	_produces
+-1
+-5.68654203414917
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	fully_formed_anatomical_structure
+measures	_produces
+-1
+-5.68654203414917
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	body_part_organ_or_organ_component
+measures	_produces
+-1
+-5.68654203414917
+___
+molecular_biology_research_technique	quantitative_concept	spatial_concept
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	amino_acid_sequence
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	nucleotide_sequence
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	body_space_or_junction
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	geographic_area
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	carbohydrate_sequence
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	injury_or_poisoning	receptor
+associated_with	_complicates
+1
+-5.703526735305786
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	injury_or_poisoning
+measures	_complicates
+-1
+-5.767075538635254
+___
+molecular_biology_research_technique	experimental_model_of_disease	therapeutic_or_preventive_procedure
+associated_with	_complicates
+-1
+-5.8016252517700195
+___
+molecular_biology_research_technique	therapeutic_or_preventive_procedure	diagnostic_procedure
+method_of	_precedes
+-1
+-5.80766099691391
+___
+molecular_biology_research_technique	vitamin	receptor
+measures	interacts_with
+1
+-5.811022520065308
+___
+molecular_biology_research_technique	mental_process	receptor
+affects	produces
+1
+-5.812094449996948
+___
+molecular_biology_research_technique	mental_process	age_group
+affects	produces
+-1
+-5.812094449996948
+___
+molecular_biology_research_technique	mental_process	family_group
+affects	produces
+-1
+-5.812094449996948
+___
+molecular_biology_research_technique	cell_or_molecular_dysfunction	injury_or_poisoning
+associated_with	_complicates
+-1
+-5.812389135360718
+___
+molecular_biology_research_technique	cell_or_molecular_dysfunction	receptor
+associated_with	_complicates
+1
+-5.812389135360718
+___
+molecular_biology_research_technique	organic_chemical	fully_formed_anatomical_structure
+measures	_produces
+-1
+-5.812546610832214
+___
+molecular_biology_research_technique	organic_chemical	cell
+measures	_produces
+-1
+-5.812546610832214
+___
+molecular_biology_research_technique	organic_chemical	gene_or_genome
+measures	_produces
+-1
+-5.812546610832214
+___
+molecular_biology_research_technique	organic_chemical	cell_component
+measures	_produces
+-1
+-5.812546610832214
+___
+molecular_biology_research_technique	cell_function	receptor
+measures	_complicates
+1
+-5.82647979259491
+___
+molecular_biology_research_technique	clinical_attribute	phenomenon_or_process
+measures	result_of
+-1
+-5.83168888092041
+___
+molecular_biology_research_technique	clinical_attribute	environmental_effect_of_humans
+measures	result_of
+-1
+-5.83168888092041
+___
+molecular_biology_research_technique	clinical_attribute	injury_or_poisoning
+measures	result_of
+-1
+-5.83168888092041
+___
+molecular_biology_research_technique	pathologic_function	injury_or_poisoning
+measures	_complicates
+-1
+-5.838280916213989
+___
+molecular_biology_research_technique	chemical_viewed_structurally	biomedical_occupation_or_discipline
+measures	issue_in
+-1
+-5.856054306030273
+___
+molecular_biology_research_technique	physiologic_function	receptor
+measures	_complicates
+1
+-5.868152379989624
+___
+molecular_biology_research_technique	physiologic_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.868152379989624
+___
+molecular_biology_research_technique	organophosphorus_compound	gene_or_genome
+measures	_produces
+-1
+-5.878677606582642
+___
+molecular_biology_research_technique	organophosphorus_compound	fully_formed_anatomical_structure
+measures	_produces
+-1
+-5.878677606582642
+___
+molecular_biology_research_technique	organophosphorus_compound	cell_component
+measures	_produces
+-1
+-5.878677606582642
+___
+molecular_biology_research_technique	organophosphorus_compound	body_part_organ_or_organ_component
+measures	_produces
+-1
+-5.878677606582642
+___
+molecular_biology_research_technique	organophosphorus_compound	cell
+measures	_produces
+-1
+-5.878677606582642
+___
+molecular_biology_research_technique	disease_or_syndrome	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.888484716415405
+___
+molecular_biology_research_technique	genetic_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.894443511962891
+___
+molecular_biology_research_technique	disease_or_syndrome	therapeutic_or_preventive_procedure
+associated_with	_complicates
+-1
+-5.9009469747543335
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	injury_or_poisoning
+associated_with	_complicates
+-1
+-5.905615925788879
+___
+molecular_biology_research_technique	biologic_function	receptor
+measures	_complicates
+1
+-5.920866966247559
+___
+molecular_biology_research_technique	biologic_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.920866966247559
+___
+molecular_biology_research_technique	carbohydrate	tissue
+measures	_produces
+-1
+-5.94640588760376
+___
+molecular_biology_research_technique	carbohydrate	gene_or_genome
+measures	_produces
+-1
+-5.94640588760376
+___
+molecular_biology_research_technique	carbohydrate	cell_component
+measures	_produces
+-1
+-5.94640588760376
+___
+molecular_biology_research_technique	carbohydrate	body_part_organ_or_organ_component
+measures	_produces
+-1
+-5.94640588760376
+___
+molecular_biology_research_technique	carbohydrate	cell
+measures	_produces
+-1
+-5.94640588760376
+___
+molecular_biology_research_technique	organism_attribute	phenomenon_or_process
+measures	result_of
+-1
+-5.959920406341553
+___
+molecular_biology_research_technique	organism_attribute	environmental_effect_of_humans
+measures	result_of
+-1
+-5.959920406341553
+___
+molecular_biology_research_technique	organism_attribute	human_caused_phenomenon_or_process
+measures	result_of
+-1
+-5.959920406341553
+___
+molecular_biology_research_technique	organism_attribute	injury_or_poisoning
+measures	result_of
+-1
+-5.959920406341553
+___
+molecular_biology_research_technique	cell_or_molecular_dysfunction	receptor
+measures	_complicates
+1
+-5.982208967208862
+___
+molecular_biology_research_technique	cell_or_molecular_dysfunction	injury_or_poisoning
+measures	_complicates
+-1
+-5.982208967208862
+___
+molecular_biology_research_technique	organ_or_tissue_function	receptor
+measures	_complicates
+1
+-5.992895841598511
+___
+molecular_biology_research_technique	organ_or_tissue_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.992895841598511
+___
+molecular_biology_research_technique	biologically_active_substance	receptor
+measures	interacts_with
+1
+-5.998767614364624
+___
+molecular_biology_research_technique	lipid	cell_component
+measures	_produces
+-1
+-6.005875110626221
+___
+molecular_biology_research_technique	lipid	fully_formed_anatomical_structure
+measures	_produces
+-1
+-6.005875110626221
+___
+molecular_biology_research_technique	lipid	gene_or_genome
+measures	_produces
+-1
+-6.005875110626221
+___
+molecular_biology_research_technique	lipid	body_part_organ_or_organ_component
+measures	_produces
+-1
+-6.005875110626221
+___
+molecular_biology_research_technique	lipid	cell
+measures	_produces
+-1
+-6.005875110626221
+___
+molecular_biology_research_technique	lipid	tissue
+measures	_produces
+-1
+-6.005875110626221
+___
+molecular_biology_research_technique	steroid	cell_component
+measures	_produces
+-1
+-6.022125720977783
+___
+molecular_biology_research_technique	steroid	tissue
+measures	_produces
+-1
+-6.022125720977783
+___
+molecular_biology_research_technique	steroid	gene_or_genome
+measures	_produces
+-1
+-6.022125720977783
+___
+molecular_biology_research_technique	steroid	body_part_organ_or_organ_component
+measures	_produces
+-1
+-6.022125720977783
+___
+molecular_biology_research_technique	steroid	cell
+measures	_produces
+-1
+-6.022125720977783
+___
+molecular_biology_research_technique	steroid	fully_formed_anatomical_structure
+measures	_produces
+-1
+-6.022125720977783
+___
+molecular_biology_research_technique	enzyme	receptor
+measures	interacts_with
+1
+-6.024816513061523
+___
+molecular_biology_research_technique	inorganic_chemical	biomedical_occupation_or_discipline
+measures	issue_in
+-1
+-6.041069746017456
+___
+molecular_biology_research_technique	inorganic_chemical	occupation_or_discipline
+measures	issue_in
+-1
+-6.041069746017456
+___
+molecular_biology_research_technique	congenital_abnormality	injury_or_poisoning
+associated_with	_complicates
+-1
+-6.12260627746582
+___
+molecular_biology_research_technique	congenital_abnormality	receptor
+associated_with	_complicates
+1
+-6.12260627746582
+___
+#####################
+laboratory_procedure	organism_attribute
+Reward:0
+laboratory_procedure	element_ion_or_isotope	laboratory_procedure
+analyzes	_analyzes
+-1
+-5.091686964035034
+___
+laboratory_procedure	element_ion_or_isotope	occupation_or_discipline
+analyzes	issue_in
+-1
+-5.3686805963516235
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	cell
+analyzes	_produces
+-1
+-5.391945123672485
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-5.391945123672485
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-5.391945123672485
+___
+laboratory_procedure	chemical	laboratory_procedure
+analyzes	_analyzes
+-1
+-5.490095615386963
+___
+laboratory_procedure	chemical	diagnostic_procedure
+analyzes	_analyzes
+-1
+-5.490095615386963
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	laboratory_procedure
+analyzes	_analyzes
+-1
+-5.523935556411743
+___
+laboratory_procedure	chemical_viewed_functionally	diagnostic_procedure
+analyzes	_analyzes
+-1
+-5.535377860069275
+___
+laboratory_procedure	chemical_viewed_functionally	laboratory_procedure
+analyzes	_analyzes
+-1
+-5.535377860069275
+___
+laboratory_procedure	organic_chemical	cell_component
+analyzes	_produces
+-1
+-5.562521576881409
+___
+laboratory_procedure	organic_chemical	gene_or_genome
+analyzes	_produces
+-1
+-5.562521576881409
+___
+laboratory_procedure	organic_chemical	cell
+analyzes	_produces
+-1
+-5.562521576881409
+___
+laboratory_procedure	organic_chemical	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-5.562521576881409
+___
+laboratory_procedure	body_substance	body_part_organ_or_organ_component
+analyzes	_consists_of
+-1
+-5.626204967498779
+___
+laboratory_procedure	inorganic_chemical	diagnostic_procedure
+analyzes	_analyzes
+-1
+-5.693515777587891
+___
+laboratory_procedure	inorganic_chemical	laboratory_procedure
+analyzes	_analyzes
+-1
+-5.693515777587891
+___
+laboratory_procedure	chemical_viewed_structurally	biomedical_occupation_or_discipline
+assesses_effect_of	issue_in
+-1
+-5.699155569076538
+___
+laboratory_procedure	chemical	occupation_or_discipline
+assesses_effect_of	issue_in
+-1
+-5.765009880065918
+___
+laboratory_procedure	chemical	occupation_or_discipline
+analyzes	issue_in
+-1
+-5.767089247703552
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	occupation_or_discipline
+analyzes	issue_in
+-1
+-5.8009291887283325
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	biomedical_occupation_or_discipline
+analyzes	issue_in
+-1
+-5.8009291887283325
+___
+laboratory_procedure	chemical_viewed_functionally	biomedical_occupation_or_discipline
+analyzes	issue_in
+-1
+-5.812371492385864
+___
+laboratory_procedure	lipid	tissue
+analyzes	_produces
+-1
+-5.82352602481842
+___
+laboratory_procedure	lipid	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-5.82352602481842
+___
+laboratory_procedure	lipid	cell_component
+analyzes	_produces
+-1
+-5.82352602481842
+___
+laboratory_procedure	lipid	gene_or_genome
+analyzes	_produces
+-1
+-5.82352602481842
+___
+laboratory_procedure	lipid	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-5.82352602481842
+___
+laboratory_procedure	lipid	cell
+analyzes	_produces
+-1
+-5.82352602481842
+___
+laboratory_procedure	chemical_viewed_functionally	biomedical_occupation_or_discipline
+assesses_effect_of	issue_in
+-1
+-5.825973749160767
+___
+laboratory_procedure	steroid	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-5.8433287143707275
+___
+laboratory_procedure	steroid	cell_component
+analyzes	_produces
+-1
+-5.8433287143707275
+___
+laboratory_procedure	steroid	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-5.8433287143707275
+___
+laboratory_procedure	steroid	cell
+analyzes	_produces
+-1
+-5.8433287143707275
+___
+laboratory_procedure	steroid	gene_or_genome
+analyzes	_produces
+-1
+-5.8433287143707275
+___
+laboratory_procedure	steroid	tissue
+analyzes	_produces
+-1
+-5.8433287143707275
+___
+laboratory_procedure	eicosanoid	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-5.871211051940918
+___
+laboratory_procedure	eicosanoid	gene_or_genome
+analyzes	_produces
+-1
+-5.871211051940918
+___
+laboratory_procedure	eicosanoid	cell
+analyzes	_produces
+-1
+-5.871211051940918
+___
+laboratory_procedure	eicosanoid	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-5.871211051940918
+___
+laboratory_procedure	eicosanoid	cell_component
+analyzes	_produces
+-1
+-5.871211051940918
+___
+laboratory_procedure	eicosanoid	tissue
+analyzes	_produces
+-1
+-5.871211051940918
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	cell
+assesses_effect_of	_produces
+-1
+-5.913541316986084
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	body_part_organ_or_organ_component
+assesses_effect_of	_produces
+-1
+-5.913541316986084
+___
+laboratory_procedure	nucleic_acid_nucleoside_or_nucleotide	fully_formed_anatomical_structure
+assesses_effect_of	_produces
+-1
+-5.913541316986084
+___
+laboratory_procedure	hazardous_or_poisonous_substance	injury_or_poisoning
+analyzes	complicates
+-1
+-5.923151254653931
+___
+laboratory_procedure	hazardous_or_poisonous_substance	acquired_abnormality
+analyzes	complicates
+-1
+-5.923151254653931
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	occupation_or_discipline
+assesses_effect_of	issue_in
+-1
+-5.953465461730957
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	biomedical_occupation_or_discipline
+assesses_effect_of	issue_in
+-1
+-5.953465461730957
+___
+laboratory_procedure	inorganic_chemical	occupation_or_discipline
+analyzes	issue_in
+-1
+-5.9705095291137695
+___
+laboratory_procedure	inorganic_chemical	biomedical_occupation_or_discipline
+analyzes	issue_in
+-1
+-5.9705095291137695
+___
+laboratory_procedure	anatomical_abnormality	congenital_abnormality
+diagnoses	_isa
+-1
+-5.998854532837868
+___
+laboratory_procedure	chemical	clinical_drug
+analyzes	ingredient_of
+-1
+-6.019161224365234
+___
+laboratory_procedure	indicator_reagent_or_diagnostic_aid	clinical_drug
+analyzes	ingredient_of
+-1
+-6.0530009269714355
+___
+laboratory_procedure	chemical_viewed_functionally	clinical_drug
+analyzes	ingredient_of
+-1
+-6.064443349838257
+___
+laboratory_procedure	inorganic_chemical	biomedical_occupation_or_discipline
+assesses_effect_of	issue_in
+-1
+-6.065707087516785
+___
+laboratory_procedure	inorganic_chemical	occupation_or_discipline
+assesses_effect_of	issue_in
+-1
+-6.065707087516785
+___
+laboratory_procedure	hazardous_or_poisonous_substance	body_part_organ_or_organ_component
+analyzes	disrupts
+-1
+-6.0682594776153564
+___
+laboratory_procedure	hazardous_or_poisonous_substance	gene_or_genome
+analyzes	disrupts
+-1
+-6.0682594776153564
+___
+laboratory_procedure	hazardous_or_poisonous_substance	fully_formed_anatomical_structure
+analyzes	disrupts
+-1
+-6.0682594776153564
+___
+laboratory_procedure	hazardous_or_poisonous_substance	cell
+analyzes	disrupts
+-1
+-6.0682594776153564
+___
+laboratory_procedure	hazardous_or_poisonous_substance	tissue
+analyzes	disrupts
+-1
+-6.0682594776153564
+___
+laboratory_procedure	organic_chemical	cell_component
+assesses_effect_of	_produces
+-1
+-6.071354508399963
+___
+laboratory_procedure	organic_chemical	gene_or_genome
+assesses_effect_of	_produces
+-1
+-6.071354508399963
+___
+laboratory_procedure	organic_chemical	cell
+assesses_effect_of	_produces
+-1
+-6.071354508399963
+___
+laboratory_procedure	organic_chemical	fully_formed_anatomical_structure
+assesses_effect_of	_produces
+-1
+-6.071354508399963
+___
+laboratory_procedure	receptor	tissue
+analyzes	_produces
+-1
+-6.091139554977417
+___
+laboratory_procedure	receptor	gene_or_genome
+analyzes	_produces
+-1
+-6.091139554977417
+___
+laboratory_procedure	organophosphorus_compound	gene_or_genome
+assesses_effect_of	_produces
+-1
+-6.154743194580078
+___
+laboratory_procedure	organophosphorus_compound	cell
+assesses_effect_of	_produces
+-1
+-6.154743194580078
+___
+laboratory_procedure	organophosphorus_compound	cell_component
+assesses_effect_of	_produces
+-1
+-6.154743194580078
+___
+laboratory_procedure	organophosphorus_compound	fully_formed_anatomical_structure
+assesses_effect_of	_produces
+-1
+-6.154743194580078
+___
+laboratory_procedure	organophosphorus_compound	body_part_organ_or_organ_component
+assesses_effect_of	_produces
+-1
+-6.154743194580078
+___
+laboratory_procedure	chemical_viewed_structurally	diagnostic_procedure
+assesses_effect_of	_analyzes
+-1
+-6.208360314369202
+___
+laboratory_procedure	inorganic_chemical	clinical_drug
+analyzes	ingredient_of
+-1
+-6.222581386566162
+___
+laboratory_procedure	carbohydrate	body_part_organ_or_organ_component
+assesses_effect_of	_produces
+-1
+-6.234616637229919
+___
+laboratory_procedure	carbohydrate	cell_component
+assesses_effect_of	_produces
+-1
+-6.234616637229919
+___
+laboratory_procedure	carbohydrate	cell
+assesses_effect_of	_produces
+-1
+-6.234616637229919
+___
+laboratory_procedure	carbohydrate	gene_or_genome
+assesses_effect_of	_produces
+-1
+-6.234616637229919
+___
+laboratory_procedure	carbohydrate	tissue
+assesses_effect_of	_produces
+-1
+-6.234616637229919
+___
+laboratory_procedure	mental_or_behavioral_dysfunction	injury_or_poisoning
+assesses_effect_of	_complicates
+-1
+-6.245006084442139
+___
+laboratory_procedure	chemical	laboratory_procedure
+assesses_effect_of	_analyzes
+-1
+-6.2742146253585815
+___
+laboratory_procedure	chemical	diagnostic_procedure
+assesses_effect_of	_analyzes
+-1
+-6.2742146253585815
+___
+laboratory_procedure	biologically_active_substance	gene_or_genome
+analyzes	_produces
+-1
+-6.2789764404296875
+___
+laboratory_procedure	biologically_active_substance	cell_component
+analyzes	_produces
+-1
+-6.2789764404296875
+___
+laboratory_procedure	biologically_active_substance	body_part_organ_or_organ_component
+analyzes	_produces
+-1
+-6.2789764404296875
+___
+laboratory_procedure	biologically_active_substance	cell
+analyzes	_produces
+-1
+-6.2789764404296875
+___
+laboratory_procedure	biologically_active_substance	fully_formed_anatomical_structure
+analyzes	_produces
+-1
+-6.2789764404296875
+___
+laboratory_procedure	element_ion_or_isotope	anatomical_abnormality
+analyzes	causes
+-1
+-6.281344890594482
+___
+laboratory_procedure	element_ion_or_isotope	injury_or_poisoning
+analyzes	causes
+-1
+-6.281344890594482
+___
+laboratory_procedure	element_ion_or_isotope	congenital_abnormality
+analyzes	causes
+-1
+-6.281344890594482
+___
+laboratory_procedure	element_ion_or_isotope	acquired_abnormality
+analyzes	causes
+-1
+-6.281344890594482
+___
+laboratory_procedure	lipid	tissue
+assesses_effect_of	_produces
+-1
+-6.318410277366638
+___
+laboratory_procedure	lipid	cell_component
+assesses_effect_of	_produces
+-1
+-6.318410277366638
+___
+laboratory_procedure	lipid	fully_formed_anatomical_structure
+assesses_effect_of	_produces
+-1
+-6.318410277366638
+___
+laboratory_procedure	lipid	cell
+assesses_effect_of	_produces
+-1
+-6.318410277366638
+___
+laboratory_procedure	lipid	gene_or_genome
+assesses_effect_of	_produces
+-1
+-6.318410277366638
+___
+laboratory_procedure	lipid	body_part_organ_or_organ_component
+assesses_effect_of	_produces
+-1
+-6.318410277366638
+___
+laboratory_procedure	enzyme	gene_or_genome
+analyzes	_produces
+-1
+-6.326518535614014
+___
+laboratory_procedure	enzyme	cell_component
+analyzes	_produces
+-1
+-6.326518535614014
+___
+#####################
+molecular_biology_research_technique	neoplastic_process
+Reward:1
+molecular_biology_research_technique	mental_process	neoplastic_process
+affects	_process_of
+1
+-3.5867279171943665
+___
+molecular_biology_research_technique	chemical_viewed_structurally	neoplastic_process
+measures	affects
+1
+-4.036733001470566
+___
+molecular_biology_research_technique	indicator_reagent_or_diagnostic_aid	neoplastic_process
+measures	affects
+1
+-4.078001022338867
+___
+molecular_biology_research_technique	injury_or_poisoning	neoplastic_process
+associated_with	_co-occurs_with
+1
+-4.088410399854183
+___
+molecular_biology_research_technique	inorganic_chemical	neoplastic_process
+measures	affects
+1
+-4.099950432777405
+___
+molecular_biology_research_technique	hazardous_or_poisonous_substance	neoplastic_process
+measures	affects
+1
+-4.334373593330383
+___
+molecular_biology_research_technique	disease_or_syndrome	neoplastic_process
+associated_with	_precedes
+1
+-4.340780735015869
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	neoplastic_process
+measures	affects
+1
+-4.419450342655182
+___
+molecular_biology_research_technique	organophosphorus_compound	neoplastic_process
+measures	affects
+1
+-4.533309102058411
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	neoplastic_process
+associated_with	precedes
+1
+-4.561858892440796
+___
+molecular_biology_research_technique	carbohydrate	neoplastic_process
+measures	affects
+1
+-4.575544714927673
+___
+molecular_biology_research_technique	lipid	neoplastic_process
+measures	affects
+1
+-4.613510727882385
+___
+molecular_biology_research_technique	cell_or_molecular_dysfunction	neoplastic_process
+associated_with	_co-occurs_with
+1
+-4.761486172676086
+___
+molecular_biology_research_technique	acquired_abnormality	neoplastic_process
+associated_with	_co-occurs_with
+1
+-4.770402729511261
+___
+molecular_biology_research_technique	acquired_abnormality	congenital_abnormality
+associated_with	_co-occurs_with
+-1
+-4.770402729511261
+___
+molecular_biology_research_technique	temporal_concept	biomedical_occupation_or_discipline
+measures	issue_in
+-1
+-4.788172483444214
+___
+molecular_biology_research_technique	temporal_concept	occupation_or_discipline
+measures	issue_in
+-1
+-4.788172483444214
+___
+molecular_biology_research_technique	pharmacologic_substance	neoplastic_process
+measures	affects
+1
+-4.815095603466034
+___
+molecular_biology_research_technique	cell_or_molecular_dysfunction	neoplastic_process
+associated_with	precedes
+1
+-4.81872284412384
+___
+molecular_biology_research_technique	pathologic_function	neoplastic_process
+associated_with	_degree_of
+1
+-4.845651805400848
+___
+molecular_biology_research_technique	neuroreactive_substance_or_biogenic_amine	neoplastic_process
+measures	affects
+1
+-4.8975889682769775
+___
+molecular_biology_research_technique	hormone	neoplastic_process
+measures	affects
+1
+-4.917530179023743
+___
+molecular_biology_research_technique	enzyme	neoplastic_process
+measures	affects
+1
+-4.945991277694702
+___
+molecular_biology_research_technique	cell_function	neoplastic_process
+measures	_process_of
+1
+-4.951602458953857
+___
+molecular_biology_research_technique	biologically_active_substance	neoplastic_process
+measures	affects
+1
+-4.9669249057769775
+___
+molecular_biology_research_technique	experimental_model_of_disease	neoplastic_process
+associated_with	_degree_of
+1
+-4.975633144378662
+___
+molecular_biology_research_technique	physiologic_function	neoplastic_process
+measures	_process_of
+1
+-4.977903842926025
+___
+molecular_biology_research_technique	experimental_model_of_disease	neoplastic_process
+associated_with	_co-occurs_with
+1
+-5.006709575653076
+___
+molecular_biology_research_technique	biologic_function	neoplastic_process
+measures	_process_of
+1
+-5.035140514373779
+___
+molecular_biology_research_technique	anatomical_abnormality	congenital_abnormality
+associated_with	_co-occurs_with
+-1
+-5.050393342971802
+___
+molecular_biology_research_technique	anatomical_abnormality	acquired_abnormality
+associated_with	_co-occurs_with
+-1
+-5.050393342971802
+___
+molecular_biology_research_technique	immunologic_factor	neoplastic_process
+measures	affects
+1
+-5.05829131603241
+___
+molecular_biology_research_technique	organ_or_tissue_function	neoplastic_process
+measures	_process_of
+1
+-5.066861987113953
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	neoplastic_process
+associated_with	degree_of
+1
+-5.104050397872925
+___
+molecular_biology_research_technique	mental_process	neoplastic_process
+measures	_process_of
+1
+-5.1625038385391235
+___
+molecular_biology_research_technique	cell_or_molecular_dysfunction	neoplastic_process
+measures	_process_of
+1
+-5.1710721254348755
+___
+molecular_biology_research_technique	neoplastic_process	injury_or_poisoning
+associated_with	manifestation_of
+-1
+-5.205417156219482
+___
+molecular_biology_research_technique	chemical	occupation_or_discipline
+measures	issue_in
+-1
+-5.217491149902344
+___
+molecular_biology_research_technique	pathologic_function	neoplastic_process
+associated_with	_isa
+1
+-5.236186265945435
+___
+molecular_biology_research_technique	anatomical_abnormality	congenital_abnormality
+associated_with	_isa
+-1
+-5.409851312637329
+___
+molecular_biology_research_technique	body_substance	body_part_organ_or_organ_component
+measures	_consists_of
+-1
+-5.432217597961426
+___
+molecular_biology_research_technique	congenital_abnormality	neoplastic_process
+associated_with	manifestation_of
+1
+-5.441108345985413
+___
+molecular_biology_research_technique	pathologic_function	neoplastic_process
+associated_with	degree_of
+1
+-5.47615647315979
+___
+molecular_biology_research_technique	antibiotic	neoplastic_process
+measures	prevents
+1
+-5.526254653930664
+___
+molecular_biology_research_technique	organic_chemical	cell
+measures	_produces
+-1
+-5.59895122051239
+___
+molecular_biology_research_technique	organic_chemical	fully_formed_anatomical_structure
+measures	_produces
+-1
+-5.59895122051239
+___
+molecular_biology_research_technique	organic_chemical	gene_or_genome
+measures	_produces
+-1
+-5.59895122051239
+___
+molecular_biology_research_technique	organic_chemical	cell_component
+measures	_produces
+-1
+-5.59895122051239
+___
+molecular_biology_research_technique	experimental_model_of_disease	neoplastic_process
+associated_with	degree_of
+1
+-5.606137752532959
+___
+molecular_biology_research_technique	quantitative_concept	amino_acid_sequence
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	carbohydrate_sequence
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	nucleotide_sequence
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	body_space_or_junction
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	geographic_area
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	quantitative_concept	spatial_concept
+measures	measurement_of
+-1
+-5.697849273681641
+___
+molecular_biology_research_technique	disease_or_syndrome	neoplastic_process
+associated_with	_degree_of
+1
+-5.8015522956848145
+___
+molecular_biology_research_technique	steroid	tissue
+measures	_produces
+-1
+-5.852568864822388
+___
+molecular_biology_research_technique	steroid	cell
+measures	_produces
+-1
+-5.852568864822388
+___
+molecular_biology_research_technique	steroid	cell_component
+measures	_produces
+-1
+-5.852568864822388
+___
+molecular_biology_research_technique	steroid	gene_or_genome
+measures	_produces
+-1
+-5.852568864822388
+___
+molecular_biology_research_technique	steroid	body_part_organ_or_organ_component
+measures	_produces
+-1
+-5.852568864822388
+___
+molecular_biology_research_technique	steroid	fully_formed_anatomical_structure
+measures	_produces
+-1
+-5.852568864822388
+___
+molecular_biology_research_technique	genetic_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-5.9535112380981445
+___
+molecular_biology_research_technique	chemical	diagnostic_procedure
+measures	_analyzes
+-1
+-5.972958087921143
+___
+molecular_biology_research_technique	chemical	laboratory_procedure
+measures	_analyzes
+-1
+-5.972958087921143
+___
+molecular_biology_research_technique	chemical	clinical_drug
+measures	ingredient_of
+-1
+-5.992188930511475
+___
+molecular_biology_research_technique	clinical_attribute	environmental_effect_of_humans
+measures	result_of
+-1
+-6.0359930992126465
+___
+molecular_biology_research_technique	clinical_attribute	injury_or_poisoning
+measures	result_of
+-1
+-6.0359930992126465
+___
+molecular_biology_research_technique	clinical_attribute	neoplastic_process
+measures	result_of
+1
+-6.0359930992126465
+___
+molecular_biology_research_technique	clinical_attribute	phenomenon_or_process
+measures	result_of
+-1
+-6.0359930992126465
+___
+molecular_biology_research_technique	organism_attribute	environmental_effect_of_humans
+measures	result_of
+-1
+-6.0373311042785645
+___
+molecular_biology_research_technique	organism_attribute	injury_or_poisoning
+measures	result_of
+-1
+-6.0373311042785645
+___
+molecular_biology_research_technique	organism_attribute	phenomenon_or_process
+measures	result_of
+-1
+-6.0373311042785645
+___
+molecular_biology_research_technique	organism_attribute	human_caused_phenomenon_or_process
+measures	result_of
+-1
+-6.0373311042785645
+___
+molecular_biology_research_technique	therapeutic_or_preventive_procedure	diagnostic_procedure
+method_of	_precedes
+-1
+-6.040392994880676
+___
+molecular_biology_research_technique	neoplastic_process	injury_or_poisoning
+associated_with	_complicates
+-1
+-6.04561448097229
+___
+molecular_biology_research_technique	neoplastic_process	therapeutic_or_preventive_procedure
+associated_with	_complicates
+-1
+-6.04561448097229
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	injury_or_poisoning
+measures	_complicates
+-1
+-6.065180063247681
+___
+molecular_biology_research_technique	mental_or_behavioral_dysfunction	neoplastic_process
+measures	_complicates
+1
+-6.065180063247681
+___
+molecular_biology_research_technique	pharmacologic_substance	neoplastic_process
+measures	prevents
+1
+-6.082274913787842
+___
+molecular_biology_research_technique	pathologic_function	injury_or_poisoning
+measures	_complicates
+-1
+-6.113298416137695
+___
+molecular_biology_research_technique	pathologic_function	neoplastic_process
+measures	_complicates
+1
+-6.113298416137695
+___
+molecular_biology_research_technique	physiologic_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-6.168595790863037
+___
+molecular_biology_research_technique	disease_or_syndrome	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-6.221221923828125
+___
+molecular_biology_research_technique	disease_or_syndrome	neoplastic_process
+measures	_complicates
+1
+-6.221221923828125
+___
+molecular_biology_research_technique	biologic_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-6.225832462310791
+___
+molecular_biology_research_technique	vitamin	tissue
+measures	_produces
+-1
+-6.227968454360962
+___
+molecular_biology_research_technique	vitamin	neoplastic_process
+measures	_produces
+1
+-6.227968454360962
+___
+molecular_biology_research_technique	vitamin	cell_component
+measures	_produces
+-1
+-6.227968454360962
+___
+molecular_biology_research_technique	vitamin	fully_formed_anatomical_structure
+measures	_produces
+-1
+-6.227968454360962
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	cell
+measures	_produces
+-1
+-6.249920845031738
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	fully_formed_anatomical_structure
+measures	_produces
+-1
+-6.249920845031738
+___
+molecular_biology_research_technique	nucleic_acid_nucleoside_or_nucleotide	body_part_organ_or_organ_component
+measures	_produces
+-1
+-6.249920845031738
+___
+molecular_biology_research_technique	organ_or_tissue_function	therapeutic_or_preventive_procedure
+measures	_complicates
+-1
+-6.257554054260254
+___
+molecular_biology_research_technique	congenital_abnormality	anatomical_abnormality
+associated_with	_complicates
+-1
+-6.28130578994751
+___
+molecular_biology_research_technique	congenital_abnormality	acquired_abnormality
+associated_with	_complicates
+-1
+-6.28130578994751
+___
+molecular_biology_research_technique	congenital_abnormality	injury_or_poisoning
+associated_with	_complicates
+-1
+-6.28130578994751
+___
+molecular_biology_research_technique	pathologic_function	neoplastic_process
+measures	_degree_of
+1
+-6.294467449188232
+___
+molecular_biology_research_technique	cell_or_molecular_dysfunction	injury_or_poisoning
+measures	_complicates
+-1
+-6.361763954162598
+___
+molecular_biology_research_technique	cell_or_molecular_dysfunction	neoplastic_process
+measures	_complicates
+1
+-6.361763954162598
+___
+#####################

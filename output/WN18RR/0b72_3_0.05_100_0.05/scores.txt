@@ -1,0 +1,88 @@
+Score for iteration 100
+Hits@1:  0.3810
+Hits@3:  0.4450
+Hits@5:  0.4690
+Hits@10:  0.5020
+Hits@20:  0.5343
+auc:  0.4224
+
+Score for iteration 200
+Hits@1:  0.4077
+Hits@3:  0.4466
+Hits@5:  0.4710
+Hits@10:  0.5069
+Hits@20:  0.5458
+auc:  0.4391
+
+Score for iteration 300
+Hits@1:  0.4117
+Hits@3:  0.4502
+Hits@5:  0.4743
+Hits@10:  0.5162
+Hits@20:  0.5521
+auc:  0.4433
+
+Score for iteration 400
+Hits@1:  0.4140
+Hits@3:  0.4529
+Hits@5:  0.4720
+Hits@10:  0.5129
+Hits@20:  0.5491
+auc:  0.4441
+
+Score for iteration 500
+Hits@1:  0.4120
+Hits@3:  0.4469
+Hits@5:  0.4674
+Hits@10:  0.5056
+Hits@20:  0.5491
+auc:  0.4411
+
+Score for iteration 600
+Hits@1:  0.4186
+Hits@3:  0.4604
+Hits@5:  0.4796
+Hits@10:  0.5148
+Hits@20:  0.5491
+auc:  0.4495
+
+Score for iteration 700
+Hits@1:  0.4179
+Hits@3:  0.4585
+Hits@5:  0.4806
+Hits@10:  0.5175
+Hits@20:  0.5547
+auc:  0.4494
+
+Score for iteration 800
+Hits@1:  0.4209
+Hits@3:  0.4621
+Hits@5:  0.4822
+Hits@10:  0.5198
+Hits@20:  0.5570
+auc:  0.4516
+
+Score for iteration 900
+Hits@1:  0.4136
+Hits@3:  0.4522
+Hits@5:  0.4776
+Hits@10:  0.5148
+Hits@20:  0.5501
+auc:  0.4446
+
+Score for iteration 1000
+Hits@1:  0.4229
+Hits@3:  0.4614
+Hits@5:  0.4838
+Hits@10:  0.5214
+Hits@20:  0.5560
+auc:  0.4536
+
+Test (beam) scores with best model from train_results/WN18RR//0b72_3_0.05_100_0.05/model/model.ckpt
+Hits@1:  0.4304
+Hits@3:  0.4681
+Hits@5:  0.4917
+Hits@10:  0.5284
+Hits@20:  0.5590
+auc:  0.4605
+

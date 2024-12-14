@@ -1,0 +1,2515 @@
+quantitative_concept	physiologic_function
+Reward:1
+quantitative_concept	organism_function	physiologic_function
+measurement_of	_precedes
+1
+-2.438305713236332
+___
+quantitative_concept	molecular_function	physiologic_function
+measurement_of	_precedes
+1
+-2.438645977526903
+___
+quantitative_concept	cell_function	physiologic_function
+measurement_of	_precedes
+1
+-2.4388000294566154
+___
+quantitative_concept	body_space_or_junction	body_part_organ_or_organ_component
+measurement_of	_interconnects
+-1
+-2.449216429144144
+___
+quantitative_concept	genetic_function	physiologic_function
+measurement_of	precedes
+1
+-2.460522562265396
+___
+quantitative_concept	organ_or_tissue_function	physiologic_function
+measurement_of	precedes
+1
+-2.4763721749186516
+___
+quantitative_concept	geographic_area	entity
+measurement_of	isa
+-1
+-2.778814375400543
+___
+quantitative_concept	amino_acid_sequence	conceptual_entity
+measurement_of	isa
+-1
+-3.0366750955581665
+___
+quantitative_concept	carbohydrate_sequence	entity
+measurement_of	isa
+-1
+-3.0974326133728027
+___
+quantitative_concept	spatial_concept	entity
+measurement_of	isa
+-1
+-3.0974326133728027
+___
+quantitative_concept	carbohydrate_sequence	conceptual_entity
+measurement_of	isa
+-1
+-3.0974326133728027
+___
+quantitative_concept	spatial_concept	idea_or_concept
+measurement_of	isa
+-1
+-3.0974326133728027
+___
+quantitative_concept	amino_acid_sequence	amino_acid_peptide_or_protein
+measurement_of	property_of
+-1
+-3.162864327430725
+___
+quantitative_concept	nucleotide_sequence	idea_or_concept
+measurement_of	isa
+-1
+-3.7578142881393433
+___
+quantitative_concept	nucleotide_sequence	entity
+measurement_of	isa
+-1
+-3.7578142881393433
+___
+quantitative_concept	nucleotide_sequence	conceptual_entity
+measurement_of	isa
+-1
+-3.7578142881393433
+___
+quantitative_concept	nucleotide_sequence	gene_or_genome
+measurement_of	property_of
+-1
+-3.884003520011902
+___
+quantitative_concept	geographic_area	behavior
+measurement_of	_associated_with
+-1
+-4.3341546058654785
+___
+quantitative_concept	geographic_area	individual_behavior
+measurement_of	_associated_with
+-1
+-4.3341546058654785
+___
+quantitative_concept	organism_function	physiologic_function
+measurement_of	precedes
+1
+-5.709419012069702
+___
+quantitative_concept	molecular_function	physiologic_function
+measurement_of	precedes
+1
+-5.709759473800659
+___
+quantitative_concept	cell_function	physiologic_function
+measurement_of	precedes
+1
+-5.709913492202759
+___
+quantitative_concept	body_space_or_junction	body_system
+measurement_of	conceptual_part_of
+-1
+-6.949524164199829
+___
+quantitative_concept	body_space_or_junction	fully_formed_anatomical_structure
+measurement_of	conceptual_part_of
+-1
+-6.949524164199829
+___
+quantitative_concept	body_space_or_junction	tissue
+measurement_of	connected_to
+-1
+-6.9541261196136475
+___
+quantitative_concept	genetic_function	mental_or_behavioral_dysfunction
+measurement_of	_process_of
+-1
+-7.215228796005249
+___
+quantitative_concept	genetic_function	physiologic_function
+measurement_of	_process_of
+1
+-7.215228796005249
+___
+quantitative_concept	genetic_function	biologic_function
+measurement_of	_process_of
+-1
+-7.215228796005249
+___
+quantitative_concept	genetic_function	experimental_model_of_disease
+measurement_of	_process_of
+-1
+-7.215228796005249
+___
+quantitative_concept	genetic_function	natural_phenomenon_or_process
+measurement_of	_process_of
+-1
+-7.215228796005249
+___
+quantitative_concept	genetic_function	pathologic_function
+measurement_of	_process_of
+-1
+-7.215228796005249
+___
+quantitative_concept	genetic_function	cell_or_molecular_dysfunction
+measurement_of	_process_of
+-1
+-7.215228796005249
+___
+quantitative_concept	organ_or_tissue_function	experimental_model_of_disease
+measurement_of	_process_of
+-1
+-7.231078386306763
+___
+quantitative_concept	organ_or_tissue_function	natural_phenomenon_or_process
+measurement_of	_process_of
+-1
+-7.231078386306763
+___
+quantitative_concept	organ_or_tissue_function	pathologic_function
+measurement_of	_process_of
+-1
+-7.231078386306763
+___
+quantitative_concept	organ_or_tissue_function	biologic_function
+measurement_of	_process_of
+-1
+-7.231078386306763
+___
+quantitative_concept	organ_or_tissue_function	mental_or_behavioral_dysfunction
+measurement_of	_process_of
+-1
+-7.231078386306763
+___
+quantitative_concept	organ_or_tissue_function	disease_or_syndrome
+measurement_of	_process_of
+-1
+-7.231078386306763
+___
+quantitative_concept	organ_or_tissue_function	neoplastic_process
+measurement_of	_process_of
+-1
+-7.231078386306763
+___
+quantitative_concept	organ_or_tissue_function	cell_or_molecular_dysfunction
+measurement_of	_process_of
+-1
+-7.231078386306763
+___
+quantitative_concept	organ_or_tissue_function	physiologic_function
+measurement_of	_process_of
+1
+-7.231078386306763
+___
+quantitative_concept	geographic_area	quantitative_concept
+measurement_of	_measurement_of
+-1
+-7.282806634902954
+___
+quantitative_concept	therapeutic_or_preventive_procedure	diagnostic_procedure
+conceptual_part_of	_precedes
+-1
+-7.3945974335074425
+___
+quantitative_concept	amino_acid_sequence	quantitative_concept
+measurement_of	_measurement_of
+-1
+-7.540667295455933
+___
+quantitative_concept	carbohydrate_sequence	quantitative_concept
+measurement_of	_measurement_of
+-1
+-7.6014244556427
+___
+quantitative_concept	spatial_concept	quantitative_concept
+measurement_of	_measurement_of
+-1
+-7.6014244556427
+___
+quantitative_concept	nucleotide_sequence	quantitative_concept
+measurement_of	_measurement_of
+-1
+-8.26180624961853
+___
+quantitative_concept	geographic_area	disease_or_syndrome
+measurement_of	associated_with
+-1
+-8.397279024124146
+___
+quantitative_concept	geographic_area	mental_or_behavioral_dysfunction
+measurement_of	associated_with
+-1
+-8.397279024124146
+___
+quantitative_concept	geographic_area	neoplastic_process
+measurement_of	associated_with
+-1
+-8.397279024124146
+___
+quantitative_concept	geographic_area	experimental_model_of_disease
+measurement_of	associated_with
+-1
+-8.397279024124146
+___
+quantitative_concept	geographic_area	congenital_abnormality
+measurement_of	associated_with
+-1
+-8.397279024124146
+___
+quantitative_concept	geographic_area	acquired_abnormality
+measurement_of	associated_with
+-1
+-8.397279024124146
+___
+quantitative_concept	geographic_area	anatomical_abnormality
+measurement_of	associated_with
+-1
+-8.397279024124146
+___
+quantitative_concept	geographic_area	pathologic_function
+measurement_of	associated_with
+-1
+-8.397279024124146
+___
+quantitative_concept	body_space_or_junction	conceptual_entity
+measurement_of	isa
+-1
+-8.505796194076538
+___
+quantitative_concept	body_space_or_junction	idea_or_concept
+measurement_of	isa
+-1
+-8.505796194076538
+___
+quantitative_concept	body_space_or_junction	entity
+measurement_of	isa
+-1
+-8.505796194076538
+___
+quantitative_concept	quantitative_concept	therapeutic_or_preventive_procedure
+NO_OP	conceptual_part_of
+-1
+-8.926995683461428
+___
+quantitative_concept	body_space_or_junction	body_substance
+measurement_of	contains
+-1
+-8.92716670036316
+___
+quantitative_concept	body_space_or_junction	tissue
+measurement_of	contains
+-1
+-8.92716670036316
+___
+quantitative_concept	body_space_or_junction	body_part_organ_or_organ_component
+measurement_of	contains
+-1
+-8.92716670036316
+___
+quantitative_concept	body_space_or_junction	body_part_organ_or_organ_component
+measurement_of	part_of
+-1
+-9.888073682785034
+___
+quantitative_concept	body_space_or_junction	acquired_abnormality
+measurement_of	location_of
+-1
+-10.282047033309937
+___
+quantitative_concept	body_space_or_junction	anatomical_abnormality
+measurement_of	location_of
+-1
+-10.282047033309937
+___
+quantitative_concept	body_space_or_junction	biologic_function
+measurement_of	location_of
+-1
+-10.282047033309937
+___
+quantitative_concept	body_space_or_junction	pathologic_function
+measurement_of	location_of
+-1
+-10.282047033309937
+___
+quantitative_concept	body_space_or_junction	cell_or_molecular_dysfunction
+measurement_of	location_of
+-1
+-10.282047033309937
+___
+quantitative_concept	body_space_or_junction	disease_or_syndrome
+measurement_of	location_of
+-1
+-10.282047033309937
+___
+quantitative_concept	body_space_or_junction	mental_or_behavioral_dysfunction
+measurement_of	location_of
+-1
+-10.282047033309937
+___
+quantitative_concept	body_space_or_junction	neoplastic_process
+measurement_of	location_of
+-1
+-10.282047033309937
+___
+quantitative_concept	body_space_or_junction	therapeutic_or_preventive_procedure
+measurement_of	location_of
+-1
+-10.282047033309937
+___
+quantitative_concept	body_space_or_junction	experimental_model_of_disease
+measurement_of	location_of
+-1
+-10.282047033309937
+___
+quantitative_concept	body_space_or_junction	cell_component
+measurement_of	location_of
+-1
+-10.282047033309937
+___
+quantitative_concept	body_space_or_junction	physiologic_function
+measurement_of	location_of
+1
+-10.282047033309937
+___
+quantitative_concept	body_space_or_junction	body_substance
+measurement_of	location_of
+-1
+-10.282047033309937
+___
+quantitative_concept	body_space_or_junction	congenital_abnormality
+measurement_of	location_of
+-1
+-10.282047033309937
+___
+quantitative_concept	body_space_or_junction	diagnostic_procedure
+measurement_of	location_of
+-1
+-10.282047033309937
+___
+quantitative_concept	organism_function	mental_or_behavioral_dysfunction
+measurement_of	_process_of
+-1
+-10.464125871658325
+___
+quantitative_concept	organism_function	physiologic_function
+measurement_of	_process_of
+1
+-10.464125871658325
+___
+quantitative_concept	organism_function	pathologic_function
+measurement_of	_process_of
+-1
+-10.464125871658325
+___
+quantitative_concept	organism_function	cell_or_molecular_dysfunction
+measurement_of	_process_of
+-1
+-10.464125871658325
+___
+quantitative_concept	organism_function	natural_phenomenon_or_process
+measurement_of	_process_of
+-1
+-10.464125871658325
+___
+quantitative_concept	organism_function	experimental_model_of_disease
+measurement_of	_process_of
+-1
+-10.464125871658325
+___
+quantitative_concept	organism_function	biologic_function
+measurement_of	_process_of
+-1
+-10.464125871658325
+___
+quantitative_concept	molecular_function	cell_or_molecular_dysfunction
+measurement_of	_process_of
+-1
+-10.464465379714966
+___
+quantitative_concept	molecular_function	physiologic_function
+measurement_of	_process_of
+1
+-10.464465379714966
+___
+quantitative_concept	molecular_function	natural_phenomenon_or_process
+measurement_of	_process_of
+-1
+-10.464465379714966
+___
+quantitative_concept	molecular_function	mental_or_behavioral_dysfunction
+measurement_of	_process_of
+-1
+-10.464465379714966
+___
+quantitative_concept	molecular_function	disease_or_syndrome
+measurement_of	_process_of
+-1
+-10.464465379714966
+___
+quantitative_concept	molecular_function	pathologic_function
+measurement_of	_process_of
+-1
+-10.464465379714966
+___
+quantitative_concept	molecular_function	experimental_model_of_disease
+measurement_of	_process_of
+-1
+-10.464465379714966
+___
+quantitative_concept	molecular_function	biologic_function
+measurement_of	_process_of
+-1
+-10.464465379714966
+___
+quantitative_concept	cell_function	cell_or_molecular_dysfunction
+measurement_of	_process_of
+-1
+-10.464619874954224
+___
+quantitative_concept	cell_function	natural_phenomenon_or_process
+measurement_of	_process_of
+-1
+-10.464619874954224
+___
+quantitative_concept	cell_function	neoplastic_process
+measurement_of	_process_of
+-1
+-10.464619874954224
+___
+quantitative_concept	cell_function	biologic_function
+measurement_of	_process_of
+-1
+-10.464619874954224
+___
+quantitative_concept	cell_function	physiologic_function
+measurement_of	_process_of
+1
+-10.464619874954224
+___
+quantitative_concept	cell_function	experimental_model_of_disease
+measurement_of	_process_of
+-1
+-10.464619874954224
+___
+quantitative_concept	cell_function	disease_or_syndrome
+measurement_of	_process_of
+-1
+-10.464619874954224
+___
+#####################
+laboratory_or_test_result	food
+Reward:1
+laboratory_or_test_result	substance	food
+measurement_of	_isa
+1
+-3.9534465074539185
+___
+laboratory_or_test_result	antibiotic	neoplastic_process
+measurement_of	prevents
+-1
+-4.931359052658081
+___
+laboratory_or_test_result	antibiotic	cell_or_molecular_dysfunction
+measurement_of	prevents
+-1
+-4.931359052658081
+___
+laboratory_or_test_result	antibiotic	mental_or_behavioral_dysfunction
+measurement_of	prevents
+-1
+-4.931359052658081
+___
+laboratory_or_test_result	antibiotic	experimental_model_of_disease
+measurement_of	prevents
+-1
+-4.931359052658081
+___
+laboratory_or_test_result	indicator_reagent_or_diagnostic_aid	pathologic_function
+measurement_of	causes
+-1
+-4.9548152685165405
+___
+laboratory_or_test_result	indicator_reagent_or_diagnostic_aid	acquired_abnormality
+measurement_of	causes
+-1
+-4.9548152685165405
+___
+laboratory_or_test_result	indicator_reagent_or_diagnostic_aid	experimental_model_of_disease
+measurement_of	causes
+-1
+-4.9548152685165405
+___
+laboratory_or_test_result	indicator_reagent_or_diagnostic_aid	disease_or_syndrome
+measurement_of	causes
+-1
+-4.9548152685165405
+___
+laboratory_or_test_result	indicator_reagent_or_diagnostic_aid	congenital_abnormality
+measurement_of	causes
+-1
+-4.9548152685165405
+___
+laboratory_or_test_result	mental_process	pathologic_function
+measurement_of	_process_of
+-1
+-5.057596683502197
+___
+laboratory_or_test_result	mental_process	cell_or_molecular_dysfunction
+measurement_of	_process_of
+-1
+-5.057596683502197
+___
+laboratory_or_test_result	mental_process	neoplastic_process
+measurement_of	_process_of
+-1
+-5.057596683502197
+___
+laboratory_or_test_result	mental_process	disease_or_syndrome
+measurement_of	_process_of
+-1
+-5.057596683502197
+___
+laboratory_or_test_result	mental_process	experimental_model_of_disease
+measurement_of	_process_of
+-1
+-5.057596683502197
+___
+laboratory_or_test_result	inorganic_chemical	disease_or_syndrome
+measurement_of	causes
+-1
+-5.1372222900390625
+___
+laboratory_or_test_result	inorganic_chemical	injury_or_poisoning
+measurement_of	causes
+-1
+-5.1372222900390625
+___
+laboratory_or_test_result	inorganic_chemical	experimental_model_of_disease
+measurement_of	causes
+-1
+-5.1372222900390625
+___
+laboratory_or_test_result	inorganic_chemical	acquired_abnormality
+measurement_of	causes
+-1
+-5.1372222900390625
+___
+laboratory_or_test_result	inorganic_chemical	pathologic_function
+measurement_of	causes
+-1
+-5.1372222900390625
+___
+laboratory_or_test_result	inorganic_chemical	mental_or_behavioral_dysfunction
+measurement_of	causes
+-1
+-5.1372222900390625
+___
+laboratory_or_test_result	organism_function	pathologic_function
+measurement_of	_process_of
+-1
+-5.1775219440460205
+___
+laboratory_or_test_result	organism_function	biologic_function
+measurement_of	_process_of
+-1
+-5.1775219440460205
+___
+laboratory_or_test_result	organism_function	cell_or_molecular_dysfunction
+measurement_of	_process_of
+-1
+-5.1775219440460205
+___
+laboratory_or_test_result	organism_function	experimental_model_of_disease
+measurement_of	_process_of
+-1
+-5.1775219440460205
+___
+laboratory_or_test_result	organism_function	mental_or_behavioral_dysfunction
+measurement_of	_process_of
+-1
+-5.1775219440460205
+___
+laboratory_or_test_result	organism_function	natural_phenomenon_or_process
+measurement_of	_process_of
+-1
+-5.1775219440460205
+___
+laboratory_or_test_result	genetic_function	experimental_model_of_disease
+measurement_of	_process_of
+-1
+-5.194726347923279
+___
+laboratory_or_test_result	genetic_function	biologic_function
+measurement_of	_process_of
+-1
+-5.194726347923279
+___
+laboratory_or_test_result	genetic_function	mental_or_behavioral_dysfunction
+measurement_of	_process_of
+-1
+-5.194726347923279
+___
+laboratory_or_test_result	genetic_function	pathologic_function
+measurement_of	_process_of
+-1
+-5.194726347923279
+___
+laboratory_or_test_result	genetic_function	natural_phenomenon_or_process
+measurement_of	_process_of
+-1
+-5.194726347923279
+___
+laboratory_or_test_result	genetic_function	cell_or_molecular_dysfunction
+measurement_of	_process_of
+-1
+-5.194726347923279
+___
+laboratory_or_test_result	chemical_viewed_functionally	disease_or_syndrome
+measurement_of	causes
+-1
+-5.290987491607666
+___
+laboratory_or_test_result	chemical_viewed_functionally	pathologic_function
+measurement_of	causes
+-1
+-5.290987491607666
+___
+laboratory_or_test_result	chemical_viewed_functionally	injury_or_poisoning
+measurement_of	causes
+-1
+-5.290987491607666
+___
+laboratory_or_test_result	chemical_viewed_functionally	neoplastic_process
+measurement_of	causes
+-1
+-5.290987491607666
+___
+laboratory_or_test_result	chemical_viewed_functionally	congenital_abnormality
+measurement_of	causes
+-1
+-5.290987491607666
+___
+laboratory_or_test_result	chemical_viewed_functionally	cell_or_molecular_dysfunction
+measurement_of	causes
+-1
+-5.290987491607666
+___
+laboratory_or_test_result	chemical_viewed_functionally	experimental_model_of_disease
+measurement_of	causes
+-1
+-5.290987491607666
+___
+laboratory_or_test_result	biomedical_or_dental_material	pathologic_function
+measurement_of	causes
+-1
+-5.291009306907654
+___
+laboratory_or_test_result	biomedical_or_dental_material	experimental_model_of_disease
+measurement_of	causes
+-1
+-5.291009306907654
+___
+laboratory_or_test_result	biomedical_or_dental_material	injury_or_poisoning
+measurement_of	causes
+-1
+-5.291009306907654
+___
+laboratory_or_test_result	biomedical_or_dental_material	disease_or_syndrome
+measurement_of	causes
+-1
+-5.291009306907654
+___
+laboratory_or_test_result	biomedical_or_dental_material	congenital_abnormality
+measurement_of	causes
+-1
+-5.291009306907654
+___
+laboratory_or_test_result	biomedical_or_dental_material	acquired_abnormality
+measurement_of	causes
+-1
+-5.291009306907654
+___
+laboratory_or_test_result	biomedical_or_dental_material	mental_or_behavioral_dysfunction
+measurement_of	causes
+-1
+-5.291009306907654
+___
+laboratory_or_test_result	receptor	cell_or_molecular_dysfunction
+measurement_of	causes
+-1
+-5.322090744972229
+___
+laboratory_or_test_result	receptor	neoplastic_process
+measurement_of	causes
+-1
+-5.322090744972229
+___
+laboratory_or_test_result	receptor	disease_or_syndrome
+measurement_of	causes
+-1
+-5.322090744972229
+___
+laboratory_or_test_result	receptor	congenital_abnormality
+measurement_of	causes
+-1
+-5.322090744972229
+___
+laboratory_or_test_result	receptor	experimental_model_of_disease
+measurement_of	causes
+-1
+-5.322090744972229
+___
+laboratory_or_test_result	receptor	anatomical_abnormality
+measurement_of	causes
+-1
+-5.322090744972229
+___
+laboratory_or_test_result	cell_function	mental_or_behavioral_dysfunction
+measurement_of	_process_of
+-1
+-5.335564494132996
+___
+laboratory_or_test_result	cell_function	cell_or_molecular_dysfunction
+measurement_of	_process_of
+-1
+-5.335564494132996
+___
+laboratory_or_test_result	cell_function	experimental_model_of_disease
+measurement_of	_process_of
+-1
+-5.335564494132996
+___
+laboratory_or_test_result	cell_function	neoplastic_process
+measurement_of	_process_of
+-1
+-5.335564494132996
+___
+laboratory_or_test_result	cell_function	natural_phenomenon_or_process
+measurement_of	_process_of
+-1
+-5.335564494132996
+___
+laboratory_or_test_result	cell_function	disease_or_syndrome
+measurement_of	_process_of
+-1
+-5.335564494132996
+___
+laboratory_or_test_result	cell_function	biologic_function
+measurement_of	_process_of
+-1
+-5.335564494132996
+___
+laboratory_or_test_result	molecular_function	biologic_function
+measurement_of	_process_of
+-1
+-5.337217926979065
+___
+laboratory_or_test_result	molecular_function	pathologic_function
+measurement_of	_process_of
+-1
+-5.337217926979065
+___
+laboratory_or_test_result	molecular_function	experimental_model_of_disease
+measurement_of	_process_of
+-1
+-5.337217926979065
+___
+laboratory_or_test_result	molecular_function	cell_or_molecular_dysfunction
+measurement_of	_process_of
+-1
+-5.337217926979065
+___
+laboratory_or_test_result	molecular_function	disease_or_syndrome
+measurement_of	_process_of
+-1
+-5.337217926979065
+___
+laboratory_or_test_result	molecular_function	natural_phenomenon_or_process
+measurement_of	_process_of
+-1
+-5.337217926979065
+___
+laboratory_or_test_result	molecular_function	mental_or_behavioral_dysfunction
+measurement_of	_process_of
+-1
+-5.337217926979065
+___
+laboratory_or_test_result	biologically_active_substance	cell_or_molecular_dysfunction
+measurement_of	causes
+-1
+-5.38381028175354
+___
+laboratory_or_test_result	biologically_active_substance	anatomical_abnormality
+measurement_of	causes
+-1
+-5.38381028175354
+___
+laboratory_or_test_result	biologically_active_substance	pathologic_function
+measurement_of	causes
+-1
+-5.38381028175354
+___
+laboratory_or_test_result	biologically_active_substance	neoplastic_process
+measurement_of	causes
+-1
+-5.38381028175354
+___
+laboratory_or_test_result	biologically_active_substance	acquired_abnormality
+measurement_of	causes
+-1
+-5.38381028175354
+___
+laboratory_or_test_result	biologically_active_substance	congenital_abnormality
+measurement_of	causes
+-1
+-5.38381028175354
+___
+laboratory_or_test_result	lipid	neoplastic_process
+measurement_of	causes
+-1
+-5.425999164581299
+___
+laboratory_or_test_result	lipid	mental_or_behavioral_dysfunction
+measurement_of	causes
+-1
+-5.425999164581299
+___
+laboratory_or_test_result	lipid	pathologic_function
+measurement_of	causes
+-1
+-5.425999164581299
+___
+laboratory_or_test_result	lipid	disease_or_syndrome
+measurement_of	causes
+-1
+-5.425999164581299
+___
+laboratory_or_test_result	lipid	cell_or_molecular_dysfunction
+measurement_of	causes
+-1
+-5.425999164581299
+___
+laboratory_or_test_result	lipid	injury_or_poisoning
+measurement_of	causes
+-1
+-5.425999164581299
+___
+laboratory_or_test_result	lipid	anatomical_abnormality
+measurement_of	causes
+-1
+-5.425999164581299
+___
+laboratory_or_test_result	lipid	experimental_model_of_disease
+measurement_of	causes
+-1
+-5.425999164581299
+___
+laboratory_or_test_result	steroid	cell_or_molecular_dysfunction
+measurement_of	causes
+-1
+-5.426122188568115
+___
+laboratory_or_test_result	steroid	disease_or_syndrome
+measurement_of	causes
+-1
+-5.426122188568115
+___
+laboratory_or_test_result	steroid	mental_or_behavioral_dysfunction
+measurement_of	causes
+-1
+-5.426122188568115
+___
+laboratory_or_test_result	steroid	experimental_model_of_disease
+measurement_of	causes
+-1
+-5.426122188568115
+___
+laboratory_or_test_result	steroid	neoplastic_process
+measurement_of	causes
+-1
+-5.426122188568115
+___
+laboratory_or_test_result	steroid	injury_or_poisoning
+measurement_of	causes
+-1
+-5.426122188568115
+___
+laboratory_or_test_result	steroid	acquired_abnormality
+measurement_of	causes
+-1
+-5.426122188568115
+___
+laboratory_or_test_result	steroid	pathologic_function
+measurement_of	causes
+-1
+-5.426122188568115
+___
+laboratory_or_test_result	organ_or_tissue_function	experimental_model_of_disease
+measurement_of	_process_of
+-1
+-5.466644763946533
+___
+laboratory_or_test_result	organ_or_tissue_function	natural_phenomenon_or_process
+measurement_of	_process_of
+-1
+-5.466644763946533
+___
+laboratory_or_test_result	organ_or_tissue_function	mental_or_behavioral_dysfunction
+measurement_of	_process_of
+-1
+-5.466644763946533
+___
+laboratory_or_test_result	organ_or_tissue_function	disease_or_syndrome
+measurement_of	_process_of
+-1
+-5.466644763946533
+___
+laboratory_or_test_result	organ_or_tissue_function	pathologic_function
+measurement_of	_process_of
+-1
+-5.466644763946533
+___
+laboratory_or_test_result	organ_or_tissue_function	biologic_function
+measurement_of	_process_of
+-1
+-5.466644763946533
+___
+laboratory_or_test_result	organ_or_tissue_function	cell_or_molecular_dysfunction
+measurement_of	_process_of
+-1
+-5.466644763946533
+___
+laboratory_or_test_result	organ_or_tissue_function	neoplastic_process
+measurement_of	_process_of
+-1
+-5.466644763946533
+___
+laboratory_or_test_result	vitamin	pathologic_function
+measurement_of	causes
+-1
+-5.470512866973877
+___
+laboratory_or_test_result	vitamin	congenital_abnormality
+measurement_of	causes
+-1
+-5.470512866973877
+___
+laboratory_or_test_result	vitamin	experimental_model_of_disease
+measurement_of	causes
+-1
+-5.470512866973877
+___
+#####################
+organism_attribute	mental_process
+Reward:1
+organism_attribute	physiologic_function	mental_process
+measurement_of	_precedes
+1
+-1.6751524955034256
+___
+organism_attribute	organism_function	mental_process
+measurement_of	precedes
+1
+-2.0839876234531403
+___
+organism_attribute	cell_function	mental_process
+measurement_of	precedes
+1
+-2.3370386362075806
+___
+organism_attribute	organ_or_tissue_function	mental_process
+measurement_of	precedes
+1
+-2.3372156620025635
+___
+organism_attribute	cell_function	mental_process
+measurement_of	_co-occurs_with
+1
+-2.380040764808655
+___
+organism_attribute	organ_or_tissue_function	mental_process
+measurement_of	_co-occurs_with
+1
+-2.3802177906036377
+___
+organism_attribute	organism_function	mental_process
+measurement_of	degree_of
+1
+-3.341607451438904
+___
+organism_attribute	genetic_function	mental_or_behavioral_dysfunction
+measurement_of	_process_of
+-1
+-3.4855681657791138
+___
+organism_attribute	genetic_function	experimental_model_of_disease
+measurement_of	_process_of
+-1
+-3.4855681657791138
+___
+organism_attribute	genetic_function	pathologic_function
+measurement_of	_process_of
+-1
+-3.4855681657791138
+___
+organism_attribute	genetic_function	natural_phenomenon_or_process
+measurement_of	_process_of
+-1
+-3.4855681657791138
+___
+organism_attribute	genetic_function	cell_or_molecular_dysfunction
+measurement_of	_process_of
+-1
+-3.4855681657791138
+___
+organism_attribute	genetic_function	biologic_function
+measurement_of	_process_of
+-1
+-3.4855681657791138
+___
+organism_attribute	organism_function	mental_process
+measurement_of	_degree_of
+1
+-3.521720290184021
+___
+organism_attribute	physiologic_function	mental_process
+measurement_of	_co-occurs_with
+1
+-4.989268064498901
+___
+organism_attribute	clinical_attribute	mental_process
+_isa	manifestation_of
+1
+-5.900294780731201
+___
+organism_attribute	clinical_attribute	mental_process
+degree_of	manifestation_of
+1
+-6.069871515035629
+___
+organism_attribute	clinical_attribute	organism_attribute
+_isa	_degree_of
+-1
+-6.392995834350586
+___
+organism_attribute	physiologic_function	mental_process
+measurement_of	_isa
+1
+-6.459063291549683
+___
+organism_attribute	organism_function	experimental_model_of_disease
+measurement_of	_process_of
+-1
+-6.838693857192993
+___
+organism_attribute	organism_function	natural_phenomenon_or_process
+measurement_of	_process_of
+-1
+-6.838693857192993
+___
+organism_attribute	organism_function	biologic_function
+measurement_of	_process_of
+-1
+-6.838693857192993
+___
+organism_attribute	organism_function	cell_or_molecular_dysfunction
+measurement_of	_process_of
+-1
+-6.838693857192993
+___
+organism_attribute	organism_function	pathologic_function
+measurement_of	_process_of
+-1
+-6.838693857192993
+___
+organism_attribute	organism_function	mental_or_behavioral_dysfunction
+measurement_of	_process_of
+-1
+-6.838693857192993
+___
+organism_attribute	clinical_attribute	mental_process
+_isa	measurement_of
+1
+-7.0283379554748535
+___
+organism_attribute	molecular_function	mental_process
+manifestation_of	_precedes
+1
+-7.065310522913933
+___
+organism_attribute	cell_function	natural_phenomenon_or_process
+measurement_of	_process_of
+-1
+-7.091745138168335
+___
+organism_attribute	cell_function	cell_or_molecular_dysfunction
+measurement_of	_process_of
+-1
+-7.091745138168335
+___
+organism_attribute	cell_function	experimental_model_of_disease
+measurement_of	_process_of
+-1
+-7.091745138168335
+___
+organism_attribute	cell_function	biologic_function
+measurement_of	_process_of
+-1
+-7.091745138168335
+___
+organism_attribute	cell_function	mental_or_behavioral_dysfunction
+measurement_of	_process_of
+-1
+-7.091745138168335
+___
+organism_attribute	cell_function	neoplastic_process
+measurement_of	_process_of
+-1
+-7.091745138168335
+___
+organism_attribute	cell_function	disease_or_syndrome
+measurement_of	_process_of
+-1
+-7.091745138168335
+___
+organism_attribute	cell_function	mental_process
+measurement_of	_process_of
+1
+-7.091745138168335
+___
+organism_attribute	organ_or_tissue_function	pathologic_function
+measurement_of	_process_of
+-1
+-7.091922044754028
+___
+organism_attribute	organ_or_tissue_function	natural_phenomenon_or_process
+measurement_of	_process_of
+-1
+-7.091922044754028
+___
+organism_attribute	organ_or_tissue_function	neoplastic_process
+measurement_of	_process_of
+-1
+-7.091922044754028
+___
+organism_attribute	organ_or_tissue_function	mental_or_behavioral_dysfunction
+measurement_of	_process_of
+-1
+-7.091922044754028
+___
+organism_attribute	organ_or_tissue_function	disease_or_syndrome
+measurement_of	_process_of
+-1
+-7.091922044754028
+___
+organism_attribute	organ_or_tissue_function	cell_or_molecular_dysfunction
+measurement_of	_process_of
+-1
+-7.091922044754028
+___
+organism_attribute	organ_or_tissue_function	biologic_function
+measurement_of	_process_of
+-1
+-7.091922044754028
+___
+organism_attribute	organ_or_tissue_function	experimental_model_of_disease
+measurement_of	_process_of
+-1
+-7.091922044754028
+___
+organism_attribute	physiologic_function	mental_process
+manifestation_of	_precedes
+1
+-7.099276825785637
+___
+organism_attribute	organism_function	mental_process
+manifestation_of	precedes
+1
+-7.458741545677185
+___
+organism_attribute	genetic_function	phenomenon_or_process
+measurement_of	_result_of
+-1
+-7.529082536697388
+___
+organism_attribute	genetic_function	organism_attribute
+measurement_of	_result_of
+-1
+-7.529082536697388
+___
+organism_attribute	genetic_function	congenital_abnormality
+measurement_of	_result_of
+-1
+-7.529082536697388
+___
+organism_attribute	genetic_function	neoplastic_process
+measurement_of	_result_of
+-1
+-7.529082536697388
+___
+organism_attribute	genetic_function	natural_phenomenon_or_process
+measurement_of	_result_of
+-1
+-7.529082536697388
+___
+organism_attribute	genetic_function	human_caused_phenomenon_or_process
+measurement_of	_result_of
+-1
+-7.529082536697388
+___
+organism_attribute	genetic_function	injury_or_poisoning
+measurement_of	_result_of
+-1
+-7.529082536697388
+___
+organism_attribute	genetic_function	disease_or_syndrome
+measurement_of	_result_of
+-1
+-7.529082536697388
+___
+organism_attribute	genetic_function	environmental_effect_of_humans
+measurement_of	_result_of
+-1
+-7.529082536697388
+___
+organism_attribute	genetic_function	anatomical_abnormality
+measurement_of	_result_of
+-1
+-7.529082536697388
+___
+organism_attribute	genetic_function	pathologic_function
+measurement_of	_result_of
+-1
+-7.529082536697388
+___
+organism_attribute	genetic_function	biologic_function
+measurement_of	_result_of
+-1
+-7.529082536697388
+___
+organism_attribute	genetic_function	mental_or_behavioral_dysfunction
+measurement_of	_result_of
+-1
+-7.529082536697388
+___
+organism_attribute	genetic_function	cell_or_molecular_dysfunction
+measurement_of	_result_of
+-1
+-7.529082536697388
+___
+organism_attribute	genetic_function	mental_process
+measurement_of	_result_of
+1
+-7.529082536697388
+___
+organism_attribute	genetic_function	experimental_model_of_disease
+measurement_of	_result_of
+-1
+-7.529082536697388
+___
+organism_attribute	clinical_attribute	mental_process
+degree_of	measurement_of
+1
+-7.594064831733704
+___
+organism_attribute	organism_function	mental_process
+manifestation_of	_degree_of
+1
+-8.181680083274841
+___
+organism_attribute	mental_process	mental_process
+manifestation_of	NO_OP
+1
+-8.190247893333435
+___
+organism_attribute	organism_attribute	mental_process
+NO_OP	manifestation_of
+1
+-8.261903867125511
+___
+organism_attribute	physiologic_function	mental_process
+manifestation_of	_isa
+1
+-8.987395524978638
+___
+organism_attribute	clinical_attribute	organism_attribute
+degree_of	_degree_of
+-1
+-9.11444091796875
+___
+organism_attribute	organism_function	mental_process
+manifestation_of	degree_of
+1
+-9.118152141571045
+___
+organism_attribute	genetic_function	pathologic_function
+manifestation_of	_process_of
+-1
+-9.16903305053711
+___
+organism_attribute	genetic_function	experimental_model_of_disease
+manifestation_of	_process_of
+-1
+-9.16903305053711
+___
+organism_attribute	genetic_function	natural_phenomenon_or_process
+manifestation_of	_process_of
+-1
+-9.16903305053711
+___
+organism_attribute	genetic_function	cell_or_molecular_dysfunction
+manifestation_of	_process_of
+-1
+-9.16903305053711
+___
+organism_attribute	genetic_function	biologic_function
+manifestation_of	_process_of
+-1
+-9.16903305053711
+___
+organism_attribute	genetic_function	mental_or_behavioral_dysfunction
+manifestation_of	_process_of
+-1
+-9.16903305053711
+___
+organism_attribute	molecular_function	mental_process
+manifestation_of	precedes
+1
+-9.254136085510254
+___
+organism_attribute	molecular_function	mental_process
+_affects	_precedes
+1
+-9.303301692008972
+___
+organism_attribute	mental_process	cell_or_molecular_dysfunction
+manifestation_of	_process_of
+-1
+-9.399389743804932
+___
+organism_attribute	mental_process	experimental_model_of_disease
+manifestation_of	_process_of
+-1
+-9.399389743804932
+___
+organism_attribute	mental_process	disease_or_syndrome
+manifestation_of	_process_of
+-1
+-9.399389743804932
+___
+organism_attribute	mental_process	neoplastic_process
+manifestation_of	_process_of
+-1
+-9.399389743804932
+___
+organism_attribute	mental_process	pathologic_function
+manifestation_of	_process_of
+-1
+-9.399389743804932
+___
+organism_attribute	human_caused_phenomenon_or_process	environmental_effect_of_humans
+result_of	_isa
+-1
+-9.409169325139374
+___
+organism_attribute	physiologic_function	mental_process
+result_of	_precedes
+1
+-9.473664700984955
+___
+organism_attribute	molecular_function	mental_process
+result_of	_precedes
+1
+-9.49579456448555
+___
+organism_attribute	genetic_function	vertebrate
+measurement_of	affects
+-1
+-9.66359829902649
+___
+organism_attribute	genetic_function	natural_phenomenon_or_process
+measurement_of	affects
+-1
+-9.66359829902649
+___
+organism_attribute	genetic_function	pathologic_function
+measurement_of	affects
+-1
+-9.66359829902649
+___
+organism_attribute	genetic_function	animal
+measurement_of	affects
+-1
+-9.66359829902649
+___
+organism_attribute	genetic_function	clinical_attribute
+measurement_of	affects
+-1
+-9.66359829902649
+___
+organism_attribute	genetic_function	archaeon
+measurement_of	affects
+-1
+-9.66359829902649
+___
+organism_attribute	genetic_function	alga
+measurement_of	affects
+-1
+-9.66359829902649
+___
+organism_attribute	genetic_function	bacterium
+measurement_of	affects
+-1
+-9.66359829902649
+___
+organism_attribute	genetic_function	bird
+measurement_of	affects
+-1
+-9.66359829902649
+___
+organism_attribute	genetic_function	cell_or_molecular_dysfunction
+measurement_of	affects
+-1
+-9.66359829902649
+___
+organism_attribute	genetic_function	experimental_model_of_disease
+measurement_of	affects
+-1
+-9.66359829902649
+___
+organism_attribute	genetic_function	fish
+measurement_of	affects
+-1
+-9.66359829902649
+___
+organism_attribute	genetic_function	fungus
+measurement_of	affects
+-1
+-9.66359829902649
+___
+organism_attribute	genetic_function	amphibian
+measurement_of	affects
+-1
+-9.66359829902649
+___
+organism_attribute	genetic_function	organism_attribute
+measurement_of	affects
+-1
+-9.66359829902649
+___
+organism_attribute	genetic_function	mammal
+measurement_of	affects
+-1
+-9.66359829902649
+___
+#####################
+quantitative_concept	mental_process
+Reward:1
+quantitative_concept	body_space_or_junction	body_part_organ_or_organ_component
+measurement_of	_interconnects
+-1
+-2.4490569420158863
+___
+quantitative_concept	molecular_function	mental_process
+measurement_of	_precedes
+1
+-2.472993202507496
+___
+quantitative_concept	geographic_area	entity
+measurement_of	isa
+-1
+-2.8434709012508392
+___
+quantitative_concept	organism_function	mental_process
+measurement_of	precedes
+1
+-2.8536341190338135
+___
+quantitative_concept	amino_acid_sequence	conceptual_entity
+measurement_of	isa
+-1
+-3.0366750955581665
+___
+quantitative_concept	carbohydrate_sequence	conceptual_entity
+measurement_of	isa
+-1
+-3.0974326133728027
+___
+quantitative_concept	carbohydrate_sequence	entity
+measurement_of	isa
+-1
+-3.0974326133728027
+___
+quantitative_concept	cell_function	mental_process
+measurement_of	precedes
+1
+-3.1066852807998657
+___
+quantitative_concept	organ_or_tissue_function	mental_process
+measurement_of	precedes
+1
+-3.1068623065948486
+___
+quantitative_concept	spatial_concept	idea_or_concept
+measurement_of	isa
+-1
+-3.144858479499817
+___
+quantitative_concept	spatial_concept	entity
+measurement_of	isa
+-1
+-3.144858479499817
+___
+quantitative_concept	cell_function	mental_process
+measurement_of	_co-occurs_with
+1
+-3.14968740940094
+___
+quantitative_concept	organ_or_tissue_function	mental_process
+measurement_of	_co-occurs_with
+1
+-3.149864435195923
+___
+quantitative_concept	amino_acid_sequence	amino_acid_peptide_or_protein
+measurement_of	property_of
+-1
+-3.162864327430725
+___
+quantitative_concept	nucleotide_sequence	entity
+measurement_of	isa
+-1
+-3.7825976610183716
+___
+quantitative_concept	nucleotide_sequence	idea_or_concept
+measurement_of	isa
+-1
+-3.7825976610183716
+___
+quantitative_concept	nucleotide_sequence	conceptual_entity
+measurement_of	isa
+-1
+-3.7825976610183716
+___
+quantitative_concept	nucleotide_sequence	gene_or_genome
+measurement_of	property_of
+-1
+-3.90878689289093
+___
+quantitative_concept	organism_function	mental_process
+measurement_of	degree_of
+1
+-4.111253976821899
+___
+quantitative_concept	genetic_function	cell_or_molecular_dysfunction
+measurement_of	_process_of
+-1
+-4.255213737487793
+___
+quantitative_concept	genetic_function	experimental_model_of_disease
+measurement_of	_process_of
+-1
+-4.255213737487793
+___
+quantitative_concept	genetic_function	mental_or_behavioral_dysfunction
+measurement_of	_process_of
+-1
+-4.255213737487793
+___
+quantitative_concept	genetic_function	pathologic_function
+measurement_of	_process_of
+-1
+-4.255213737487793
+___
+quantitative_concept	genetic_function	natural_phenomenon_or_process
+measurement_of	_process_of
+-1
+-4.255213737487793
+___
+quantitative_concept	genetic_function	biologic_function
+measurement_of	_process_of
+-1
+-4.255213737487793
+___
+quantitative_concept	organism_function	mental_process
+measurement_of	_degree_of
+1
+-4.291366815567017
+___
+quantitative_concept	geographic_area	behavior
+measurement_of	_associated_with
+-1
+-4.398811101913452
+___
+quantitative_concept	geographic_area	individual_behavior
+measurement_of	_associated_with
+-1
+-4.398811101913452
+___
+quantitative_concept	geographic_area	mental_process
+measurement_of	result_of
+1
+-5.169570684432983
+___
+quantitative_concept	spatial_concept	mental_process
+measurement_of	result_of
+1
+-5.470958471298218
+___
+quantitative_concept	molecular_function	mental_process
+measurement_of	precedes
+1
+-5.7441065311431885
+___
+quantitative_concept	molecular_function	mental_process
+measurement_of	_co-occurs_with
+1
+-5.787108659744263
+___
+quantitative_concept	nucleotide_sequence	mental_process
+measurement_of	result_of
+1
+-6.1086976528167725
+___
+quantitative_concept	body_space_or_junction	fully_formed_anatomical_structure
+measurement_of	conceptual_part_of
+-1
+-6.949364423751831
+___
+quantitative_concept	body_space_or_junction	body_system
+measurement_of	conceptual_part_of
+-1
+-6.949364423751831
+___
+quantitative_concept	body_space_or_junction	tissue
+measurement_of	connected_to
+-1
+-6.953966379165649
+___
+quantitative_concept	geographic_area	quantitative_concept
+measurement_of	_measurement_of
+-1
+-7.347462892532349
+___
+quantitative_concept	therapeutic_or_preventive_procedure	diagnostic_procedure
+conceptual_part_of	_precedes
+-1
+-7.3944375813007355
+___
+quantitative_concept	amino_acid_sequence	quantitative_concept
+measurement_of	_measurement_of
+-1
+-7.540667295455933
+___
+quantitative_concept	carbohydrate_sequence	quantitative_concept
+measurement_of	_measurement_of
+-1
+-7.6014244556427
+___
+quantitative_concept	organism_function	biologic_function
+measurement_of	_process_of
+-1
+-7.608340501785278
+___
+quantitative_concept	organism_function	pathologic_function
+measurement_of	_process_of
+-1
+-7.608340501785278
+___
+quantitative_concept	organism_function	mental_or_behavioral_dysfunction
+measurement_of	_process_of
+-1
+-7.608340501785278
+___
+quantitative_concept	organism_function	experimental_model_of_disease
+measurement_of	_process_of
+-1
+-7.608340501785278
+___
+quantitative_concept	organism_function	natural_phenomenon_or_process
+measurement_of	_process_of
+-1
+-7.608340501785278
+___
+quantitative_concept	organism_function	cell_or_molecular_dysfunction
+measurement_of	_process_of
+-1
+-7.608340501785278
+___
+quantitative_concept	spatial_concept	quantitative_concept
+measurement_of	_measurement_of
+-1
+-7.648850679397583
+___
+quantitative_concept	cell_function	mental_or_behavioral_dysfunction
+measurement_of	_process_of
+-1
+-7.86139178276062
+___
+quantitative_concept	cell_function	natural_phenomenon_or_process
+measurement_of	_process_of
+-1
+-7.86139178276062
+___
+quantitative_concept	cell_function	biologic_function
+measurement_of	_process_of
+-1
+-7.86139178276062
+___
+quantitative_concept	cell_function	neoplastic_process
+measurement_of	_process_of
+-1
+-7.86139178276062
+___
+quantitative_concept	cell_function	cell_or_molecular_dysfunction
+measurement_of	_process_of
+-1
+-7.86139178276062
+___
+quantitative_concept	cell_function	disease_or_syndrome
+measurement_of	_process_of
+-1
+-7.86139178276062
+___
+quantitative_concept	cell_function	mental_process
+measurement_of	_process_of
+1
+-7.86139178276062
+___
+quantitative_concept	cell_function	experimental_model_of_disease
+measurement_of	_process_of
+-1
+-7.86139178276062
+___
+quantitative_concept	organ_or_tissue_function	disease_or_syndrome
+measurement_of	_process_of
+-1
+-7.8615686893463135
+___
+quantitative_concept	organ_or_tissue_function	cell_or_molecular_dysfunction
+measurement_of	_process_of
+-1
+-7.8615686893463135
+___
+quantitative_concept	organ_or_tissue_function	natural_phenomenon_or_process
+measurement_of	_process_of
+-1
+-7.8615686893463135
+___
+quantitative_concept	organ_or_tissue_function	neoplastic_process
+measurement_of	_process_of
+-1
+-7.8615686893463135
+___
+quantitative_concept	organ_or_tissue_function	mental_or_behavioral_dysfunction
+measurement_of	_process_of
+-1
+-7.8615686893463135
+___
+quantitative_concept	organ_or_tissue_function	biologic_function
+measurement_of	_process_of
+-1
+-7.8615686893463135
+___
+quantitative_concept	organ_or_tissue_function	experimental_model_of_disease
+measurement_of	_process_of
+-1
+-7.8615686893463135
+___
+quantitative_concept	organ_or_tissue_function	pathologic_function
+measurement_of	_process_of
+-1
+-7.8615686893463135
+___
+quantitative_concept	nucleotide_sequence	quantitative_concept
+measurement_of	_measurement_of
+-1
+-8.286589860916138
+___
+quantitative_concept	genetic_function	mental_process
+measurement_of	_result_of
+1
+-8.298728227615356
+___
+quantitative_concept	genetic_function	injury_or_poisoning
+measurement_of	_result_of
+-1
+-8.298728227615356
+___
+quantitative_concept	genetic_function	experimental_model_of_disease
+measurement_of	_result_of
+-1
+-8.298728227615356
+___
+quantitative_concept	genetic_function	environmental_effect_of_humans
+measurement_of	_result_of
+-1
+-8.298728227615356
+___
+quantitative_concept	genetic_function	human_caused_phenomenon_or_process
+measurement_of	_result_of
+-1
+-8.298728227615356
+___
+quantitative_concept	genetic_function	phenomenon_or_process
+measurement_of	_result_of
+-1
+-8.298728227615356
+___
+quantitative_concept	genetic_function	pathologic_function
+measurement_of	_result_of
+-1
+-8.298728227615356
+___
+quantitative_concept	genetic_function	disease_or_syndrome
+measurement_of	_result_of
+-1
+-8.298728227615356
+___
+quantitative_concept	genetic_function	biologic_function
+measurement_of	_result_of
+-1
+-8.298728227615356
+___
+quantitative_concept	genetic_function	congenital_abnormality
+measurement_of	_result_of
+-1
+-8.298728227615356
+___
+quantitative_concept	genetic_function	cell_or_molecular_dysfunction
+measurement_of	_result_of
+-1
+-8.298728227615356
+___
+quantitative_concept	genetic_function	neoplastic_process
+measurement_of	_result_of
+-1
+-8.298728227615356
+___
+quantitative_concept	genetic_function	anatomical_abnormality
+measurement_of	_result_of
+-1
+-8.298728227615356
+___
+quantitative_concept	genetic_function	organism_attribute
+measurement_of	_result_of
+-1
+-8.298728227615356
+___
+quantitative_concept	genetic_function	natural_phenomenon_or_process
+measurement_of	_result_of
+-1
+-8.298728227615356
+___
+quantitative_concept	genetic_function	mental_or_behavioral_dysfunction
+measurement_of	_result_of
+-1
+-8.298728227615356
+___
+quantitative_concept	geographic_area	pathologic_function
+measurement_of	associated_with
+-1
+-8.46193528175354
+___
+quantitative_concept	geographic_area	anatomical_abnormality
+measurement_of	associated_with
+-1
+-8.46193528175354
+___
+quantitative_concept	geographic_area	disease_or_syndrome
+measurement_of	associated_with
+-1
+-8.46193528175354
+___
+quantitative_concept	geographic_area	acquired_abnormality
+measurement_of	associated_with
+-1
+-8.46193528175354
+___
+quantitative_concept	geographic_area	experimental_model_of_disease
+measurement_of	associated_with
+-1
+-8.46193528175354
+___
+quantitative_concept	geographic_area	mental_or_behavioral_dysfunction
+measurement_of	associated_with
+-1
+-8.46193528175354
+___
+quantitative_concept	geographic_area	neoplastic_process
+measurement_of	associated_with
+-1
+-8.46193528175354
+___
+quantitative_concept	geographic_area	congenital_abnormality
+measurement_of	associated_with
+-1
+-8.46193528175354
+___
+quantitative_concept	body_space_or_junction	entity
+measurement_of	isa
+-1
+-8.50563645362854
+___
+quantitative_concept	body_space_or_junction	conceptual_entity
+measurement_of	isa
+-1
+-8.50563645362854
+___
+quantitative_concept	body_space_or_junction	idea_or_concept
+measurement_of	isa
+-1
+-8.50563645362854
+___
+quantitative_concept	body_space_or_junction	body_part_organ_or_organ_component
+measurement_of	contains
+-1
+-8.927006959915161
+___
+quantitative_concept	body_space_or_junction	tissue
+measurement_of	contains
+-1
+-8.927006959915161
+___
+quantitative_concept	body_space_or_junction	body_substance
+measurement_of	contains
+-1
+-8.927006959915161
+___
+quantitative_concept	quantitative_concept	mental_process
+NO_OP	result_of
+1
+-9.073485299944878
+___
+quantitative_concept	body_space_or_junction	body_part_organ_or_organ_component
+measurement_of	part_of
+-1
+-9.887913942337036
+___
+quantitative_concept	body_space_or_junction	biologic_function
+measurement_of	location_of
+-1
+-10.281887292861938
+___
+quantitative_concept	body_space_or_junction	experimental_model_of_disease
+measurement_of	location_of
+-1
+-10.281887292861938
+___
+quantitative_concept	body_space_or_junction	cell_component
+measurement_of	location_of
+-1
+-10.281887292861938
+___
+quantitative_concept	body_space_or_junction	anatomical_abnormality
+measurement_of	location_of
+-1
+-10.281887292861938
+___
+#####################
+organism_attribute	molecular_function
+Reward:1
+organism_attribute	cell_function	molecular_function
+measurement_of	_precedes
+1
+-1.6688386090099812
+___
+organism_attribute	physiologic_function	molecular_function
+measurement_of	_precedes
+1
+-1.6766828708350658
+___
+organism_attribute	organism_function	molecular_function
+measurement_of	precedes
+1
+-1.6940940394997597
+___
+organism_attribute	genetic_function	molecular_function
+measurement_of	_precedes
+1
+-1.7030498906970024
+___
+organism_attribute	organ_or_tissue_function	molecular_function
+measurement_of	precedes
+1
+-1.7068728879094124
+___
+organism_attribute	cell_function	molecular_function
+measurement_of	precedes
+1
+-4.9399518966674805
+___
+organism_attribute	physiologic_function	molecular_function
+measurement_of	precedes
+1
+-4.94779634475708
+___
+organism_attribute	genetic_function	molecular_function
+measurement_of	precedes
+1
+-4.974163293838501
+___
+organism_attribute	genetic_function	molecular_function
+measurement_of	_co-occurs_with
+1
+-5.017165422439575
+___
+organism_attribute	clinical_attribute	organism_attribute
+_isa	_degree_of
+-1
+-5.260047206655145
+___
+organism_attribute	organism_function	biologic_function
+measurement_of	_process_of
+-1
+-6.448800325393677
+___
+organism_attribute	organism_function	experimental_model_of_disease
+measurement_of	_process_of
+-1
+-6.448800325393677
+___
+organism_attribute	organism_function	natural_phenomenon_or_process
+measurement_of	_process_of
+-1
+-6.448800325393677
+___
+organism_attribute	organism_function	mental_or_behavioral_dysfunction
+measurement_of	_process_of
+-1
+-6.448800325393677
+___
+organism_attribute	organism_function	molecular_function
+measurement_of	_process_of
+1
+-6.448800325393677
+___
+organism_attribute	organism_function	pathologic_function
+measurement_of	_process_of
+-1
+-6.448800325393677
+___
+organism_attribute	organism_function	cell_or_molecular_dysfunction
+measurement_of	_process_of
+-1
+-6.448800325393677
+___
+organism_attribute	physiologic_function	molecular_function
+measurement_of	_isa
+1
+-6.4605934619903564
+___
+organism_attribute	organ_or_tissue_function	molecular_function
+measurement_of	_process_of
+1
+-6.461579084396362
+___
+organism_attribute	organ_or_tissue_function	disease_or_syndrome
+measurement_of	_process_of
+-1
+-6.461579084396362
+___
+organism_attribute	organ_or_tissue_function	biologic_function
+measurement_of	_process_of
+-1
+-6.461579084396362
+___
+organism_attribute	organ_or_tissue_function	cell_or_molecular_dysfunction
+measurement_of	_process_of
+-1
+-6.461579084396362
+___
+organism_attribute	organ_or_tissue_function	mental_or_behavioral_dysfunction
+measurement_of	_process_of
+-1
+-6.461579084396362
+___
+organism_attribute	organ_or_tissue_function	pathologic_function
+measurement_of	_process_of
+-1
+-6.461579084396362
+___
+organism_attribute	organ_or_tissue_function	neoplastic_process
+measurement_of	_process_of
+-1
+-6.461579084396362
+___
+organism_attribute	organ_or_tissue_function	natural_phenomenon_or_process
+measurement_of	_process_of
+-1
+-6.461579084396362
+___
+organism_attribute	organ_or_tissue_function	experimental_model_of_disease
+measurement_of	_process_of
+-1
+-6.461579084396362
+___
+organism_attribute	clinical_attribute	organism_attribute
+degree_of	_degree_of
+-1
+-6.559031426906586
+___
+organism_attribute	mental_process	molecular_function
+manifestation_of	_precedes
+1
+-6.9394551772857085
+___
+organism_attribute	organism_function	molecular_function
+manifestation_of	precedes
+1
+-6.9490968668833375
+___
+organism_attribute	genetic_function	molecular_function
+manifestation_of	_precedes
+1
+-7.065258979797363
+___
+organism_attribute	organism_function	molecular_function
+measurement_of	co-occurs_with
+1
+-7.133375883102417
+___
+organism_attribute	physiologic_function	molecular_function
+manifestation_of	_precedes
+1
+-7.172813519835472
+___
+organism_attribute	organism_attribute	molecular_function
+NO_OP	manifestation_of
+1
+-8.262442111968994
+___
+organism_attribute	molecular_function	molecular_function
+manifestation_of	NO_OP
+1
+-8.305419683456421
+___
+organism_attribute	clinical_attribute	experimental_model_of_disease
+degree_of	result_of
+-1
+-9.000465869903564
+___
+organism_attribute	clinical_attribute	injury_or_poisoning
+degree_of	result_of
+-1
+-9.000465869903564
+___
+organism_attribute	clinical_attribute	biologic_function
+degree_of	result_of
+-1
+-9.000465869903564
+___
+organism_attribute	clinical_attribute	pathologic_function
+degree_of	result_of
+-1
+-9.000465869903564
+___
+organism_attribute	clinical_attribute	natural_phenomenon_or_process
+degree_of	result_of
+-1
+-9.000465869903564
+___
+organism_attribute	clinical_attribute	mental_or_behavioral_dysfunction
+degree_of	result_of
+-1
+-9.000465869903564
+___
+organism_attribute	clinical_attribute	molecular_function
+degree_of	result_of
+1
+-9.000465869903564
+___
+organism_attribute	clinical_attribute	neoplastic_process
+degree_of	result_of
+-1
+-9.000465869903564
+___
+organism_attribute	clinical_attribute	environmental_effect_of_humans
+degree_of	result_of
+-1
+-9.000465869903564
+___
+organism_attribute	clinical_attribute	cell_or_molecular_dysfunction
+degree_of	result_of
+-1
+-9.000465869903564
+___
+organism_attribute	clinical_attribute	phenomenon_or_process
+degree_of	result_of
+-1
+-9.000465869903564
+___
+organism_attribute	clinical_attribute	disease_or_syndrome
+degree_of	result_of
+-1
+-9.000465869903564
+___
+organism_attribute	physiologic_function	molecular_function
+manifestation_of	_isa
+1
+-9.060932159423828
+___
+organism_attribute	genetic_function	molecular_function
+manifestation_of	precedes
+1
+-9.254084587097168
+___
+organism_attribute	cell_function	molecular_function
+_affects	_precedes
+1
+-9.30911660194397
+___
+organism_attribute	physiologic_function	molecular_function
+manifestation_of	precedes
+1
+-9.361639022827148
+___
+organism_attribute	mental_process	molecular_function
+result_of	_precedes
+1
+-9.406954114791006
+___
+organism_attribute	human_caused_phenomenon_or_process	environmental_effect_of_humans
+result_of	_isa
+-1
+-9.408990887925029
+___
+organism_attribute	organ_or_tissue_function	molecular_function
+result_of	precedes
+1
+-9.439225632697344
+___
+organism_attribute	genetic_function	molecular_function
+_affects	_precedes
+1
+-9.44184923171997
+___
+organism_attribute	genetic_function	molecular_function
+result_of	_precedes
+1
+-9.495629951357841
+___
+organism_attribute	physiologic_function	molecular_function
+result_of	_precedes
+1
+-9.506746515631676
+___
+organism_attribute	molecular_function	pathologic_function
+manifestation_of	_process_of
+-1
+-9.514561414718628
+___
+organism_attribute	molecular_function	experimental_model_of_disease
+manifestation_of	_process_of
+-1
+-9.514561414718628
+___
+organism_attribute	molecular_function	mental_or_behavioral_dysfunction
+manifestation_of	_process_of
+-1
+-9.514561414718628
+___
+organism_attribute	molecular_function	natural_phenomenon_or_process
+manifestation_of	_process_of
+-1
+-9.514561414718628
+___
+organism_attribute	molecular_function	biologic_function
+manifestation_of	_process_of
+-1
+-9.514561414718628
+___
+organism_attribute	molecular_function	disease_or_syndrome
+manifestation_of	_process_of
+-1
+-9.514561414718628
+___
+organism_attribute	molecular_function	cell_or_molecular_dysfunction
+manifestation_of	_process_of
+-1
+-9.514561414718628
+___
+organism_attribute	cell_function	natural_phenomenon_or_process
+measurement_of	_process_of
+-1
+-9.694658517837524
+___
+organism_attribute	cell_function	neoplastic_process
+measurement_of	_process_of
+-1
+-9.694658517837524
+___
+organism_attribute	cell_function	cell_or_molecular_dysfunction
+measurement_of	_process_of
+-1
+-9.694658517837524
+___
+organism_attribute	cell_function	experimental_model_of_disease
+measurement_of	_process_of
+-1
+-9.694658517837524
+___
+organism_attribute	cell_function	biologic_function
+measurement_of	_process_of
+-1
+-9.694658517837524
+___
+organism_attribute	cell_function	disease_or_syndrome
+measurement_of	_process_of
+-1
+-9.694658517837524
+___
+organism_attribute	cell_function	mental_or_behavioral_dysfunction
+measurement_of	_process_of
+-1
+-9.694658517837524
+___
+organism_attribute	physiologic_function	biologic_function
+measurement_of	_process_of
+-1
+-9.702502489089966
+___
+organism_attribute	physiologic_function	natural_phenomenon_or_process
+measurement_of	_process_of
+-1
+-9.702502489089966
+___
+organism_attribute	physiologic_function	molecular_function
+measurement_of	_process_of
+1
+-9.702502489089966
+___
+organism_attribute	physiologic_function	experimental_model_of_disease
+measurement_of	_process_of
+-1
+-9.702502489089966
+___
+organism_attribute	physiologic_function	neoplastic_process
+measurement_of	_process_of
+-1
+-9.702502489089966
+___
+organism_attribute	physiologic_function	disease_or_syndrome
+measurement_of	_process_of
+-1
+-9.702502489089966
+___
+organism_attribute	physiologic_function	pathologic_function
+measurement_of	_process_of
+-1
+-9.702502489089966
+___
+organism_attribute	genetic_function	natural_phenomenon_or_process
+measurement_of	_process_of
+-1
+-9.728869676589966
+___
+organism_attribute	genetic_function	experimental_model_of_disease
+measurement_of	_process_of
+-1
+-9.728869676589966
+___
+organism_attribute	genetic_function	mental_or_behavioral_dysfunction
+measurement_of	_process_of
+-1
+-9.728869676589966
+___
+organism_attribute	genetic_function	biologic_function
+measurement_of	_process_of
+-1
+-9.728869676589966
+___
+organism_attribute	genetic_function	molecular_function
+measurement_of	_process_of
+1
+-9.728869676589966
+___
+organism_attribute	genetic_function	cell_or_molecular_dysfunction
+measurement_of	_process_of
+-1
+-9.728869676589966
+___
+organism_attribute	genetic_function	pathologic_function
+measurement_of	_process_of
+-1
+-9.728869676589966
+___
+organism_attribute	environmental_effect_of_humans	environmental_effect_of_humans
+result_of	NO_OP
+-1
+-10.080629229545593
+___
+organism_attribute	cell_function	molecular_function
+measurement_of	co-occurs_with
+1
+-10.379234552383423
+___
+organism_attribute	organism_function	molecular_function
+measurement_of	_result_of
+1
+-10.492314577102661
+___
+organism_attribute	organism_function	acquired_abnormality
+measurement_of	_result_of
+-1
+-10.492314577102661
+___
+organism_attribute	organism_function	clinical_attribute
+measurement_of	_result_of
+-1
+-10.492314577102661
+___
+organism_attribute	organism_function	injury_or_poisoning
+measurement_of	_result_of
+-1
+-10.492314577102661
+___
+organism_attribute	organism_function	congenital_abnormality
+measurement_of	_result_of
+-1
+-10.492314577102661
+___
+organism_attribute	organism_function	experimental_model_of_disease
+measurement_of	_result_of
+-1
+-10.492314577102661
+___
+organism_attribute	organism_function	environmental_effect_of_humans
+measurement_of	_result_of
+-1
+-10.492314577102661
+___
+organism_attribute	organism_function	neoplastic_process
+measurement_of	_result_of
+-1
+-10.492314577102661
+___
+organism_attribute	organism_function	disease_or_syndrome
+measurement_of	_result_of
+-1
+-10.492314577102661
+___
+organism_attribute	organism_function	natural_phenomenon_or_process
+measurement_of	_result_of
+-1
+-10.492314577102661
+___
+organism_attribute	organ_or_tissue_function	biologic_function
+measurement_of	_result_of
+-1
+-10.505093812942505
+___
+organism_attribute	organ_or_tissue_function	molecular_function
+measurement_of	_result_of
+1
+-10.505093812942505
+___
+organism_attribute	organ_or_tissue_function	environmental_effect_of_humans
+measurement_of	_result_of
+-1
+-10.505093812942505
+___
+#####################

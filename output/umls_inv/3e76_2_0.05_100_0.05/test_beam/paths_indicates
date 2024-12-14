@@ -1,0 +1,1509 @@
+laboratory_or_test_result	organ_or_tissue_function
+Reward:1
+laboratory_or_test_result	neoplastic_process	natural_phenomenon_or_process
+associated_with	_process_of
+-1
+-3.1408391408622265
+___
+laboratory_or_test_result	congenital_abnormality	organ_or_tissue_function
+associated_with	manifestation_of
+1
+-3.190343663096428
+___
+laboratory_or_test_result	acquired_abnormality	organ_or_tissue_function
+associated_with	manifestation_of
+1
+-3.25283320248127
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	organ_or_tissue_function
+associated_with	manifestation_of
+1
+-3.306171491742134
+___
+laboratory_or_test_result	mental_or_behavioral_dysfunction	organ_or_tissue_function
+associated_with	manifestation_of
+1
+-3.3069709688425064
+___
+laboratory_or_test_result	experimental_model_of_disease	organ_or_tissue_function
+associated_with	manifestation_of
+1
+-3.4614483416080475
+___
+laboratory_or_test_result	pathologic_function	natural_phenomenon_or_process
+associated_with	_process_of
+-1
+-3.8209856748580933
+___
+laboratory_or_test_result	pathologic_function	organ_or_tissue_function
+associated_with	_process_of
+1
+-3.8209856748580933
+___
+laboratory_or_test_result	mental_process	organ_or_tissue_function
+measurement_of	_precedes
+1
+-4.18802106380457
+___
+laboratory_or_test_result	molecular_function	organ_or_tissue_function
+measurement_of	_precedes
+1
+-4.18803155416299
+___
+laboratory_or_test_result	organism_function	organ_or_tissue_function
+measurement_of	precedes
+1
+-4.189676463021897
+___
+laboratory_or_test_result	molecular_function	organ_or_tissue_function
+indicates	_precedes
+1
+-4.524148821277777
+___
+laboratory_or_test_result	biologic_function	organ_or_tissue_function
+indicates	_isa
+1
+-4.525577667867765
+___
+laboratory_or_test_result	organism_function	organ_or_tissue_function
+indicates	precedes
+1
+-4.525658251484856
+___
+laboratory_or_test_result	physiologic_function	organ_or_tissue_function
+indicates	_precedes
+1
+-4.535729887895286
+___
+laboratory_or_test_result	disease_or_syndrome	organ_or_tissue_function
+indicates	_process_of
+1
+-4.561207581311464
+___
+laboratory_or_test_result	nucleic_acid_nucleoside_or_nucleotide	chemical_viewed_structurally
+measurement_of	_interacts_with
+-1
+-4.618295282125473
+___
+laboratory_or_test_result	injury_or_poisoning	natural_phenomenon_or_process
+associated_with	_result_of
+-1
+-4.720105409622192
+___
+laboratory_or_test_result	injury_or_poisoning	phenomenon_or_process
+associated_with	_result_of
+-1
+-4.720105409622192
+___
+laboratory_or_test_result	injury_or_poisoning	clinical_attribute
+associated_with	_result_of
+-1
+-4.720105409622192
+___
+laboratory_or_test_result	injury_or_poisoning	organism_attribute
+associated_with	_result_of
+-1
+-4.720105409622192
+___
+laboratory_or_test_result	congenital_abnormality	organ_or_tissue_function
+indicates	manifestation_of
+1
+-4.7437776774168015
+___
+laboratory_or_test_result	organ_or_tissue_function	organ_or_tissue_function
+measurement_of	NO_OP
+1
+-4.770768821239471
+___
+laboratory_or_test_result	genetic_function	organ_or_tissue_function
+measurement_of	precedes
+1
+-4.781779646873474
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	organ_or_tissue_function
+indicates	manifestation_of
+1
+-4.835015892982483
+___
+laboratory_or_test_result	mental_or_behavioral_dysfunction	organ_or_tissue_function
+indicates	manifestation_of
+1
+-4.836768835783005
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	organ_or_tissue_function
+associated_with	_process_of
+1
+-4.903940320014954
+___
+laboratory_or_test_result	mental_or_behavioral_dysfunction	natural_phenomenon_or_process
+associated_with	_process_of
+-1
+-4.904739737510681
+___
+laboratory_or_test_result	acquired_abnormality	organ_or_tissue_function
+indicates	manifestation_of
+1
+-4.915438294410706
+___
+laboratory_or_test_result	lipid	steroid
+measurement_of	_isa
+-1
+-4.954293668270111
+___
+laboratory_or_test_result	genetic_function	organ_or_tissue_function
+measurement_of	_precedes
+1
+-4.991546034812927
+___
+laboratory_or_test_result	cell_function	organ_or_tissue_function
+measurement_of	precedes
+1
+-4.996184706687927
+___
+laboratory_or_test_result	genetic_function	organ_or_tissue_function
+indicates	precedes
+1
+-5.055198431015015
+___
+laboratory_or_test_result	organ_or_tissue_function	natural_phenomenon_or_process
+measurement_of	_process_of
+-1
+-5.056750953197479
+___
+laboratory_or_test_result	experimental_model_of_disease	organ_or_tissue_function
+associated_with	_process_of
+1
+-5.059217095375061
+___
+laboratory_or_test_result	experimental_model_of_disease	natural_phenomenon_or_process
+associated_with	_process_of
+-1
+-5.059217095375061
+___
+laboratory_or_test_result	experimental_model_of_disease	organ_or_tissue_function
+indicates	manifestation_of
+1
+-5.066290438175201
+___
+laboratory_or_test_result	cell_function	organ_or_tissue_function
+indicates	precedes
+1
+-5.200380861759186
+___
+laboratory_or_test_result	cell_function	organ_or_tissue_function
+measurement_of	_precedes
+1
+-5.20595109462738
+___
+laboratory_or_test_result	pathologic_function	natural_phenomenon_or_process
+indicates	_process_of
+-1
+-5.232588052749634
+___
+laboratory_or_test_result	pathologic_function	organ_or_tissue_function
+indicates	_process_of
+1
+-5.232588052749634
+___
+laboratory_or_test_result	anatomical_abnormality	fungus
+indicates	location_of
+-1
+-5.2608155608177185
+___
+laboratory_or_test_result	anatomical_abnormality	rickettsia_or_chlamydia
+indicates	location_of
+-1
+-5.2608155608177185
+___
+laboratory_or_test_result	genetic_function	organ_or_tissue_function
+indicates	_precedes
+1
+-5.410802602767944
+___
+laboratory_or_test_result	organophosphorus_compound	chemical_viewed_structurally
+measurement_of	_interacts_with
+-1
+-5.41103732585907
+___
+laboratory_or_test_result	organophosphorus_compound	organic_chemical
+measurement_of	_interacts_with
+-1
+-5.41103732585907
+___
+laboratory_or_test_result	organophosphorus_compound	nucleic_acid_nucleoside_or_nucleotide
+measurement_of	_interacts_with
+-1
+-5.41103732585907
+___
+laboratory_or_test_result	carbohydrate	amino_acid_peptide_or_protein
+measurement_of	_interacts_with
+-1
+-5.419278860092163
+___
+laboratory_or_test_result	carbohydrate	nucleic_acid_nucleoside_or_nucleotide
+measurement_of	_interacts_with
+-1
+-5.419278860092163
+___
+laboratory_or_test_result	carbohydrate	organic_chemical
+measurement_of	_interacts_with
+-1
+-5.419278860092163
+___
+laboratory_or_test_result	amino_acid_peptide_or_protein	organic_chemical
+measurement_of	_interacts_with
+-1
+-5.419325470924377
+___
+laboratory_or_test_result	amino_acid_peptide_or_protein	chemical_viewed_structurally
+measurement_of	_interacts_with
+-1
+-5.419325470924377
+___
+laboratory_or_test_result	amino_acid_peptide_or_protein	nucleic_acid_nucleoside_or_nucleotide
+measurement_of	_interacts_with
+-1
+-5.419325470924377
+___
+laboratory_or_test_result	biologically_active_substance	immunologic_factor
+measurement_of	_isa
+-1
+-5.4970409870147705
+___
+laboratory_or_test_result	cell_function	organ_or_tissue_function
+indicates	_precedes
+1
+-5.555984973907471
+___
+laboratory_or_test_result	molecular_function	organ_or_tissue_function
+evaluation_of	_precedes
+1
+-5.69072818744462
+___
+laboratory_or_test_result	clinical_attribute	organism_attribute
+evaluation_of	_degree_of
+-1
+-5.690752743881603
+___
+laboratory_or_test_result	biologic_function	organ_or_tissue_function
+evaluation_of	_isa
+1
+-5.690923906950047
+___
+laboratory_or_test_result	organism_function	organ_or_tissue_function
+evaluation_of	precedes
+1
+-5.692055396735668
+___
+laboratory_or_test_result	physiologic_function	organ_or_tissue_function
+evaluation_of	_precedes
+1
+-5.728346861898899
+___
+laboratory_or_test_result	neoplastic_process	natural_phenomenon_or_process
+evaluation_of	_process_of
+-1
+-5.751544758677483
+___
+laboratory_or_test_result	disease_or_syndrome	organ_or_tissue_function
+evaluation_of	_process_of
+1
+-5.752760544419289
+___
+laboratory_or_test_result	organism_attribute	clinical_attribute
+evaluation_of	degree_of
+-1
+-5.796930469572544
+___
+laboratory_or_test_result	cell_function	organ_or_tissue_function
+measurement_of	_co-occurs_with
+1
+-5.833196997642517
+___
+laboratory_or_test_result	eicosanoid	carbohydrate
+measurement_of	_interacts_with
+-1
+-5.863499402999878
+___
+laboratory_or_test_result	eicosanoid	nucleic_acid_nucleoside_or_nucleotide
+measurement_of	_interacts_with
+-1
+-5.863499402999878
+___
+laboratory_or_test_result	eicosanoid	chemical_viewed_structurally
+measurement_of	_interacts_with
+-1
+-5.863499402999878
+___
+laboratory_or_test_result	eicosanoid	lipid
+measurement_of	_interacts_with
+-1
+-5.863499402999878
+___
+laboratory_or_test_result	eicosanoid	organophosphorus_compound
+measurement_of	_interacts_with
+-1
+-5.863499402999878
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	organ_or_tissue_function
+indicates	_process_of
+1
+-5.872959733009338
+___
+laboratory_or_test_result	steroid	chemical_viewed_structurally
+measurement_of	_interacts_with
+-1
+-5.873971581459045
+___
+laboratory_or_test_result	steroid	carbohydrate
+measurement_of	_interacts_with
+-1
+-5.873971581459045
+___
+laboratory_or_test_result	steroid	lipid
+measurement_of	_interacts_with
+-1
+-5.873971581459045
+___
+laboratory_or_test_result	steroid	nucleic_acid_nucleoside_or_nucleotide
+measurement_of	_interacts_with
+-1
+-5.873971581459045
+___
+laboratory_or_test_result	steroid	amino_acid_peptide_or_protein
+measurement_of	_interacts_with
+-1
+-5.873971581459045
+___
+laboratory_or_test_result	mental_or_behavioral_dysfunction	natural_phenomenon_or_process
+indicates	_process_of
+-1
+-5.874712705612183
+___
+laboratory_or_test_result	finding	laboratory_or_test_result
+co-occurs_with	_co-occurs_with
+-1
+-5.962654650211334
+___
+laboratory_or_test_result	finding	sign_or_symptom
+co-occurs_with	_co-occurs_with
+-1
+-5.962654650211334
+___
+laboratory_or_test_result	organ_or_tissue_function	organ_or_tissue_function
+evaluation_of	NO_OP
+1
+-6.019570857286453
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	organ_or_tissue_function
+evaluation_of	manifestation_of
+1
+-6.068241119384766
+___
+laboratory_or_test_result	mental_or_behavioral_dysfunction	organ_or_tissue_function
+evaluation_of	manifestation_of
+1
+-6.0711909532547
+___
+laboratory_or_test_result	cell_function	organ_or_tissue_function
+evaluation_of	precedes
+1
+-6.090614587068558
+___
+laboratory_or_test_result	experimental_model_of_disease	organ_or_tissue_function
+indicates	_process_of
+1
+-6.104234218597412
+___
+laboratory_or_test_result	experimental_model_of_disease	natural_phenomenon_or_process
+indicates	_process_of
+-1
+-6.104234218597412
+___
+laboratory_or_test_result	injury_or_poisoning	natural_phenomenon_or_process
+indicates	_result_of
+-1
+-6.245336174964905
+___
+laboratory_or_test_result	injury_or_poisoning	organism_attribute
+indicates	_result_of
+-1
+-6.245336174964905
+___
+laboratory_or_test_result	injury_or_poisoning	phenomenon_or_process
+indicates	_result_of
+-1
+-6.245336174964905
+___
+laboratory_or_test_result	injury_or_poisoning	clinical_attribute
+indicates	_result_of
+-1
+-6.245336174964905
+___
+laboratory_or_test_result	body_substance	body_space_or_junction
+measurement_of	_contains
+-1
+-6.279907464981079
+___
+laboratory_or_test_result	body_substance	cell_component
+measurement_of	_contains
+-1
+-6.279907464981079
+___
+laboratory_or_test_result	body_substance	embryonic_structure
+measurement_of	_contains
+-1
+-6.279907464981079
+___
+laboratory_or_test_result	body_substance	body_part_organ_or_organ_component
+measurement_of	_contains
+-1
+-6.279907464981079
+___
+laboratory_or_test_result	body_substance	cell
+measurement_of	_contains
+-1
+-6.279907464981079
+___
+laboratory_or_test_result	body_substance	gene_or_genome
+measurement_of	_contains
+-1
+-6.279907464981079
+___
+laboratory_or_test_result	body_substance	fully_formed_anatomical_structure
+measurement_of	_contains
+-1
+-6.279907464981079
+___
+laboratory_or_test_result	body_substance	tissue
+measurement_of	_contains
+-1
+-6.279907464981079
+___
+laboratory_or_test_result	inorganic_chemical	element_ion_or_isotope
+measurement_of	_interacts_with
+-1
+-6.309131145477295
+___
+laboratory_or_test_result	inorganic_chemical	lipid
+measurement_of	_interacts_with
+-1
+-6.309131145477295
+___
+laboratory_or_test_result	inorganic_chemical	eicosanoid
+measurement_of	_interacts_with
+-1
+-6.309131145477295
+___
+laboratory_or_test_result	inorganic_chemical	amino_acid_peptide_or_protein
+measurement_of	_interacts_with
+-1
+-6.309131145477295
+___
+#####################
+laboratory_or_test_result	mental_process
+Reward:1
+laboratory_or_test_result	congenital_abnormality	mental_process
+associated_with	manifestation_of
+1
+-3.190343774855137
+___
+laboratory_or_test_result	acquired_abnormality	mental_process
+associated_with	manifestation_of
+1
+-3.2528300881385803
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	mental_process
+associated_with	manifestation_of
+1
+-3.3062113225460052
+___
+laboratory_or_test_result	mental_or_behavioral_dysfunction	mental_process
+associated_with	manifestation_of
+1
+-3.3069724440574646
+___
+laboratory_or_test_result	experimental_model_of_disease	mental_process
+associated_with	manifestation_of
+1
+-3.4620038866996765
+___
+laboratory_or_test_result	pathologic_function	natural_phenomenon_or_process
+associated_with	_process_of
+-1
+-3.8209778666496277
+___
+laboratory_or_test_result	pathologic_function	mental_process
+associated_with	_process_of
+1
+-3.8209778666496277
+___
+laboratory_or_test_result	neoplastic_process	natural_phenomenon_or_process
+associated_with	_process_of
+-1
+-3.821219742298126
+___
+laboratory_or_test_result	neoplastic_process	mental_process
+associated_with	_process_of
+1
+-3.821219742298126
+___
+laboratory_or_test_result	genetic_function	natural_phenomenon_or_process
+measurement_of	_process_of
+-1
+-4.224774952977896
+___
+laboratory_or_test_result	mental_process	mental_process
+measurement_of	NO_OP
+1
+-4.241977494210005
+___
+laboratory_or_test_result	organism_function	mental_process
+measurement_of	precedes
+1
+-4.459617018699646
+___
+laboratory_or_test_result	biologic_function	mental_process
+indicates	_isa
+1
+-4.5269534811377525
+___
+laboratory_or_test_result	organ_or_tissue_function	mental_process
+measurement_of	precedes
+1
+-4.547795593738556
+___
+laboratory_or_test_result	cell_function	mental_process
+measurement_of	precedes
+1
+-4.547798573970795
+___
+laboratory_or_test_result	genetic_function	natural_phenomenon_or_process
+indicates	_process_of
+-1
+-4.575727749615908
+___
+laboratory_or_test_result	nucleic_acid_nucleoside_or_nucleotide	chemical_viewed_structurally
+measurement_of	_interacts_with
+-1
+-4.618295222520828
+___
+laboratory_or_test_result	organism_function	mental_process
+indicates	precedes
+1
+-4.7175611555576324
+___
+laboratory_or_test_result	congenital_abnormality	mental_process
+indicates	manifestation_of
+1
+-4.74377778172493
+___
+laboratory_or_test_result	cell_function	mental_process
+indicates	precedes
+1
+-4.759795889258385
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	mental_process
+indicates	manifestation_of
+1
+-4.8351892828941345
+___
+laboratory_or_test_result	mental_or_behavioral_dysfunction	mental_process
+indicates	manifestation_of
+1
+-4.836753189563751
+___
+laboratory_or_test_result	disease_or_syndrome	mental_process
+indicates	manifestation_of
+1
+-4.837119668722153
+___
+laboratory_or_test_result	physiologic_function	mental_process
+indicates	_precedes
+1
+-4.854087680578232
+___
+laboratory_or_test_result	injury_or_poisoning	clinical_attribute
+associated_with	_result_of
+-1
+-4.9038245677948
+___
+laboratory_or_test_result	injury_or_poisoning	organism_attribute
+associated_with	_result_of
+-1
+-4.9038245677948
+___
+laboratory_or_test_result	injury_or_poisoning	natural_phenomenon_or_process
+associated_with	_result_of
+-1
+-4.9038245677948
+___
+laboratory_or_test_result	injury_or_poisoning	mental_process
+associated_with	_result_of
+1
+-4.9038245677948
+___
+laboratory_or_test_result	injury_or_poisoning	phenomenon_or_process
+associated_with	_result_of
+-1
+-4.9038245677948
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	mental_process
+associated_with	_process_of
+1
+-4.903980135917664
+___
+laboratory_or_test_result	mental_or_behavioral_dysfunction	natural_phenomenon_or_process
+associated_with	_process_of
+-1
+-4.904741287231445
+___
+laboratory_or_test_result	acquired_abnormality	mental_process
+indicates	manifestation_of
+1
+-4.915419906377792
+___
+laboratory_or_test_result	lipid	steroid
+measurement_of	_isa
+-1
+-4.954293668270111
+___
+laboratory_or_test_result	molecular_function	mental_process
+measurement_of	precedes
+1
+-4.996184706687927
+___
+laboratory_or_test_result	experimental_model_of_disease	natural_phenomenon_or_process
+associated_with	_process_of
+-1
+-5.059772729873657
+___
+laboratory_or_test_result	experimental_model_of_disease	mental_process
+associated_with	_process_of
+1
+-5.059772729873657
+___
+laboratory_or_test_result	experimental_model_of_disease	mental_process
+indicates	manifestation_of
+1
+-5.067364990711212
+___
+laboratory_or_test_result	molecular_function	mental_process
+indicates	precedes
+1
+-5.200380861759186
+___
+laboratory_or_test_result	molecular_function	mental_process
+measurement_of	_precedes
+1
+-5.20595109462738
+___
+laboratory_or_test_result	pathologic_function	mental_process
+indicates	_process_of
+1
+-5.23255068063736
+___
+laboratory_or_test_result	pathologic_function	natural_phenomenon_or_process
+indicates	_process_of
+-1
+-5.23255068063736
+___
+laboratory_or_test_result	anatomical_abnormality	rickettsia_or_chlamydia
+indicates	location_of
+-1
+-5.2608155608177185
+___
+laboratory_or_test_result	anatomical_abnormality	fungus
+indicates	location_of
+-1
+-5.2608155608177185
+___
+laboratory_or_test_result	organ_or_tissue_function	mental_process
+measurement_of	_co-occurs_with
+1
+-5.384807825088501
+___
+laboratory_or_test_result	cell_function	mental_process
+measurement_of	_co-occurs_with
+1
+-5.384810924530029
+___
+laboratory_or_test_result	organophosphorus_compound	organic_chemical
+measurement_of	_interacts_with
+-1
+-5.41103732585907
+___
+laboratory_or_test_result	organophosphorus_compound	nucleic_acid_nucleoside_or_nucleotide
+measurement_of	_interacts_with
+-1
+-5.41103732585907
+___
+laboratory_or_test_result	organophosphorus_compound	chemical_viewed_structurally
+measurement_of	_interacts_with
+-1
+-5.41103732585907
+___
+laboratory_or_test_result	carbohydrate	nucleic_acid_nucleoside_or_nucleotide
+measurement_of	_interacts_with
+-1
+-5.419278860092163
+___
+laboratory_or_test_result	carbohydrate	organic_chemical
+measurement_of	_interacts_with
+-1
+-5.419278860092163
+___
+laboratory_or_test_result	carbohydrate	amino_acid_peptide_or_protein
+measurement_of	_interacts_with
+-1
+-5.419278860092163
+___
+laboratory_or_test_result	amino_acid_peptide_or_protein	chemical_viewed_structurally
+measurement_of	_interacts_with
+-1
+-5.419325470924377
+___
+laboratory_or_test_result	amino_acid_peptide_or_protein	organic_chemical
+measurement_of	_interacts_with
+-1
+-5.419325470924377
+___
+laboratory_or_test_result	amino_acid_peptide_or_protein	nucleic_acid_nucleoside_or_nucleotide
+measurement_of	_interacts_with
+-1
+-5.419325470924377
+___
+laboratory_or_test_result	biologically_active_substance	immunologic_factor
+measurement_of	_isa
+-1
+-5.4587082862854
+___
+laboratory_or_test_result	molecular_function	mental_process
+indicates	_precedes
+1
+-5.555984973907471
+___
+laboratory_or_test_result	clinical_attribute	organism_attribute
+evaluation_of	_degree_of
+-1
+-5.690786358994956
+___
+laboratory_or_test_result	biologic_function	mental_process
+evaluation_of	_isa
+1
+-5.691117204958573
+___
+laboratory_or_test_result	organism_attribute	clinical_attribute
+evaluation_of	degree_of
+-1
+-5.7969717383384705
+___
+laboratory_or_test_result	physiologic_function	mental_process
+indicates	_co-occurs_with
+1
+-5.82369601726532
+___
+laboratory_or_test_result	molecular_function	mental_process
+measurement_of	_co-occurs_with
+1
+-5.833196997642517
+___
+laboratory_or_test_result	organ_or_tissue_function	mental_process
+evaluation_of	precedes
+1
+-5.844050705432892
+___
+laboratory_or_test_result	cell_function	mental_process
+evaluation_of	precedes
+1
+-5.844052761793137
+___
+laboratory_or_test_result	eicosanoid	carbohydrate
+measurement_of	_interacts_with
+-1
+-5.863499402999878
+___
+laboratory_or_test_result	eicosanoid	chemical_viewed_structurally
+measurement_of	_interacts_with
+-1
+-5.863499402999878
+___
+laboratory_or_test_result	eicosanoid	lipid
+measurement_of	_interacts_with
+-1
+-5.863499402999878
+___
+laboratory_or_test_result	eicosanoid	organophosphorus_compound
+measurement_of	_interacts_with
+-1
+-5.863499402999878
+___
+laboratory_or_test_result	eicosanoid	nucleic_acid_nucleoside_or_nucleotide
+measurement_of	_interacts_with
+-1
+-5.863499402999878
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	mental_process
+indicates	_process_of
+1
+-5.873133182525635
+___
+laboratory_or_test_result	steroid	amino_acid_peptide_or_protein
+measurement_of	_interacts_with
+-1
+-5.873971581459045
+___
+laboratory_or_test_result	steroid	lipid
+measurement_of	_interacts_with
+-1
+-5.873971581459045
+___
+laboratory_or_test_result	steroid	chemical_viewed_structurally
+measurement_of	_interacts_with
+-1
+-5.873971581459045
+___
+laboratory_or_test_result	steroid	carbohydrate
+measurement_of	_interacts_with
+-1
+-5.873971581459045
+___
+laboratory_or_test_result	steroid	nucleic_acid_nucleoside_or_nucleotide
+measurement_of	_interacts_with
+-1
+-5.873971581459045
+___
+laboratory_or_test_result	mental_or_behavioral_dysfunction	natural_phenomenon_or_process
+indicates	_process_of
+-1
+-5.874696969985962
+___
+laboratory_or_test_result	disease_or_syndrome	mental_process
+indicates	_process_of
+1
+-5.875063538551331
+___
+laboratory_or_test_result	organism_function	mental_process
+evaluation_of	precedes
+1
+-5.945235162973404
+___
+laboratory_or_test_result	finding	laboratory_or_test_result
+co-occurs_with	_co-occurs_with
+-1
+-5.962801218032837
+___
+laboratory_or_test_result	finding	sign_or_symptom
+co-occurs_with	_co-occurs_with
+-1
+-5.962801218032837
+___
+laboratory_or_test_result	cell_or_molecular_dysfunction	mental_process
+evaluation_of	manifestation_of
+1
+-6.068852365016937
+___
+laboratory_or_test_result	mental_or_behavioral_dysfunction	mental_process
+evaluation_of	manifestation_of
+1
+-6.071052551269531
+___
+laboratory_or_test_result	disease_or_syndrome	mental_process
+evaluation_of	manifestation_of
+1
+-6.072810411453247
+___
+laboratory_or_test_result	cell_function	mental_process
+indicates	_co-occurs_with
+1
+-6.085008382797241
+___
+laboratory_or_test_result	molecular_function	mental_process
+evaluation_of	precedes
+1
+-6.090614676475525
+___
+laboratory_or_test_result	experimental_model_of_disease	mental_process
+indicates	_process_of
+1
+-6.105308771133423
+___
+laboratory_or_test_result	experimental_model_of_disease	natural_phenomenon_or_process
+indicates	_process_of
+-1
+-6.105308771133423
+___
+laboratory_or_test_result	physiologic_function	mental_process
+evaluation_of	_precedes
+1
+-6.126873105764389
+___
+laboratory_or_test_result	body_substance	body_part_organ_or_organ_component
+measurement_of	_contains
+-1
+-6.279907464981079
+___
+laboratory_or_test_result	body_substance	fully_formed_anatomical_structure
+measurement_of	_contains
+-1
+-6.279907464981079
+___
+laboratory_or_test_result	body_substance	body_space_or_junction
+measurement_of	_contains
+-1
+-6.279907464981079
+___
+laboratory_or_test_result	body_substance	tissue
+measurement_of	_contains
+-1
+-6.279907464981079
+___
+laboratory_or_test_result	body_substance	embryonic_structure
+measurement_of	_contains
+-1
+-6.279907464981079
+___
+laboratory_or_test_result	body_substance	gene_or_genome
+measurement_of	_contains
+-1
+-6.279907464981079
+___
+laboratory_or_test_result	body_substance	cell
+measurement_of	_contains
+-1
+-6.279907464981079
+___
+laboratory_or_test_result	body_substance	cell_component
+measurement_of	_contains
+-1
+-6.279907464981079
+___
+laboratory_or_test_result	organism_function	mental_process
+measurement_of	degree_of
+1
+-6.300940990447998
+___
+laboratory_or_test_result	inorganic_chemical	nucleic_acid_nucleoside_or_nucleotide
+measurement_of	_interacts_with
+-1
+-6.309131145477295
+___
+laboratory_or_test_result	inorganic_chemical	amino_acid_peptide_or_protein
+measurement_of	_interacts_with
+-1
+-6.309131145477295
+___
+laboratory_or_test_result	inorganic_chemical	organic_chemical
+measurement_of	_interacts_with
+-1
+-6.309131145477295
+___
+laboratory_or_test_result	inorganic_chemical	chemical_viewed_structurally
+measurement_of	_interacts_with
+-1
+-6.309131145477295
+___
+#####################
+immunologic_factor	neoplastic_process
+Reward:1
+immunologic_factor	injury_or_poisoning	neoplastic_process
+causes	_co-occurs_with
+1
+-2.20006275549531
+___
+immunologic_factor	mental_or_behavioral_dysfunction	neoplastic_process
+causes	precedes
+1
+-2.2340615689754486
+___
+immunologic_factor	disease_or_syndrome	neoplastic_process
+causes	_precedes
+1
+-2.2695465236902237
+___
+immunologic_factor	experimental_model_of_disease	neoplastic_process
+causes	_co-occurs_with
+1
+-2.6358129680156708
+___
+immunologic_factor	pathologic_function	neoplastic_process
+causes	degree_of
+1
+-2.817727506160736
+___
+immunologic_factor	anatomical_abnormality	congenital_abnormality
+causes	_co-occurs_with
+-1
+-2.888987958431244
+___
+immunologic_factor	anatomical_abnormality	acquired_abnormality
+causes	_co-occurs_with
+-1
+-2.888987958431244
+___
+immunologic_factor	pathologic_function	neoplastic_process
+causes	_degree_of
+1
+-3.264522075653076
+___
+immunologic_factor	neoplastic_process	acquired_abnormality
+causes	complicates
+-1
+-3.306972861289978
+___
+immunologic_factor	neoplastic_process	injury_or_poisoning
+causes	co-occurs_with
+-1
+-3.366606593132019
+___
+immunologic_factor	neoplastic_process	acquired_abnormality
+causes	co-occurs_with
+-1
+-3.366606593132019
+___
+immunologic_factor	experimental_model_of_disease	neoplastic_process
+causes	degree_of
+1
+-3.6818277835845947
+___
+immunologic_factor	virus	neoplastic_process
+associated_with	causes
+1
+-3.8151383148506284
+___
+immunologic_factor	experimental_model_of_disease	neoplastic_process
+causes	_degree_of
+1
+-4.12862229347229
+___
+immunologic_factor	pathologic_function	neoplastic_process
+causes	_isa
+1
+-4.779133319854736
+___
+immunologic_factor	mental_or_behavioral_dysfunction	neoplastic_process
+causes	degree_of
+1
+-4.933644533157349
+___
+immunologic_factor	disease_or_syndrome	neoplastic_process
+causes	degree_of
+1
+-5.033257484436035
+___
+immunologic_factor	virus	neoplastic_process
+indicates	causes
+1
+-5.210374371148646
+___
+immunologic_factor	bacterium	neoplastic_process
+indicates	causes
+1
+-5.210381984710693
+___
+immunologic_factor	rickettsia_or_chlamydia	neoplastic_process
+indicates	causes
+1
+-5.211261802352965
+___
+immunologic_factor	mental_or_behavioral_dysfunction	neoplastic_process
+indicates	precedes
+1
+-5.330899350345135
+___
+immunologic_factor	mental_or_behavioral_dysfunction	neoplastic_process
+complicates	precedes
+1
+-5.430662021040916
+___
+immunologic_factor	cell_or_molecular_dysfunction	neoplastic_process
+indicates	precedes
+1
+-5.453489989042282
+___
+immunologic_factor	disease_or_syndrome	neoplastic_process
+causes	_degree_of
+1
+-5.4800519943237305
+___
+immunologic_factor	disease_or_syndrome	neoplastic_process
+indicates	_precedes
+1
+-5.488995462656021
+___
+immunologic_factor	experimental_model_of_disease	neoplastic_process
+indicates	_co-occurs_with
+1
+-5.81030148267746
+___
+immunologic_factor	pathologic_function	neoplastic_process
+indicates	degree_of
+1
+-5.865018427371979
+___
+immunologic_factor	anatomical_abnormality	congenital_abnormality
+causes	_isa
+-1
+-5.896408557891846
+___
+immunologic_factor	anatomical_abnormality	congenital_abnormality
+complicates	_co-occurs_with
+-1
+-6.0290069580078125
+___
+immunologic_factor	anatomical_abnormality	acquired_abnormality
+complicates	_co-occurs_with
+-1
+-6.0290069580078125
+___
+immunologic_factor	acquired_abnormality	congenital_abnormality
+complicates	_co-occurs_with
+-1
+-6.030441105365753
+___
+immunologic_factor	acquired_abnormality	neoplastic_process
+complicates	_co-occurs_with
+1
+-6.030441105365753
+___
+immunologic_factor	pathologic_function	neoplastic_process
+complicates	_degree_of
+1
+-6.067913234233856
+___
+immunologic_factor	pathologic_function	neoplastic_process
+indicates	_degree_of
+1
+-6.120668947696686
+___
+immunologic_factor	pathologic_function	neoplastic_process
+complicates	degree_of
+1
+-6.137386500835419
+___
+immunologic_factor	neoplastic_process	organism_function
+causes	manifestation_of
+-1
+-6.253243684768677
+___
+immunologic_factor	neoplastic_process	molecular_function
+causes	manifestation_of
+-1
+-6.253243684768677
+___
+immunologic_factor	neoplastic_process	injury_or_poisoning
+causes	manifestation_of
+-1
+-6.253243684768677
+___
+immunologic_factor	neoplastic_process	physiologic_function
+causes	manifestation_of
+-1
+-6.253243684768677
+___
+immunologic_factor	mental_process	genetic_function
+complicates	precedes
+-1
+-6.320229411125183
+___
+immunologic_factor	experimental_model_of_disease	neoplastic_process
+complicates	_degree_of
+1
+-6.3212196826934814
+___
+immunologic_factor	neoplastic_process	acquired_abnormality
+complicates	co-occurs_with
+-1
+-6.342899441719055
+___
+immunologic_factor	neoplastic_process	injury_or_poisoning
+complicates	co-occurs_with
+-1
+-6.342899441719055
+___
+immunologic_factor	pathologic_function	acquired_abnormality
+causes	complicates
+-1
+-6.354174375534058
+___
+immunologic_factor	pathologic_function	neoplastic_process
+causes	complicates
+1
+-6.354174375534058
+___
+immunologic_factor	pathologic_function	congenital_abnormality
+causes	complicates
+-1
+-6.354174375534058
+___
+immunologic_factor	congenital_abnormality	acquired_abnormality
+complicates	co-occurs_with
+-1
+-6.361679673194885
+___
+immunologic_factor	congenital_abnormality	anatomical_abnormality
+complicates	co-occurs_with
+-1
+-6.361679673194885
+___
+immunologic_factor	neoplastic_process	acquired_abnormality
+complicates	complicates
+-1
+-6.378356099128723
+___
+immunologic_factor	experimental_model_of_disease	neoplastic_process
+complicates	degree_of
+1
+-6.390692949295044
+___
+immunologic_factor	congenital_abnormality	acquired_abnormality
+complicates	complicates
+-1
+-6.397136330604553
+___
+immunologic_factor	pathologic_function	acquired_abnormality
+causes	co-occurs_with
+-1
+-6.413808107376099
+___
+immunologic_factor	pathologic_function	anatomical_abnormality
+causes	co-occurs_with
+-1
+-6.413808107376099
+___
+immunologic_factor	experimental_model_of_disease	neoplastic_process
+complicates	_co-occurs_with
+1
+-6.484158754348755
+___
+immunologic_factor	inorganic_chemical	injury_or_poisoning
+_interacts_with	causes
+-1
+-6.499541163444519
+___
+immunologic_factor	inorganic_chemical	acquired_abnormality
+_interacts_with	causes
+-1
+-6.499541163444519
+___
+immunologic_factor	experimental_model_of_disease	neoplastic_process
+indicates	degree_of
+1
+-6.60309100151062
+___
+immunologic_factor	cell_or_molecular_dysfunction	neoplastic_process
+indicates	_co-occurs_with
+1
+-6.7787024974823
+___
+immunologic_factor	injury_or_poisoning	neoplastic_process
+causes	complicates
+1
+-6.782524824142456
+___
+immunologic_factor	injury_or_poisoning	congenital_abnormality
+causes	complicates
+-1
+-6.782524824142456
+___
+immunologic_factor	injury_or_poisoning	anatomical_abnormality
+causes	complicates
+-1
+-6.782524824142456
+___
+immunologic_factor	injury_or_poisoning	acquired_abnormality
+causes	complicates
+-1
+-6.782524824142456
+___
+immunologic_factor	biologic_function	neoplastic_process
+complicates	_isa
+1
+-6.843746542930603
+___
+immunologic_factor	biologic_function	organ_or_tissue_function
+complicates	_isa
+-1
+-6.843746542930603
+___
+immunologic_factor	biologic_function	genetic_function
+complicates	_isa
+-1
+-6.843746542930603
+___
+immunologic_factor	biologic_function	mental_process
+complicates	_isa
+-1
+-6.843746542930603
+___
+immunologic_factor	biologic_function	molecular_function
+complicates	_isa
+-1
+-6.843746542930603
+___
+immunologic_factor	experimental_model_of_disease	neoplastic_process
+indicates	_degree_of
+1
+-6.858741521835327
+___
+immunologic_factor	steroid	neoplastic_process
+_interacts_with	causes
+1
+-6.9049941301345825
+___
+immunologic_factor	steroid	acquired_abnormality
+_interacts_with	causes
+-1
+-6.9049941301345825
+___
+immunologic_factor	steroid	injury_or_poisoning
+_interacts_with	causes
+-1
+-6.9049941301345825
+___
+immunologic_factor	lipid	anatomical_abnormality
+_interacts_with	causes
+-1
+-6.905044674873352
+___
+immunologic_factor	lipid	injury_or_poisoning
+_interacts_with	causes
+-1
+-6.905044674873352
+___
+immunologic_factor	lipid	neoplastic_process
+_interacts_with	causes
+1
+-6.905044674873352
+___
+immunologic_factor	neuroreactive_substance_or_biogenic_amine	neoplastic_process
+_interacts_with	causes
+1
+-6.922346830368042
+___
+immunologic_factor	neuroreactive_substance_or_biogenic_amine	injury_or_poisoning
+_interacts_with	causes
+-1
+-6.922346830368042
+___
+immunologic_factor	neuroreactive_substance_or_biogenic_amine	congenital_abnormality
+_interacts_with	causes
+-1
+-6.922346830368042
+___
+immunologic_factor	vitamin	congenital_abnormality
+_interacts_with	causes
+-1
+-6.924052357673645
+___
+immunologic_factor	vitamin	acquired_abnormality
+_interacts_with	causes
+-1
+-6.924052357673645
+___
+immunologic_factor	vitamin	neoplastic_process
+_interacts_with	causes
+1
+-6.924052357673645
+___
+immunologic_factor	molecular_function	genetic_function
+complicates	precedes
+-1
+-7.155023097991943
+___
+immunologic_factor	molecular_function	physiologic_function
+complicates	precedes
+-1
+-7.155023097991943
+___
+immunologic_factor	molecular_function	mental_process
+complicates	precedes
+-1
+-7.155023097991943
+___
+immunologic_factor	molecular_function	cell_function
+complicates	precedes
+-1
+-7.155023097991943
+___
+immunologic_factor	element_ion_or_isotope	acquired_abnormality
+_interacts_with	causes
+-1
+-7.19266152381897
+___
+immunologic_factor	element_ion_or_isotope	injury_or_poisoning
+_interacts_with	causes
+-1
+-7.19266152381897
+___
+immunologic_factor	element_ion_or_isotope	anatomical_abnormality
+_interacts_with	causes
+-1
+-7.19266152381897
+___
+immunologic_factor	element_ion_or_isotope	congenital_abnormality
+_interacts_with	causes
+-1
+-7.19266152381897
+___
+immunologic_factor	nucleic_acid_nucleoside_or_nucleotide	acquired_abnormality
+_interacts_with	causes
+-1
+-7.192662239074707
+___
+immunologic_factor	nucleic_acid_nucleoside_or_nucleotide	anatomical_abnormality
+_interacts_with	causes
+-1
+-7.192662239074707
+___
+immunologic_factor	nucleic_acid_nucleoside_or_nucleotide	congenital_abnormality
+_interacts_with	causes
+-1
+-7.192662239074707
+___
+immunologic_factor	nucleic_acid_nucleoside_or_nucleotide	neoplastic_process
+_interacts_with	causes
+1
+-7.192662239074707
+___
+immunologic_factor	eicosanoid	anatomical_abnormality
+_interacts_with	causes
+-1
+-7.192667126655579
+___
+immunologic_factor	eicosanoid	injury_or_poisoning
+_interacts_with	causes
+-1
+-7.192667126655579
+___
+immunologic_factor	eicosanoid	congenital_abnormality
+_interacts_with	causes
+-1
+-7.192667126655579
+___
+immunologic_factor	eicosanoid	acquired_abnormality
+_interacts_with	causes
+-1
+-7.192667126655579
+___
+immunologic_factor	mental_or_behavioral_dysfunction	neoplastic_process
+complicates	degree_of
+1
+-7.1927326917648315
+___
+immunologic_factor	organic_chemical	neoplastic_process
+_interacts_with	causes
+1
+-7.192822217941284
+___
+immunologic_factor	organic_chemical	anatomical_abnormality
+_interacts_with	causes
+-1
+-7.192822217941284
+___
+immunologic_factor	organic_chemical	injury_or_poisoning
+_interacts_with	causes
+-1
+-7.192822217941284
+___
+#####################
